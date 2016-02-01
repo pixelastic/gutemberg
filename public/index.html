@@ -46,10 +46,21 @@
   </div>
 
   <script id="hitTemplate" language="x-template">
-    <article class="hit">
-      <div class="hit--book">{{{book}}} › <div class="hit--chapter">{{{chapter}}}</div></div>
+    <blockquote class="hit">
+      {{#context.before}}
+        <p class="hit--context">{{{context.before}}</p>
+      {{/context.before}}
+
       <p class="hit--content">{{{content}}}</p>
-    </article>
+
+      {{#context.after}}
+        <p>{{{context.after}}</p>
+      {{/context.after}}
+
+      <footer class="hit--source">
+        <div class="hit--book">{{{book}}}, <div class="hit--chapter">{{{chapter}}}</div>
+      </footer>
+    </blockquote>
   </script>
   <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
   <script src="https://cdn.jsdelivr.net/jquery/1.11.3/jquery.min.js"></script>

@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+npm run import -- "./books/a-study-in-scarlet.htm" \
+  --title "A Study In Scarlet" \
+  --author "Arthur Conan Doyle"
