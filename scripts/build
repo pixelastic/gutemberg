@@ -1,4 +1,7 @@
 #!/usr/bin/env sh
 npm run import -- "./books/a-study-in-scarlet.htm" \
-  --title "A Study In Scarlet" \
-  --author "Arthur Conan Doyle"
+  --strategy "scarlet"
+
+# npm run import -- "./books/the-adventures-of-sherlock-holmes.htm" \
+#   --title "The Adventures of Sherlock Holmes" \
+#   --author "Arthur Conan Doyle" \
