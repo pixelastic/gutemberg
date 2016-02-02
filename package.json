@@ -17,7 +17,8 @@
   },
   "scripts": {
     "build": "./scripts/build",
-    "import": "babel-node ./lib/import.js"
+    "import": "babel-node ./lib/import.js",
+    "push": "babel-node ./lib/push.js"
   },
   "devDependencies": {
     "algoliasearch": "^3.10.2",
@@ -35,13 +36,15 @@
     "eslint-plugin-algolia": "^1.5.0",
     "eslint-plugin-react": "^3.11.3",
     "gh-pages": "^0.8.0",
+    "glob": "^6.0.4",
     "jquery": "^2.2.0",
     "jsdom": "^7.2.2",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^4.1.0",
     "mkdirp": "^0.5.1",
     "node-uuid": "^1.4.7",
-    "roman-numerals": "^0.3.2"
+    "roman-numerals": "^0.3.2",
+    "zpad": "^0.5.0"
   },
   "dependencies": {}
 }
