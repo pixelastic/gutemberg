@@ -1,6 +1,8 @@
 #!/usr/bin/env sh
 npm run import -- "./books/a-study-in-scarlet.htm" \
+  --bookOrder=1 \
   --strategy "scarlet" \
 && \
 npm run import -- "./books/the-adventures-of-sherlock-holmes.htm" \
+  --bookOrder=2 \
   --strategy "adventures"

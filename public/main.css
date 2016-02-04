@@ -1,19 +1,20 @@
+/* line 1, /home/tim/local/www/projects/gutenberg/app/styles/_base.scss */
 body {
-  font-family: Verdana, sans-serif; 
-}
+  font-family: Verdana, sans-serif; }
 
+/* line 5, /home/tim/local/www/projects/gutenberg/app/styles/_base.scss */
 a {
   color: #0063C3;
-  text-decoration: none; 
-}
+  text-decoration: none; }
 
 /* Make the content use the whole width */
+/* line 3, /home/tim/local/www/projects/gutenberg/app/styles/_layout.scss */
 .content-wrapper {
   margin: 0 -15px;
-  min-width: 620px; 
-}
+  min-width: 620px; }
 
 /* HEADER */
+/* line 3, /home/tim/local/www/projects/gutenberg/app/styles/_header.scss */
 .header {
   position: fixed;
   z-index: 99;
@@ -21,48 +22,59 @@ a {
   width: 100%;
   height: 60px;
   padding: 10px;
-  background: darkgray;
-}
+  background: darkgray; }
+
+/* line 12, /home/tim/local/www/projects/gutenberg/app/styles/_header.scss */
 .header--logo {
   height: 40px;
   float: left;
-  margin-right: 20px;
-}
+  margin-right: 20px; }
+
+/* line 17, /home/tim/local/www/projects/gutenberg/app/styles/_header.scss */
 .header--input-group {
   float: left;
   display: inline-block;
   width: 350px;
   height: 30px;
   margin-top: 5px;
-  margin-left: 100px;
   border-radius: 5px;
-  overflow: hidden; 
-}
+  overflow: hidden; }
+
+/* line 26, /home/tim/local/www/projects/gutenberg/app/styles/_header.scss */
 .header--input {
   border: 0;
-  height: 100%; 
-}
+  height: 100%; }
+
+/* line 30, /home/tim/local/www/projects/gutenberg/app/styles/_header.scss */
 .header--input:focus {
   outline: none;
-  box-shadow: inset 0 0 0 1px #CECECE;
-}
+  box-shadow: inset 0 0 0 1px #CECECE; }
+
+/* line 34, /home/tim/local/www/projects/gutenberg/app/styles/_header.scss */
 .header--stats {
   line-height: 40px;
   float: left;
   margin-left: 20px;
-  color: white;
-}
+  color: white; }
+
+/* line 40, /home/tim/local/www/projects/gutenberg/app/styles/_header.scss */
 .header--algolia {
   line-height: 40px;
   float: right;
   margin-left: 20px;
-  color: white;
-}
+  color: white; }
+
+/* line 46, /home/tim/local/www/projects/gutenberg/app/styles/_header.scss */
 .header--algolia:hover {
-  color: #FFF;
-}
+  color: #FFF; }
+
+/* CLEAR ALL */
+/* line 2, /home/tim/local/www/projects/gutenberg/app/styles/_sidebar.scss */
+.ais-clear-all {
+  margin-bottom: 10px; }
 
 /* SIDEBAR */
+/* line 7, /home/tim/local/www/projects/gutenberg/app/styles/_sidebar.scss */
 .sidebar {
   position: fixed;
   overflow-y: auto;
@@ -72,118 +84,136 @@ a {
   width: 270px;
   padding: 20px;
   border-right: 1px solid #EEE;
-  background: #FFFFFF; 
-
-  display: none;
-}
-
-/* CLEAR ALL */
-.ais-clear-all {
-  margin-bottom: 10px;
-}
+  background: #FFFFFF; }
 
 /* FACETS */
+/* line 21, /home/tim/local/www/projects/gutenberg/app/styles/_sidebar.scss */
 .ais-refinement-list {
-  margin-bottom: 1.3rem;
-}
+  margin-bottom: 1.3rem; }
+
+/* line 24, /home/tim/local/www/projects/gutenberg/app/styles/_sidebar.scss */
 .ais-refinement-list--item {
-  padding-bottom: .3rem;
-}
+  padding-bottom: .3rem; }
+
+/* line 27, /home/tim/local/www/projects/gutenberg/app/styles/_sidebar.scss */
 .ais-refinement-list--label {
   font-weight: normal;
   display: block;
   cursor: pointer;
   font-size: 1.3rem;
-  margin: 0;
-}
+  margin: 0; }
+
+/* line 34, /home/tim/local/www/projects/gutenberg/app/styles/_sidebar.scss */
 .ais-refinement-list--label:hover {
-  color: #E92126;
-}
+  color: #E92126; }
+
+/* line 37, /home/tim/local/www/projects/gutenberg/app/styles/_sidebar.scss */
 input.ais-refinement-list--checkbox {
-  margin: 0px 5px 0px 0px;
-}
+  margin: 0px 5px 0px 0px; }
+
+/* line 40, /home/tim/local/www/projects/gutenberg/app/styles/_sidebar.scss */
 .ais-refinement-list--count {
   margin-left: 4px;
   color: #888;
-  float: right;
-}
+  float: right; }
+
+/* line 45, /home/tim/local/www/projects/gutenberg/app/styles/_sidebar.scss */
 .ais-refinement-list--item__active .ais-refinement-list--label {
-  font-weight: bold;
-}
+  font-weight: bold; }
 
 /* THANK YOU */
+/* line 52, /home/tim/local/www/projects/gutenberg/app/styles/_sidebar.scss */
 .thank-you {
   border-top: 1px solid #888;
   text-align: center;
   padding-top: .5rem;
-  font-size: 1.3rem;
-}
+  font-size: 1.3rem; }
 
 /* RESULTS */
+/* line 3, /home/tim/local/www/projects/gutenberg/app/styles/_hits.scss */
 .results {
-  padding: 70px 10px 10px 10px;
-}
+  padding: 70px 10px 10px 280px; }
 
 /* HITS */
+/* line 8, /home/tim/local/www/projects/gutenberg/app/styles/_hits.scss */
 .hits {
-  overflow: hidden;
-}
+  overflow: hidden; }
 
+/* line 12, /home/tim/local/www/projects/gutenberg/app/styles/_hits.scss */
 .hit {
   background: #eff0f1;
   margin: 0px 10px 10px 0px;
   overflow: hidden;
-  padding: 10px;
-}
+  padding: 10px; }
+
+/* line 18, /home/tim/local/www/projects/gutenberg/app/styles/_hits.scss */
+.hit--context {
+  font-size: 1.1rem;
+  margin: 10px 0 0 0;
+  font-style: italic; }
+
+/* line 23, /home/tim/local/www/projects/gutenberg/app/styles/_hits.scss */
+.hit--content {
+  font-size: 1.3rem;
+  margin: 10px 0 0 0; }
+
+/* line 27, /home/tim/local/www/projects/gutenberg/app/styles/_hits.scss */
 .hit--book {
   font-size: 1.3rem;
-  font-weight: bold;
-}
+  font-weight: bold; }
+
+/* line 31, /home/tim/local/www/projects/gutenberg/app/styles/_hits.scss */
 .hit--chapter {
   font-weight: normal;
-  display: inline-block;
-}
-.hit--content {
-  font-size: 1.2rem;
-  margin: 10px 0 0 0;
-}
+  display: inline-block; }
+
+/* line 35, /home/tim/local/www/projects/gutenberg/app/styles/_hits.scss */
 .hit em {
   color: #000000;
   font-style: normal;
-  background-color: #FFBE61;
-}
+  background-color: #FFBE61; }
 
 /* PAGINATION */
+/* line 2, /home/tim/local/www/projects/gutenberg/app/styles/_pagination.scss */
 .pagination {
   margin-top: 10px;
   background-color: #EEE;
   font-size: 1.2em;
   line-height: 3em;
-  text-align: center; 
-  width: 100%;
-}
+  text-align: center;
+  width: 100%; }
+
+/* line 10, /home/tim/local/www/projects/gutenberg/app/styles/_pagination.scss */
 .ais-pagination--item__active a {
   color: #000000;
-  font-weight: bold; 
-}
+  font-weight: bold; }
+
+/* line 14, /home/tim/local/www/projects/gutenberg/app/styles/_pagination.scss */
 .ais-pagination--item__disabled {
-  visibility: visible; 
-}
+  visibility: visible; }
+
+/* line 17, /home/tim/local/www/projects/gutenberg/app/styles/_pagination.scss */
 .ais-pagination--item__disabled a {
-  color: #bbbbbb; 
-}
+  color: #bbbbbb; }
+
+/* line 20, /home/tim/local/www/projects/gutenberg/app/styles/_pagination.scss */
 .ais-pagination--item__disabled a:hover {
   cursor: default;
-  text-decoration: none; 
-}
-.pagination  ul {
+  text-decoration: none; }
+
+/* line 24, /home/tim/local/www/projects/gutenberg/app/styles/_pagination.scss */
+.pagination ul {
   margin: 0;
-  padding: 0; 
-}
+  padding: 0; }
+
+/* line 28, /home/tim/local/www/projects/gutenberg/app/styles/_pagination.scss */
 .pagination li {
-  padding: 0 8px; 
-}
+  padding: 0 8px; }
+
+/* line 31, /home/tim/local/www/projects/gutenberg/app/styles/_pagination.scss */
 .pagination .fa {
   position: relative;
-  top: 5px; 
-}
+  top: 5px; }
+
+
+/*# sourceMappingURL=main.css.map*/

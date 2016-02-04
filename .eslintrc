@@ -1,5 +1,10 @@
 {
   "extends": "algolia",
+  "globals": {
+    "instantsearch": true,
+    "_": true,
+    "$": true
+  },
   "rules": {
     "no-var": 2,
     "no-console": 0,

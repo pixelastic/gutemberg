@@ -1,0 +1,40 @@
+
+/* RESULTS */
+.results {
+  padding: 70px 10px 10px 280px;
+}
+
+/* HITS */
+.hits {
+  overflow: hidden;
+}
+
+.hit {
+  background: #eff0f1;
+  margin: 0px 10px 10px 0px;
+  overflow: hidden;
+  padding: 10px;
+}
+.hit--context {
+  font-size: 1.1rem;
+  margin: 10px 0 0 0;
+  font-style: italic;
+}
+.hit--content {
+  font-size: 1.3rem;
+  margin: 10px 0 0 0;
+}
+.hit--book {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.hit--chapter {
+  font-weight: normal;
+  display: inline-block;
+}
+.hit em {
+  color: #000000;
+  font-style: normal;
+  background-color: #FFBE61;
+}
+
