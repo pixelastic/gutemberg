@@ -1,0 +1,3209 @@
+[
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "Sherlock Holmes had, in a very remarkable degree, the power of detaching his mind at will. For two hours the strange business in which we had been involved appeared to be forgotten, and he was entirely absorbed in the pictures of the modern Belgian masters. He would talk of nothing but art, of which he had the crudest ideas, from our leaving the gallery until we found ourselves at the Northumberland Hotel.",
+    "context": {
+      "next": {
+        "content": "\"Sir Henry Baskerville is upstairs expecting you,\" said the clerk. \"He asked me to show you up at once when you came.\"",
+        "objectID": "02c514b3bd557edc26d66f012a78aeb0"
+      },
+      "previous": null
+    },
+    "objectID": "9ffa53297865df6bee3c1a770406b381",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Sir Henry Baskerville is upstairs expecting you,\" said the clerk. \"He asked me to show you up at once when you came.\"",
+    "context": {
+      "next": {
+        "content": "\"Have you any objection to my looking at your register?\" said Holmes.",
+        "objectID": "4b484c911cfd89f6e18076c7dcc2fe61"
+      },
+      "previous": {
+        "content": "Sherlock Holmes had, in a very remarkable degree, the power of detaching his mind at will. For two hours the strange business in which we had been involved appeared to be forgotten, and he was entirely absorbed in the pictures of the modern Belgian masters. He would talk of nothing but art, of which he had the crudest ideas, from our leaving the gallery until we found ourselves at the Northumberland Hotel.",
+        "objectID": "9ffa53297865df6bee3c1a770406b381"
+      }
+    },
+    "objectID": "02c514b3bd557edc26d66f012a78aeb0",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Have you any objection to my looking at your register?\" said Holmes.",
+    "context": {
+      "next": {
+        "content": "\"Not in the least.\"",
+        "objectID": "30766ff84cee02dc3cb42b8705e76850"
+      },
+      "previous": {
+        "content": "\"Sir Henry Baskerville is upstairs expecting you,\" said the clerk. \"He asked me to show you up at once when you came.\"",
+        "objectID": "02c514b3bd557edc26d66f012a78aeb0"
+      }
+    },
+    "objectID": "4b484c911cfd89f6e18076c7dcc2fe61",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Not in the least.\"",
+    "context": {
+      "next": {
+        "content": "The book showed that two names had been added after that of Baskerville. One was Theophilus Johnson and family, of Newcastle; the other Mrs. Oldmore and maid, of High Lodge, Alton.",
+        "objectID": "7c9705b6733bd550d9de501f2dc70f8f"
+      },
+      "previous": {
+        "content": "\"Have you any objection to my looking at your register?\" said Holmes.",
+        "objectID": "4b484c911cfd89f6e18076c7dcc2fe61"
+      }
+    },
+    "objectID": "30766ff84cee02dc3cb42b8705e76850",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "The book showed that two names had been added after that of Baskerville. One was Theophilus Johnson and family, of Newcastle; the other Mrs. Oldmore and maid, of High Lodge, Alton.",
+    "context": {
+      "next": {
+        "content": "\"Surely that must be the same Johnson whom I used to know,\" said Holmes to the porter. \"A lawyer, is he not, gray-headed, and walks with a limp?\"",
+        "objectID": "300316b3793636ff22ba8be950cf159f"
+      },
+      "previous": {
+        "content": "\"Not in the least.\"",
+        "objectID": "30766ff84cee02dc3cb42b8705e76850"
+      }
+    },
+    "objectID": "7c9705b6733bd550d9de501f2dc70f8f",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Surely that must be the same Johnson whom I used to know,\" said Holmes to the porter. \"A lawyer, is he not, gray-headed, and walks with a limp?\"",
+    "context": {
+      "next": {
+        "content": "\"No, sir, this is Mr. Johnson, the coal-owner, a very active gentleman, not older than yourself.\"",
+        "objectID": "838c75f77e42bfa6ba307e0ed47071bf"
+      },
+      "previous": {
+        "content": "The book showed that two names had been added after that of Baskerville. One was Theophilus Johnson and family, of Newcastle; the other Mrs. Oldmore and maid, of High Lodge, Alton.",
+        "objectID": "7c9705b6733bd550d9de501f2dc70f8f"
+      }
+    },
+    "objectID": "300316b3793636ff22ba8be950cf159f",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"No, sir, this is Mr. Johnson, the coal-owner, a very active gentleman, not older than yourself.\"",
+    "context": {
+      "next": {
+        "content": "\"Surely you are mistaken about his trade?\"",
+        "objectID": "db5ef84797d1782d2a073f17577db2a4"
+      },
+      "previous": {
+        "content": "\"Surely that must be the same Johnson whom I used to know,\" said Holmes to the porter. \"A lawyer, is he not, gray-headed, and walks with a limp?\"",
+        "objectID": "300316b3793636ff22ba8be950cf159f"
+      }
+    },
+    "objectID": "838c75f77e42bfa6ba307e0ed47071bf",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Surely you are mistaken about his trade?\"",
+    "context": {
+      "next": {
+        "content": "\"No, sir! he has used this hotel for many years, and he is very well known to us.\"",
+        "objectID": "485b13269c44e208f30e30ea5a861110"
+      },
+      "previous": {
+        "content": "\"No, sir, this is Mr. Johnson, the coal-owner, a very active gentleman, not older than yourself.\"",
+        "objectID": "838c75f77e42bfa6ba307e0ed47071bf"
+      }
+    },
+    "objectID": "db5ef84797d1782d2a073f17577db2a4",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"No, sir! he has used this hotel for many years, and he is very well known to us.\"",
+    "context": {
+      "next": {
+        "content": "\"Ah, that settles it. Mrs. Oldmore, too; I seem to remember the name. Excuse my curiosity, but often in calling upon one friend one finds another.\"",
+        "objectID": "d66b3fc2e5d965f238632ae1bb3f6365"
+      },
+      "previous": {
+        "content": "\"Surely you are mistaken about his trade?\"",
+        "objectID": "db5ef84797d1782d2a073f17577db2a4"
+      }
+    },
+    "objectID": "485b13269c44e208f30e30ea5a861110",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Ah, that settles it. Mrs. Oldmore, too; I seem to remember the name. Excuse my curiosity, but often in calling upon one friend one finds another.\"",
+    "context": {
+      "next": {
+        "content": "\"She is an invalid lady, sir. Her husband was once mayor of Gloucester. She always comes to us when she is in town.\"",
+        "objectID": "86beeb0a9a74d20d6ff9ebf0e2fe9676"
+      },
+      "previous": {
+        "content": "\"No, sir! he has used this hotel for many years, and he is very well known to us.\"",
+        "objectID": "485b13269c44e208f30e30ea5a861110"
+      }
+    },
+    "objectID": "d66b3fc2e5d965f238632ae1bb3f6365",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"She is an invalid lady, sir. Her husband was once mayor of Gloucester. She always comes to us when she is in town.\"",
+    "context": {
+      "next": {
+        "content": "\"Thank you; I am afraid I cannot claim her acquaintance. We have established a most important fact by these questions, Watson,\" he continued in a low voice as we went upstairs together. \"We know now that the people who are so interested in our friend have not settled down in his own hotel. That means that while they are, as we have seen, very anxious to watch him, they are equally anxious that he should not see them.",
+        "objectID": "da79c102e80f4874fa1d6d59774b8bc3"
+      },
+      "previous": {
+        "content": "\"Ah, that settles it. Mrs. Oldmore, too; I seem to remember the name. Excuse my curiosity, but often in calling upon one friend one finds another.\"",
+        "objectID": "d66b3fc2e5d965f238632ae1bb3f6365"
+      }
+    },
+    "objectID": "86beeb0a9a74d20d6ff9ebf0e2fe9676",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Thank you; I am afraid I cannot claim her acquaintance. We have established a most important fact by these questions, Watson,\" he continued in a low voice as we went upstairs together. \"We know now that the people who are so interested in our friend have not settled down in his own hotel. That means that while they are, as we have seen, very anxious to watch him, they are equally anxious that he should not see them.",
+    "context": {
+      "next": {
+        "content": "Now, this is a most suggestive fact.\"",
+        "objectID": "7b7f7e6cba7a0d21558c101f7beb78a3"
+      },
+      "previous": {
+        "content": "\"She is an invalid lady, sir. Her husband was once mayor of Gloucester. She always comes to us when she is in town.\"",
+        "objectID": "86beeb0a9a74d20d6ff9ebf0e2fe9676"
+      }
+    },
+    "objectID": "da79c102e80f4874fa1d6d59774b8bc3",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "Now, this is a most suggestive fact.\"",
+    "context": {
+      "next": {
+        "content": "\"What does it suggest?\"",
+        "objectID": "70753a1622bb5eb303750a0639bf2991"
+      },
+      "previous": {
+        "content": "\"Thank you; I am afraid I cannot claim her acquaintance. We have established a most important fact by these questions, Watson,\" he continued in a low voice as we went upstairs together. \"We know now that the people who are so interested in our friend have not settled down in his own hotel. That means that while they are, as we have seen, very anxious to watch him, they are equally anxious that he should not see them.",
+        "objectID": "da79c102e80f4874fa1d6d59774b8bc3"
+      }
+    },
+    "objectID": "7b7f7e6cba7a0d21558c101f7beb78a3",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"What does it suggest?\"",
+    "context": {
+      "next": {
+        "content": "\"It suggests—halloa, my dear fellow, what on earth is the matter?\"",
+        "objectID": "e8279ac5018539f66e4d74ee27158cde"
+      },
+      "previous": {
+        "content": "Now, this is a most suggestive fact.\"",
+        "objectID": "7b7f7e6cba7a0d21558c101f7beb78a3"
+      }
+    },
+    "objectID": "70753a1622bb5eb303750a0639bf2991",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"It suggests—halloa, my dear fellow, what on earth is the matter?\"",
+    "context": {
+      "next": {
+        "content": "As we came round the top of the stairs we had run up against Sir Henry Baskerville himself. His face was flushed with anger, and he held an old and dusty boot in one of his hands. So furious was he that he was hardly articulate, and when he did speak it was in a much broader and more Western dialect than any which we had heard from him in the morning.",
+        "objectID": "09c656bb03ca8e42d4490644d8c3b53a"
+      },
+      "previous": {
+        "content": "\"What does it suggest?\"",
+        "objectID": "70753a1622bb5eb303750a0639bf2991"
+      }
+    },
+    "objectID": "e8279ac5018539f66e4d74ee27158cde",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "As we came round the top of the stairs we had run up against Sir Henry Baskerville himself. His face was flushed with anger, and he held an old and dusty boot in one of his hands. So furious was he that he was hardly articulate, and when he did speak it was in a much broader and more Western dialect than any which we had heard from him in the morning.",
+    "context": {
+      "next": {
+        "content": "\"Seems to me they are playing me for a sucker in this hotel,\" he cried. \"They'll find they've started in to monkey with the wrong man unless they are careful. By thunder, if that chap can't find my missing boot there will be trouble. I can take a joke with the best, Mr. Holmes, but they've got a bit over the mark this time.",
+        "objectID": "5292a052a9437d7d9f3c2c5d86c39677"
+      },
+      "previous": {
+        "content": "\"It suggests—halloa, my dear fellow, what on earth is the matter?\"",
+        "objectID": "e8279ac5018539f66e4d74ee27158cde"
+      }
+    },
+    "objectID": "09c656bb03ca8e42d4490644d8c3b53a",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Seems to me they are playing me for a sucker in this hotel,\" he cried. \"They'll find they've started in to monkey with the wrong man unless they are careful. By thunder, if that chap can't find my missing boot there will be trouble. I can take a joke with the best, Mr. Holmes, but they've got a bit over the mark this time.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "695ebc6248310b0d811a204203471e13"
+      },
+      "previous": {
+        "content": "As we came round the top of the stairs we had run up against Sir Henry Baskerville himself. His face was flushed with anger, and he held an old and dusty boot in one of his hands. So furious was he that he was hardly articulate, and when he did speak it was in a much broader and more Western dialect than any which we had heard from him in the morning.",
+        "objectID": "09c656bb03ca8e42d4490644d8c3b53a"
+      }
+    },
+    "objectID": "5292a052a9437d7d9f3c2c5d86c39677",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Still looking for your boot?\"",
+        "objectID": "b4b05c847acacd0518ad690e1dd2f279"
+      },
+      "previous": {
+        "content": "\"Seems to me they are playing me for a sucker in this hotel,\" he cried. \"They'll find they've started in to monkey with the wrong man unless they are careful. By thunder, if that chap can't find my missing boot there will be trouble. I can take a joke with the best, Mr. Holmes, but they've got a bit over the mark this time.",
+        "objectID": "5292a052a9437d7d9f3c2c5d86c39677"
+      }
+    },
+    "objectID": "695ebc6248310b0d811a204203471e13",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Still looking for your boot?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, sir, and mean to find it.\"",
+        "objectID": "5e82d4ff41daaa2502467cff664d3fad"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "695ebc6248310b0d811a204203471e13"
+      }
+    },
+    "objectID": "b4b05c847acacd0518ad690e1dd2f279",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Yes, sir, and mean to find it.\"",
+    "context": {
+      "next": {
+        "content": "\"But, surely, you said that it was a new brown boot?\"",
+        "objectID": "cc7efc051ef73f6191ef0ce62459e796"
+      },
+      "previous": {
+        "content": "\"Still looking for your boot?\"",
+        "objectID": "b4b05c847acacd0518ad690e1dd2f279"
+      }
+    },
+    "objectID": "5e82d4ff41daaa2502467cff664d3fad",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"But, surely, you said that it was a new brown boot?\"",
+    "context": {
+      "next": {
+        "content": "\"So it was, sir. And now it's an old black one.\"",
+        "objectID": "5079a62908d775c8a7e26b154a2e7db4"
+      },
+      "previous": {
+        "content": "\"Yes, sir, and mean to find it.\"",
+        "objectID": "5e82d4ff41daaa2502467cff664d3fad"
+      }
+    },
+    "objectID": "cc7efc051ef73f6191ef0ce62459e796",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"So it was, sir. And now it's an old black one.\"",
+    "context": {
+      "next": {
+        "content": "\"What! you don't mean to say—?\"",
+        "objectID": "1b47ad6513aa8447f7b3fb8c36e26f16"
+      },
+      "previous": {
+        "content": "\"But, surely, you said that it was a new brown boot?\"",
+        "objectID": "cc7efc051ef73f6191ef0ce62459e796"
+      }
+    },
+    "objectID": "5079a62908d775c8a7e26b154a2e7db4",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"What! you don't mean to say—?\"",
+    "context": {
+      "next": {
+        "content": "\"That's just what I do mean to say. I only had three pairs in the world—the new brown, the old black, and the patent leathers, which I am wearing. Last night they took one of my brown ones, and today they have sneaked one of the black. Well, have you got it? Speak out, man, and don't stand staring!\"",
+        "objectID": "32c0e71fc2a6cae8631f2149da145cfa"
+      },
+      "previous": {
+        "content": "\"So it was, sir. And now it's an old black one.\"",
+        "objectID": "5079a62908d775c8a7e26b154a2e7db4"
+      }
+    },
+    "objectID": "1b47ad6513aa8447f7b3fb8c36e26f16",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"That's just what I do mean to say. I only had three pairs in the world—the new brown, the old black, and the patent leathers, which I am wearing. Last night they took one of my brown ones, and today they have sneaked one of the black. Well, have you got it? Speak out, man, and don't stand staring!\"",
+    "context": {
+      "next": {
+        "content": "An agitated German waiter had appeared upon the scene.",
+        "objectID": "2d9ce6562fb2b6a8143b6c265a86d586"
+      },
+      "previous": {
+        "content": "\"What! you don't mean to say—?\"",
+        "objectID": "1b47ad6513aa8447f7b3fb8c36e26f16"
+      }
+    },
+    "objectID": "32c0e71fc2a6cae8631f2149da145cfa",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "An agitated German waiter had appeared upon the scene.",
+    "context": {
+      "next": {
+        "content": "\"No, sir; I have made inquiry all over the hotel, but I can hear no word of it.\"",
+        "objectID": "001c5c89257d600a926a2c1a2aeaca97"
+      },
+      "previous": {
+        "content": "\"That's just what I do mean to say. I only had three pairs in the world—the new brown, the old black, and the patent leathers, which I am wearing. Last night they took one of my brown ones, and today they have sneaked one of the black. Well, have you got it? Speak out, man, and don't stand staring!\"",
+        "objectID": "32c0e71fc2a6cae8631f2149da145cfa"
+      }
+    },
+    "objectID": "2d9ce6562fb2b6a8143b6c265a86d586",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"No, sir; I have made inquiry all over the hotel, but I can hear no word of it.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, either that boot comes back before sundown or I'll see the manager and tell him that I go right straight out of this hotel.\"",
+        "objectID": "22e6483ace52c50f48dfcfe0983786bd"
+      },
+      "previous": {
+        "content": "An agitated German waiter had appeared upon the scene.",
+        "objectID": "2d9ce6562fb2b6a8143b6c265a86d586"
+      }
+    },
+    "objectID": "001c5c89257d600a926a2c1a2aeaca97",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Well, either that boot comes back before sundown or I'll see the manager and tell him that I go right straight out of this hotel.\"",
+    "context": {
+      "next": {
+        "content": "\"It shall be found, sir—I promise you that if you will have a little patience it will be found.\"",
+        "objectID": "72532574d7d2c835762943f32f163f9d"
+      },
+      "previous": {
+        "content": "\"No, sir; I have made inquiry all over the hotel, but I can hear no word of it.\"",
+        "objectID": "001c5c89257d600a926a2c1a2aeaca97"
+      }
+    },
+    "objectID": "22e6483ace52c50f48dfcfe0983786bd",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"It shall be found, sir—I promise you that if you will have a little patience it will be found.\"",
+    "context": {
+      "next": {
+        "content": "\"Mind it is, for it's the last thing of mine that I'll lose in this den of thieves. Well, well, Mr. Holmes, you'll excuse my troubling you about such a trifle—\"",
+        "objectID": "f74704bcf6c816f25c8847548f6c7edc"
+      },
+      "previous": {
+        "content": "\"Well, either that boot comes back before sundown or I'll see the manager and tell him that I go right straight out of this hotel.\"",
+        "objectID": "22e6483ace52c50f48dfcfe0983786bd"
+      }
+    },
+    "objectID": "72532574d7d2c835762943f32f163f9d",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Mind it is, for it's the last thing of mine that I'll lose in this den of thieves. Well, well, Mr. Holmes, you'll excuse my troubling you about such a trifle—\"",
+    "context": {
+      "next": {
+        "content": "\"I think it's well worth troubling about.\"",
+        "objectID": "1454389775658f51deccf5677efad6c3"
+      },
+      "previous": {
+        "content": "\"It shall be found, sir—I promise you that if you will have a little patience it will be found.\"",
+        "objectID": "72532574d7d2c835762943f32f163f9d"
+      }
+    },
+    "objectID": "f74704bcf6c816f25c8847548f6c7edc",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"I think it's well worth troubling about.\"",
+    "context": {
+      "next": {
+        "content": "\"Why, you look very serious over it.\"",
+        "objectID": "4baaf281a5a874463ca43dbbe611fbcc"
+      },
+      "previous": {
+        "content": "\"Mind it is, for it's the last thing of mine that I'll lose in this den of thieves. Well, well, Mr. Holmes, you'll excuse my troubling you about such a trifle—\"",
+        "objectID": "f74704bcf6c816f25c8847548f6c7edc"
+      }
+    },
+    "objectID": "1454389775658f51deccf5677efad6c3",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Why, you look very serious over it.\"",
+    "context": {
+      "next": {
+        "content": "\"How do you explain it?\"",
+        "objectID": "1d7df38125a52fcf5fcc1554c78fe2d6"
+      },
+      "previous": {
+        "content": "\"I think it's well worth troubling about.\"",
+        "objectID": "1454389775658f51deccf5677efad6c3"
+      }
+    },
+    "objectID": "4baaf281a5a874463ca43dbbe611fbcc",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"How do you explain it?\"",
+    "context": {
+      "next": {
+        "content": "\"I just don't attempt to explain it. It seems the very maddest, queerest thing that ever happened to me.\"",
+        "objectID": "8701219b21212122d09445ebd4ca72c1"
+      },
+      "previous": {
+        "content": "\"Why, you look very serious over it.\"",
+        "objectID": "4baaf281a5a874463ca43dbbe611fbcc"
+      }
+    },
+    "objectID": "1d7df38125a52fcf5fcc1554c78fe2d6",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"I just don't attempt to explain it. It seems the very maddest, queerest thing that ever happened to me.\"",
+    "context": {
+      "next": {
+        "content": "\"The queerest perhaps—\" said Holmes thoughtfully.",
+        "objectID": "2c7f8d7ec8efbf241222e7ac19eab506"
+      },
+      "previous": {
+        "content": "\"How do you explain it?\"",
+        "objectID": "1d7df38125a52fcf5fcc1554c78fe2d6"
+      }
+    },
+    "objectID": "8701219b21212122d09445ebd4ca72c1",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"The queerest perhaps—\" said Holmes thoughtfully.",
+    "context": {
+      "next": {
+        "content": "\"What do you make of it yourself?\"",
+        "objectID": "306f56c3ba53e0c2becd7739780cccd6"
+      },
+      "previous": {
+        "content": "\"I just don't attempt to explain it. It seems the very maddest, queerest thing that ever happened to me.\"",
+        "objectID": "8701219b21212122d09445ebd4ca72c1"
+      }
+    },
+    "objectID": "2c7f8d7ec8efbf241222e7ac19eab506",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"What do you make of it yourself?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, I don't profess to understand it yet. This case of yours is very complex, Sir Henry. When taken in conjunction with your uncle's death I am not sure that of all the five hundred cases of capital importance which I have handled there is one which cuts so deep. But we hold several threads in our hands, and the odds are that one or other of them guides us to the truth.",
+        "objectID": "49905f8819889573f11294f3cb95949f"
+      },
+      "previous": {
+        "content": "\"The queerest perhaps—\" said Holmes thoughtfully.",
+        "objectID": "2c7f8d7ec8efbf241222e7ac19eab506"
+      }
+    },
+    "objectID": "306f56c3ba53e0c2becd7739780cccd6",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Well, I don't profess to understand it yet. This case of yours is very complex, Sir Henry. When taken in conjunction with your uncle's death I am not sure that of all the five hundred cases of capital importance which I have handled there is one which cuts so deep. But we hold several threads in our hands, and the odds are that one or other of them guides us to the truth.",
+    "context": {
+      "next": {
+        "content": "We may waste time in following the wrong one, but sooner or later we must come upon the right.\"",
+        "objectID": "68e7d2d30c6fb7d72e454a4a4134b841"
+      },
+      "previous": {
+        "content": "\"What do you make of it yourself?\"",
+        "objectID": "306f56c3ba53e0c2becd7739780cccd6"
+      }
+    },
+    "objectID": "49905f8819889573f11294f3cb95949f",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "We may waste time in following the wrong one, but sooner or later we must come upon the right.\"",
+    "context": {
+      "next": {
+        "content": "We had a pleasant luncheon in which little was said of the business which had brought us together. It was in the private sitting-room to which we afterwards repaired that Holmes asked Baskerville what were his intentions.",
+        "objectID": "e31200a7a42a5ec7e5371f09b2edbad5"
+      },
+      "previous": {
+        "content": "\"Well, I don't profess to understand it yet. This case of yours is very complex, Sir Henry. When taken in conjunction with your uncle's death I am not sure that of all the five hundred cases of capital importance which I have handled there is one which cuts so deep. But we hold several threads in our hands, and the odds are that one or other of them guides us to the truth.",
+        "objectID": "49905f8819889573f11294f3cb95949f"
+      }
+    },
+    "objectID": "68e7d2d30c6fb7d72e454a4a4134b841",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "We had a pleasant luncheon in which little was said of the business which had brought us together. It was in the private sitting-room to which we afterwards repaired that Holmes asked Baskerville what were his intentions.",
+    "context": {
+      "next": {
+        "content": "\"To go to Baskerville Hall.\"",
+        "objectID": "b13b8572e371b022b5735114e8b6b3f4"
+      },
+      "previous": {
+        "content": "We may waste time in following the wrong one, but sooner or later we must come upon the right.\"",
+        "objectID": "68e7d2d30c6fb7d72e454a4a4134b841"
+      }
+    },
+    "objectID": "e31200a7a42a5ec7e5371f09b2edbad5",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"To go to Baskerville Hall.\"",
+    "context": {
+      "next": {
+        "content": "\"And when?\"",
+        "objectID": "f1309c550014fb9147a67b4d8454c43d"
+      },
+      "previous": {
+        "content": "We had a pleasant luncheon in which little was said of the business which had brought us together. It was in the private sitting-room to which we afterwards repaired that Holmes asked Baskerville what were his intentions.",
+        "objectID": "e31200a7a42a5ec7e5371f09b2edbad5"
+      }
+    },
+    "objectID": "b13b8572e371b022b5735114e8b6b3f4",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"And when?\"",
+    "context": {
+      "next": {
+        "content": "\"At the end of the week.\"",
+        "objectID": "dd740db79d73a52e34e31455a73d2b6c"
+      },
+      "previous": {
+        "content": "\"To go to Baskerville Hall.\"",
+        "objectID": "b13b8572e371b022b5735114e8b6b3f4"
+      }
+    },
+    "objectID": "f1309c550014fb9147a67b4d8454c43d",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"At the end of the week.\"",
+    "context": {
+      "next": {
+        "content": "\"On the whole,\" said Holmes, \"I think that your decision is a wise one. I have ample evidence that you are being dogged in London, and amid the millions of this great city it is difficult to discover who these people are or what their object can be. If their intentions are evil they might do you a mischief, and we should be powerless to prevent it.",
+        "objectID": "4e3b017117e07366df6c3106d0b3cf00"
+      },
+      "previous": {
+        "content": "\"And when?\"",
+        "objectID": "f1309c550014fb9147a67b4d8454c43d"
+      }
+    },
+    "objectID": "dd740db79d73a52e34e31455a73d2b6c",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"On the whole,\" said Holmes, \"I think that your decision is a wise one. I have ample evidence that you are being dogged in London, and amid the millions of this great city it is difficult to discover who these people are or what their object can be. If their intentions are evil they might do you a mischief, and we should be powerless to prevent it.",
+    "context": {
+      "next": {
+        "content": "You did not know, Dr. Mortimer, that you were followed this morning from my house?\"",
+        "objectID": "e9d6a8ddd501424ccedf06e946f32eeb"
+      },
+      "previous": {
+        "content": "\"At the end of the week.\"",
+        "objectID": "dd740db79d73a52e34e31455a73d2b6c"
+      }
+    },
+    "objectID": "4e3b017117e07366df6c3106d0b3cf00",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "You did not know, Dr. Mortimer, that you were followed this morning from my house?\"",
+    "context": {
+      "next": {
+        "content": "Dr. Mortimer started violently. \"Followed! By whom?\"",
+        "objectID": "c190a2b1d5fcae13f862b5fc29757efc"
+      },
+      "previous": {
+        "content": "\"On the whole,\" said Holmes, \"I think that your decision is a wise one. I have ample evidence that you are being dogged in London, and amid the millions of this great city it is difficult to discover who these people are or what their object can be. If their intentions are evil they might do you a mischief, and we should be powerless to prevent it.",
+        "objectID": "4e3b017117e07366df6c3106d0b3cf00"
+      }
+    },
+    "objectID": "e9d6a8ddd501424ccedf06e946f32eeb",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "Dr. Mortimer started violently. \"Followed! By whom?\"",
+    "context": {
+      "next": {
+        "content": "\"That, unfortunately, is what I cannot tell you. Have you among your neighbours or acquaintances on Dartmoor any man with a black, full beard?\"",
+        "objectID": "9918ad9a23ef40716937575c680310be"
+      },
+      "previous": {
+        "content": "You did not know, Dr. Mortimer, that you were followed this morning from my house?\"",
+        "objectID": "e9d6a8ddd501424ccedf06e946f32eeb"
+      }
+    },
+    "objectID": "c190a2b1d5fcae13f862b5fc29757efc",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"That, unfortunately, is what I cannot tell you. Have you among your neighbours or acquaintances on Dartmoor any man with a black, full beard?\"",
+    "context": {
+      "next": {
+        "content": "\"No—or, let me see—why, yes. Barrymore, Sir Charles's butler, is a man with a full, black beard.\"",
+        "objectID": "1721355420e8fc5466ddf9908ef1b1f7"
+      },
+      "previous": {
+        "content": "Dr. Mortimer started violently. \"Followed! By whom?\"",
+        "objectID": "c190a2b1d5fcae13f862b5fc29757efc"
+      }
+    },
+    "objectID": "9918ad9a23ef40716937575c680310be",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"No—or, let me see—why, yes. Barrymore, Sir Charles's butler, is a man with a full, black beard.\"",
+    "context": {
+      "next": {
+        "content": "\"Ha! Where is Barrymore?\"",
+        "objectID": "39f882c3e84733dcad6ad91c1c176e2e"
+      },
+      "previous": {
+        "content": "\"That, unfortunately, is what I cannot tell you. Have you among your neighbours or acquaintances on Dartmoor any man with a black, full beard?\"",
+        "objectID": "9918ad9a23ef40716937575c680310be"
+      }
+    },
+    "objectID": "1721355420e8fc5466ddf9908ef1b1f7",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Ha! Where is Barrymore?\"",
+    "context": {
+      "next": {
+        "content": "\"He is in charge of the Hall.\"",
+        "objectID": "8e92f4d90a1d58a14cdf8079f8f89a81"
+      },
+      "previous": {
+        "content": "\"No—or, let me see—why, yes. Barrymore, Sir Charles's butler, is a man with a full, black beard.\"",
+        "objectID": "1721355420e8fc5466ddf9908ef1b1f7"
+      }
+    },
+    "objectID": "39f882c3e84733dcad6ad91c1c176e2e",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"He is in charge of the Hall.\"",
+    "context": {
+      "next": {
+        "content": "\"We had best ascertain if he is really there, or if by any possibility he might be in London.\"",
+        "objectID": "7bf7b782a742c35bc8548a21667a8bd2"
+      },
+      "previous": {
+        "content": "\"Ha! Where is Barrymore?\"",
+        "objectID": "39f882c3e84733dcad6ad91c1c176e2e"
+      }
+    },
+    "objectID": "8e92f4d90a1d58a14cdf8079f8f89a81",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"We had best ascertain if he is really there, or if by any possibility he might be in London.\"",
+    "context": {
+      "next": {
+        "content": "\"How can you do that?\"",
+        "objectID": "a290c827215c95c0731acc9db1ea49fd"
+      },
+      "previous": {
+        "content": "\"He is in charge of the Hall.\"",
+        "objectID": "8e92f4d90a1d58a14cdf8079f8f89a81"
+      }
+    },
+    "objectID": "7bf7b782a742c35bc8548a21667a8bd2",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"How can you do that?\"",
+    "context": {
+      "next": {
+        "content": "\"Give me a telegraph form. 'Is all ready for Sir Henry?' That will do. Address to Mr. Barrymore, Baskerville Hall. What is the nearest telegraph-office? Grimpen. Very good, we will send a second wire to the postmaster, Grimpen: 'Telegram to Mr. Barrymore to be delivered into his own hand. If absent, please return wire to Sir Henry Baskerville, Northumberland Hotel.",
+        "objectID": "e5e6916557e8ce71b798a543f49609f7"
+      },
+      "previous": {
+        "content": "\"We had best ascertain if he is really there, or if by any possibility he might be in London.\"",
+        "objectID": "7bf7b782a742c35bc8548a21667a8bd2"
+      }
+    },
+    "objectID": "a290c827215c95c0731acc9db1ea49fd",
+    "order": 50,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Give me a telegraph form. 'Is all ready for Sir Henry?' That will do. Address to Mr. Barrymore, Baskerville Hall. What is the nearest telegraph-office? Grimpen. Very good, we will send a second wire to the postmaster, Grimpen: 'Telegram to Mr. Barrymore to be delivered into his own hand. If absent, please return wire to Sir Henry Baskerville, Northumberland Hotel.",
+    "context": {
+      "next": {
+        "content": "' That should let us know before evening whether Barrymore is at his post in Devonshire or not.\"",
+        "objectID": "3478e382e78887494f70dd0a36d86293"
+      },
+      "previous": {
+        "content": "\"How can you do that?\"",
+        "objectID": "a290c827215c95c0731acc9db1ea49fd"
+      }
+    },
+    "objectID": "e5e6916557e8ce71b798a543f49609f7",
+    "order": 51,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "' That should let us know before evening whether Barrymore is at his post in Devonshire or not.\"",
+    "context": {
+      "next": {
+        "content": "\"That's so,\" said Baskerville. \"By the way, Dr. Mortimer, who is this Barrymore, anyhow?\"",
+        "objectID": "a9341f5dab4739ce51812e4368e66f92"
+      },
+      "previous": {
+        "content": "\"Give me a telegraph form. 'Is all ready for Sir Henry?' That will do. Address to Mr. Barrymore, Baskerville Hall. What is the nearest telegraph-office? Grimpen. Very good, we will send a second wire to the postmaster, Grimpen: 'Telegram to Mr. Barrymore to be delivered into his own hand. If absent, please return wire to Sir Henry Baskerville, Northumberland Hotel.",
+        "objectID": "e5e6916557e8ce71b798a543f49609f7"
+      }
+    },
+    "objectID": "3478e382e78887494f70dd0a36d86293",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"That's so,\" said Baskerville. \"By the way, Dr. Mortimer, who is this Barrymore, anyhow?\"",
+    "context": {
+      "next": {
+        "content": "\"He is the son of the old caretaker, who is dead. They have looked after the Hall for four generations now. So far as I know, he and his wife are as respectable a couple as any in the county.\"",
+        "objectID": "241ca67bf05547bae89f936499021025"
+      },
+      "previous": {
+        "content": "' That should let us know before evening whether Barrymore is at his post in Devonshire or not.\"",
+        "objectID": "3478e382e78887494f70dd0a36d86293"
+      }
+    },
+    "objectID": "a9341f5dab4739ce51812e4368e66f92",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"He is the son of the old caretaker, who is dead. They have looked after the Hall for four generations now. So far as I know, he and his wife are as respectable a couple as any in the county.\"",
+    "context": {
+      "next": {
+        "content": "\"At the same time,\" said Baskerville, \"it's clear enough that so long as there are none of the family at the Hall these people have a mighty fine home and nothing to do.\"",
+        "objectID": "af8bb0a558a727b8b8d008fe48728f03"
+      },
+      "previous": {
+        "content": "\"That's so,\" said Baskerville. \"By the way, Dr. Mortimer, who is this Barrymore, anyhow?\"",
+        "objectID": "a9341f5dab4739ce51812e4368e66f92"
+      }
+    },
+    "objectID": "241ca67bf05547bae89f936499021025",
+    "order": 54,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"At the same time,\" said Baskerville, \"it's clear enough that so long as there are none of the family at the Hall these people have a mighty fine home and nothing to do.\"",
+    "context": {
+      "next": {
+        "content": "\"That is true.\"",
+        "objectID": "932cb1f05af738a206d8184c2f08b5b7"
+      },
+      "previous": {
+        "content": "\"He is the son of the old caretaker, who is dead. They have looked after the Hall for four generations now. So far as I know, he and his wife are as respectable a couple as any in the county.\"",
+        "objectID": "241ca67bf05547bae89f936499021025"
+      }
+    },
+    "objectID": "af8bb0a558a727b8b8d008fe48728f03",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"That is true.\"",
+    "context": {
+      "next": {
+        "content": "\"Did Barrymore profit at all by Sir Charles's will?\" asked Holmes.",
+        "objectID": "75ad6b624820aa951790a5ad3bcbdbfa"
+      },
+      "previous": {
+        "content": "\"At the same time,\" said Baskerville, \"it's clear enough that so long as there are none of the family at the Hall these people have a mighty fine home and nothing to do.\"",
+        "objectID": "af8bb0a558a727b8b8d008fe48728f03"
+      }
+    },
+    "objectID": "932cb1f05af738a206d8184c2f08b5b7",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Did Barrymore profit at all by Sir Charles's will?\" asked Holmes.",
+    "context": {
+      "next": {
+        "content": "\"He and his wife had five hundred pounds each.\"",
+        "objectID": "2c9f93b4010cbc5194929dc6929f0cb7"
+      },
+      "previous": {
+        "content": "\"That is true.\"",
+        "objectID": "932cb1f05af738a206d8184c2f08b5b7"
+      }
+    },
+    "objectID": "75ad6b624820aa951790a5ad3bcbdbfa",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"He and his wife had five hundred pounds each.\"",
+    "context": {
+      "next": {
+        "content": "\"Ha! Did they know that they would receive this?\"",
+        "objectID": "54be6060c2655590fd5d89eefeed6560"
+      },
+      "previous": {
+        "content": "\"Did Barrymore profit at all by Sir Charles's will?\" asked Holmes.",
+        "objectID": "75ad6b624820aa951790a5ad3bcbdbfa"
+      }
+    },
+    "objectID": "2c9f93b4010cbc5194929dc6929f0cb7",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Ha! Did they know that they would receive this?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes; Sir Charles was very fond of talking about the provisions of his will.\"",
+        "objectID": "70f835d429418b573a5fda31b17d6459"
+      },
+      "previous": {
+        "content": "\"He and his wife had five hundred pounds each.\"",
+        "objectID": "2c9f93b4010cbc5194929dc6929f0cb7"
+      }
+    },
+    "objectID": "54be6060c2655590fd5d89eefeed6560",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Yes; Sir Charles was very fond of talking about the provisions of his will.\"",
+    "context": {
+      "next": {
+        "content": "\"That is very interesting.\"",
+        "objectID": "0239c1ce871f1052e8f9fedb41580bdc"
+      },
+      "previous": {
+        "content": "\"Ha! Did they know that they would receive this?\"",
+        "objectID": "54be6060c2655590fd5d89eefeed6560"
+      }
+    },
+    "objectID": "70f835d429418b573a5fda31b17d6459",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"That is very interesting.\"",
+    "context": {
+      "next": {
+        "content": "\"I hope,\" said Dr. Mortimer, \"that you do not look with suspicious eyes upon everyone who received a legacy from Sir Charles, for I also had a thousand pounds left to me.\"",
+        "objectID": "8f81e08cc7fc732dc3786b044ab3a1b6"
+      },
+      "previous": {
+        "content": "\"Yes; Sir Charles was very fond of talking about the provisions of his will.\"",
+        "objectID": "70f835d429418b573a5fda31b17d6459"
+      }
+    },
+    "objectID": "0239c1ce871f1052e8f9fedb41580bdc",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"I hope,\" said Dr. Mortimer, \"that you do not look with suspicious eyes upon everyone who received a legacy from Sir Charles, for I also had a thousand pounds left to me.\"",
+    "context": {
+      "next": {
+        "content": "\"Indeed! And anyone else?\"",
+        "objectID": "5644971325c6801b423f2ecfb18c369d"
+      },
+      "previous": {
+        "content": "\"That is very interesting.\"",
+        "objectID": "0239c1ce871f1052e8f9fedb41580bdc"
+      }
+    },
+    "objectID": "8f81e08cc7fc732dc3786b044ab3a1b6",
+    "order": 62,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Indeed! And anyone else?\"",
+    "context": {
+      "next": {
+        "content": "\"There were many insignificant sums to individuals, and a large number of public charities. The residue all went to Sir Henry.\"",
+        "objectID": "aa13de64775eb0c049eb50086c7cafec"
+      },
+      "previous": {
+        "content": "\"I hope,\" said Dr. Mortimer, \"that you do not look with suspicious eyes upon everyone who received a legacy from Sir Charles, for I also had a thousand pounds left to me.\"",
+        "objectID": "8f81e08cc7fc732dc3786b044ab3a1b6"
+      }
+    },
+    "objectID": "5644971325c6801b423f2ecfb18c369d",
+    "order": 63,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"There were many insignificant sums to individuals, and a large number of public charities. The residue all went to Sir Henry.\"",
+    "context": {
+      "next": {
+        "content": "\"And how much was the residue?\"",
+        "objectID": "1ce5e64dc6914cc1cd96e7998d12a20b"
+      },
+      "previous": {
+        "content": "\"Indeed! And anyone else?\"",
+        "objectID": "5644971325c6801b423f2ecfb18c369d"
+      }
+    },
+    "objectID": "aa13de64775eb0c049eb50086c7cafec",
+    "order": 64,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"And how much was the residue?\"",
+    "context": {
+      "next": {
+        "content": "\"Seven hundred and forty thousand pounds.\"",
+        "objectID": "e83e5ea5a958b656090d1e513d914ec2"
+      },
+      "previous": {
+        "content": "\"There were many insignificant sums to individuals, and a large number of public charities. The residue all went to Sir Henry.\"",
+        "objectID": "aa13de64775eb0c049eb50086c7cafec"
+      }
+    },
+    "objectID": "1ce5e64dc6914cc1cd96e7998d12a20b",
+    "order": 65,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Seven hundred and forty thousand pounds.\"",
+    "context": {
+      "next": {
+        "content": "Holmes raised his eyebrows in surprise. \"I had no idea that so gigantic a sum was involved,\" said he.",
+        "objectID": "786bfcd8e51a268df8d77eff09b4e842"
+      },
+      "previous": {
+        "content": "\"And how much was the residue?\"",
+        "objectID": "1ce5e64dc6914cc1cd96e7998d12a20b"
+      }
+    },
+    "objectID": "e83e5ea5a958b656090d1e513d914ec2",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "Holmes raised his eyebrows in surprise. \"I had no idea that so gigantic a sum was involved,\" said he.",
+    "context": {
+      "next": {
+        "content": "\"Sir Charles had the reputation of being rich, but we did not know how very rich he was until we came to examine his securities. The total value of the estate was close on to a million.\"",
+        "objectID": "e52098e50cbf00c3e7e55c5208fd7bc3"
+      },
+      "previous": {
+        "content": "\"Seven hundred and forty thousand pounds.\"",
+        "objectID": "e83e5ea5a958b656090d1e513d914ec2"
+      }
+    },
+    "objectID": "786bfcd8e51a268df8d77eff09b4e842",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Sir Charles had the reputation of being rich, but we did not know how very rich he was until we came to examine his securities. The total value of the estate was close on to a million.\"",
+    "context": {
+      "next": {
+        "content": "\"Dear me! It is a stake for which a man might well play a desperate game. And one more question, Dr. Mortimer. Supposing that anything happened to our young friend here—you will forgive the unpleasant hypothesis!—who would inherit the estate?\"",
+        "objectID": "7ffb3d5938bbc1eb7ce5f4b2cbc39280"
+      },
+      "previous": {
+        "content": "Holmes raised his eyebrows in surprise. \"I had no idea that so gigantic a sum was involved,\" said he.",
+        "objectID": "786bfcd8e51a268df8d77eff09b4e842"
+      }
+    },
+    "objectID": "e52098e50cbf00c3e7e55c5208fd7bc3",
+    "order": 68,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Dear me! It is a stake for which a man might well play a desperate game. And one more question, Dr. Mortimer. Supposing that anything happened to our young friend here—you will forgive the unpleasant hypothesis!—who would inherit the estate?\"",
+    "context": {
+      "next": {
+        "content": "\"Since Rodger Baskerville, Sir Charles's younger brother died unmarried, the estate would descend to the Desmonds, who are distant cousins. James Desmond is an elderly clergyman in Westmoreland.\"",
+        "objectID": "e4cf8241204f88fbba5e528119a567ad"
+      },
+      "previous": {
+        "content": "\"Sir Charles had the reputation of being rich, but we did not know how very rich he was until we came to examine his securities. The total value of the estate was close on to a million.\"",
+        "objectID": "e52098e50cbf00c3e7e55c5208fd7bc3"
+      }
+    },
+    "objectID": "7ffb3d5938bbc1eb7ce5f4b2cbc39280",
+    "order": 69,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Since Rodger Baskerville, Sir Charles's younger brother died unmarried, the estate would descend to the Desmonds, who are distant cousins. James Desmond is an elderly clergyman in Westmoreland.\"",
+    "context": {
+      "next": {
+        "content": "\"Thank you. These details are all of great interest. Have you met Mr. James Desmond?\"",
+        "objectID": "3df6f7df99aa10c5e033a65d48897f4f"
+      },
+      "previous": {
+        "content": "\"Dear me! It is a stake for which a man might well play a desperate game. And one more question, Dr. Mortimer. Supposing that anything happened to our young friend here—you will forgive the unpleasant hypothesis!—who would inherit the estate?\"",
+        "objectID": "7ffb3d5938bbc1eb7ce5f4b2cbc39280"
+      }
+    },
+    "objectID": "e4cf8241204f88fbba5e528119a567ad",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Thank you. These details are all of great interest. Have you met Mr. James Desmond?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes; he once came down to visit Sir Charles. He is a man of venerable appearance and of saintly life. I remember that he refused to accept any settlement from Sir Charles, though he pressed it upon him.\"",
+        "objectID": "775a1723bafa086aea87e7c418c52bf3"
+      },
+      "previous": {
+        "content": "\"Since Rodger Baskerville, Sir Charles's younger brother died unmarried, the estate would descend to the Desmonds, who are distant cousins. James Desmond is an elderly clergyman in Westmoreland.\"",
+        "objectID": "e4cf8241204f88fbba5e528119a567ad"
+      }
+    },
+    "objectID": "3df6f7df99aa10c5e033a65d48897f4f",
+    "order": 71,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Yes; he once came down to visit Sir Charles. He is a man of venerable appearance and of saintly life. I remember that he refused to accept any settlement from Sir Charles, though he pressed it upon him.\"",
+    "context": {
+      "next": {
+        "content": "\"And this man of simple tastes would be the heir to Sir Charles's thousands.\"",
+        "objectID": "330ab6c44530f6b1e2c3760a6ccc09bf"
+      },
+      "previous": {
+        "content": "\"Thank you. These details are all of great interest. Have you met Mr. James Desmond?\"",
+        "objectID": "3df6f7df99aa10c5e033a65d48897f4f"
+      }
+    },
+    "objectID": "775a1723bafa086aea87e7c418c52bf3",
+    "order": 72,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"And this man of simple tastes would be the heir to Sir Charles's thousands.\"",
+    "context": {
+      "next": {
+        "content": "\"He would be the heir to the estate because that is entailed. He would also be the heir to the money unless it were willed otherwise by the present owner, who can, of course, do what he likes with it.\"",
+        "objectID": "bb9fbffd4ea88ec0c5f1807c03aa20a8"
+      },
+      "previous": {
+        "content": "\"Yes; he once came down to visit Sir Charles. He is a man of venerable appearance and of saintly life. I remember that he refused to accept any settlement from Sir Charles, though he pressed it upon him.\"",
+        "objectID": "775a1723bafa086aea87e7c418c52bf3"
+      }
+    },
+    "objectID": "330ab6c44530f6b1e2c3760a6ccc09bf",
+    "order": 73,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"He would be the heir to the estate because that is entailed. He would also be the heir to the money unless it were willed otherwise by the present owner, who can, of course, do what he likes with it.\"",
+    "context": {
+      "next": {
+        "content": "\"And have you made your will, Sir Henry?\"",
+        "objectID": "c4343571f28445568cc2c5c85a5ae16a"
+      },
+      "previous": {
+        "content": "\"And this man of simple tastes would be the heir to Sir Charles's thousands.\"",
+        "objectID": "330ab6c44530f6b1e2c3760a6ccc09bf"
+      }
+    },
+    "objectID": "bb9fbffd4ea88ec0c5f1807c03aa20a8",
+    "order": 74,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"And have you made your will, Sir Henry?\"",
+    "context": {
+      "next": {
+        "content": "\"No, Mr. Holmes, I have not. I've had no time, for it was only yesterday that I learned how matters stood. But in any case I feel that the money should go with the title and estate. That was my poor uncle's idea. How is the owner going to restore the glories of the Baskervilles if he has not money enough to keep up the property? House, land, and dollars must go together.",
+        "objectID": "08e832a73ab8a6b1f0ab1c26cc503e37"
+      },
+      "previous": {
+        "content": "\"He would be the heir to the estate because that is entailed. He would also be the heir to the money unless it were willed otherwise by the present owner, who can, of course, do what he likes with it.\"",
+        "objectID": "bb9fbffd4ea88ec0c5f1807c03aa20a8"
+      }
+    },
+    "objectID": "c4343571f28445568cc2c5c85a5ae16a",
+    "order": 75,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"No, Mr. Holmes, I have not. I've had no time, for it was only yesterday that I learned how matters stood. But in any case I feel that the money should go with the title and estate. That was my poor uncle's idea. How is the owner going to restore the glories of the Baskervilles if he has not money enough to keep up the property? House, land, and dollars must go together.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "81877eca67dab702fe5a7a5d648a4345"
+      },
+      "previous": {
+        "content": "\"And have you made your will, Sir Henry?\"",
+        "objectID": "c4343571f28445568cc2c5c85a5ae16a"
+      }
+    },
+    "objectID": "08e832a73ab8a6b1f0ab1c26cc503e37",
+    "order": 76,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Quite so. Well, Sir Henry, I am of one mind with you as to the advisability of your going down to Devonshire without delay. There is only one provision which I must make. You certainly must not go alone.\"",
+        "objectID": "d623672680da9dc3bbb3475efc8c96a6"
+      },
+      "previous": {
+        "content": "\"No, Mr. Holmes, I have not. I've had no time, for it was only yesterday that I learned how matters stood. But in any case I feel that the money should go with the title and estate. That was my poor uncle's idea. How is the owner going to restore the glories of the Baskervilles if he has not money enough to keep up the property? House, land, and dollars must go together.",
+        "objectID": "08e832a73ab8a6b1f0ab1c26cc503e37"
+      }
+    },
+    "objectID": "81877eca67dab702fe5a7a5d648a4345",
+    "order": 77,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Quite so. Well, Sir Henry, I am of one mind with you as to the advisability of your going down to Devonshire without delay. There is only one provision which I must make. You certainly must not go alone.\"",
+    "context": {
+      "next": {
+        "content": "\"Dr. Mortimer returns with me.\"",
+        "objectID": "717207e0f6a2f831b2c868fc193eec0a"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "81877eca67dab702fe5a7a5d648a4345"
+      }
+    },
+    "objectID": "d623672680da9dc3bbb3475efc8c96a6",
+    "order": 78,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Dr. Mortimer returns with me.\"",
+    "context": {
+      "next": {
+        "content": "\"But Dr. Mortimer has his practice to attend to, and his house is miles away from yours. With all the goodwill in the world he may be unable to help you. No, Sir Henry, you must take with you someone, a trusty man, who will be always by your side.\"",
+        "objectID": "dcb09ecc396f333c027acefed8d877ac"
+      },
+      "previous": {
+        "content": "\"Quite so. Well, Sir Henry, I am of one mind with you as to the advisability of your going down to Devonshire without delay. There is only one provision which I must make. You certainly must not go alone.\"",
+        "objectID": "d623672680da9dc3bbb3475efc8c96a6"
+      }
+    },
+    "objectID": "717207e0f6a2f831b2c868fc193eec0a",
+    "order": 79,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"But Dr. Mortimer has his practice to attend to, and his house is miles away from yours. With all the goodwill in the world he may be unable to help you. No, Sir Henry, you must take with you someone, a trusty man, who will be always by your side.\"",
+    "context": {
+      "next": {
+        "content": "\"Is it possible that you could come yourself, Mr. Holmes?\"",
+        "objectID": "90e15869026960e846b1e8ab9f5c3203"
+      },
+      "previous": {
+        "content": "\"Dr. Mortimer returns with me.\"",
+        "objectID": "717207e0f6a2f831b2c868fc193eec0a"
+      }
+    },
+    "objectID": "dcb09ecc396f333c027acefed8d877ac",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Is it possible that you could come yourself, Mr. Holmes?\"",
+    "context": {
+      "next": {
+        "content": "\"If matters came to a crisis I should endeavour to be present in person; but you can understand that, with my extensive consulting practice and with the constant appeals which reach me from many quarters, it is impossible for me to be absent from London for an indefinite time. At the present instant one of the most revered names in England is being besmirched by a blackmailer, and only I can stop a disastrous scandal.",
+        "objectID": "b71cb6a1f74a31f34c7c76324941bd48"
+      },
+      "previous": {
+        "content": "\"But Dr. Mortimer has his practice to attend to, and his house is miles away from yours. With all the goodwill in the world he may be unable to help you. No, Sir Henry, you must take with you someone, a trusty man, who will be always by your side.\"",
+        "objectID": "dcb09ecc396f333c027acefed8d877ac"
+      }
+    },
+    "objectID": "90e15869026960e846b1e8ab9f5c3203",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"If matters came to a crisis I should endeavour to be present in person; but you can understand that, with my extensive consulting practice and with the constant appeals which reach me from many quarters, it is impossible for me to be absent from London for an indefinite time. At the present instant one of the most revered names in England is being besmirched by a blackmailer, and only I can stop a disastrous scandal.",
+    "context": {
+      "next": {
+        "content": "You will see how impossible it is for me to go to Dartmoor.\"",
+        "objectID": "e943a20c5f7d612da67a57728f958102"
+      },
+      "previous": {
+        "content": "\"Is it possible that you could come yourself, Mr. Holmes?\"",
+        "objectID": "90e15869026960e846b1e8ab9f5c3203"
+      }
+    },
+    "objectID": "b71cb6a1f74a31f34c7c76324941bd48",
+    "order": 82,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "You will see how impossible it is for me to go to Dartmoor.\"",
+    "context": {
+      "next": {
+        "content": "\"Whom would you recommend, then?\"",
+        "objectID": "853cd5ff61867a1bf10cc368f8e549f5"
+      },
+      "previous": {
+        "content": "\"If matters came to a crisis I should endeavour to be present in person; but you can understand that, with my extensive consulting practice and with the constant appeals which reach me from many quarters, it is impossible for me to be absent from London for an indefinite time. At the present instant one of the most revered names in England is being besmirched by a blackmailer, and only I can stop a disastrous scandal.",
+        "objectID": "b71cb6a1f74a31f34c7c76324941bd48"
+      }
+    },
+    "objectID": "e943a20c5f7d612da67a57728f958102",
+    "order": 83,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Whom would you recommend, then?\"",
+    "context": {
+      "next": {
+        "content": "Holmes laid his hand upon my arm. \"If my friend would undertake it there is no man who is better worth having at your side when you are in a tight place. No one can say so more confidently than I.\"",
+        "objectID": "25b401e9bb10a8db8fd44fbeba17371e"
+      },
+      "previous": {
+        "content": "You will see how impossible it is for me to go to Dartmoor.\"",
+        "objectID": "e943a20c5f7d612da67a57728f958102"
+      }
+    },
+    "objectID": "853cd5ff61867a1bf10cc368f8e549f5",
+    "order": 84,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "Holmes laid his hand upon my arm. \"If my friend would undertake it there is no man who is better worth having at your side when you are in a tight place. No one can say so more confidently than I.\"",
+    "context": {
+      "next": {
+        "content": "The proposition took me completely by surprise, but before I had time to answer, Baskerville seized me by the hand and wrung it heartily.",
+        "objectID": "220db80f482d1ec85d6679868184a4fa"
+      },
+      "previous": {
+        "content": "\"Whom would you recommend, then?\"",
+        "objectID": "853cd5ff61867a1bf10cc368f8e549f5"
+      }
+    },
+    "objectID": "25b401e9bb10a8db8fd44fbeba17371e",
+    "order": 85,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "The proposition took me completely by surprise, but before I had time to answer, Baskerville seized me by the hand and wrung it heartily.",
+    "context": {
+      "next": {
+        "content": "\"Well, now, that is real kind of you, Dr. Watson,\" said he. \"You see how it is with me, and you know just as much about the matter as I do. If you will come down to Baskerville Hall and see me through I'll never forget it.\"",
+        "objectID": "42490aef910f9171cd019f8b81f29f66"
+      },
+      "previous": {
+        "content": "Holmes laid his hand upon my arm. \"If my friend would undertake it there is no man who is better worth having at your side when you are in a tight place. No one can say so more confidently than I.\"",
+        "objectID": "25b401e9bb10a8db8fd44fbeba17371e"
+      }
+    },
+    "objectID": "220db80f482d1ec85d6679868184a4fa",
+    "order": 86,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Well, now, that is real kind of you, Dr. Watson,\" said he. \"You see how it is with me, and you know just as much about the matter as I do. If you will come down to Baskerville Hall and see me through I'll never forget it.\"",
+    "context": {
+      "next": {
+        "content": "The promise of adventure had always a fascination for me, and I was complimented by the words of Holmes and by the eagerness with which the baronet hailed me as a companion.",
+        "objectID": "68109be2b5d80be94666bd2379019b7d"
+      },
+      "previous": {
+        "content": "The proposition took me completely by surprise, but before I had time to answer, Baskerville seized me by the hand and wrung it heartily.",
+        "objectID": "220db80f482d1ec85d6679868184a4fa"
+      }
+    },
+    "objectID": "42490aef910f9171cd019f8b81f29f66",
+    "order": 87,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "The promise of adventure had always a fascination for me, and I was complimented by the words of Holmes and by the eagerness with which the baronet hailed me as a companion.",
+    "context": {
+      "next": {
+        "content": "\"I will come, with pleasure,\" said I. \"I do not know how I could employ my time better.\"",
+        "objectID": "b7a725ef3ffd71cbb7bdbc2f4077343d"
+      },
+      "previous": {
+        "content": "\"Well, now, that is real kind of you, Dr. Watson,\" said he. \"You see how it is with me, and you know just as much about the matter as I do. If you will come down to Baskerville Hall and see me through I'll never forget it.\"",
+        "objectID": "42490aef910f9171cd019f8b81f29f66"
+      }
+    },
+    "objectID": "68109be2b5d80be94666bd2379019b7d",
+    "order": 88,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"I will come, with pleasure,\" said I. \"I do not know how I could employ my time better.\"",
+    "context": {
+      "next": {
+        "content": "\"And you will report very carefully to me,\" said Holmes. \"When a crisis comes, as it will do, I will direct how you shall act. I suppose that by Saturday all might be ready?\"",
+        "objectID": "71f76f172082f1c6061ece872a4edc1a"
+      },
+      "previous": {
+        "content": "The promise of adventure had always a fascination for me, and I was complimented by the words of Holmes and by the eagerness with which the baronet hailed me as a companion.",
+        "objectID": "68109be2b5d80be94666bd2379019b7d"
+      }
+    },
+    "objectID": "b7a725ef3ffd71cbb7bdbc2f4077343d",
+    "order": 89,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"And you will report very carefully to me,\" said Holmes. \"When a crisis comes, as it will do, I will direct how you shall act. I suppose that by Saturday all might be ready?\"",
+    "context": {
+      "next": {
+        "content": "\"Would that suit Dr. Watson?\"",
+        "objectID": "d005c0a5f0a4e3d81db207d537166191"
+      },
+      "previous": {
+        "content": "\"I will come, with pleasure,\" said I. \"I do not know how I could employ my time better.\"",
+        "objectID": "b7a725ef3ffd71cbb7bdbc2f4077343d"
+      }
+    },
+    "objectID": "71f76f172082f1c6061ece872a4edc1a",
+    "order": 90,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Would that suit Dr. Watson?\"",
+    "context": {
+      "next": {
+        "content": "\"Perfectly.\"",
+        "objectID": "274dca95fe0248ac670bdb4364c80671"
+      },
+      "previous": {
+        "content": "\"And you will report very carefully to me,\" said Holmes. \"When a crisis comes, as it will do, I will direct how you shall act. I suppose that by Saturday all might be ready?\"",
+        "objectID": "71f76f172082f1c6061ece872a4edc1a"
+      }
+    },
+    "objectID": "d005c0a5f0a4e3d81db207d537166191",
+    "order": 91,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Perfectly.\"",
+    "context": {
+      "next": {
+        "content": "\"Then on Saturday, unless you hear to the contrary, we shall meet at the ten-thirty train from Paddington.\"",
+        "objectID": "de9ce7edaaa5f0e8e7820ebeb05bcd36"
+      },
+      "previous": {
+        "content": "\"Would that suit Dr. Watson?\"",
+        "objectID": "d005c0a5f0a4e3d81db207d537166191"
+      }
+    },
+    "objectID": "274dca95fe0248ac670bdb4364c80671",
+    "order": 92,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Then on Saturday, unless you hear to the contrary, we shall meet at the ten-thirty train from Paddington.\"",
+    "context": {
+      "next": {
+        "content": "We had risen to depart when Baskerville gave a cry, of triumph, and diving into one of the corners of the room he drew a brown boot from under a cabinet.",
+        "objectID": "ebf0eab3e735ab6f380d5b307840be23"
+      },
+      "previous": {
+        "content": "\"Perfectly.\"",
+        "objectID": "274dca95fe0248ac670bdb4364c80671"
+      }
+    },
+    "objectID": "de9ce7edaaa5f0e8e7820ebeb05bcd36",
+    "order": 93,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "We had risen to depart when Baskerville gave a cry, of triumph, and diving into one of the corners of the room he drew a brown boot from under a cabinet.",
+    "context": {
+      "next": {
+        "content": "\"My missing boot!\" he cried.",
+        "objectID": "34a417d22bbc939133e028b17ee7380a"
+      },
+      "previous": {
+        "content": "\"Then on Saturday, unless you hear to the contrary, we shall meet at the ten-thirty train from Paddington.\"",
+        "objectID": "de9ce7edaaa5f0e8e7820ebeb05bcd36"
+      }
+    },
+    "objectID": "ebf0eab3e735ab6f380d5b307840be23",
+    "order": 94,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"My missing boot!\" he cried.",
+    "context": {
+      "next": {
+        "content": "\"May all our difficulties vanish as easily!\" said Sherlock Holmes.",
+        "objectID": "04df795df08719c5ca15e40ccc3f3d2a"
+      },
+      "previous": {
+        "content": "We had risen to depart when Baskerville gave a cry, of triumph, and diving into one of the corners of the room he drew a brown boot from under a cabinet.",
+        "objectID": "ebf0eab3e735ab6f380d5b307840be23"
+      }
+    },
+    "objectID": "34a417d22bbc939133e028b17ee7380a",
+    "order": 95,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"May all our difficulties vanish as easily!\" said Sherlock Holmes.",
+    "context": {
+      "next": {
+        "content": "\"But it is a very singular thing,\" Dr. Mortimer remarked. \"I searched this room carefully before lunch.\"",
+        "objectID": "dd13aea4cdb1b14008688df2254b6f27"
+      },
+      "previous": {
+        "content": "\"My missing boot!\" he cried.",
+        "objectID": "34a417d22bbc939133e028b17ee7380a"
+      }
+    },
+    "objectID": "04df795df08719c5ca15e40ccc3f3d2a",
+    "order": 96,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"But it is a very singular thing,\" Dr. Mortimer remarked. \"I searched this room carefully before lunch.\"",
+    "context": {
+      "next": {
+        "content": "\"And so did I,\" said Baskerville. \"Every inch of it.\"",
+        "objectID": "21c450e15febe10deaf6adb05679ce27"
+      },
+      "previous": {
+        "content": "\"May all our difficulties vanish as easily!\" said Sherlock Holmes.",
+        "objectID": "04df795df08719c5ca15e40ccc3f3d2a"
+      }
+    },
+    "objectID": "dd13aea4cdb1b14008688df2254b6f27",
+    "order": 97,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"And so did I,\" said Baskerville. \"Every inch of it.\"",
+    "context": {
+      "next": {
+        "content": "\"There was certainly no boot in it then.\"",
+        "objectID": "3629f1d632a94129d69649732e7478e0"
+      },
+      "previous": {
+        "content": "\"But it is a very singular thing,\" Dr. Mortimer remarked. \"I searched this room carefully before lunch.\"",
+        "objectID": "dd13aea4cdb1b14008688df2254b6f27"
+      }
+    },
+    "objectID": "21c450e15febe10deaf6adb05679ce27",
+    "order": 98,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"There was certainly no boot in it then.\"",
+    "context": {
+      "next": {
+        "content": "\"In that case the waiter must have placed it there while we were lunching.\"",
+        "objectID": "2acffc08345a1ea515dfe2cde3845719"
+      },
+      "previous": {
+        "content": "\"And so did I,\" said Baskerville. \"Every inch of it.\"",
+        "objectID": "21c450e15febe10deaf6adb05679ce27"
+      }
+    },
+    "objectID": "3629f1d632a94129d69649732e7478e0",
+    "order": 99,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"In that case the waiter must have placed it there while we were lunching.\"",
+    "context": {
+      "next": {
+        "content": "The German was sent for but professed to know nothing of the matter, nor could any inquiry clear it up. Another item had been added to that constant and apparently purposeless series of small mysteries which had succeeded each other so rapidly. Setting aside the whole grim story of Sir Charles's death, we had a line of inexplicable incidents all within the limits of two days, which included the receipt of the printed letter, the black-bearded spy in the hansom, the loss of the new brown boot, the loss of the old black boot, and now the return of the new brown boot.",
+        "objectID": "0267225600526ec0c6f80adf00727bc8"
+      },
+      "previous": {
+        "content": "\"There was certainly no boot in it then.\"",
+        "objectID": "3629f1d632a94129d69649732e7478e0"
+      }
+    },
+    "objectID": "2acffc08345a1ea515dfe2cde3845719",
+    "order": 100,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "The German was sent for but professed to know nothing of the matter, nor could any inquiry clear it up. Another item had been added to that constant and apparently purposeless series of small mysteries which had succeeded each other so rapidly. Setting aside the whole grim story of Sir Charles's death, we had a line of inexplicable incidents all within the limits of two days, which included the receipt of the printed letter, the black-bearded spy in the hansom, the loss of the new brown boot, the loss of the old black boot, and now the return of the new brown boot.",
+    "context": {
+      "next": {
+        "content": "Holmes sat in silence in the cab as we drove back to Baker Street, and I knew from his drawn brows and keen face that his mind, like my own, was busy in endeavouring to frame some scheme into which all these strange and apparently disconnected episodes could be fitted. All afternoon and late into the evening he sat lost in tobacco and thought.",
+        "objectID": "cc6323e04d405d7ceafdb48fcedc6b3d"
+      },
+      "previous": {
+        "content": "\"In that case the waiter must have placed it there while we were lunching.\"",
+        "objectID": "2acffc08345a1ea515dfe2cde3845719"
+      }
+    },
+    "objectID": "0267225600526ec0c6f80adf00727bc8",
+    "order": 101,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "Holmes sat in silence in the cab as we drove back to Baker Street, and I knew from his drawn brows and keen face that his mind, like my own, was busy in endeavouring to frame some scheme into which all these strange and apparently disconnected episodes could be fitted. All afternoon and late into the evening he sat lost in tobacco and thought.",
+    "context": {
+      "next": {
+        "content": "Just before dinner two telegrams were handed in. The first ran:",
+        "objectID": "3fdedf38d18b53e065550c7346dcff68"
+      },
+      "previous": {
+        "content": "The German was sent for but professed to know nothing of the matter, nor could any inquiry clear it up. Another item had been added to that constant and apparently purposeless series of small mysteries which had succeeded each other so rapidly. Setting aside the whole grim story of Sir Charles's death, we had a line of inexplicable incidents all within the limits of two days, which included the receipt of the printed letter, the black-bearded spy in the hansom, the loss of the new brown boot, the loss of the old black boot, and now the return of the new brown boot.",
+        "objectID": "0267225600526ec0c6f80adf00727bc8"
+      }
+    },
+    "objectID": "cc6323e04d405d7ceafdb48fcedc6b3d",
+    "order": 102,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "Just before dinner two telegrams were handed in. The first ran:",
+    "context": {
+      "next": {
+        "content": "Have just heard that Barrymore is at the Hall. BASKERVILLE.",
+        "objectID": "169bf12cc8f49db05a828e007d97776a"
+      },
+      "previous": {
+        "content": "Holmes sat in silence in the cab as we drove back to Baker Street, and I knew from his drawn brows and keen face that his mind, like my own, was busy in endeavouring to frame some scheme into which all these strange and apparently disconnected episodes could be fitted. All afternoon and late into the evening he sat lost in tobacco and thought.",
+        "objectID": "cc6323e04d405d7ceafdb48fcedc6b3d"
+      }
+    },
+    "objectID": "3fdedf38d18b53e065550c7346dcff68",
+    "order": 103,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "Have just heard that Barrymore is at the Hall. BASKERVILLE.",
+    "context": {
+      "next": {
+        "content": "The second:",
+        "objectID": "49054fef335f751d0c92599eeaaf3122"
+      },
+      "previous": {
+        "content": "Just before dinner two telegrams were handed in. The first ran:",
+        "objectID": "3fdedf38d18b53e065550c7346dcff68"
+      }
+    },
+    "objectID": "169bf12cc8f49db05a828e007d97776a",
+    "order": 104,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "The second:",
+    "context": {
+      "next": {
+        "content": "Visited twenty-three hotels as directed, but sorry, to report unable to trace cut sheet of Times. CARTWRIGHT.",
+        "objectID": "3c47356c5902cc27dff1b2c80bee0250"
+      },
+      "previous": {
+        "content": "Have just heard that Barrymore is at the Hall. BASKERVILLE.",
+        "objectID": "169bf12cc8f49db05a828e007d97776a"
+      }
+    },
+    "objectID": "49054fef335f751d0c92599eeaaf3122",
+    "order": 105,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "Visited twenty-three hotels as directed, but sorry, to report unable to trace cut sheet of Times. CARTWRIGHT.",
+    "context": {
+      "next": {
+        "content": "\"There go two of my threads, Watson. There is nothing more stimulating than a case where everything goes against you. We must cast round for another scent.\"",
+        "objectID": "a97bae5f90c7a353225b7083389cdc62"
+      },
+      "previous": {
+        "content": "The second:",
+        "objectID": "49054fef335f751d0c92599eeaaf3122"
+      }
+    },
+    "objectID": "3c47356c5902cc27dff1b2c80bee0250",
+    "order": 106,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"There go two of my threads, Watson. There is nothing more stimulating than a case where everything goes against you. We must cast round for another scent.\"",
+    "context": {
+      "next": {
+        "content": "\"We have still the cabman who drove the spy.\"",
+        "objectID": "5dcbc0d4476fd6fe071fc6fbda751f14"
+      },
+      "previous": {
+        "content": "Visited twenty-three hotels as directed, but sorry, to report unable to trace cut sheet of Times. CARTWRIGHT.",
+        "objectID": "3c47356c5902cc27dff1b2c80bee0250"
+      }
+    },
+    "objectID": "a97bae5f90c7a353225b7083389cdc62",
+    "order": 107,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"We have still the cabman who drove the spy.\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly. I have wired to get his name and address from the Official Registry. I should not be surprised if this were an answer to my question.\"",
+        "objectID": "989cfc55c7263965a3008c3d1498ddf0"
+      },
+      "previous": {
+        "content": "\"There go two of my threads, Watson. There is nothing more stimulating than a case where everything goes against you. We must cast round for another scent.\"",
+        "objectID": "a97bae5f90c7a353225b7083389cdc62"
+      }
+    },
+    "objectID": "5dcbc0d4476fd6fe071fc6fbda751f14",
+    "order": 108,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Exactly. I have wired to get his name and address from the Official Registry. I should not be surprised if this were an answer to my question.\"",
+    "context": {
+      "next": {
+        "content": "The ring at the bell proved to be something even more satisfactory than an answer, however, for the door opened and a rough-looking fellow entered who was evidently the man himself.",
+        "objectID": "af98cd4d61211a5a508c4f98606dd4fa"
+      },
+      "previous": {
+        "content": "\"We have still the cabman who drove the spy.\"",
+        "objectID": "5dcbc0d4476fd6fe071fc6fbda751f14"
+      }
+    },
+    "objectID": "989cfc55c7263965a3008c3d1498ddf0",
+    "order": 109,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "The ring at the bell proved to be something even more satisfactory than an answer, however, for the door opened and a rough-looking fellow entered who was evidently the man himself.",
+    "context": {
+      "next": {
+        "content": "\"I got a message from the head office that a gent at this address had been inquiring for No. 2704,\" said he. \"I've driven my cab this seven years and never a word of complaint. I came here straight from the Yard to ask you to your face what you had against me.\"",
+        "objectID": "adc3d0c7e77035e4e2d73c143f3d332a"
+      },
+      "previous": {
+        "content": "\"Exactly. I have wired to get his name and address from the Official Registry. I should not be surprised if this were an answer to my question.\"",
+        "objectID": "989cfc55c7263965a3008c3d1498ddf0"
+      }
+    },
+    "objectID": "af98cd4d61211a5a508c4f98606dd4fa",
+    "order": 110,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"I got a message from the head office that a gent at this address had been inquiring for No. 2704,\" said he. \"I've driven my cab this seven years and never a word of complaint. I came here straight from the Yard to ask you to your face what you had against me.\"",
+    "context": {
+      "next": {
+        "content": "\"I have nothing in the world against you, my good man,\" said Holmes. \"On the contrary, I have half a sovereign for you if you will give me a clear answer to my questions.\"",
+        "objectID": "3162ccfc231a2d7fa14000ebdc3bbbd2"
+      },
+      "previous": {
+        "content": "The ring at the bell proved to be something even more satisfactory than an answer, however, for the door opened and a rough-looking fellow entered who was evidently the man himself.",
+        "objectID": "af98cd4d61211a5a508c4f98606dd4fa"
+      }
+    },
+    "objectID": "adc3d0c7e77035e4e2d73c143f3d332a",
+    "order": 111,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"I have nothing in the world against you, my good man,\" said Holmes. \"On the contrary, I have half a sovereign for you if you will give me a clear answer to my questions.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, I've had a good day and no mistake,\" said the cabman with a grin. \"What was it you wanted to ask, sir?\"",
+        "objectID": "79b650e1d7e5986ffc8e957e14046935"
+      },
+      "previous": {
+        "content": "\"I got a message from the head office that a gent at this address had been inquiring for No. 2704,\" said he. \"I've driven my cab this seven years and never a word of complaint. I came here straight from the Yard to ask you to your face what you had against me.\"",
+        "objectID": "adc3d0c7e77035e4e2d73c143f3d332a"
+      }
+    },
+    "objectID": "3162ccfc231a2d7fa14000ebdc3bbbd2",
+    "order": 112,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Well, I've had a good day and no mistake,\" said the cabman with a grin. \"What was it you wanted to ask, sir?\"",
+    "context": {
+      "next": {
+        "content": "\"First of all your name and address, in case I want you again.\"",
+        "objectID": "feea40f2b296466c3cf53a256aeb7069"
+      },
+      "previous": {
+        "content": "\"I have nothing in the world against you, my good man,\" said Holmes. \"On the contrary, I have half a sovereign for you if you will give me a clear answer to my questions.\"",
+        "objectID": "3162ccfc231a2d7fa14000ebdc3bbbd2"
+      }
+    },
+    "objectID": "79b650e1d7e5986ffc8e957e14046935",
+    "order": 113,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"First of all your name and address, in case I want you again.\"",
+    "context": {
+      "next": {
+        "content": "\"John Clayton, 3 Turpey Street, the Borough. My cab is out of Shipley's Yard, near Waterloo Station.\"",
+        "objectID": "bd4fa2cbbf7d0128053781b8e93e30d1"
+      },
+      "previous": {
+        "content": "\"Well, I've had a good day and no mistake,\" said the cabman with a grin. \"What was it you wanted to ask, sir?\"",
+        "objectID": "79b650e1d7e5986ffc8e957e14046935"
+      }
+    },
+    "objectID": "feea40f2b296466c3cf53a256aeb7069",
+    "order": 114,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"John Clayton, 3 Turpey Street, the Borough. My cab is out of Shipley's Yard, near Waterloo Station.\"",
+    "context": {
+      "next": {
+        "content": "Sherlock Holmes made a note of it.",
+        "objectID": "b57d5441506b09a158f846701b9be12a"
+      },
+      "previous": {
+        "content": "\"First of all your name and address, in case I want you again.\"",
+        "objectID": "feea40f2b296466c3cf53a256aeb7069"
+      }
+    },
+    "objectID": "bd4fa2cbbf7d0128053781b8e93e30d1",
+    "order": 115,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "Sherlock Holmes made a note of it.",
+    "context": {
+      "next": {
+        "content": "\"Now, Clayton, tell me all about the fare who came and watched this house at ten o'clock this morning and afterwards followed the two gentlemen down Regent Street.\"",
+        "objectID": "1ab6ea23373acc4ea5b4cc261c005e8b"
+      },
+      "previous": {
+        "content": "\"John Clayton, 3 Turpey Street, the Borough. My cab is out of Shipley's Yard, near Waterloo Station.\"",
+        "objectID": "bd4fa2cbbf7d0128053781b8e93e30d1"
+      }
+    },
+    "objectID": "b57d5441506b09a158f846701b9be12a",
+    "order": 116,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Now, Clayton, tell me all about the fare who came and watched this house at ten o'clock this morning and afterwards followed the two gentlemen down Regent Street.\"",
+    "context": {
+      "next": {
+        "content": "The man looked surprised and a little embarrassed. \"Why, there's no good my telling you things, for you seem to know as much as I do already,\" said he. \"The truth is that the gentleman told me that he was a detective and that I was to say nothing about him to anyone.\"",
+        "objectID": "075eb130772c37d85573d388b1ccf034"
+      },
+      "previous": {
+        "content": "Sherlock Holmes made a note of it.",
+        "objectID": "b57d5441506b09a158f846701b9be12a"
+      }
+    },
+    "objectID": "1ab6ea23373acc4ea5b4cc261c005e8b",
+    "order": 117,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "The man looked surprised and a little embarrassed. \"Why, there's no good my telling you things, for you seem to know as much as I do already,\" said he. \"The truth is that the gentleman told me that he was a detective and that I was to say nothing about him to anyone.\"",
+    "context": {
+      "next": {
+        "content": "\"My good fellow; this is a very serious business, and you may find yourself in a pretty bad position if you try to hide anything from me. You say that your fare told you that he was a detective?\"",
+        "objectID": "dddf329896225f1fbf800cdb6540b6ba"
+      },
+      "previous": {
+        "content": "\"Now, Clayton, tell me all about the fare who came and watched this house at ten o'clock this morning and afterwards followed the two gentlemen down Regent Street.\"",
+        "objectID": "1ab6ea23373acc4ea5b4cc261c005e8b"
+      }
+    },
+    "objectID": "075eb130772c37d85573d388b1ccf034",
+    "order": 118,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"My good fellow; this is a very serious business, and you may find yourself in a pretty bad position if you try to hide anything from me. You say that your fare told you that he was a detective?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, he did.\"",
+        "objectID": "efc56d281a825a858120b0b8e97c91c3"
+      },
+      "previous": {
+        "content": "The man looked surprised and a little embarrassed. \"Why, there's no good my telling you things, for you seem to know as much as I do already,\" said he. \"The truth is that the gentleman told me that he was a detective and that I was to say nothing about him to anyone.\"",
+        "objectID": "075eb130772c37d85573d388b1ccf034"
+      }
+    },
+    "objectID": "dddf329896225f1fbf800cdb6540b6ba",
+    "order": 119,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Yes, he did.\"",
+    "context": {
+      "next": {
+        "content": "\"When did he say this?\"",
+        "objectID": "1235507a5044885fd04d17250342b38a"
+      },
+      "previous": {
+        "content": "\"My good fellow; this is a very serious business, and you may find yourself in a pretty bad position if you try to hide anything from me. You say that your fare told you that he was a detective?\"",
+        "objectID": "dddf329896225f1fbf800cdb6540b6ba"
+      }
+    },
+    "objectID": "efc56d281a825a858120b0b8e97c91c3",
+    "order": 120,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"When did he say this?\"",
+    "context": {
+      "next": {
+        "content": "\"When he left me.\"",
+        "objectID": "cee0911d1747558f2975bf433707dbd7"
+      },
+      "previous": {
+        "content": "\"Yes, he did.\"",
+        "objectID": "efc56d281a825a858120b0b8e97c91c3"
+      }
+    },
+    "objectID": "1235507a5044885fd04d17250342b38a",
+    "order": 121,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"When he left me.\"",
+    "context": {
+      "next": {
+        "content": "\"Did he say anything more?\"",
+        "objectID": "ead2e14933b3aa2c9716635deb82ae74"
+      },
+      "previous": {
+        "content": "\"When did he say this?\"",
+        "objectID": "1235507a5044885fd04d17250342b38a"
+      }
+    },
+    "objectID": "cee0911d1747558f2975bf433707dbd7",
+    "order": 122,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Did he say anything more?\"",
+    "context": {
+      "next": {
+        "content": "\"He mentioned his name.\"",
+        "objectID": "0ecb273c69e2d617c9f40069cad5855b"
+      },
+      "previous": {
+        "content": "\"When he left me.\"",
+        "objectID": "cee0911d1747558f2975bf433707dbd7"
+      }
+    },
+    "objectID": "ead2e14933b3aa2c9716635deb82ae74",
+    "order": 123,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"He mentioned his name.\"",
+    "context": {
+      "next": {
+        "content": "Holmes cast a swift glance of triumph at me. \"Oh, he mentioned his name, did he? That was imprudent. What was the name that he mentioned?\"",
+        "objectID": "0202866a8e211472e1c8ab12a0d759d2"
+      },
+      "previous": {
+        "content": "\"Did he say anything more?\"",
+        "objectID": "ead2e14933b3aa2c9716635deb82ae74"
+      }
+    },
+    "objectID": "0ecb273c69e2d617c9f40069cad5855b",
+    "order": 124,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "Holmes cast a swift glance of triumph at me. \"Oh, he mentioned his name, did he? That was imprudent. What was the name that he mentioned?\"",
+    "context": {
+      "next": {
+        "content": "\"His name,\" said the cabman, \"was Mr. Sherlock Holmes.\"",
+        "objectID": "c9bcc626c58db1b4b5ba5ffd14e23957"
+      },
+      "previous": {
+        "content": "\"He mentioned his name.\"",
+        "objectID": "0ecb273c69e2d617c9f40069cad5855b"
+      }
+    },
+    "objectID": "0202866a8e211472e1c8ab12a0d759d2",
+    "order": 125,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"His name,\" said the cabman, \"was Mr. Sherlock Holmes.\"",
+    "context": {
+      "next": {
+        "content": "Never have I seen my friend more completely taken aback than by the cabman's reply. For an instant he sat in silent amazement. Then he burst into a hearty laugh.",
+        "objectID": "555fe7c6bb50f399a9e08c6d78d59178"
+      },
+      "previous": {
+        "content": "Holmes cast a swift glance of triumph at me. \"Oh, he mentioned his name, did he? That was imprudent. What was the name that he mentioned?\"",
+        "objectID": "0202866a8e211472e1c8ab12a0d759d2"
+      }
+    },
+    "objectID": "c9bcc626c58db1b4b5ba5ffd14e23957",
+    "order": 126,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "Never have I seen my friend more completely taken aback than by the cabman's reply. For an instant he sat in silent amazement. Then he burst into a hearty laugh.",
+    "context": {
+      "next": {
+        "content": "\"A touch, Watson—an undeniable touch!\" said he. \"I feel a foil as quick and supple as my own. He got home upon me very prettily that time. So his name was Sherlock Holmes, was it?\"",
+        "objectID": "192f78a3ee5edbb0b9c21e171c229189"
+      },
+      "previous": {
+        "content": "\"His name,\" said the cabman, \"was Mr. Sherlock Holmes.\"",
+        "objectID": "c9bcc626c58db1b4b5ba5ffd14e23957"
+      }
+    },
+    "objectID": "555fe7c6bb50f399a9e08c6d78d59178",
+    "order": 127,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"A touch, Watson—an undeniable touch!\" said he. \"I feel a foil as quick and supple as my own. He got home upon me very prettily that time. So his name was Sherlock Holmes, was it?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, sir, that was the gentleman's name.\"",
+        "objectID": "9c0a73dd7c1f6e9666f23de3cd5b48d2"
+      },
+      "previous": {
+        "content": "Never have I seen my friend more completely taken aback than by the cabman's reply. For an instant he sat in silent amazement. Then he burst into a hearty laugh.",
+        "objectID": "555fe7c6bb50f399a9e08c6d78d59178"
+      }
+    },
+    "objectID": "192f78a3ee5edbb0b9c21e171c229189",
+    "order": 128,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Yes, sir, that was the gentleman's name.\"",
+    "context": {
+      "next": {
+        "content": "\"Excellent! Tell me where you picked him up and all that occurred.\"",
+        "objectID": "8b8dfd319b2737e6858db7caa58037f1"
+      },
+      "previous": {
+        "content": "\"A touch, Watson—an undeniable touch!\" said he. \"I feel a foil as quick and supple as my own. He got home upon me very prettily that time. So his name was Sherlock Holmes, was it?\"",
+        "objectID": "192f78a3ee5edbb0b9c21e171c229189"
+      }
+    },
+    "objectID": "9c0a73dd7c1f6e9666f23de3cd5b48d2",
+    "order": 129,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Excellent! Tell me where you picked him up and all that occurred.\"",
+    "context": {
+      "next": {
+        "content": "\"He hailed me at half-past nine in Trafalgar Square. He said that he was a detective, and he offered me two guineas if I would do exactly what he wanted all day and ask no questions. I was glad enough to agree. First we drove down to the Northumberland Hotel and waited there until two gentlemen came out and took a cab from the rank.",
+        "objectID": "e1186ccaa3a738f6cc5ca90d1ad3b105"
+      },
+      "previous": {
+        "content": "\"Yes, sir, that was the gentleman's name.\"",
+        "objectID": "9c0a73dd7c1f6e9666f23de3cd5b48d2"
+      }
+    },
+    "objectID": "8b8dfd319b2737e6858db7caa58037f1",
+    "order": 130,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"He hailed me at half-past nine in Trafalgar Square. He said that he was a detective, and he offered me two guineas if I would do exactly what he wanted all day and ask no questions. I was glad enough to agree. First we drove down to the Northumberland Hotel and waited there until two gentlemen came out and took a cab from the rank.",
+    "context": {
+      "next": {
+        "content": "We followed their cab until it pulled up somewhere near here.\"",
+        "objectID": "dd3b45a9d12eab9b0aaaf8c3bab14bec"
+      },
+      "previous": {
+        "content": "\"Excellent! Tell me where you picked him up and all that occurred.\"",
+        "objectID": "8b8dfd319b2737e6858db7caa58037f1"
+      }
+    },
+    "objectID": "e1186ccaa3a738f6cc5ca90d1ad3b105",
+    "order": 131,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "We followed their cab until it pulled up somewhere near here.\"",
+    "context": {
+      "next": {
+        "content": "\"This very door,\" said Holmes.",
+        "objectID": "629c9dea76a103569461acf1e0ff6a4d"
+      },
+      "previous": {
+        "content": "\"He hailed me at half-past nine in Trafalgar Square. He said that he was a detective, and he offered me two guineas if I would do exactly what he wanted all day and ask no questions. I was glad enough to agree. First we drove down to the Northumberland Hotel and waited there until two gentlemen came out and took a cab from the rank.",
+        "objectID": "e1186ccaa3a738f6cc5ca90d1ad3b105"
+      }
+    },
+    "objectID": "dd3b45a9d12eab9b0aaaf8c3bab14bec",
+    "order": 132,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"This very door,\" said Holmes.",
+    "context": {
+      "next": {
+        "content": "\"Well, I couldn't be sure of that, but I dare say my fare knew all about it. We pulled up halfway down the street and waited an hour and a half. Then the two gentlemen passed us, walking, and we followed down Baker Street and along—\"",
+        "objectID": "6974a746edf2010cf2799c8bcfd32365"
+      },
+      "previous": {
+        "content": "We followed their cab until it pulled up somewhere near here.\"",
+        "objectID": "dd3b45a9d12eab9b0aaaf8c3bab14bec"
+      }
+    },
+    "objectID": "629c9dea76a103569461acf1e0ff6a4d",
+    "order": 133,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Well, I couldn't be sure of that, but I dare say my fare knew all about it. We pulled up halfway down the street and waited an hour and a half. Then the two gentlemen passed us, walking, and we followed down Baker Street and along—\"",
+    "context": {
+      "next": {
+        "content": "\"I know,\" said Holmes.",
+        "objectID": "5ab8bebe9684a74d93cc992bc76f2529"
+      },
+      "previous": {
+        "content": "\"This very door,\" said Holmes.",
+        "objectID": "629c9dea76a103569461acf1e0ff6a4d"
+      }
+    },
+    "objectID": "6974a746edf2010cf2799c8bcfd32365",
+    "order": 134,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"I know,\" said Holmes.",
+    "context": {
+      "next": {
+        "content": "\"Until we got three-quarters down Regent Street. Then my gentleman threw up the trap, and he cried that I should drive right away to Waterloo Station as hard as I could go. I whipped up the mare and we were there under the ten minutes. Then he paid up his two guineas, like a good one, and away he went into the station.",
+        "objectID": "ed46f35de1df4140b0db421690df7e24"
+      },
+      "previous": {
+        "content": "\"Well, I couldn't be sure of that, but I dare say my fare knew all about it. We pulled up halfway down the street and waited an hour and a half. Then the two gentlemen passed us, walking, and we followed down Baker Street and along—\"",
+        "objectID": "6974a746edf2010cf2799c8bcfd32365"
+      }
+    },
+    "objectID": "5ab8bebe9684a74d93cc992bc76f2529",
+    "order": 135,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Until we got three-quarters down Regent Street. Then my gentleman threw up the trap, and he cried that I should drive right away to Waterloo Station as hard as I could go. I whipped up the mare and we were there under the ten minutes. Then he paid up his two guineas, like a good one, and away he went into the station.",
+    "context": {
+      "next": {
+        "content": "Only just as he was leaving he turned round and he said: 'It might interest you to know that you have been driving Mr. Sherlock Holmes.' That's how I come to know the name.\"",
+        "objectID": "bca9ae1a768481fd64d4772e58f2046e"
+      },
+      "previous": {
+        "content": "\"I know,\" said Holmes.",
+        "objectID": "5ab8bebe9684a74d93cc992bc76f2529"
+      }
+    },
+    "objectID": "ed46f35de1df4140b0db421690df7e24",
+    "order": 136,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "Only just as he was leaving he turned round and he said: 'It might interest you to know that you have been driving Mr. Sherlock Holmes.' That's how I come to know the name.\"",
+    "context": {
+      "next": {
+        "content": "\"I see. And you saw no more of him?\"",
+        "objectID": "6058a22261016d2eaeb677468667c53d"
+      },
+      "previous": {
+        "content": "\"Until we got three-quarters down Regent Street. Then my gentleman threw up the trap, and he cried that I should drive right away to Waterloo Station as hard as I could go. I whipped up the mare and we were there under the ten minutes. Then he paid up his two guineas, like a good one, and away he went into the station.",
+        "objectID": "ed46f35de1df4140b0db421690df7e24"
+      }
+    },
+    "objectID": "bca9ae1a768481fd64d4772e58f2046e",
+    "order": 137,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"I see. And you saw no more of him?\"",
+    "context": {
+      "next": {
+        "content": "\"Not after he went into the station.\"",
+        "objectID": "d35a2c4a477c940852983d563a970b5e"
+      },
+      "previous": {
+        "content": "Only just as he was leaving he turned round and he said: 'It might interest you to know that you have been driving Mr. Sherlock Holmes.' That's how I come to know the name.\"",
+        "objectID": "bca9ae1a768481fd64d4772e58f2046e"
+      }
+    },
+    "objectID": "6058a22261016d2eaeb677468667c53d",
+    "order": 138,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Not after he went into the station.\"",
+    "context": {
+      "next": {
+        "content": "\"And how would you describe Mr. Sherlock Holmes?\"",
+        "objectID": "4d76f16f26d782d8c595b2c0ad334394"
+      },
+      "previous": {
+        "content": "\"I see. And you saw no more of him?\"",
+        "objectID": "6058a22261016d2eaeb677468667c53d"
+      }
+    },
+    "objectID": "d35a2c4a477c940852983d563a970b5e",
+    "order": 139,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"And how would you describe Mr. Sherlock Holmes?\"",
+    "context": {
+      "next": {
+        "content": "The cabman scratched his head. \"Well, he wasn't altogether such an easy gentleman to describe. I'd put him at forty years of age, and he was of a middle height, two or three inches shorter than you, sir. He was dressed like a toff, and he had a black beard, cut square at the end, and a pale face. I don't know as I could say more than that.",
+        "objectID": "74858b6d5dc8a57edfe0241ee3253b33"
+      },
+      "previous": {
+        "content": "\"Not after he went into the station.\"",
+        "objectID": "d35a2c4a477c940852983d563a970b5e"
+      }
+    },
+    "objectID": "4d76f16f26d782d8c595b2c0ad334394",
+    "order": 140,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "The cabman scratched his head. \"Well, he wasn't altogether such an easy gentleman to describe. I'd put him at forty years of age, and he was of a middle height, two or three inches shorter than you, sir. He was dressed like a toff, and he had a black beard, cut square at the end, and a pale face. I don't know as I could say more than that.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "6b88ac9cdfde8e4d72d6ef589419121f"
+      },
+      "previous": {
+        "content": "\"And how would you describe Mr. Sherlock Holmes?\"",
+        "objectID": "4d76f16f26d782d8c595b2c0ad334394"
+      }
+    },
+    "objectID": "74858b6d5dc8a57edfe0241ee3253b33",
+    "order": 141,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Colour of his eyes?\"",
+        "objectID": "28ccadd5bf204556601a44624a096fa9"
+      },
+      "previous": {
+        "content": "The cabman scratched his head. \"Well, he wasn't altogether such an easy gentleman to describe. I'd put him at forty years of age, and he was of a middle height, two or three inches shorter than you, sir. He was dressed like a toff, and he had a black beard, cut square at the end, and a pale face. I don't know as I could say more than that.",
+        "objectID": "74858b6d5dc8a57edfe0241ee3253b33"
+      }
+    },
+    "objectID": "6b88ac9cdfde8e4d72d6ef589419121f",
+    "order": 142,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Colour of his eyes?\"",
+    "context": {
+      "next": {
+        "content": "\"No, I can't say that.\"",
+        "objectID": "e9849aa20e1a059f4f196783c42b2820"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "6b88ac9cdfde8e4d72d6ef589419121f"
+      }
+    },
+    "objectID": "28ccadd5bf204556601a44624a096fa9",
+    "order": 143,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"No, I can't say that.\"",
+    "context": {
+      "next": {
+        "content": "\"Nothing more that you can remember?\"",
+        "objectID": "ffa6d0e5155f81c4b3dda305b25b899c"
+      },
+      "previous": {
+        "content": "\"Colour of his eyes?\"",
+        "objectID": "28ccadd5bf204556601a44624a096fa9"
+      }
+    },
+    "objectID": "e9849aa20e1a059f4f196783c42b2820",
+    "order": 144,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Nothing more that you can remember?\"",
+    "context": {
+      "next": {
+        "content": "\"No, sir; nothing.\"",
+        "objectID": "c0167ad88d6ea185260a564bbcaacf99"
+      },
+      "previous": {
+        "content": "\"No, I can't say that.\"",
+        "objectID": "e9849aa20e1a059f4f196783c42b2820"
+      }
+    },
+    "objectID": "ffa6d0e5155f81c4b3dda305b25b899c",
+    "order": 145,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"No, sir; nothing.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, then, here is your half-sovereign. There's another one waiting for you if you can bring any more information. Good-night!\"",
+        "objectID": "dee1e5d8fe231e4886dd5d3269398fca"
+      },
+      "previous": {
+        "content": "\"Nothing more that you can remember?\"",
+        "objectID": "ffa6d0e5155f81c4b3dda305b25b899c"
+      }
+    },
+    "objectID": "c0167ad88d6ea185260a564bbcaacf99",
+    "order": 146,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Well, then, here is your half-sovereign. There's another one waiting for you if you can bring any more information. Good-night!\"",
+    "context": {
+      "next": {
+        "content": "\"Good-night, sir, and thank you!\"",
+        "objectID": "9cc0240f6f0a216ecdee26b6cc059a8d"
+      },
+      "previous": {
+        "content": "\"No, sir; nothing.\"",
+        "objectID": "c0167ad88d6ea185260a564bbcaacf99"
+      }
+    },
+    "objectID": "dee1e5d8fe231e4886dd5d3269398fca",
+    "order": 147,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Good-night, sir, and thank you!\"",
+    "context": {
+      "next": {
+        "content": "John Clayton departed chuckling, and Holmes turned to me with a shrug of his shoulders and a rueful smile.",
+        "objectID": "c0cc77d359c5f1ed3c34583060543363"
+      },
+      "previous": {
+        "content": "\"Well, then, here is your half-sovereign. There's another one waiting for you if you can bring any more information. Good-night!\"",
+        "objectID": "dee1e5d8fe231e4886dd5d3269398fca"
+      }
+    },
+    "objectID": "9cc0240f6f0a216ecdee26b6cc059a8d",
+    "order": 148,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "John Clayton departed chuckling, and Holmes turned to me with a shrug of his shoulders and a rueful smile.",
+    "context": {
+      "next": {
+        "content": "\"Snap goes our third thread, and we end where we began,\" said he. \"The cunning rascal! He knew our number, knew that Sir Henry Baskerville had consulted me, spotted who I was in Regent Street, conjectured that I had got the number of the cab and would lay my hands on the driver, and so sent back this audacious message.",
+        "objectID": "2aa46afbe51eacf6b1ef8161cfa22096"
+      },
+      "previous": {
+        "content": "\"Good-night, sir, and thank you!\"",
+        "objectID": "9cc0240f6f0a216ecdee26b6cc059a8d"
+      }
+    },
+    "objectID": "c0cc77d359c5f1ed3c34583060543363",
+    "order": 149,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"Snap goes our third thread, and we end where we began,\" said he. \"The cunning rascal! He knew our number, knew that Sir Henry Baskerville had consulted me, spotted who I was in Regent Street, conjectured that I had got the number of the cab and would lay my hands on the driver, and so sent back this audacious message.",
+    "context": {
+      "next": {
+        "content": "I tell you, Watson, this time we have got a foeman who is worthy of our steel. I've been checkmated in London. I can only wish you better luck in Devonshire. But I'm not easy in my mind about it.\"",
+        "objectID": "4452aa4da30f58a1c6f4bfefff3faace"
+      },
+      "previous": {
+        "content": "John Clayton departed chuckling, and Holmes turned to me with a shrug of his shoulders and a rueful smile.",
+        "objectID": "c0cc77d359c5f1ed3c34583060543363"
+      }
+    },
+    "objectID": "2aa46afbe51eacf6b1ef8161cfa22096",
+    "order": 150,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "I tell you, Watson, this time we have got a foeman who is worthy of our steel. I've been checkmated in London. I can only wish you better luck in Devonshire. But I'm not easy in my mind about it.\"",
+    "context": {
+      "next": {
+        "content": "\"About what?\"",
+        "objectID": "60c2cd485ad923218ac80584e2e08884"
+      },
+      "previous": {
+        "content": "\"Snap goes our third thread, and we end where we began,\" said he. \"The cunning rascal! He knew our number, knew that Sir Henry Baskerville had consulted me, spotted who I was in Regent Street, conjectured that I had got the number of the cab and would lay my hands on the driver, and so sent back this audacious message.",
+        "objectID": "2aa46afbe51eacf6b1ef8161cfa22096"
+      }
+    },
+    "objectID": "4452aa4da30f58a1c6f4bfefff3faace",
+    "order": 151,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"About what?\"",
+    "context": {
+      "next": {
+        "content": "\"About sending you. It's an ugly business, Watson, an ugly dangerous business, and the more I see of it the less I like it. Yes, my dear fellow, you may laugh, but I give you my word that I shall be very glad to have you back safe and sound in Baker Street once more.\"",
+        "objectID": "8b3ceeaecc85281b8dbde5d5d84c2302"
+      },
+      "previous": {
+        "content": "I tell you, Watson, this time we have got a foeman who is worthy of our steel. I've been checkmated in London. I can only wish you better luck in Devonshire. But I'm not easy in my mind about it.\"",
+        "objectID": "4452aa4da30f58a1c6f4bfefff3faace"
+      }
+    },
+    "objectID": "60c2cd485ad923218ac80584e2e08884",
+    "order": 152,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 5. Three Broken Threads",
+    "chapterOrder": 5,
+    "content": "\"About sending you. It's an ugly business, Watson, an ugly dangerous business, and the more I see of it the less I like it. Yes, my dear fellow, you may laugh, but I give you my word that I shall be very glad to have you back safe and sound in Baker Street once more.\"",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "\"About what?\"",
+        "objectID": "60c2cd485ad923218ac80584e2e08884"
+      }
+    },
+    "objectID": "8b3ceeaecc85281b8dbde5d5d84c2302",
+    "order": 153,
+    "tagName": "P"
+  }
+]

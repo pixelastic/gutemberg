@@ -1,0 +1,3209 @@
+[
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "Our breakfast table was cleared early, and Holmes waited in his dressing-gown for the promised interview. Our clients were punctual to their appointment, for the clock had just struck ten when Dr. Mortimer was shown up, followed by the young baronet. The latter was a small, alert, dark-eyed man about thirty years of age, very sturdily built, with thick black eyebrows and a strong, pugnacious face.",
+    "context": {
+      "next": {
+        "content": "He wore a ruddy-tinted tweed suit and had the weather-beaten appearance of one who has spent most of his time in the open air, and yet there was something in his steady eye and the quiet assurance of his bearing which indicated the gentleman.",
+        "objectID": "7f9cf20df384d56ff64caea69f508198"
+      },
+      "previous": null
+    },
+    "objectID": "c8cf209751ac827a01d15e87bd760019",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "He wore a ruddy-tinted tweed suit and had the weather-beaten appearance of one who has spent most of his time in the open air, and yet there was something in his steady eye and the quiet assurance of his bearing which indicated the gentleman.",
+    "context": {
+      "next": {
+        "content": "\"This is Sir Henry Baskerville,\" said Dr. Mortimer.",
+        "objectID": "5fec1c8eae8853a1ffaf4a13d676f267"
+      },
+      "previous": {
+        "content": "Our breakfast table was cleared early, and Holmes waited in his dressing-gown for the promised interview. Our clients were punctual to their appointment, for the clock had just struck ten when Dr. Mortimer was shown up, followed by the young baronet. The latter was a small, alert, dark-eyed man about thirty years of age, very sturdily built, with thick black eyebrows and a strong, pugnacious face.",
+        "objectID": "c8cf209751ac827a01d15e87bd760019"
+      }
+    },
+    "objectID": "7f9cf20df384d56ff64caea69f508198",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"This is Sir Henry Baskerville,\" said Dr. Mortimer.",
+    "context": {
+      "next": {
+        "content": "\"Why, yes,\" said he, \"and the strange thing is, Mr. Sherlock Holmes, that if my friend here had not proposed coming round to you this morning I should have come on my own account. I understand that you think out little puzzles, and I've had one this morning which wants more thinking out than I am able to give it.",
+        "objectID": "fb19be8b4511a4097cd7b2b49076e375"
+      },
+      "previous": {
+        "content": "He wore a ruddy-tinted tweed suit and had the weather-beaten appearance of one who has spent most of his time in the open air, and yet there was something in his steady eye and the quiet assurance of his bearing which indicated the gentleman.",
+        "objectID": "7f9cf20df384d56ff64caea69f508198"
+      }
+    },
+    "objectID": "5fec1c8eae8853a1ffaf4a13d676f267",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Why, yes,\" said he, \"and the strange thing is, Mr. Sherlock Holmes, that if my friend here had not proposed coming round to you this morning I should have come on my own account. I understand that you think out little puzzles, and I've had one this morning which wants more thinking out than I am able to give it.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "bdd0ae02e9d15f9c2b1b4a417fc01836"
+      },
+      "previous": {
+        "content": "\"This is Sir Henry Baskerville,\" said Dr. Mortimer.",
+        "objectID": "5fec1c8eae8853a1ffaf4a13d676f267"
+      }
+    },
+    "objectID": "fb19be8b4511a4097cd7b2b49076e375",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Pray take a seat, Sir Henry. Do I understand you to say that you have yourself had some remarkable experience since you arrived in London?\"",
+        "objectID": "e94619264e77c7ed87f30be974c6f463"
+      },
+      "previous": {
+        "content": "\"Why, yes,\" said he, \"and the strange thing is, Mr. Sherlock Holmes, that if my friend here had not proposed coming round to you this morning I should have come on my own account. I understand that you think out little puzzles, and I've had one this morning which wants more thinking out than I am able to give it.",
+        "objectID": "fb19be8b4511a4097cd7b2b49076e375"
+      }
+    },
+    "objectID": "bdd0ae02e9d15f9c2b1b4a417fc01836",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Pray take a seat, Sir Henry. Do I understand you to say that you have yourself had some remarkable experience since you arrived in London?\"",
+    "context": {
+      "next": {
+        "content": "\"Nothing of much importance, Mr. Holmes. Only a joke, as like as not. It was this letter, if you can call it a letter, which reached me this morning.\"",
+        "objectID": "8c2d939c132b02143a24e588e39f247c"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "bdd0ae02e9d15f9c2b1b4a417fc01836"
+      }
+    },
+    "objectID": "e94619264e77c7ed87f30be974c6f463",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Nothing of much importance, Mr. Holmes. Only a joke, as like as not. It was this letter, if you can call it a letter, which reached me this morning.\"",
+    "context": {
+      "next": {
+        "content": "He laid an envelope upon the table, and we all bent over it. It was of common quality, grayish in colour. The address, \"Sir Henry Baskerville, Northumberland Hotel,\" was printed in rough characters; the post-mark \"Charing Cross,\" and the date of posting the preceding evening.",
+        "objectID": "f4e34db4fdc822d80189977320f0f7cd"
+      },
+      "previous": {
+        "content": "\"Pray take a seat, Sir Henry. Do I understand you to say that you have yourself had some remarkable experience since you arrived in London?\"",
+        "objectID": "e94619264e77c7ed87f30be974c6f463"
+      }
+    },
+    "objectID": "8c2d939c132b02143a24e588e39f247c",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "He laid an envelope upon the table, and we all bent over it. It was of common quality, grayish in colour. The address, \"Sir Henry Baskerville, Northumberland Hotel,\" was printed in rough characters; the post-mark \"Charing Cross,\" and the date of posting the preceding evening.",
+    "context": {
+      "next": {
+        "content": "\"Who knew that you were going to the Northumberland Hotel?\" asked Holmes, glancing keenly across at our visitor.",
+        "objectID": "83352256c60101c0784e7a37e0addbda"
+      },
+      "previous": {
+        "content": "\"Nothing of much importance, Mr. Holmes. Only a joke, as like as not. It was this letter, if you can call it a letter, which reached me this morning.\"",
+        "objectID": "8c2d939c132b02143a24e588e39f247c"
+      }
+    },
+    "objectID": "f4e34db4fdc822d80189977320f0f7cd",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Who knew that you were going to the Northumberland Hotel?\" asked Holmes, glancing keenly across at our visitor.",
+    "context": {
+      "next": {
+        "content": "\"No one could have known. We only decided after I met Dr. Mortimer.\"",
+        "objectID": "c5a9de442f7b31aed33df747a7d32bdf"
+      },
+      "previous": {
+        "content": "He laid an envelope upon the table, and we all bent over it. It was of common quality, grayish in colour. The address, \"Sir Henry Baskerville, Northumberland Hotel,\" was printed in rough characters; the post-mark \"Charing Cross,\" and the date of posting the preceding evening.",
+        "objectID": "f4e34db4fdc822d80189977320f0f7cd"
+      }
+    },
+    "objectID": "83352256c60101c0784e7a37e0addbda",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"No one could have known. We only decided after I met Dr. Mortimer.\"",
+    "context": {
+      "next": {
+        "content": "\"But Dr. Mortimer was no doubt already stopping there?\"",
+        "objectID": "9df2c4be20178a1e18e788515ebae7fa"
+      },
+      "previous": {
+        "content": "\"Who knew that you were going to the Northumberland Hotel?\" asked Holmes, glancing keenly across at our visitor.",
+        "objectID": "83352256c60101c0784e7a37e0addbda"
+      }
+    },
+    "objectID": "c5a9de442f7b31aed33df747a7d32bdf",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"But Dr. Mortimer was no doubt already stopping there?\"",
+    "context": {
+      "next": {
+        "content": "\"No, I had been staying with a friend,\" said the doctor.",
+        "objectID": "c8f47877d114f6ab2e43776ef3e564c3"
+      },
+      "previous": {
+        "content": "\"No one could have known. We only decided after I met Dr. Mortimer.\"",
+        "objectID": "c5a9de442f7b31aed33df747a7d32bdf"
+      }
+    },
+    "objectID": "9df2c4be20178a1e18e788515ebae7fa",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"No, I had been staying with a friend,\" said the doctor.",
+    "context": {
+      "next": {
+        "content": "\"There was no possible indication that we intended to go to this hotel.\"",
+        "objectID": "12cc86d154a63ee9367b635fef1382ed"
+      },
+      "previous": {
+        "content": "\"But Dr. Mortimer was no doubt already stopping there?\"",
+        "objectID": "9df2c4be20178a1e18e788515ebae7fa"
+      }
+    },
+    "objectID": "c8f47877d114f6ab2e43776ef3e564c3",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"There was no possible indication that we intended to go to this hotel.\"",
+    "context": {
+      "next": {
+        "content": "\"Hum! Someone seems to be very deeply interested in your movements.\" Out of the envelope he took a half-sheet of foolscap paper folded into four. This he opened and spread flat upon the table. Across the middle of it a single sentence had been formed by the expedient of pasting printed words upon it.",
+        "objectID": "67debf24e8570f8dcf49f41ff3525fd3"
+      },
+      "previous": {
+        "content": "\"No, I had been staying with a friend,\" said the doctor.",
+        "objectID": "c8f47877d114f6ab2e43776ef3e564c3"
+      }
+    },
+    "objectID": "12cc86d154a63ee9367b635fef1382ed",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Hum! Someone seems to be very deeply interested in your movements.\" Out of the envelope he took a half-sheet of foolscap paper folded into four. This he opened and spread flat upon the table. Across the middle of it a single sentence had been formed by the expedient of pasting printed words upon it.",
+    "context": {
+      "next": {
+        "content": "It ran:",
+        "objectID": "6501f62355f3514509df981ee057b699"
+      },
+      "previous": {
+        "content": "\"There was no possible indication that we intended to go to this hotel.\"",
+        "objectID": "12cc86d154a63ee9367b635fef1382ed"
+      }
+    },
+    "objectID": "67debf24e8570f8dcf49f41ff3525fd3",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "It ran:",
+    "context": {
+      "next": {
+        "content": "The word \"moor\" only was printed in ink.",
+        "objectID": "a1d6d198af07187be56abe97b38da9c3"
+      },
+      "previous": {
+        "content": "\"Hum! Someone seems to be very deeply interested in your movements.\" Out of the envelope he took a half-sheet of foolscap paper folded into four. This he opened and spread flat upon the table. Across the middle of it a single sentence had been formed by the expedient of pasting printed words upon it.",
+        "objectID": "67debf24e8570f8dcf49f41ff3525fd3"
+      }
+    },
+    "objectID": "6501f62355f3514509df981ee057b699",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "The word \"moor\" only was printed in ink.",
+    "context": {
+      "next": {
+        "content": "\"Now,\" said Sir Henry Baskerville, \"perhaps you will tell me, Mr. Holmes, what in thunder is the meaning of that, and who it is that takes so much interest in my affairs?\"",
+        "objectID": "ecd719025ed17dc7e117bd640e861dd0"
+      },
+      "previous": {
+        "content": "It ran:",
+        "objectID": "6501f62355f3514509df981ee057b699"
+      }
+    },
+    "objectID": "a1d6d198af07187be56abe97b38da9c3",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Now,\" said Sir Henry Baskerville, \"perhaps you will tell me, Mr. Holmes, what in thunder is the meaning of that, and who it is that takes so much interest in my affairs?\"",
+    "context": {
+      "next": {
+        "content": "\"What do you make of it, Dr. Mortimer? You must allow that there is nothing supernatural about this, at any rate?\"",
+        "objectID": "69542f8d7e68e2d7c4a5d6c4ddb68828"
+      },
+      "previous": {
+        "content": "The word \"moor\" only was printed in ink.",
+        "objectID": "a1d6d198af07187be56abe97b38da9c3"
+      }
+    },
+    "objectID": "ecd719025ed17dc7e117bd640e861dd0",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"What do you make of it, Dr. Mortimer? You must allow that there is nothing supernatural about this, at any rate?\"",
+    "context": {
+      "next": {
+        "content": "\"No, sir, but it might very well come from someone who was convinced that the business is supernatural.\"",
+        "objectID": "770a7e5c5c9c377d507f61c1b61bddda"
+      },
+      "previous": {
+        "content": "\"Now,\" said Sir Henry Baskerville, \"perhaps you will tell me, Mr. Holmes, what in thunder is the meaning of that, and who it is that takes so much interest in my affairs?\"",
+        "objectID": "ecd719025ed17dc7e117bd640e861dd0"
+      }
+    },
+    "objectID": "69542f8d7e68e2d7c4a5d6c4ddb68828",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"No, sir, but it might very well come from someone who was convinced that the business is supernatural.\"",
+    "context": {
+      "next": {
+        "content": "\"What business?\" asked Sir Henry sharply. \"It seems to me that all you gentlemen know a great deal more than I do about my own affairs.\"",
+        "objectID": "a3881b6527978f49997d7cd171831f4a"
+      },
+      "previous": {
+        "content": "\"What do you make of it, Dr. Mortimer? You must allow that there is nothing supernatural about this, at any rate?\"",
+        "objectID": "69542f8d7e68e2d7c4a5d6c4ddb68828"
+      }
+    },
+    "objectID": "770a7e5c5c9c377d507f61c1b61bddda",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"What business?\" asked Sir Henry sharply. \"It seems to me that all you gentlemen know a great deal more than I do about my own affairs.\"",
+    "context": {
+      "next": {
+        "content": "\"You shall share our knowledge before you leave this room, Sir Henry. I promise you that,\" said Sherlock Holmes. \"We will confine ourselves for the present with your permission to this very interesting document, which must have been put together and posted yesterday evening. Have you yesterday's Tim",
+        "objectID": "ab8d1503383afb7db6b071cc2a99aff5"
+      },
+      "previous": {
+        "content": "\"No, sir, but it might very well come from someone who was convinced that the business is supernatural.\"",
+        "objectID": "770a7e5c5c9c377d507f61c1b61bddda"
+      }
+    },
+    "objectID": "a3881b6527978f49997d7cd171831f4a",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"You shall share our knowledge before you leave this room, Sir Henry. I promise you that,\" said Sherlock Holmes. \"We will confine ourselves for the present with your permission to this very interesting document, which must have been put together and posted yesterday evening. Have you yesterday's Tim",
+    "context": {
+      "next": {
+        "content": "es, Watson?\"",
+        "objectID": "900b99b74660332aeaa4561ce23e07a8"
+      },
+      "previous": {
+        "content": "\"What business?\" asked Sir Henry sharply. \"It seems to me that all you gentlemen know a great deal more than I do about my own affairs.\"",
+        "objectID": "a3881b6527978f49997d7cd171831f4a"
+      }
+    },
+    "objectID": "ab8d1503383afb7db6b071cc2a99aff5",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "es, Watson?\"",
+    "context": {
+      "next": {
+        "content": "\"It is here in the corner.\"",
+        "objectID": "600d2da6426fb9da43b590058c238ed3"
+      },
+      "previous": {
+        "content": "\"You shall share our knowledge before you leave this room, Sir Henry. I promise you that,\" said Sherlock Holmes. \"We will confine ourselves for the present with your permission to this very interesting document, which must have been put together and posted yesterday evening. Have you yesterday's Tim",
+        "objectID": "ab8d1503383afb7db6b071cc2a99aff5"
+      }
+    },
+    "objectID": "900b99b74660332aeaa4561ce23e07a8",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"It is here in the corner.\"",
+    "context": {
+      "next": {
+        "content": "\"Might I trouble you for it—the inside page, please, with the leading articles?\" He glanced swiftly over it, running his eyes up and down the columns. \"Capital article this on free trade. Permit me to give you an extract from it.",
+        "objectID": "bc31b4b5128aeefab9ee41faeaa18675"
+      },
+      "previous": {
+        "content": "es, Watson?\"",
+        "objectID": "900b99b74660332aeaa4561ce23e07a8"
+      }
+    },
+    "objectID": "600d2da6426fb9da43b590058c238ed3",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Might I trouble you for it—the inside page, please, with the leading articles?\" He glanced swiftly over it, running his eyes up and down the columns. \"Capital article this on free trade. Permit me to give you an extract from it.",
+    "context": {
+      "next": {
+        "content": "\"What do you think of that, Watson?\" cried Holmes in high glee, rubbing his hands together with satisfaction. \"Don't you think that is an admirable sentiment?\"",
+        "objectID": "70d827a44179dd3f44bc683b992f5ab1"
+      },
+      "previous": {
+        "content": "\"It is here in the corner.\"",
+        "objectID": "600d2da6426fb9da43b590058c238ed3"
+      }
+    },
+    "objectID": "bc31b4b5128aeefab9ee41faeaa18675",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"What do you think of that, Watson?\" cried Holmes in high glee, rubbing his hands together with satisfaction. \"Don't you think that is an admirable sentiment?\"",
+    "context": {
+      "next": {
+        "content": "Dr. Mortimer looked at Holmes with an air of professional interest, and Sir Henry Baskerville turned a pair of puzzled dark eyes upon me.",
+        "objectID": "4fad9561fdbc3266fb876c9a63e041d3"
+      },
+      "previous": {
+        "content": "\"Might I trouble you for it—the inside page, please, with the leading articles?\" He glanced swiftly over it, running his eyes up and down the columns. \"Capital article this on free trade. Permit me to give you an extract from it.",
+        "objectID": "bc31b4b5128aeefab9ee41faeaa18675"
+      }
+    },
+    "objectID": "70d827a44179dd3f44bc683b992f5ab1",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "Dr. Mortimer looked at Holmes with an air of professional interest, and Sir Henry Baskerville turned a pair of puzzled dark eyes upon me.",
+    "context": {
+      "next": {
+        "content": "\"I don't know much about the tariff and things of that kind,\" said he, \"but it seems to me we've got a bit off the trail so far as that note is concerned.\"",
+        "objectID": "f6ef91b2b06ff8e0e05308a568da27a9"
+      },
+      "previous": {
+        "content": "\"What do you think of that, Watson?\" cried Holmes in high glee, rubbing his hands together with satisfaction. \"Don't you think that is an admirable sentiment?\"",
+        "objectID": "70d827a44179dd3f44bc683b992f5ab1"
+      }
+    },
+    "objectID": "4fad9561fdbc3266fb876c9a63e041d3",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"I don't know much about the tariff and things of that kind,\" said he, \"but it seems to me we've got a bit off the trail so far as that note is concerned.\"",
+    "context": {
+      "next": {
+        "content": "\"On the contrary, I think we are particularly hot upon the trail, Sir Henry. Watson here knows more about my methods than you do, but I fear that even he has not quite grasped the significance of this sentence.\"",
+        "objectID": "8e546d275d61858f6d49cd13d314fecd"
+      },
+      "previous": {
+        "content": "Dr. Mortimer looked at Holmes with an air of professional interest, and Sir Henry Baskerville turned a pair of puzzled dark eyes upon me.",
+        "objectID": "4fad9561fdbc3266fb876c9a63e041d3"
+      }
+    },
+    "objectID": "f6ef91b2b06ff8e0e05308a568da27a9",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"On the contrary, I think we are particularly hot upon the trail, Sir Henry. Watson here knows more about my methods than you do, but I fear that even he has not quite grasped the significance of this sentence.\"",
+    "context": {
+      "next": {
+        "content": "\"No, I confess that I see no connection.\"",
+        "objectID": "bf62680b9bed5c3a33c475e279fbdc03"
+      },
+      "previous": {
+        "content": "\"I don't know much about the tariff and things of that kind,\" said he, \"but it seems to me we've got a bit off the trail so far as that note is concerned.\"",
+        "objectID": "f6ef91b2b06ff8e0e05308a568da27a9"
+      }
+    },
+    "objectID": "8e546d275d61858f6d49cd13d314fecd",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"No, I confess that I see no connection.\"",
+    "context": {
+      "next": {
+        "content": "\"And yet, my dear Watson, there is so very close a connection that the one is extracted out of the other. 'You,' 'your,' 'your,' 'life,' 'reason,' 'value,' 'keep away,' 'from the.' Don't you see now whence these words have been taken?\"",
+        "objectID": "d88fd8542ce98b859bb63cc91ff90014"
+      },
+      "previous": {
+        "content": "\"On the contrary, I think we are particularly hot upon the trail, Sir Henry. Watson here knows more about my methods than you do, but I fear that even he has not quite grasped the significance of this sentence.\"",
+        "objectID": "8e546d275d61858f6d49cd13d314fecd"
+      }
+    },
+    "objectID": "bf62680b9bed5c3a33c475e279fbdc03",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"And yet, my dear Watson, there is so very close a connection that the one is extracted out of the other. 'You,' 'your,' 'your,' 'life,' 'reason,' 'value,' 'keep away,' 'from the.' Don't you see now whence these words have been taken?\"",
+    "context": {
+      "next": {
+        "content": "\"By thunder, you're right! Well, if that isn't smart!\" cried Sir Henry.",
+        "objectID": "37556164030caf5452c671a9eaabafdd"
+      },
+      "previous": {
+        "content": "\"No, I confess that I see no connection.\"",
+        "objectID": "bf62680b9bed5c3a33c475e279fbdc03"
+      }
+    },
+    "objectID": "d88fd8542ce98b859bb63cc91ff90014",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"By thunder, you're right! Well, if that isn't smart!\" cried Sir Henry.",
+    "context": {
+      "next": {
+        "content": "\"If any possible doubt remained it is settled by the fact that 'keep away' and 'from the' are cut out in one piece.\"",
+        "objectID": "4852b5f3a334c6e411d93861c651621f"
+      },
+      "previous": {
+        "content": "\"And yet, my dear Watson, there is so very close a connection that the one is extracted out of the other. 'You,' 'your,' 'your,' 'life,' 'reason,' 'value,' 'keep away,' 'from the.' Don't you see now whence these words have been taken?\"",
+        "objectID": "d88fd8542ce98b859bb63cc91ff90014"
+      }
+    },
+    "objectID": "37556164030caf5452c671a9eaabafdd",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"If any possible doubt remained it is settled by the fact that 'keep away' and 'from the' are cut out in one piece.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, now—so it is!\"",
+        "objectID": "e88176fbaf6c30174ac00ff12645694c"
+      },
+      "previous": {
+        "content": "\"By thunder, you're right! Well, if that isn't smart!\" cried Sir Henry.",
+        "objectID": "37556164030caf5452c671a9eaabafdd"
+      }
+    },
+    "objectID": "4852b5f3a334c6e411d93861c651621f",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Well, now—so it is!\"",
+    "context": {
+      "next": {
+        "content": "\"Really, Mr. Holmes, this exceeds anything which I could have imagined,\" said Dr. Mortimer, gazing at my friend in amazement. \"I could understand anyone saying that the words were from a newspaper; but that you should name which, and add that it came from the leading article, is really one of the most remarkable things which I have ever known.",
+        "objectID": "33ad90451b2cb37f95ff4f510bd27582"
+      },
+      "previous": {
+        "content": "\"If any possible doubt remained it is settled by the fact that 'keep away' and 'from the' are cut out in one piece.\"",
+        "objectID": "4852b5f3a334c6e411d93861c651621f"
+      }
+    },
+    "objectID": "e88176fbaf6c30174ac00ff12645694c",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Really, Mr. Holmes, this exceeds anything which I could have imagined,\" said Dr. Mortimer, gazing at my friend in amazement. \"I could understand anyone saying that the words were from a newspaper; but that you should name which, and add that it came from the leading article, is really one of the most remarkable things which I have ever known.",
+    "context": {
+      "next": {
+        "content": "How did you do it?\"",
+        "objectID": "c719d1a3d670dc7d793799b2c90f7b84"
+      },
+      "previous": {
+        "content": "\"Well, now—so it is!\"",
+        "objectID": "e88176fbaf6c30174ac00ff12645694c"
+      }
+    },
+    "objectID": "33ad90451b2cb37f95ff4f510bd27582",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "How did you do it?\"",
+    "context": {
+      "next": {
+        "content": "\"I presume, Doctor, that you could tell the skull of a negro from that of an Esquimau?\"",
+        "objectID": "b37e4f2b24987d5f6c07a23a615a9328"
+      },
+      "previous": {
+        "content": "\"Really, Mr. Holmes, this exceeds anything which I could have imagined,\" said Dr. Mortimer, gazing at my friend in amazement. \"I could understand anyone saying that the words were from a newspaper; but that you should name which, and add that it came from the leading article, is really one of the most remarkable things which I have ever known.",
+        "objectID": "33ad90451b2cb37f95ff4f510bd27582"
+      }
+    },
+    "objectID": "c719d1a3d670dc7d793799b2c90f7b84",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"I presume, Doctor, that you could tell the skull of a negro from that of an Esquimau?\"",
+    "context": {
+      "next": {
+        "content": "\"Most certainly.\"",
+        "objectID": "81045c2f7a017ddc4fc963a52720dc56"
+      },
+      "previous": {
+        "content": "How did you do it?\"",
+        "objectID": "c719d1a3d670dc7d793799b2c90f7b84"
+      }
+    },
+    "objectID": "b37e4f2b24987d5f6c07a23a615a9328",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Most certainly.\"",
+    "context": {
+      "next": {
+        "content": "\"But how?\"",
+        "objectID": "7729c112d718b794fa4c99885df217bc"
+      },
+      "previous": {
+        "content": "\"I presume, Doctor, that you could tell the skull of a negro from that of an Esquimau?\"",
+        "objectID": "b37e4f2b24987d5f6c07a23a615a9328"
+      }
+    },
+    "objectID": "81045c2f7a017ddc4fc963a52720dc56",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"But how?\"",
+    "context": {
+      "next": {
+        "content": "\"Because that is my special hobby. The differences are obvious. The supra-orbital crest, the facial angle, the maxillary curve, the—\"",
+        "objectID": "12025b7ac8153982a1b25947abcb43ce"
+      },
+      "previous": {
+        "content": "\"Most certainly.\"",
+        "objectID": "81045c2f7a017ddc4fc963a52720dc56"
+      }
+    },
+    "objectID": "7729c112d718b794fa4c99885df217bc",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Because that is my special hobby. The differences are obvious. The supra-orbital crest, the facial angle, the maxillary curve, the—\"",
+    "context": {
+      "next": {
+        "content": "\"But this is my special hobby, and the differences are equally obvious. There is as much difference to my eyes between the leaded bourgeois type of a Times article and the slovenly print of an evening half-penny paper as there could be between your negro and your Esquimau. The detection of types is one of the most elementary branches of knowledge to the special expert in crime, though I confess that once when I was very young I confused the Leeds Mercury with the Western Morning News.",
+        "objectID": "9a8730e32acb61b4c01aa44fa5e796db"
+      },
+      "previous": {
+        "content": "\"But how?\"",
+        "objectID": "7729c112d718b794fa4c99885df217bc"
+      }
+    },
+    "objectID": "12025b7ac8153982a1b25947abcb43ce",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"But this is my special hobby, and the differences are equally obvious. There is as much difference to my eyes between the leaded bourgeois type of a Times article and the slovenly print of an evening half-penny paper as there could be between your negro and your Esquimau. The detection of types is one of the most elementary branches of knowledge to the special expert in crime, though I confess that once when I was very young I confused the Leeds Mercury with the Western Morning News.",
+    "context": {
+      "next": {
+        "content": "But a Times leader is entirely distinctive, and these words could have been taken from nothing else. As it was done yesterday the strong probability was that we should find the words in yesterday's issue.\"",
+        "objectID": "4d43853ed2fd12d8f2938a837f1d8555"
+      },
+      "previous": {
+        "content": "\"Because that is my special hobby. The differences are obvious. The supra-orbital crest, the facial angle, the maxillary curve, the—\"",
+        "objectID": "12025b7ac8153982a1b25947abcb43ce"
+      }
+    },
+    "objectID": "9a8730e32acb61b4c01aa44fa5e796db",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "But a Times leader is entirely distinctive, and these words could have been taken from nothing else. As it was done yesterday the strong probability was that we should find the words in yesterday's issue.\"",
+    "context": {
+      "next": {
+        "content": "\"So far as I can follow you, then, Mr. Holmes,\" said Sir Henry Baskerville, \"someone cut out this message with a scissors—\"",
+        "objectID": "54809f75f9b5e2f4ac25c7350261b5e4"
+      },
+      "previous": {
+        "content": "\"But this is my special hobby, and the differences are equally obvious. There is as much difference to my eyes between the leaded bourgeois type of a Times article and the slovenly print of an evening half-penny paper as there could be between your negro and your Esquimau. The detection of types is one of the most elementary branches of knowledge to the special expert in crime, though I confess that once when I was very young I confused the Leeds Mercury with the Western Morning News.",
+        "objectID": "9a8730e32acb61b4c01aa44fa5e796db"
+      }
+    },
+    "objectID": "4d43853ed2fd12d8f2938a837f1d8555",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"So far as I can follow you, then, Mr. Holmes,\" said Sir Henry Baskerville, \"someone cut out this message with a scissors—\"",
+    "context": {
+      "next": {
+        "content": "\"Nail-scissors,\" said Holmes. \"You can see that it was a very short-bladed scissors, since the cutter had to take two snips over 'keep away.'\"",
+        "objectID": "3969c01fd325e371308426c92aba8293"
+      },
+      "previous": {
+        "content": "But a Times leader is entirely distinctive, and these words could have been taken from nothing else. As it was done yesterday the strong probability was that we should find the words in yesterday's issue.\"",
+        "objectID": "4d43853ed2fd12d8f2938a837f1d8555"
+      }
+    },
+    "objectID": "54809f75f9b5e2f4ac25c7350261b5e4",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Nail-scissors,\" said Holmes. \"You can see that it was a very short-bladed scissors, since the cutter had to take two snips over 'keep away.'\"",
+    "context": {
+      "next": {
+        "content": "\"That is so. Someone, then, cut out the message with a pair of short-bladed scissors, pasted it with paste—\"",
+        "objectID": "cd53368154a1298c5015e2dccb5b1227"
+      },
+      "previous": {
+        "content": "\"So far as I can follow you, then, Mr. Holmes,\" said Sir Henry Baskerville, \"someone cut out this message with a scissors—\"",
+        "objectID": "54809f75f9b5e2f4ac25c7350261b5e4"
+      }
+    },
+    "objectID": "3969c01fd325e371308426c92aba8293",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"That is so. Someone, then, cut out the message with a pair of short-bladed scissors, pasted it with paste—\"",
+    "context": {
+      "next": {
+        "content": "\"Gum,\" said Holmes.",
+        "objectID": "091ed0f2cfd912936f6793a25a7e439d"
+      },
+      "previous": {
+        "content": "\"Nail-scissors,\" said Holmes. \"You can see that it was a very short-bladed scissors, since the cutter had to take two snips over 'keep away.'\"",
+        "objectID": "3969c01fd325e371308426c92aba8293"
+      }
+    },
+    "objectID": "cd53368154a1298c5015e2dccb5b1227",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Gum,\" said Holmes.",
+    "context": {
+      "next": {
+        "content": "\"With gum on to the paper. But I want to know why the word 'moor' should have been written?\"",
+        "objectID": "d3a75e9bb9bae2ec9d93277aa7e82ba6"
+      },
+      "previous": {
+        "content": "\"That is so. Someone, then, cut out the message with a pair of short-bladed scissors, pasted it with paste—\"",
+        "objectID": "cd53368154a1298c5015e2dccb5b1227"
+      }
+    },
+    "objectID": "091ed0f2cfd912936f6793a25a7e439d",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"With gum on to the paper. But I want to know why the word 'moor' should have been written?\"",
+    "context": {
+      "next": {
+        "content": "\"Because he could not find it in print. The other words were all simple and might be found in any issue, but 'moor' would be less common.\"",
+        "objectID": "5b12057fd268a1f87967f0604fb5a201"
+      },
+      "previous": {
+        "content": "\"Gum,\" said Holmes.",
+        "objectID": "091ed0f2cfd912936f6793a25a7e439d"
+      }
+    },
+    "objectID": "d3a75e9bb9bae2ec9d93277aa7e82ba6",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Because he could not find it in print. The other words were all simple and might be found in any issue, but 'moor' would be less common.\"",
+    "context": {
+      "next": {
+        "content": "\"Why, of course, that would explain it. Have you read anything else in this message, Mr. Holmes?\"",
+        "objectID": "292ee0ee18d7e86066e8d8b3481919b2"
+      },
+      "previous": {
+        "content": "\"With gum on to the paper. But I want to know why the word 'moor' should have been written?\"",
+        "objectID": "d3a75e9bb9bae2ec9d93277aa7e82ba6"
+      }
+    },
+    "objectID": "5b12057fd268a1f87967f0604fb5a201",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Why, of course, that would explain it. Have you read anything else in this message, Mr. Holmes?\"",
+    "context": {
+      "next": {
+        "content": "\"There are one or two indications, and yet the utmost pains have been taken to remove all clues. The address, you observe is printed in rough characters. But the Times is a paper which is seldom found in any hands but those of the highly educated. We may take it, therefore, that the letter was composed by an educated man who wished to pose as an uneducated one, and his effort to conceal his own writing suggests that that writing might be known, or come to be known, by you.",
+        "objectID": "4e440aea14fe31e68e917de35442c816"
+      },
+      "previous": {
+        "content": "\"Because he could not find it in print. The other words were all simple and might be found in any issue, but 'moor' would be less common.\"",
+        "objectID": "5b12057fd268a1f87967f0604fb5a201"
+      }
+    },
+    "objectID": "292ee0ee18d7e86066e8d8b3481919b2",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"There are one or two indications, and yet the utmost pains have been taken to remove all clues. The address, you observe is printed in rough characters. But the Times is a paper which is seldom found in any hands but those of the highly educated. We may take it, therefore, that the letter was composed by an educated man who wished to pose as an uneducated one, and his effort to conceal his own writing suggests that that writing might be known, or come to be known, by you.",
+    "context": {
+      "next": {
+        "content": "Again, you will observe that the words are not gummed on in an accurate line, but that some are much higher than others. 'Life,' for example is quite out of its proper place. That may point to carelessness or it may point to agitation and hurry upon the part of the cutter. On the whole I incline to the latter view, since the matter was evidently important, and it is unlikely that the composer of such a letter would be careless.",
+        "objectID": "455b5c4433517025dc1853aea72b7b48"
+      },
+      "previous": {
+        "content": "\"Why, of course, that would explain it. Have you read anything else in this message, Mr. Holmes?\"",
+        "objectID": "292ee0ee18d7e86066e8d8b3481919b2"
+      }
+    },
+    "objectID": "4e440aea14fe31e68e917de35442c816",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "Again, you will observe that the words are not gummed on in an accurate line, but that some are much higher than others. 'Life,' for example is quite out of its proper place. That may point to carelessness or it may point to agitation and hurry upon the part of the cutter. On the whole I incline to the latter view, since the matter was evidently important, and it is unlikely that the composer of such a letter would be careless.",
+    "context": {
+      "next": {
+        "content": "If he were in a hurry it opens up the interesting question why he should be in a hurry, since any letter posted up to early morning would reach Sir Henry before he would leave his hotel. Did the composer fear an interruption—and from whom?\"",
+        "objectID": "627dc5872242ece15d32d0376dceff27"
+      },
+      "previous": {
+        "content": "\"There are one or two indications, and yet the utmost pains have been taken to remove all clues. The address, you observe is printed in rough characters. But the Times is a paper which is seldom found in any hands but those of the highly educated. We may take it, therefore, that the letter was composed by an educated man who wished to pose as an uneducated one, and his effort to conceal his own writing suggests that that writing might be known, or come to be known, by you.",
+        "objectID": "4e440aea14fe31e68e917de35442c816"
+      }
+    },
+    "objectID": "455b5c4433517025dc1853aea72b7b48",
+    "order": 50,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "If he were in a hurry it opens up the interesting question why he should be in a hurry, since any letter posted up to early morning would reach Sir Henry before he would leave his hotel. Did the composer fear an interruption—and from whom?\"",
+    "context": {
+      "next": {
+        "content": "\"We are coming now rather into the region of guesswork,\" said Dr. Mortimer.",
+        "objectID": "115a0e0107eaf33d2df871683488ef03"
+      },
+      "previous": {
+        "content": "Again, you will observe that the words are not gummed on in an accurate line, but that some are much higher than others. 'Life,' for example is quite out of its proper place. That may point to carelessness or it may point to agitation and hurry upon the part of the cutter. On the whole I incline to the latter view, since the matter was evidently important, and it is unlikely that the composer of such a letter would be careless.",
+        "objectID": "455b5c4433517025dc1853aea72b7b48"
+      }
+    },
+    "objectID": "627dc5872242ece15d32d0376dceff27",
+    "order": 51,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"We are coming now rather into the region of guesswork,\" said Dr. Mortimer.",
+    "context": {
+      "next": {
+        "content": "\"Say, rather, into the region where we balance probabilities and choose the most likely. It is the scientific use of the imagination, but we have always some material basis on which to start our speculation. Now, you would call it a guess, no doubt, but I am almost certain that this address has been written in a hotel.",
+        "objectID": "0ff2b969b438b73d19c7228c4e9dec37"
+      },
+      "previous": {
+        "content": "If he were in a hurry it opens up the interesting question why he should be in a hurry, since any letter posted up to early morning would reach Sir Henry before he would leave his hotel. Did the composer fear an interruption—and from whom?\"",
+        "objectID": "627dc5872242ece15d32d0376dceff27"
+      }
+    },
+    "objectID": "115a0e0107eaf33d2df871683488ef03",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Say, rather, into the region where we balance probabilities and choose the most likely. It is the scientific use of the imagination, but we have always some material basis on which to start our speculation. Now, you would call it a guess, no doubt, but I am almost certain that this address has been written in a hotel.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "6324413509c3bc5b13580fcf76498dba"
+      },
+      "previous": {
+        "content": "\"We are coming now rather into the region of guesswork,\" said Dr. Mortimer.",
+        "objectID": "115a0e0107eaf33d2df871683488ef03"
+      }
+    },
+    "objectID": "0ff2b969b438b73d19c7228c4e9dec37",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"How in the world can you say that?\"",
+        "objectID": "725d4be30568b09b1e77d3673d25e662"
+      },
+      "previous": {
+        "content": "\"Say, rather, into the region where we balance probabilities and choose the most likely. It is the scientific use of the imagination, but we have always some material basis on which to start our speculation. Now, you would call it a guess, no doubt, but I am almost certain that this address has been written in a hotel.",
+        "objectID": "0ff2b969b438b73d19c7228c4e9dec37"
+      }
+    },
+    "objectID": "6324413509c3bc5b13580fcf76498dba",
+    "order": 54,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"How in the world can you say that?\"",
+    "context": {
+      "next": {
+        "content": "\"If you examine it carefully you will see that both the pen and the ink have given the writer trouble. The pen has spluttered twice in a single word and has run dry three times in a short address, showing that there was very little ink in the bottle. Now, a private pen or ink-bottle is seldom allowed to be in such a state, and the combination of the two must be quite rare.",
+        "objectID": "7f210e11d65694c6c84f052c4874a787"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "6324413509c3bc5b13580fcf76498dba"
+      }
+    },
+    "objectID": "725d4be30568b09b1e77d3673d25e662",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"If you examine it carefully you will see that both the pen and the ink have given the writer trouble. The pen has spluttered twice in a single word and has run dry three times in a short address, showing that there was very little ink in the bottle. Now, a private pen or ink-bottle is seldom allowed to be in such a state, and the combination of the two must be quite rare.",
+    "context": {
+      "next": {
+        "content": "But you know the hotel ink and the hotel pen, where it is rare to get anything else. Yes, I have very little hesitation in saying that could we examine the waste-paper baskets of the hotels around Charing Cross until we found the remains of the mutilated Times leader we could lay our hands straight upon the person who sent this singular message.",
+        "objectID": "7a8764313790f60917b058c618eb059e"
+      },
+      "previous": {
+        "content": "\"How in the world can you say that?\"",
+        "objectID": "725d4be30568b09b1e77d3673d25e662"
+      }
+    },
+    "objectID": "7f210e11d65694c6c84f052c4874a787",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "But you know the hotel ink and the hotel pen, where it is rare to get anything else. Yes, I have very little hesitation in saying that could we examine the waste-paper baskets of the hotels around Charing Cross until we found the remains of the mutilated Times leader we could lay our hands straight upon the person who sent this singular message.",
+    "context": {
+      "next": {
+        "content": "Halloa! Halloa! What's this?\"",
+        "objectID": "b48ae32efedadb3a01fab7575ab0d498"
+      },
+      "previous": {
+        "content": "\"If you examine it carefully you will see that both the pen and the ink have given the writer trouble. The pen has spluttered twice in a single word and has run dry three times in a short address, showing that there was very little ink in the bottle. Now, a private pen or ink-bottle is seldom allowed to be in such a state, and the combination of the two must be quite rare.",
+        "objectID": "7f210e11d65694c6c84f052c4874a787"
+      }
+    },
+    "objectID": "7a8764313790f60917b058c618eb059e",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "Halloa! Halloa! What's this?\"",
+    "context": {
+      "next": {
+        "content": "He was carefully examining the foolscap, upon which the words were pasted, holding it only an inch or two from his eyes.",
+        "objectID": "297ca1bc7a95098188b2f6b164ba10ca"
+      },
+      "previous": {
+        "content": "But you know the hotel ink and the hotel pen, where it is rare to get anything else. Yes, I have very little hesitation in saying that could we examine the waste-paper baskets of the hotels around Charing Cross until we found the remains of the mutilated Times leader we could lay our hands straight upon the person who sent this singular message.",
+        "objectID": "7a8764313790f60917b058c618eb059e"
+      }
+    },
+    "objectID": "b48ae32efedadb3a01fab7575ab0d498",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "He was carefully examining the foolscap, upon which the words were pasted, holding it only an inch or two from his eyes.",
+    "context": {
+      "next": {
+        "content": "\"Well?\"",
+        "objectID": "4a8986c105760d0be68247df4098271c"
+      },
+      "previous": {
+        "content": "Halloa! Halloa! What's this?\"",
+        "objectID": "b48ae32efedadb3a01fab7575ab0d498"
+      }
+    },
+    "objectID": "297ca1bc7a95098188b2f6b164ba10ca",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Well?\"",
+    "context": {
+      "next": {
+        "content": "\"Nothing,\" said he, throwing it down. \"It is a blank half-sheet of paper, without even a water-mark upon it. I think we have drawn as much as we can from this curious letter; and now, Sir Henry, has anything else of interest happened to you since you have been in London?\"",
+        "objectID": "555a82c08db03efbbd89f263e339b021"
+      },
+      "previous": {
+        "content": "He was carefully examining the foolscap, upon which the words were pasted, holding it only an inch or two from his eyes.",
+        "objectID": "297ca1bc7a95098188b2f6b164ba10ca"
+      }
+    },
+    "objectID": "4a8986c105760d0be68247df4098271c",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Nothing,\" said he, throwing it down. \"It is a blank half-sheet of paper, without even a water-mark upon it. I think we have drawn as much as we can from this curious letter; and now, Sir Henry, has anything else of interest happened to you since you have been in London?\"",
+    "context": {
+      "next": {
+        "content": "\"Why, no, Mr. Holmes. I think not.\"",
+        "objectID": "356302c32ae3f78010a91ca93e41ecf0"
+      },
+      "previous": {
+        "content": "\"Well?\"",
+        "objectID": "4a8986c105760d0be68247df4098271c"
+      }
+    },
+    "objectID": "555a82c08db03efbbd89f263e339b021",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Why, no, Mr. Holmes. I think not.\"",
+    "context": {
+      "next": {
+        "content": "\"You have not observed anyone follow or watch you?\"",
+        "objectID": "c395f4f027920e7ca0288d008d7f55ad"
+      },
+      "previous": {
+        "content": "\"Nothing,\" said he, throwing it down. \"It is a blank half-sheet of paper, without even a water-mark upon it. I think we have drawn as much as we can from this curious letter; and now, Sir Henry, has anything else of interest happened to you since you have been in London?\"",
+        "objectID": "555a82c08db03efbbd89f263e339b021"
+      }
+    },
+    "objectID": "356302c32ae3f78010a91ca93e41ecf0",
+    "order": 62,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"You have not observed anyone follow or watch you?\"",
+    "context": {
+      "next": {
+        "content": "\"I seem to have walked right into the thick of a dime novel,\" said our visitor. \"Why in thunder should anyone follow or watch me?\"",
+        "objectID": "0aec0403588b2b9ea75bf1ce0187a7c5"
+      },
+      "previous": {
+        "content": "\"Why, no, Mr. Holmes. I think not.\"",
+        "objectID": "356302c32ae3f78010a91ca93e41ecf0"
+      }
+    },
+    "objectID": "c395f4f027920e7ca0288d008d7f55ad",
+    "order": 63,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"I seem to have walked right into the thick of a dime novel,\" said our visitor. \"Why in thunder should anyone follow or watch me?\"",
+    "context": {
+      "next": {
+        "content": "\"We are coming to that. You have nothing else to report to us before we go into this matter?\"",
+        "objectID": "6dcb505b1ed3790bf5947266c41ecc27"
+      },
+      "previous": {
+        "content": "\"You have not observed anyone follow or watch you?\"",
+        "objectID": "c395f4f027920e7ca0288d008d7f55ad"
+      }
+    },
+    "objectID": "0aec0403588b2b9ea75bf1ce0187a7c5",
+    "order": 64,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"We are coming to that. You have nothing else to report to us before we go into this matter?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, it depends upon what you think worth reporting.\"",
+        "objectID": "84c4f01950391a33566e11a0420c9286"
+      },
+      "previous": {
+        "content": "\"I seem to have walked right into the thick of a dime novel,\" said our visitor. \"Why in thunder should anyone follow or watch me?\"",
+        "objectID": "0aec0403588b2b9ea75bf1ce0187a7c5"
+      }
+    },
+    "objectID": "6dcb505b1ed3790bf5947266c41ecc27",
+    "order": 65,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Well, it depends upon what you think worth reporting.\"",
+    "context": {
+      "next": {
+        "content": "\"I think anything out of the ordinary routine of life well worth reporting.\"",
+        "objectID": "d97d9e6b56cf05b49b89f0575c032f39"
+      },
+      "previous": {
+        "content": "\"We are coming to that. You have nothing else to report to us before we go into this matter?\"",
+        "objectID": "6dcb505b1ed3790bf5947266c41ecc27"
+      }
+    },
+    "objectID": "84c4f01950391a33566e11a0420c9286",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"I think anything out of the ordinary routine of life well worth reporting.\"",
+    "context": {
+      "next": {
+        "content": "Sir Henry smiled. \"I don't know much of British life yet, for I have spent nearly all my time in the States and in Canada. But I hope that to lose one of your boots is not part of the ordinary routine of life over here.\"",
+        "objectID": "a5dee62ffedc9799b7bd89fe5e6b4fd1"
+      },
+      "previous": {
+        "content": "\"Well, it depends upon what you think worth reporting.\"",
+        "objectID": "84c4f01950391a33566e11a0420c9286"
+      }
+    },
+    "objectID": "d97d9e6b56cf05b49b89f0575c032f39",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "Sir Henry smiled. \"I don't know much of British life yet, for I have spent nearly all my time in the States and in Canada. But I hope that to lose one of your boots is not part of the ordinary routine of life over here.\"",
+    "context": {
+      "next": {
+        "content": "\"You have lost one of your boots?\"",
+        "objectID": "1804e29a902597f8f2e9b3957a40e883"
+      },
+      "previous": {
+        "content": "\"I think anything out of the ordinary routine of life well worth reporting.\"",
+        "objectID": "d97d9e6b56cf05b49b89f0575c032f39"
+      }
+    },
+    "objectID": "a5dee62ffedc9799b7bd89fe5e6b4fd1",
+    "order": 68,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"You have lost one of your boots?\"",
+    "context": {
+      "next": {
+        "content": "\"My dear sir,\" cried Dr. Mortimer, \"it is only mislaid. You will find it when you return to the hotel. What is the use of troubling Mr. Holmes with trifles of this kind?\"",
+        "objectID": "34c2289459b05f9a668043baa9953bb2"
+      },
+      "previous": {
+        "content": "Sir Henry smiled. \"I don't know much of British life yet, for I have spent nearly all my time in the States and in Canada. But I hope that to lose one of your boots is not part of the ordinary routine of life over here.\"",
+        "objectID": "a5dee62ffedc9799b7bd89fe5e6b4fd1"
+      }
+    },
+    "objectID": "1804e29a902597f8f2e9b3957a40e883",
+    "order": 69,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"My dear sir,\" cried Dr. Mortimer, \"it is only mislaid. You will find it when you return to the hotel. What is the use of troubling Mr. Holmes with trifles of this kind?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, he asked me for anything outside the ordinary routine.\"",
+        "objectID": "f45a673a491551df9582c1013861b312"
+      },
+      "previous": {
+        "content": "\"You have lost one of your boots?\"",
+        "objectID": "1804e29a902597f8f2e9b3957a40e883"
+      }
+    },
+    "objectID": "34c2289459b05f9a668043baa9953bb2",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Well, he asked me for anything outside the ordinary routine.\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly,\" said Holmes, \"however foolish the incident may seem. You have lost one of your boots, you say?\"",
+        "objectID": "8cec33ecca6b8d998d9b75e423f6bffc"
+      },
+      "previous": {
+        "content": "\"My dear sir,\" cried Dr. Mortimer, \"it is only mislaid. You will find it when you return to the hotel. What is the use of troubling Mr. Holmes with trifles of this kind?\"",
+        "objectID": "34c2289459b05f9a668043baa9953bb2"
+      }
+    },
+    "objectID": "f45a673a491551df9582c1013861b312",
+    "order": 71,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Exactly,\" said Holmes, \"however foolish the incident may seem. You have lost one of your boots, you say?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, mislaid it, anyhow. I put them both outside my door last night, and there was only one in the morning. I could get no sense out of the chap who cleans them. The worst of it is that I only bought the pair last night in the Strand, and I have never had them on.\"",
+        "objectID": "3bb2d86357164f4ed4d9b09d3dee69a1"
+      },
+      "previous": {
+        "content": "\"Well, he asked me for anything outside the ordinary routine.\"",
+        "objectID": "f45a673a491551df9582c1013861b312"
+      }
+    },
+    "objectID": "8cec33ecca6b8d998d9b75e423f6bffc",
+    "order": 72,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Well, mislaid it, anyhow. I put them both outside my door last night, and there was only one in the morning. I could get no sense out of the chap who cleans them. The worst of it is that I only bought the pair last night in the Strand, and I have never had them on.\"",
+    "context": {
+      "next": {
+        "content": "\"If you have never worn them, why did you put them out to be cleaned?\"",
+        "objectID": "3a02dba6732b4aae080776dd6df2c0f4"
+      },
+      "previous": {
+        "content": "\"Exactly,\" said Holmes, \"however foolish the incident may seem. You have lost one of your boots, you say?\"",
+        "objectID": "8cec33ecca6b8d998d9b75e423f6bffc"
+      }
+    },
+    "objectID": "3bb2d86357164f4ed4d9b09d3dee69a1",
+    "order": 73,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"If you have never worn them, why did you put them out to be cleaned?\"",
+    "context": {
+      "next": {
+        "content": "\"They were tan boots and had never been varnished. That was why I put them out.\"",
+        "objectID": "5fc8a291c47930d520b963eaf3f2541f"
+      },
+      "previous": {
+        "content": "\"Well, mislaid it, anyhow. I put them both outside my door last night, and there was only one in the morning. I could get no sense out of the chap who cleans them. The worst of it is that I only bought the pair last night in the Strand, and I have never had them on.\"",
+        "objectID": "3bb2d86357164f4ed4d9b09d3dee69a1"
+      }
+    },
+    "objectID": "3a02dba6732b4aae080776dd6df2c0f4",
+    "order": 74,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"They were tan boots and had never been varnished. That was why I put them out.\"",
+    "context": {
+      "next": {
+        "content": "\"Then I understand that on your arrival in London yesterday you went out at once and bought a pair of boots?\"",
+        "objectID": "4845b55f2915401f6f8d073a4a779bdf"
+      },
+      "previous": {
+        "content": "\"If you have never worn them, why did you put them out to be cleaned?\"",
+        "objectID": "3a02dba6732b4aae080776dd6df2c0f4"
+      }
+    },
+    "objectID": "5fc8a291c47930d520b963eaf3f2541f",
+    "order": 75,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Then I understand that on your arrival in London yesterday you went out at once and bought a pair of boots?\"",
+    "context": {
+      "next": {
+        "content": "\"I did a good deal of shopping. Dr. Mortimer here went round with me. You see, if I am to be squire down there I must dress the part, and it may be that I have got a little careless in my ways out West. Among other things I bought these brown boots—gave six dollars for them—and had one stolen before ever I had them on my feet.",
+        "objectID": "ec659d8728cccf4fd339e58d9015951a"
+      },
+      "previous": {
+        "content": "\"They were tan boots and had never been varnished. That was why I put them out.\"",
+        "objectID": "5fc8a291c47930d520b963eaf3f2541f"
+      }
+    },
+    "objectID": "4845b55f2915401f6f8d073a4a779bdf",
+    "order": 76,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"I did a good deal of shopping. Dr. Mortimer here went round with me. You see, if I am to be squire down there I must dress the part, and it may be that I have got a little careless in my ways out West. Among other things I bought these brown boots—gave six dollars for them—and had one stolen before ever I had them on my feet.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "9ad7e716a4aeca81b0c0c21a6041bb61"
+      },
+      "previous": {
+        "content": "\"Then I understand that on your arrival in London yesterday you went out at once and bought a pair of boots?\"",
+        "objectID": "4845b55f2915401f6f8d073a4a779bdf"
+      }
+    },
+    "objectID": "ec659d8728cccf4fd339e58d9015951a",
+    "order": 77,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"It seems a singularly useless thing to steal,\" said Sherlock Holmes. \"I confess that I share Dr. Mortimer's belief that it will not be long before the missing boot is found.\"",
+        "objectID": "4e3408fd3d30b5ce30bed8e691792ef4"
+      },
+      "previous": {
+        "content": "\"I did a good deal of shopping. Dr. Mortimer here went round with me. You see, if I am to be squire down there I must dress the part, and it may be that I have got a little careless in my ways out West. Among other things I bought these brown boots—gave six dollars for them—and had one stolen before ever I had them on my feet.",
+        "objectID": "ec659d8728cccf4fd339e58d9015951a"
+      }
+    },
+    "objectID": "9ad7e716a4aeca81b0c0c21a6041bb61",
+    "order": 78,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"It seems a singularly useless thing to steal,\" said Sherlock Holmes. \"I confess that I share Dr. Mortimer's belief that it will not be long before the missing boot is found.\"",
+    "context": {
+      "next": {
+        "content": "\"And, now, gentlemen,\" said the baronet with decision, \"it seems to me that I have spoken quite enough about the little that I know. It is time that you kept your promise and gave me a full account of what we are all driving at.\"",
+        "objectID": "b4577dd9f8020664373f03e6bd220faa"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "9ad7e716a4aeca81b0c0c21a6041bb61"
+      }
+    },
+    "objectID": "4e3408fd3d30b5ce30bed8e691792ef4",
+    "order": 79,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"And, now, gentlemen,\" said the baronet with decision, \"it seems to me that I have spoken quite enough about the little that I know. It is time that you kept your promise and gave me a full account of what we are all driving at.\"",
+    "context": {
+      "next": {
+        "content": "\"Your request is a very reasonable one,\" Holmes answered. \"Dr. Mortimer, I think you could not do better than to tell your story as you told it to us.\"",
+        "objectID": "d9ff05e72c2050c6fec5618efe461094"
+      },
+      "previous": {
+        "content": "\"It seems a singularly useless thing to steal,\" said Sherlock Holmes. \"I confess that I share Dr. Mortimer's belief that it will not be long before the missing boot is found.\"",
+        "objectID": "4e3408fd3d30b5ce30bed8e691792ef4"
+      }
+    },
+    "objectID": "b4577dd9f8020664373f03e6bd220faa",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Your request is a very reasonable one,\" Holmes answered. \"Dr. Mortimer, I think you could not do better than to tell your story as you told it to us.\"",
+    "context": {
+      "next": {
+        "content": "Thus encouraged, our scientific friend drew his papers from his pocket and presented the whole case as he had done upon the morning before. Sir Henry Baskerville listened with the deepest attention and with an occasional exclamation of surprise.",
+        "objectID": "cd194bad9535e6003f8aab5f5aad4546"
+      },
+      "previous": {
+        "content": "\"And, now, gentlemen,\" said the baronet with decision, \"it seems to me that I have spoken quite enough about the little that I know. It is time that you kept your promise and gave me a full account of what we are all driving at.\"",
+        "objectID": "b4577dd9f8020664373f03e6bd220faa"
+      }
+    },
+    "objectID": "d9ff05e72c2050c6fec5618efe461094",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "Thus encouraged, our scientific friend drew his papers from his pocket and presented the whole case as he had done upon the morning before. Sir Henry Baskerville listened with the deepest attention and with an occasional exclamation of surprise.",
+    "context": {
+      "next": {
+        "content": "\"Well, I seem to have come into an inheritance with a vengeance,\" said he when the long narrative was finished. \"Of course, I've heard of the hound ever since I was in the nursery. It's the pet story of the family, though I never thought of taking it seriously before. But as to my uncle's death—well, it all seems boiling up in my head, and I can't get it clear yet.",
+        "objectID": "56005b0e8dcfc8f1563e4c2f5357f14f"
+      },
+      "previous": {
+        "content": "\"Your request is a very reasonable one,\" Holmes answered. \"Dr. Mortimer, I think you could not do better than to tell your story as you told it to us.\"",
+        "objectID": "d9ff05e72c2050c6fec5618efe461094"
+      }
+    },
+    "objectID": "cd194bad9535e6003f8aab5f5aad4546",
+    "order": 82,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Well, I seem to have come into an inheritance with a vengeance,\" said he when the long narrative was finished. \"Of course, I've heard of the hound ever since I was in the nursery. It's the pet story of the family, though I never thought of taking it seriously before. But as to my uncle's death—well, it all seems boiling up in my head, and I can't get it clear yet.",
+    "context": {
+      "next": {
+        "content": "You don't seem quite to have made up your mind whether it's a case for a policeman or a clergyman.\"",
+        "objectID": "4f5968006471773a48f76f8f9a38307d"
+      },
+      "previous": {
+        "content": "Thus encouraged, our scientific friend drew his papers from his pocket and presented the whole case as he had done upon the morning before. Sir Henry Baskerville listened with the deepest attention and with an occasional exclamation of surprise.",
+        "objectID": "cd194bad9535e6003f8aab5f5aad4546"
+      }
+    },
+    "objectID": "56005b0e8dcfc8f1563e4c2f5357f14f",
+    "order": 83,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "You don't seem quite to have made up your mind whether it's a case for a policeman or a clergyman.\"",
+    "context": {
+      "next": {
+        "content": "\"Precisely.\"",
+        "objectID": "77e7ec9aca1c632a835c1839ec228879"
+      },
+      "previous": {
+        "content": "\"Well, I seem to have come into an inheritance with a vengeance,\" said he when the long narrative was finished. \"Of course, I've heard of the hound ever since I was in the nursery. It's the pet story of the family, though I never thought of taking it seriously before. But as to my uncle's death—well, it all seems boiling up in my head, and I can't get it clear yet.",
+        "objectID": "56005b0e8dcfc8f1563e4c2f5357f14f"
+      }
+    },
+    "objectID": "4f5968006471773a48f76f8f9a38307d",
+    "order": 84,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Precisely.\"",
+    "context": {
+      "next": {
+        "content": "\"And now there's this affair of the letter to me at the hotel. I suppose that fits into its place.\"",
+        "objectID": "e0c6d29920d8a268c4fbc18d51d6d643"
+      },
+      "previous": {
+        "content": "You don't seem quite to have made up your mind whether it's a case for a policeman or a clergyman.\"",
+        "objectID": "4f5968006471773a48f76f8f9a38307d"
+      }
+    },
+    "objectID": "77e7ec9aca1c632a835c1839ec228879",
+    "order": 85,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"And now there's this affair of the letter to me at the hotel. I suppose that fits into its place.\"",
+    "context": {
+      "next": {
+        "content": "\"It seems to show that someone knows more than we do about what goes on upon the moor,\" said Dr. Mortimer.",
+        "objectID": "afbd529f210d5630e5aa2d1f27cbc38e"
+      },
+      "previous": {
+        "content": "\"Precisely.\"",
+        "objectID": "77e7ec9aca1c632a835c1839ec228879"
+      }
+    },
+    "objectID": "e0c6d29920d8a268c4fbc18d51d6d643",
+    "order": 86,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"It seems to show that someone knows more than we do about what goes on upon the moor,\" said Dr. Mortimer.",
+    "context": {
+      "next": {
+        "content": "\"And also,\" said Holmes, \"that someone is not ill-disposed towards you, since they warn you of danger.\"",
+        "objectID": "88304ead096e87486876e3fd29eb9130"
+      },
+      "previous": {
+        "content": "\"And now there's this affair of the letter to me at the hotel. I suppose that fits into its place.\"",
+        "objectID": "e0c6d29920d8a268c4fbc18d51d6d643"
+      }
+    },
+    "objectID": "afbd529f210d5630e5aa2d1f27cbc38e",
+    "order": 87,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"And also,\" said Holmes, \"that someone is not ill-disposed towards you, since they warn you of danger.\"",
+    "context": {
+      "next": {
+        "content": "\"Or it may be that they wish, for their own purposes, to scare me away.\"",
+        "objectID": "219334f2ddab373f8aa0deb6096307ec"
+      },
+      "previous": {
+        "content": "\"It seems to show that someone knows more than we do about what goes on upon the moor,\" said Dr. Mortimer.",
+        "objectID": "afbd529f210d5630e5aa2d1f27cbc38e"
+      }
+    },
+    "objectID": "88304ead096e87486876e3fd29eb9130",
+    "order": 88,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Or it may be that they wish, for their own purposes, to scare me away.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, of course, that is possible also. I am very much indebted to you, Dr. Mortimer, for introducing me to a problem which presents several interesting alternatives. But the practical point which we now have to decide, Sir Henry, is whether it is or is not advisable for you to go to Baskerville Hall.",
+        "objectID": "b934823f45d776546483125398ae8ed9"
+      },
+      "previous": {
+        "content": "\"And also,\" said Holmes, \"that someone is not ill-disposed towards you, since they warn you of danger.\"",
+        "objectID": "88304ead096e87486876e3fd29eb9130"
+      }
+    },
+    "objectID": "219334f2ddab373f8aa0deb6096307ec",
+    "order": 89,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Well, of course, that is possible also. I am very much indebted to you, Dr. Mortimer, for introducing me to a problem which presents several interesting alternatives. But the practical point which we now have to decide, Sir Henry, is whether it is or is not advisable for you to go to Baskerville Hall.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "d1d40c9eb1f95edf4545de6e23297f8d"
+      },
+      "previous": {
+        "content": "\"Or it may be that they wish, for their own purposes, to scare me away.\"",
+        "objectID": "219334f2ddab373f8aa0deb6096307ec"
+      }
+    },
+    "objectID": "b934823f45d776546483125398ae8ed9",
+    "order": 90,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Why should I not go?\"",
+        "objectID": "4156ea135c7b0b225e47a0a6c4f190a1"
+      },
+      "previous": {
+        "content": "\"Well, of course, that is possible also. I am very much indebted to you, Dr. Mortimer, for introducing me to a problem which presents several interesting alternatives. But the practical point which we now have to decide, Sir Henry, is whether it is or is not advisable for you to go to Baskerville Hall.",
+        "objectID": "b934823f45d776546483125398ae8ed9"
+      }
+    },
+    "objectID": "d1d40c9eb1f95edf4545de6e23297f8d",
+    "order": 91,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Why should I not go?\"",
+    "context": {
+      "next": {
+        "content": "\"There seems to be danger.\"",
+        "objectID": "e8dd9b5170b7f1deefd8a21824bf58d7"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "d1d40c9eb1f95edf4545de6e23297f8d"
+      }
+    },
+    "objectID": "4156ea135c7b0b225e47a0a6c4f190a1",
+    "order": 92,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"There seems to be danger.\"",
+    "context": {
+      "next": {
+        "content": "\"Do you mean danger from this family fiend or do you mean danger from human beings?\"",
+        "objectID": "ea04c1bac123605291d7210e317682f4"
+      },
+      "previous": {
+        "content": "\"Why should I not go?\"",
+        "objectID": "4156ea135c7b0b225e47a0a6c4f190a1"
+      }
+    },
+    "objectID": "e8dd9b5170b7f1deefd8a21824bf58d7",
+    "order": 93,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Do you mean danger from this family fiend or do you mean danger from human beings?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, that is what we have to find out.\"",
+        "objectID": "ed7ea155bb3e6cf428b3d99cf50f0f94"
+      },
+      "previous": {
+        "content": "\"There seems to be danger.\"",
+        "objectID": "e8dd9b5170b7f1deefd8a21824bf58d7"
+      }
+    },
+    "objectID": "ea04c1bac123605291d7210e317682f4",
+    "order": 94,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Well, that is what we have to find out.\"",
+    "context": {
+      "next": {
+        "content": "\"Whichever it is, my answer is fixed. There is no devil in hell, Mr. Holmes, and there is no man upon earth who can prevent me from going to the home of my own people, and you may take that to be my final answer.\" His dark brows knitted and his face flushed to a dusky red as he spoke. It was evident that the fiery temper of the Baskervilles was not extinct in this their last representative.",
+        "objectID": "19e095f694e7ec1a44bd13659a33964b"
+      },
+      "previous": {
+        "content": "\"Do you mean danger from this family fiend or do you mean danger from human beings?\"",
+        "objectID": "ea04c1bac123605291d7210e317682f4"
+      }
+    },
+    "objectID": "ed7ea155bb3e6cf428b3d99cf50f0f94",
+    "order": 95,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Whichever it is, my answer is fixed. There is no devil in hell, Mr. Holmes, and there is no man upon earth who can prevent me from going to the home of my own people, and you may take that to be my final answer.\" His dark brows knitted and his face flushed to a dusky red as he spoke. It was evident that the fiery temper of the Baskervilles was not extinct in this their last representative.",
+    "context": {
+      "next": {
+        "content": "\"Meanwhile,\" said he, \"I have hardly had time to think over all that you have told me. It's a big thing for a man to have to understand and to decide at one sitting. I should like to have a quiet hour by myself to make up my mind. Now, look here, Mr. Holmes, it's half-past eleven now and I am going back right away to my hotel.",
+        "objectID": "0f26fdd20d2e72ccee8d728e5d9c7ba9"
+      },
+      "previous": {
+        "content": "\"Well, that is what we have to find out.\"",
+        "objectID": "ed7ea155bb3e6cf428b3d99cf50f0f94"
+      }
+    },
+    "objectID": "19e095f694e7ec1a44bd13659a33964b",
+    "order": 96,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Meanwhile,\" said he, \"I have hardly had time to think over all that you have told me. It's a big thing for a man to have to understand and to decide at one sitting. I should like to have a quiet hour by myself to make up my mind. Now, look here, Mr. Holmes, it's half-past eleven now and I am going back right away to my hotel.",
+    "context": {
+      "next": {
+        "content": "Suppose you and your friend, Dr. Watson, come round and lunch with us at two. I'll be able to tell you more clearly then how this thing strikes me.\"",
+        "objectID": "ea45dd62bd233c8eaa34cb22ee1fac2d"
+      },
+      "previous": {
+        "content": "\"Whichever it is, my answer is fixed. There is no devil in hell, Mr. Holmes, and there is no man upon earth who can prevent me from going to the home of my own people, and you may take that to be my final answer.\" His dark brows knitted and his face flushed to a dusky red as he spoke. It was evident that the fiery temper of the Baskervilles was not extinct in this their last representative.",
+        "objectID": "19e095f694e7ec1a44bd13659a33964b"
+      }
+    },
+    "objectID": "0f26fdd20d2e72ccee8d728e5d9c7ba9",
+    "order": 97,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "Suppose you and your friend, Dr. Watson, come round and lunch with us at two. I'll be able to tell you more clearly then how this thing strikes me.\"",
+    "context": {
+      "next": {
+        "content": "\"Is that convenient to you, Watson?\"",
+        "objectID": "8da17ac8e26df8a44f172207e0b1168f"
+      },
+      "previous": {
+        "content": "\"Meanwhile,\" said he, \"I have hardly had time to think over all that you have told me. It's a big thing for a man to have to understand and to decide at one sitting. I should like to have a quiet hour by myself to make up my mind. Now, look here, Mr. Holmes, it's half-past eleven now and I am going back right away to my hotel.",
+        "objectID": "0f26fdd20d2e72ccee8d728e5d9c7ba9"
+      }
+    },
+    "objectID": "ea45dd62bd233c8eaa34cb22ee1fac2d",
+    "order": 98,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Is that convenient to you, Watson?\"",
+    "context": {
+      "next": {
+        "content": "\"Perfectly.\"",
+        "objectID": "65631f02f35bbf5662234e5ba83a30ab"
+      },
+      "previous": {
+        "content": "Suppose you and your friend, Dr. Watson, come round and lunch with us at two. I'll be able to tell you more clearly then how this thing strikes me.\"",
+        "objectID": "ea45dd62bd233c8eaa34cb22ee1fac2d"
+      }
+    },
+    "objectID": "8da17ac8e26df8a44f172207e0b1168f",
+    "order": 99,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Perfectly.\"",
+    "context": {
+      "next": {
+        "content": "\"Then you may expect us. Shall I have a cab called?\"",
+        "objectID": "dc83f062250b02604e49eedc5a73e2dd"
+      },
+      "previous": {
+        "content": "\"Is that convenient to you, Watson?\"",
+        "objectID": "8da17ac8e26df8a44f172207e0b1168f"
+      }
+    },
+    "objectID": "65631f02f35bbf5662234e5ba83a30ab",
+    "order": 100,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Then you may expect us. Shall I have a cab called?\"",
+    "context": {
+      "next": {
+        "content": "\"I'd prefer to walk, for this affair has flurried me rather.\"",
+        "objectID": "f9b9799a3593e910c8221988948ea114"
+      },
+      "previous": {
+        "content": "\"Perfectly.\"",
+        "objectID": "65631f02f35bbf5662234e5ba83a30ab"
+      }
+    },
+    "objectID": "dc83f062250b02604e49eedc5a73e2dd",
+    "order": 101,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"I'd prefer to walk, for this affair has flurried me rather.\"",
+    "context": {
+      "next": {
+        "content": "\"I'll join you in a walk, with pleasure,\" said his companion.",
+        "objectID": "26ec48f4c1733a7b80cb144e9c0f02cc"
+      },
+      "previous": {
+        "content": "\"Then you may expect us. Shall I have a cab called?\"",
+        "objectID": "dc83f062250b02604e49eedc5a73e2dd"
+      }
+    },
+    "objectID": "f9b9799a3593e910c8221988948ea114",
+    "order": 102,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"I'll join you in a walk, with pleasure,\" said his companion.",
+    "context": {
+      "next": {
+        "content": "\"Then we meet again at two o'clock. Au revoir, and good-morning!\"",
+        "objectID": "5e1638b908bb51f19fe3d7986818be8e"
+      },
+      "previous": {
+        "content": "\"I'd prefer to walk, for this affair has flurried me rather.\"",
+        "objectID": "f9b9799a3593e910c8221988948ea114"
+      }
+    },
+    "objectID": "26ec48f4c1733a7b80cb144e9c0f02cc",
+    "order": 103,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Then we meet again at two o'clock. Au revoir, and good-morning!\"",
+    "context": {
+      "next": {
+        "content": "We heard the steps of our visitors descend the stair and the bang of the front door. In an instant Holmes had changed from the languid dreamer to the man of action.",
+        "objectID": "b5e3191a2195866ac1af68935688b08d"
+      },
+      "previous": {
+        "content": "\"I'll join you in a walk, with pleasure,\" said his companion.",
+        "objectID": "26ec48f4c1733a7b80cb144e9c0f02cc"
+      }
+    },
+    "objectID": "5e1638b908bb51f19fe3d7986818be8e",
+    "order": 104,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "We heard the steps of our visitors descend the stair and the bang of the front door. In an instant Holmes had changed from the languid dreamer to the man of action.",
+    "context": {
+      "next": {
+        "content": "\"Your hat and boots, Watson, quick! Not a moment to lose!\" He rushed into his room in his dressing-gown and was back again in a few seconds in a frock-coat. We hurried together down the stairs and into the street. Dr. Mortimer and Baskerville were still visible about two hundred yards ahead of us in the direction of Oxford Street.",
+        "objectID": "824e4d9382490aabd798669001168c2d"
+      },
+      "previous": {
+        "content": "\"Then we meet again at two o'clock. Au revoir, and good-morning!\"",
+        "objectID": "5e1638b908bb51f19fe3d7986818be8e"
+      }
+    },
+    "objectID": "b5e3191a2195866ac1af68935688b08d",
+    "order": 105,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Your hat and boots, Watson, quick! Not a moment to lose!\" He rushed into his room in his dressing-gown and was back again in a few seconds in a frock-coat. We hurried together down the stairs and into the street. Dr. Mortimer and Baskerville were still visible about two hundred yards ahead of us in the direction of Oxford Street.",
+    "context": {
+      "next": {
+        "content": "\"Shall I run on and stop them?\"",
+        "objectID": "8206986c3daf7ed5b93db62625083b7f"
+      },
+      "previous": {
+        "content": "We heard the steps of our visitors descend the stair and the bang of the front door. In an instant Holmes had changed from the languid dreamer to the man of action.",
+        "objectID": "b5e3191a2195866ac1af68935688b08d"
+      }
+    },
+    "objectID": "824e4d9382490aabd798669001168c2d",
+    "order": 106,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Shall I run on and stop them?\"",
+    "context": {
+      "next": {
+        "content": "\"Not for the world, my dear Watson. I am perfectly satisfied with your company if you will tolerate mine. Our friends are wise, for it is certainly a very fine morning for a walk.\"",
+        "objectID": "647610e030fafb92c5590e5c722ca648"
+      },
+      "previous": {
+        "content": "\"Your hat and boots, Watson, quick! Not a moment to lose!\" He rushed into his room in his dressing-gown and was back again in a few seconds in a frock-coat. We hurried together down the stairs and into the street. Dr. Mortimer and Baskerville were still visible about two hundred yards ahead of us in the direction of Oxford Street.",
+        "objectID": "824e4d9382490aabd798669001168c2d"
+      }
+    },
+    "objectID": "8206986c3daf7ed5b93db62625083b7f",
+    "order": 107,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Not for the world, my dear Watson. I am perfectly satisfied with your company if you will tolerate mine. Our friends are wise, for it is certainly a very fine morning for a walk.\"",
+    "context": {
+      "next": {
+        "content": "He quickened his pace until we had decreased the distance which divided us by about half. Then, still keeping a hundred yards behind, we followed into Oxford Street and so down Regent Street. Once our friends stopped and stared into a shop window, upon which Holmes did the same. An instant afterwards he gave a little cry of satisfaction, and, following the direction of his eager eyes, I saw that a hansom cab with a man inside which had halted on the other side of the street was now proceeding slowly onward again.",
+        "objectID": "d40a48abfffc8409f819aa7245f38c7d"
+      },
+      "previous": {
+        "content": "\"Shall I run on and stop them?\"",
+        "objectID": "8206986c3daf7ed5b93db62625083b7f"
+      }
+    },
+    "objectID": "647610e030fafb92c5590e5c722ca648",
+    "order": 108,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "He quickened his pace until we had decreased the distance which divided us by about half. Then, still keeping a hundred yards behind, we followed into Oxford Street and so down Regent Street. Once our friends stopped and stared into a shop window, upon which Holmes did the same. An instant afterwards he gave a little cry of satisfaction, and, following the direction of his eager eyes, I saw that a hansom cab with a man inside which had halted on the other side of the street was now proceeding slowly onward again.",
+    "context": {
+      "next": {
+        "content": "\"There's our man, Watson! Come along! We'll have a good look at him, if we can do no more.\"",
+        "objectID": "0be5b374fcb50ea86a11bc4ab84ebad3"
+      },
+      "previous": {
+        "content": "\"Not for the world, my dear Watson. I am perfectly satisfied with your company if you will tolerate mine. Our friends are wise, for it is certainly a very fine morning for a walk.\"",
+        "objectID": "647610e030fafb92c5590e5c722ca648"
+      }
+    },
+    "objectID": "d40a48abfffc8409f819aa7245f38c7d",
+    "order": 109,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"There's our man, Watson! Come along! We'll have a good look at him, if we can do no more.\"",
+    "context": {
+      "next": {
+        "content": "At that instant I was aware of a bushy black beard and a pair of piercing eyes turned upon us through the side window of the cab. Instantly the trapdoor at the top flew up, something was screamed to the driver, and the cab flew madly off down Regent Street. Holmes looked eagerly round for another, but no empty one was in sight.",
+        "objectID": "d080e0d512b8aa3d56b70340031c24bc"
+      },
+      "previous": {
+        "content": "He quickened his pace until we had decreased the distance which divided us by about half. Then, still keeping a hundred yards behind, we followed into Oxford Street and so down Regent Street. Once our friends stopped and stared into a shop window, upon which Holmes did the same. An instant afterwards he gave a little cry of satisfaction, and, following the direction of his eager eyes, I saw that a hansom cab with a man inside which had halted on the other side of the street was now proceeding slowly onward again.",
+        "objectID": "d40a48abfffc8409f819aa7245f38c7d"
+      }
+    },
+    "objectID": "0be5b374fcb50ea86a11bc4ab84ebad3",
+    "order": 110,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "At that instant I was aware of a bushy black beard and a pair of piercing eyes turned upon us through the side window of the cab. Instantly the trapdoor at the top flew up, something was screamed to the driver, and the cab flew madly off down Regent Street. Holmes looked eagerly round for another, but no empty one was in sight.",
+    "context": {
+      "next": {
+        "content": "Then he dashed in wild pursuit amid the stream of the traffic, but the start was too great, and already the cab was out of sight.",
+        "objectID": "fd37360f4626ee197f1af55775e83d7b"
+      },
+      "previous": {
+        "content": "\"There's our man, Watson! Come along! We'll have a good look at him, if we can do no more.\"",
+        "objectID": "0be5b374fcb50ea86a11bc4ab84ebad3"
+      }
+    },
+    "objectID": "d080e0d512b8aa3d56b70340031c24bc",
+    "order": 111,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "Then he dashed in wild pursuit amid the stream of the traffic, but the start was too great, and already the cab was out of sight.",
+    "context": {
+      "next": {
+        "content": "\"There now!\" said Holmes bitterly as he emerged panting and white with vexation from the tide of vehicles. \"Was ever such bad luck and such bad management, too? Watson, Watson, if you are an honest man you will record this also and set it against my successes!\"",
+        "objectID": "0987deb11ac62c47c01010aa569f3456"
+      },
+      "previous": {
+        "content": "At that instant I was aware of a bushy black beard and a pair of piercing eyes turned upon us through the side window of the cab. Instantly the trapdoor at the top flew up, something was screamed to the driver, and the cab flew madly off down Regent Street. Holmes looked eagerly round for another, but no empty one was in sight.",
+        "objectID": "d080e0d512b8aa3d56b70340031c24bc"
+      }
+    },
+    "objectID": "fd37360f4626ee197f1af55775e83d7b",
+    "order": 112,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"There now!\" said Holmes bitterly as he emerged panting and white with vexation from the tide of vehicles. \"Was ever such bad luck and such bad management, too? Watson, Watson, if you are an honest man you will record this also and set it against my successes!\"",
+    "context": {
+      "next": {
+        "content": "\"Who was the man?\"",
+        "objectID": "9ecda7b075a243bf4ed587e4c6ca5aa2"
+      },
+      "previous": {
+        "content": "Then he dashed in wild pursuit amid the stream of the traffic, but the start was too great, and already the cab was out of sight.",
+        "objectID": "fd37360f4626ee197f1af55775e83d7b"
+      }
+    },
+    "objectID": "0987deb11ac62c47c01010aa569f3456",
+    "order": 113,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Who was the man?\"",
+    "context": {
+      "next": {
+        "content": "\"I have not an idea.\"",
+        "objectID": "de5900f5f1a6a5e7321aa7dae9c20a62"
+      },
+      "previous": {
+        "content": "\"There now!\" said Holmes bitterly as he emerged panting and white with vexation from the tide of vehicles. \"Was ever such bad luck and such bad management, too? Watson, Watson, if you are an honest man you will record this also and set it against my successes!\"",
+        "objectID": "0987deb11ac62c47c01010aa569f3456"
+      }
+    },
+    "objectID": "9ecda7b075a243bf4ed587e4c6ca5aa2",
+    "order": 114,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"I have not an idea.\"",
+    "context": {
+      "next": {
+        "content": "\"A spy?\"",
+        "objectID": "737fa6ff4a479c018e41387d757537fe"
+      },
+      "previous": {
+        "content": "\"Who was the man?\"",
+        "objectID": "9ecda7b075a243bf4ed587e4c6ca5aa2"
+      }
+    },
+    "objectID": "de5900f5f1a6a5e7321aa7dae9c20a62",
+    "order": 115,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"A spy?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, it was evident from what we have heard that Baskerville has been very closely shadowed by someone since he has been in town. How else could it be known so quickly that it was the Northumberland Hotel which he had chosen? If they had followed him the first day I argued that they would follow him also the second.",
+        "objectID": "46d25c7975bf68ab2e4af579014e94ee"
+      },
+      "previous": {
+        "content": "\"I have not an idea.\"",
+        "objectID": "de5900f5f1a6a5e7321aa7dae9c20a62"
+      }
+    },
+    "objectID": "737fa6ff4a479c018e41387d757537fe",
+    "order": 116,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Well, it was evident from what we have heard that Baskerville has been very closely shadowed by someone since he has been in town. How else could it be known so quickly that it was the Northumberland Hotel which he had chosen? If they had followed him the first day I argued that they would follow him also the second.",
+    "context": {
+      "next": {
+        "content": "You may have observed that I twice strolled over to the window while Dr. Mortimer was reading his legend.\"",
+        "objectID": "116572ef8940c9a1afd7797f11230e84"
+      },
+      "previous": {
+        "content": "\"A spy?\"",
+        "objectID": "737fa6ff4a479c018e41387d757537fe"
+      }
+    },
+    "objectID": "46d25c7975bf68ab2e4af579014e94ee",
+    "order": 117,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "You may have observed that I twice strolled over to the window while Dr. Mortimer was reading his legend.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, I remember.\"",
+        "objectID": "c830e50ffc4662f80265cfa8538902c4"
+      },
+      "previous": {
+        "content": "\"Well, it was evident from what we have heard that Baskerville has been very closely shadowed by someone since he has been in town. How else could it be known so quickly that it was the Northumberland Hotel which he had chosen? If they had followed him the first day I argued that they would follow him also the second.",
+        "objectID": "46d25c7975bf68ab2e4af579014e94ee"
+      }
+    },
+    "objectID": "116572ef8940c9a1afd7797f11230e84",
+    "order": 118,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Yes, I remember.\"",
+    "context": {
+      "next": {
+        "content": "\"I was looking out for loiterers in the street, but I saw none. We are dealing with a clever man, Watson. This matter cuts very deep, and though I have not finally made up my mind whether it is a benevolent or a malevolent agency which is in touch with us, I am conscious always of power and design. When our friends left I at once followed them in the hopes of marking down their invisible attendant.",
+        "objectID": "a75acc4fc65bd561649cb41c4d7cf603"
+      },
+      "previous": {
+        "content": "You may have observed that I twice strolled over to the window while Dr. Mortimer was reading his legend.\"",
+        "objectID": "116572ef8940c9a1afd7797f11230e84"
+      }
+    },
+    "objectID": "c830e50ffc4662f80265cfa8538902c4",
+    "order": 119,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"I was looking out for loiterers in the street, but I saw none. We are dealing with a clever man, Watson. This matter cuts very deep, and though I have not finally made up my mind whether it is a benevolent or a malevolent agency which is in touch with us, I am conscious always of power and design. When our friends left I at once followed them in the hopes of marking down their invisible attendant.",
+    "context": {
+      "next": {
+        "content": "So wily was he that he had not trusted himself upon foot, but he had availed himself of a cab so that he could loiter behind or dash past them and so escape their notice. His method had the additional advantage that if they were to take a cab he was all ready to follow them. It has, however, one obvious disadvantage.",
+        "objectID": "4740715d9770b03f315860af53ccbb81"
+      },
+      "previous": {
+        "content": "\"Yes, I remember.\"",
+        "objectID": "c830e50ffc4662f80265cfa8538902c4"
+      }
+    },
+    "objectID": "a75acc4fc65bd561649cb41c4d7cf603",
+    "order": 120,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "So wily was he that he had not trusted himself upon foot, but he had availed himself of a cab so that he could loiter behind or dash past them and so escape their notice. His method had the additional advantage that if they were to take a cab he was all ready to follow them. It has, however, one obvious disadvantage.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "894131df44e68063c2b2fdc6405a4fe9"
+      },
+      "previous": {
+        "content": "\"I was looking out for loiterers in the street, but I saw none. We are dealing with a clever man, Watson. This matter cuts very deep, and though I have not finally made up my mind whether it is a benevolent or a malevolent agency which is in touch with us, I am conscious always of power and design. When our friends left I at once followed them in the hopes of marking down their invisible attendant.",
+        "objectID": "a75acc4fc65bd561649cb41c4d7cf603"
+      }
+    },
+    "objectID": "4740715d9770b03f315860af53ccbb81",
+    "order": 121,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"It puts him in the power of the cabman.\"",
+        "objectID": "94db930edc4fffbbc9c79952c6841cb2"
+      },
+      "previous": {
+        "content": "So wily was he that he had not trusted himself upon foot, but he had availed himself of a cab so that he could loiter behind or dash past them and so escape their notice. His method had the additional advantage that if they were to take a cab he was all ready to follow them. It has, however, one obvious disadvantage.",
+        "objectID": "4740715d9770b03f315860af53ccbb81"
+      }
+    },
+    "objectID": "894131df44e68063c2b2fdc6405a4fe9",
+    "order": 122,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"It puts him in the power of the cabman.\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly.\"",
+        "objectID": "62ca2dce095c6a111e0d8bdab08b510d"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "894131df44e68063c2b2fdc6405a4fe9"
+      }
+    },
+    "objectID": "94db930edc4fffbbc9c79952c6841cb2",
+    "order": 123,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Exactly.\"",
+    "context": {
+      "next": {
+        "content": "\"What a pity we did not get the number!\"",
+        "objectID": "4373f92927741974dccc9399332ead0a"
+      },
+      "previous": {
+        "content": "\"It puts him in the power of the cabman.\"",
+        "objectID": "94db930edc4fffbbc9c79952c6841cb2"
+      }
+    },
+    "objectID": "62ca2dce095c6a111e0d8bdab08b510d",
+    "order": 124,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"What a pity we did not get the number!\"",
+    "context": {
+      "next": {
+        "content": "\"My dear Watson, clumsy as I have been, you surely do not seriously imagine that I neglected to get the number? No. 2704 is our man. But that is no use to us for the moment.\"",
+        "objectID": "19bb6b7985fb9003b7aa8eb59e2794c6"
+      },
+      "previous": {
+        "content": "\"Exactly.\"",
+        "objectID": "62ca2dce095c6a111e0d8bdab08b510d"
+      }
+    },
+    "objectID": "4373f92927741974dccc9399332ead0a",
+    "order": 125,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"My dear Watson, clumsy as I have been, you surely do not seriously imagine that I neglected to get the number? No. 2704 is our man. But that is no use to us for the moment.\"",
+    "context": {
+      "next": {
+        "content": "\"I fail to see how you could have done more.\"",
+        "objectID": "caf0a6b83cf3a1f4ccedc9de5f2744ba"
+      },
+      "previous": {
+        "content": "\"What a pity we did not get the number!\"",
+        "objectID": "4373f92927741974dccc9399332ead0a"
+      }
+    },
+    "objectID": "19bb6b7985fb9003b7aa8eb59e2794c6",
+    "order": 126,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"I fail to see how you could have done more.\"",
+    "context": {
+      "next": {
+        "content": "\"On observing the cab I should have instantly turned and walked in the other direction. I should then at my leisure have hired a second cab and followed the first at a respectful distance, or, better still, have driven to the Northumberland Hotel and waited there. When our unknown had followed Baskerville home we should have had the opportunity of playing his own game upon himself and seeing where he made for.",
+        "objectID": "17202cf5f12421f7614369ffe40f3bf1"
+      },
+      "previous": {
+        "content": "\"My dear Watson, clumsy as I have been, you surely do not seriously imagine that I neglected to get the number? No. 2704 is our man. But that is no use to us for the moment.\"",
+        "objectID": "19bb6b7985fb9003b7aa8eb59e2794c6"
+      }
+    },
+    "objectID": "caf0a6b83cf3a1f4ccedc9de5f2744ba",
+    "order": 127,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"On observing the cab I should have instantly turned and walked in the other direction. I should then at my leisure have hired a second cab and followed the first at a respectful distance, or, better still, have driven to the Northumberland Hotel and waited there. When our unknown had followed Baskerville home we should have had the opportunity of playing his own game upon himself and seeing where he made for.",
+    "context": {
+      "next": {
+        "content": "As it is, by an indiscreet eagerness, which was taken advantage of with extraordinary quickness and energy by our opponent, we have betrayed ourselves and lost our man.\"",
+        "objectID": "2302a0aa96a2ba73030d21f6934f7c84"
+      },
+      "previous": {
+        "content": "\"I fail to see how you could have done more.\"",
+        "objectID": "caf0a6b83cf3a1f4ccedc9de5f2744ba"
+      }
+    },
+    "objectID": "17202cf5f12421f7614369ffe40f3bf1",
+    "order": 128,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "As it is, by an indiscreet eagerness, which was taken advantage of with extraordinary quickness and energy by our opponent, we have betrayed ourselves and lost our man.\"",
+    "context": {
+      "next": {
+        "content": "We had been sauntering slowly down Regent Street during this conversation, and Dr. Mortimer, with his companion, had long vanished in front of us.",
+        "objectID": "1c437c2c956866c0b8604b25507ef519"
+      },
+      "previous": {
+        "content": "\"On observing the cab I should have instantly turned and walked in the other direction. I should then at my leisure have hired a second cab and followed the first at a respectful distance, or, better still, have driven to the Northumberland Hotel and waited there. When our unknown had followed Baskerville home we should have had the opportunity of playing his own game upon himself and seeing where he made for.",
+        "objectID": "17202cf5f12421f7614369ffe40f3bf1"
+      }
+    },
+    "objectID": "2302a0aa96a2ba73030d21f6934f7c84",
+    "order": 129,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "We had been sauntering slowly down Regent Street during this conversation, and Dr. Mortimer, with his companion, had long vanished in front of us.",
+    "context": {
+      "next": {
+        "content": "\"There is no object in our following them,\" said Holmes. \"The shadow has departed and will not return. We must see what further cards we have in our hands and play them with decision. Could you swear to that man's face within the cab?\"",
+        "objectID": "458276228ec49aadcdd74447d12a1cc4"
+      },
+      "previous": {
+        "content": "As it is, by an indiscreet eagerness, which was taken advantage of with extraordinary quickness and energy by our opponent, we have betrayed ourselves and lost our man.\"",
+        "objectID": "2302a0aa96a2ba73030d21f6934f7c84"
+      }
+    },
+    "objectID": "1c437c2c956866c0b8604b25507ef519",
+    "order": 130,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"There is no object in our following them,\" said Holmes. \"The shadow has departed and will not return. We must see what further cards we have in our hands and play them with decision. Could you swear to that man's face within the cab?\"",
+    "context": {
+      "next": {
+        "content": "\"I could swear only to the beard.\"",
+        "objectID": "fcbabba11d974b90e2839506523c6dcc"
+      },
+      "previous": {
+        "content": "We had been sauntering slowly down Regent Street during this conversation, and Dr. Mortimer, with his companion, had long vanished in front of us.",
+        "objectID": "1c437c2c956866c0b8604b25507ef519"
+      }
+    },
+    "objectID": "458276228ec49aadcdd74447d12a1cc4",
+    "order": 131,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"I could swear only to the beard.\"",
+    "context": {
+      "next": {
+        "content": "\"And so could I—from which I gather that in all probability it was a false one. A clever man upon so delicate an errand has no use for a beard save to conceal his features. Come in here, Watson!\"",
+        "objectID": "9d9fe15204f73a6ff67a1b561f23dd21"
+      },
+      "previous": {
+        "content": "\"There is no object in our following them,\" said Holmes. \"The shadow has departed and will not return. We must see what further cards we have in our hands and play them with decision. Could you swear to that man's face within the cab?\"",
+        "objectID": "458276228ec49aadcdd74447d12a1cc4"
+      }
+    },
+    "objectID": "fcbabba11d974b90e2839506523c6dcc",
+    "order": 132,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"And so could I—from which I gather that in all probability it was a false one. A clever man upon so delicate an errand has no use for a beard save to conceal his features. Come in here, Watson!\"",
+    "context": {
+      "next": {
+        "content": "He turned into one of the district messenger offices, where he was warmly greeted by the manager.",
+        "objectID": "dd0e8d9de9b2993975ee3d5f6277aa5d"
+      },
+      "previous": {
+        "content": "\"I could swear only to the beard.\"",
+        "objectID": "fcbabba11d974b90e2839506523c6dcc"
+      }
+    },
+    "objectID": "9d9fe15204f73a6ff67a1b561f23dd21",
+    "order": 133,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "He turned into one of the district messenger offices, where he was warmly greeted by the manager.",
+    "context": {
+      "next": {
+        "content": "\"Ah, Wilson, I see you have not forgotten the little case in which I had the good fortune to help you?\"",
+        "objectID": "fdc7275b3a371e5ab0d70bbe1c3c4485"
+      },
+      "previous": {
+        "content": "\"And so could I—from which I gather that in all probability it was a false one. A clever man upon so delicate an errand has no use for a beard save to conceal his features. Come in here, Watson!\"",
+        "objectID": "9d9fe15204f73a6ff67a1b561f23dd21"
+      }
+    },
+    "objectID": "dd0e8d9de9b2993975ee3d5f6277aa5d",
+    "order": 134,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Ah, Wilson, I see you have not forgotten the little case in which I had the good fortune to help you?\"",
+    "context": {
+      "next": {
+        "content": "\"No, sir, indeed I have not. You saved my good name, and perhaps my life.\"",
+        "objectID": "1a188fb201f2afedab1bc1f4aa1b6dc8"
+      },
+      "previous": {
+        "content": "He turned into one of the district messenger offices, where he was warmly greeted by the manager.",
+        "objectID": "dd0e8d9de9b2993975ee3d5f6277aa5d"
+      }
+    },
+    "objectID": "fdc7275b3a371e5ab0d70bbe1c3c4485",
+    "order": 135,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"No, sir, indeed I have not. You saved my good name, and perhaps my life.\"",
+    "context": {
+      "next": {
+        "content": "\"My dear fellow, you exaggerate. I have some recollection, Wilson, that you had among your boys a lad named Cartwright, who showed some ability during the investigation.\"",
+        "objectID": "479333bfc44710aae9a9e16f2f502bf0"
+      },
+      "previous": {
+        "content": "\"Ah, Wilson, I see you have not forgotten the little case in which I had the good fortune to help you?\"",
+        "objectID": "fdc7275b3a371e5ab0d70bbe1c3c4485"
+      }
+    },
+    "objectID": "1a188fb201f2afedab1bc1f4aa1b6dc8",
+    "order": 136,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"My dear fellow, you exaggerate. I have some recollection, Wilson, that you had among your boys a lad named Cartwright, who showed some ability during the investigation.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, sir, he is still with us.\"",
+        "objectID": "997dfabd1e713e7b52bef4650ccfec5d"
+      },
+      "previous": {
+        "content": "\"No, sir, indeed I have not. You saved my good name, and perhaps my life.\"",
+        "objectID": "1a188fb201f2afedab1bc1f4aa1b6dc8"
+      }
+    },
+    "objectID": "479333bfc44710aae9a9e16f2f502bf0",
+    "order": 137,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Yes, sir, he is still with us.\"",
+    "context": {
+      "next": {
+        "content": "\"Could you ring him up?—thank you! And I should be glad to have change of this five-pound note.\"",
+        "objectID": "c69246c1e97f30d44f9666b1aa2de133"
+      },
+      "previous": {
+        "content": "\"My dear fellow, you exaggerate. I have some recollection, Wilson, that you had among your boys a lad named Cartwright, who showed some ability during the investigation.\"",
+        "objectID": "479333bfc44710aae9a9e16f2f502bf0"
+      }
+    },
+    "objectID": "997dfabd1e713e7b52bef4650ccfec5d",
+    "order": 138,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Could you ring him up?—thank you! And I should be glad to have change of this five-pound note.\"",
+    "context": {
+      "next": {
+        "content": "A lad of fourteen, with a bright, keen face, had obeyed the summons of the manager. He stood now gazing with great reverence at the famous detective.",
+        "objectID": "c81af4a99287bdbbe275396278b12557"
+      },
+      "previous": {
+        "content": "\"Yes, sir, he is still with us.\"",
+        "objectID": "997dfabd1e713e7b52bef4650ccfec5d"
+      }
+    },
+    "objectID": "c69246c1e97f30d44f9666b1aa2de133",
+    "order": 139,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "A lad of fourteen, with a bright, keen face, had obeyed the summons of the manager. He stood now gazing with great reverence at the famous detective.",
+    "context": {
+      "next": {
+        "content": "\"Let me have the Hotel Directory,\" said Holmes. \"Thank you! Now, Cartwright, there are the names of twenty-three hotels here, all in the immediate neighbourhood of Charing Cross. Do you see?\"",
+        "objectID": "06a1e5165078276c08ca3b4be19324ca"
+      },
+      "previous": {
+        "content": "\"Could you ring him up?—thank you! And I should be glad to have change of this five-pound note.\"",
+        "objectID": "c69246c1e97f30d44f9666b1aa2de133"
+      }
+    },
+    "objectID": "c81af4a99287bdbbe275396278b12557",
+    "order": 140,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Let me have the Hotel Directory,\" said Holmes. \"Thank you! Now, Cartwright, there are the names of twenty-three hotels here, all in the immediate neighbourhood of Charing Cross. Do you see?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, sir.\"",
+        "objectID": "4e9767e2e2584e1160915fa8f0b450a5"
+      },
+      "previous": {
+        "content": "A lad of fourteen, with a bright, keen face, had obeyed the summons of the manager. He stood now gazing with great reverence at the famous detective.",
+        "objectID": "c81af4a99287bdbbe275396278b12557"
+      }
+    },
+    "objectID": "06a1e5165078276c08ca3b4be19324ca",
+    "order": 141,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Yes, sir.\"",
+    "context": {
+      "next": {
+        "content": "\"You will visit each of these in turn.\"",
+        "objectID": "32d3d0faa22284015b60d87c393a31bb"
+      },
+      "previous": {
+        "content": "\"Let me have the Hotel Directory,\" said Holmes. \"Thank you! Now, Cartwright, there are the names of twenty-three hotels here, all in the immediate neighbourhood of Charing Cross. Do you see?\"",
+        "objectID": "06a1e5165078276c08ca3b4be19324ca"
+      }
+    },
+    "objectID": "4e9767e2e2584e1160915fa8f0b450a5",
+    "order": 142,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"You will visit each of these in turn.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, sir.\"",
+        "objectID": "30bef66c90de0f501152adb2dc4c981c"
+      },
+      "previous": {
+        "content": "\"Yes, sir.\"",
+        "objectID": "4e9767e2e2584e1160915fa8f0b450a5"
+      }
+    },
+    "objectID": "32d3d0faa22284015b60d87c393a31bb",
+    "order": 143,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Yes, sir.\"",
+    "context": {
+      "next": {
+        "content": "\"You will begin in each case by giving the outside porter one shilling. Here are twenty-three shillings.\"",
+        "objectID": "f833eef895bb01f8391fc3b077724798"
+      },
+      "previous": {
+        "content": "\"You will visit each of these in turn.\"",
+        "objectID": "32d3d0faa22284015b60d87c393a31bb"
+      }
+    },
+    "objectID": "30bef66c90de0f501152adb2dc4c981c",
+    "order": 144,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"You will begin in each case by giving the outside porter one shilling. Here are twenty-three shillings.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, sir.\"",
+        "objectID": "fc0762afc214d44823498ccf2d77e18b"
+      },
+      "previous": {
+        "content": "\"Yes, sir.\"",
+        "objectID": "30bef66c90de0f501152adb2dc4c981c"
+      }
+    },
+    "objectID": "f833eef895bb01f8391fc3b077724798",
+    "order": 145,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Yes, sir.\"",
+    "context": {
+      "next": {
+        "content": "\"You will tell him that you want to see the waste-paper of yesterday. You will say that an important telegram has miscarried and that you are looking for it. You understand?\"",
+        "objectID": "e183e5e1c7616bd2df2f94830aa80da3"
+      },
+      "previous": {
+        "content": "\"You will begin in each case by giving the outside porter one shilling. Here are twenty-three shillings.\"",
+        "objectID": "f833eef895bb01f8391fc3b077724798"
+      }
+    },
+    "objectID": "fc0762afc214d44823498ccf2d77e18b",
+    "order": 146,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"You will tell him that you want to see the waste-paper of yesterday. You will say that an important telegram has miscarried and that you are looking for it. You understand?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, sir.\"",
+        "objectID": "ba4e93feb8ce5eca6b778e31540be875"
+      },
+      "previous": {
+        "content": "\"Yes, sir.\"",
+        "objectID": "fc0762afc214d44823498ccf2d77e18b"
+      }
+    },
+    "objectID": "e183e5e1c7616bd2df2f94830aa80da3",
+    "order": 147,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Yes, sir.\"",
+    "context": {
+      "next": {
+        "content": "\"But what you are really looking for is the centre page of the Times with some holes cut in it with scissors. Here is a copy of the Times. It is this page. You could easily recognize it, could you not?\"",
+        "objectID": "0cc85b97e9c2c4dbefb0e37800ea2a41"
+      },
+      "previous": {
+        "content": "\"You will tell him that you want to see the waste-paper of yesterday. You will say that an important telegram has miscarried and that you are looking for it. You understand?\"",
+        "objectID": "e183e5e1c7616bd2df2f94830aa80da3"
+      }
+    },
+    "objectID": "ba4e93feb8ce5eca6b778e31540be875",
+    "order": 148,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"But what you are really looking for is the centre page of the Times with some holes cut in it with scissors. Here is a copy of the Times. It is this page. You could easily recognize it, could you not?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, sir.\"",
+        "objectID": "59d6343a0d3c3cf3e33013cb117da79f"
+      },
+      "previous": {
+        "content": "\"Yes, sir.\"",
+        "objectID": "ba4e93feb8ce5eca6b778e31540be875"
+      }
+    },
+    "objectID": "0cc85b97e9c2c4dbefb0e37800ea2a41",
+    "order": 149,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"Yes, sir.\"",
+    "context": {
+      "next": {
+        "content": "\"In each case the outside porter will send for the hall porter, to whom also you will give a shilling. Here are twenty-three shillings. You will then learn in possibly twenty cases out of the twenty-three that the waste of the day before has been burned or removed. In the three other cases you will be shown a heap of paper and you will look for this page of the Times among it.",
+        "objectID": "b5cc7decaf9d34c7b57ead5a63b97edd"
+      },
+      "previous": {
+        "content": "\"But what you are really looking for is the centre page of the Times with some holes cut in it with scissors. Here is a copy of the Times. It is this page. You could easily recognize it, could you not?\"",
+        "objectID": "0cc85b97e9c2c4dbefb0e37800ea2a41"
+      }
+    },
+    "objectID": "59d6343a0d3c3cf3e33013cb117da79f",
+    "order": 150,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"In each case the outside porter will send for the hall porter, to whom also you will give a shilling. Here are twenty-three shillings. You will then learn in possibly twenty cases out of the twenty-three that the waste of the day before has been burned or removed. In the three other cases you will be shown a heap of paper and you will look for this page of the Times among it.",
+    "context": {
+      "next": {
+        "content": "The odds are enormously against your finding it. There are ten shillings over in case of emergencies. Let me have a report by wire at Baker Street before evening. And now, Watson, it only remains for us to find out by wire the identity of the cabman, No. 2704, and then we will drop into one of the Bond Street picture galleries and fill in the time until we are due at the hotel.",
+        "objectID": "642ce3ddb1f369afedf289f9d4ae15ba"
+      },
+      "previous": {
+        "content": "\"Yes, sir.\"",
+        "objectID": "59d6343a0d3c3cf3e33013cb117da79f"
+      }
+    },
+    "objectID": "b5cc7decaf9d34c7b57ead5a63b97edd",
+    "order": 151,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "The odds are enormously against your finding it. There are ten shillings over in case of emergencies. Let me have a report by wire at Baker Street before evening. And now, Watson, it only remains for us to find out by wire the identity of the cabman, No. 2704, and then we will drop into one of the Bond Street picture galleries and fill in the time until we are due at the hotel.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "08cfd1e3a0148bca199444ab49db2e11"
+      },
+      "previous": {
+        "content": "\"In each case the outside porter will send for the hall porter, to whom also you will give a shilling. Here are twenty-three shillings. You will then learn in possibly twenty cases out of the twenty-three that the waste of the day before has been burned or removed. In the three other cases you will be shown a heap of paper and you will look for this page of the Times among it.",
+        "objectID": "b5cc7decaf9d34c7b57ead5a63b97edd"
+      }
+    },
+    "objectID": "642ce3ddb1f369afedf289f9d4ae15ba",
+    "order": 152,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 4. Sir Henry Baskerville",
+    "chapterOrder": 4,
+    "content": "\"",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "The odds are enormously against your finding it. There are ten shillings over in case of emergencies. Let me have a report by wire at Baker Street before evening. And now, Watson, it only remains for us to find out by wire the identity of the cabman, No. 2704, and then we will drop into one of the Bond Street picture galleries and fill in the time until we are due at the hotel.",
+        "objectID": "642ce3ddb1f369afedf289f9d4ae15ba"
+      }
+    },
+    "objectID": "08cfd1e3a0148bca199444ab49db2e11",
+    "order": 153,
+    "tagName": "P"
+  }
+]

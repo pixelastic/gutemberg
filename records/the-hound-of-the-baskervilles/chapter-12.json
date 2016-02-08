@@ -1,0 +1,3167 @@
+[
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "For a moment or two I sat breathless, hardly able to believe my ears. Then my senses and my voice came back to me, while a crushing weight of responsibility seemed in an instant to be lifted from my soul. That cold, incisive, ironical voice could belong to but one man in all the world.",
+    "context": {
+      "next": {
+        "content": "\"Holmes!\" I cried—\"Holmes!\"",
+        "objectID": "0e510fdb07305bafb9d140a4071cdf6a"
+      },
+      "previous": null
+    },
+    "objectID": "f75ed76682e29dd9662ba28ed8167de4",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Holmes!\" I cried—\"Holmes!\"",
+    "context": {
+      "next": {
+        "content": "\"Come out,\" said he, \"and please be careful with the revolver.\"",
+        "objectID": "c1c937fa86f8a081d973fab2720d64bd"
+      },
+      "previous": {
+        "content": "For a moment or two I sat breathless, hardly able to believe my ears. Then my senses and my voice came back to me, while a crushing weight of responsibility seemed in an instant to be lifted from my soul. That cold, incisive, ironical voice could belong to but one man in all the world.",
+        "objectID": "f75ed76682e29dd9662ba28ed8167de4"
+      }
+    },
+    "objectID": "0e510fdb07305bafb9d140a4071cdf6a",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Come out,\" said he, \"and please be careful with the revolver.\"",
+    "context": {
+      "next": {
+        "content": "I stooped under the rude lintel, and there he sat upon a stone outside, his gray eyes dancing with amusement as they fell upon my astonished features. He was thin and worn, but clear and alert, his keen face bronzed by the sun and roughened by the wind. In his tweed suit and cloth cap he looked like any other tourist upon the moor, and he had contrived, with that catlike love of personal cleanliness which was one of his characteristics, that his chin should be as smooth and his linen as perfect as if he were in Baker Street.",
+        "objectID": "3c72ea46a78586c30a6a7608c8a5c609"
+      },
+      "previous": {
+        "content": "\"Holmes!\" I cried—\"Holmes!\"",
+        "objectID": "0e510fdb07305bafb9d140a4071cdf6a"
+      }
+    },
+    "objectID": "c1c937fa86f8a081d973fab2720d64bd",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "I stooped under the rude lintel, and there he sat upon a stone outside, his gray eyes dancing with amusement as they fell upon my astonished features. He was thin and worn, but clear and alert, his keen face bronzed by the sun and roughened by the wind. In his tweed suit and cloth cap he looked like any other tourist upon the moor, and he had contrived, with that catlike love of personal cleanliness which was one of his characteristics, that his chin should be as smooth and his linen as perfect as if he were in Baker Street.",
+    "context": {
+      "next": {
+        "content": "\"I never was more glad to see anyone in my life,\" said I as I wrung him by the hand.",
+        "objectID": "f5e8eed47b6ed53ef0855a6c93b76013"
+      },
+      "previous": {
+        "content": "\"Come out,\" said he, \"and please be careful with the revolver.\"",
+        "objectID": "c1c937fa86f8a081d973fab2720d64bd"
+      }
+    },
+    "objectID": "3c72ea46a78586c30a6a7608c8a5c609",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"I never was more glad to see anyone in my life,\" said I as I wrung him by the hand.",
+    "context": {
+      "next": {
+        "content": "\"Or more astonished, eh?\"",
+        "objectID": "932cd78a80c474fc405de6d0a14acd28"
+      },
+      "previous": {
+        "content": "I stooped under the rude lintel, and there he sat upon a stone outside, his gray eyes dancing with amusement as they fell upon my astonished features. He was thin and worn, but clear and alert, his keen face bronzed by the sun and roughened by the wind. In his tweed suit and cloth cap he looked like any other tourist upon the moor, and he had contrived, with that catlike love of personal cleanliness which was one of his characteristics, that his chin should be as smooth and his linen as perfect as if he were in Baker Street.",
+        "objectID": "3c72ea46a78586c30a6a7608c8a5c609"
+      }
+    },
+    "objectID": "f5e8eed47b6ed53ef0855a6c93b76013",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Or more astonished, eh?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, I must confess to it.\"",
+        "objectID": "ab9e271d17704b3b0905276d260e7ba2"
+      },
+      "previous": {
+        "content": "\"I never was more glad to see anyone in my life,\" said I as I wrung him by the hand.",
+        "objectID": "f5e8eed47b6ed53ef0855a6c93b76013"
+      }
+    },
+    "objectID": "932cd78a80c474fc405de6d0a14acd28",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Well, I must confess to it.\"",
+    "context": {
+      "next": {
+        "content": "\"The surprise was not all on one side, I assure you. I had no idea that you had found my occasional retreat, still less that you were inside it, until I was within twenty paces of the door.\"",
+        "objectID": "2c5fddd6ed3fab76ea4f4de08771e248"
+      },
+      "previous": {
+        "content": "\"Or more astonished, eh?\"",
+        "objectID": "932cd78a80c474fc405de6d0a14acd28"
+      }
+    },
+    "objectID": "ab9e271d17704b3b0905276d260e7ba2",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"The surprise was not all on one side, I assure you. I had no idea that you had found my occasional retreat, still less that you were inside it, until I was within twenty paces of the door.\"",
+    "context": {
+      "next": {
+        "content": "\"My footprint, I presume?\"",
+        "objectID": "cfc7ace8e2a39c121670aaee8b092380"
+      },
+      "previous": {
+        "content": "\"Well, I must confess to it.\"",
+        "objectID": "ab9e271d17704b3b0905276d260e7ba2"
+      }
+    },
+    "objectID": "2c5fddd6ed3fab76ea4f4de08771e248",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"My footprint, I presume?\"",
+    "context": {
+      "next": {
+        "content": "\"No, Watson, I fear that I could not undertake to recognize your footprint amid all the footprints of the world. If you seriously desire to deceive me you must change your tobacconist; for when I see the stub of a cigarette marked Bradley, Oxford Street, I know that my friend Watson is in the neighbourhood.",
+        "objectID": "c70e0f9c028af7d0cb64524566d62e96"
+      },
+      "previous": {
+        "content": "\"The surprise was not all on one side, I assure you. I had no idea that you had found my occasional retreat, still less that you were inside it, until I was within twenty paces of the door.\"",
+        "objectID": "2c5fddd6ed3fab76ea4f4de08771e248"
+      }
+    },
+    "objectID": "cfc7ace8e2a39c121670aaee8b092380",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"No, Watson, I fear that I could not undertake to recognize your footprint amid all the footprints of the world. If you seriously desire to deceive me you must change your tobacconist; for when I see the stub of a cigarette marked Bradley, Oxford Street, I know that my friend Watson is in the neighbourhood.",
+    "context": {
+      "next": {
+        "content": "You will see it there beside the path. You threw it down, no doubt, at that supreme moment when you charged into the empty hut.\"",
+        "objectID": "df16b15a5e7103422a33f9457ef88cb4"
+      },
+      "previous": {
+        "content": "\"My footprint, I presume?\"",
+        "objectID": "cfc7ace8e2a39c121670aaee8b092380"
+      }
+    },
+    "objectID": "c70e0f9c028af7d0cb64524566d62e96",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "You will see it there beside the path. You threw it down, no doubt, at that supreme moment when you charged into the empty hut.\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly.\"",
+        "objectID": "2e226d3f71b7fa540265e008193fa6d4"
+      },
+      "previous": {
+        "content": "\"No, Watson, I fear that I could not undertake to recognize your footprint amid all the footprints of the world. If you seriously desire to deceive me you must change your tobacconist; for when I see the stub of a cigarette marked Bradley, Oxford Street, I know that my friend Watson is in the neighbourhood.",
+        "objectID": "c70e0f9c028af7d0cb64524566d62e96"
+      }
+    },
+    "objectID": "df16b15a5e7103422a33f9457ef88cb4",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Exactly.\"",
+    "context": {
+      "next": {
+        "content": "\"I thought as much—and knowing your admirable tenacity I was convinced that you were sitting in ambush, a weapon within reach, waiting for the tenant to return. So you actually thought that I was the criminal?\"",
+        "objectID": "f171cc598534e770d62572aa89a33bb1"
+      },
+      "previous": {
+        "content": "You will see it there beside the path. You threw it down, no doubt, at that supreme moment when you charged into the empty hut.\"",
+        "objectID": "df16b15a5e7103422a33f9457ef88cb4"
+      }
+    },
+    "objectID": "2e226d3f71b7fa540265e008193fa6d4",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"I thought as much—and knowing your admirable tenacity I was convinced that you were sitting in ambush, a weapon within reach, waiting for the tenant to return. So you actually thought that I was the criminal?\"",
+    "context": {
+      "next": {
+        "content": "\"I did not know who you were, but I was determined to find out.\"",
+        "objectID": "40592af410056f696195c4ba7c5efb8e"
+      },
+      "previous": {
+        "content": "\"Exactly.\"",
+        "objectID": "2e226d3f71b7fa540265e008193fa6d4"
+      }
+    },
+    "objectID": "f171cc598534e770d62572aa89a33bb1",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"I did not know who you were, but I was determined to find out.\"",
+    "context": {
+      "next": {
+        "content": "\"Excellent, Watson! And how did you localize me? You saw me, perhaps, on the night of the convict hunt, when I was so imprudent as to allow the moon to rise behind me?\"",
+        "objectID": "084e45b008ddd2dfe047c58465fab2b1"
+      },
+      "previous": {
+        "content": "\"I thought as much—and knowing your admirable tenacity I was convinced that you were sitting in ambush, a weapon within reach, waiting for the tenant to return. So you actually thought that I was the criminal?\"",
+        "objectID": "f171cc598534e770d62572aa89a33bb1"
+      }
+    },
+    "objectID": "40592af410056f696195c4ba7c5efb8e",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Excellent, Watson! And how did you localize me? You saw me, perhaps, on the night of the convict hunt, when I was so imprudent as to allow the moon to rise behind me?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, I saw you then.\"",
+        "objectID": "ab4cad009e19e0dbde83addbbed2c042"
+      },
+      "previous": {
+        "content": "\"I did not know who you were, but I was determined to find out.\"",
+        "objectID": "40592af410056f696195c4ba7c5efb8e"
+      }
+    },
+    "objectID": "084e45b008ddd2dfe047c58465fab2b1",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Yes, I saw you then.\"",
+    "context": {
+      "next": {
+        "content": "\"And have no doubt searched all the huts until you came to this one?\"",
+        "objectID": "34eea685015d5a846b35d40a62e2121a"
+      },
+      "previous": {
+        "content": "\"Excellent, Watson! And how did you localize me? You saw me, perhaps, on the night of the convict hunt, when I was so imprudent as to allow the moon to rise behind me?\"",
+        "objectID": "084e45b008ddd2dfe047c58465fab2b1"
+      }
+    },
+    "objectID": "ab4cad009e19e0dbde83addbbed2c042",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"And have no doubt searched all the huts until you came to this one?\"",
+    "context": {
+      "next": {
+        "content": "\"No, your boy had been observed, and that gave me a guide where to look.\"",
+        "objectID": "4edb3638498f2ac158e84dfe72ef0822"
+      },
+      "previous": {
+        "content": "\"Yes, I saw you then.\"",
+        "objectID": "ab4cad009e19e0dbde83addbbed2c042"
+      }
+    },
+    "objectID": "34eea685015d5a846b35d40a62e2121a",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"No, your boy had been observed, and that gave me a guide where to look.\"",
+    "context": {
+      "next": {
+        "content": "\"The old gentleman with the telescope, no doubt. I could not make it out when first I saw the light flashing upon the lens.\" He rose and peeped into the hut. \"Ha, I see that Cartwright has brought up some supplies. What's this paper? So you have been to Coombe Tracey, have you?\"",
+        "objectID": "b3c3a1ff7645f3d5bafab1e908d04c28"
+      },
+      "previous": {
+        "content": "\"And have no doubt searched all the huts until you came to this one?\"",
+        "objectID": "34eea685015d5a846b35d40a62e2121a"
+      }
+    },
+    "objectID": "4edb3638498f2ac158e84dfe72ef0822",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"The old gentleman with the telescope, no doubt. I could not make it out when first I saw the light flashing upon the lens.\" He rose and peeped into the hut. \"Ha, I see that Cartwright has brought up some supplies. What's this paper? So you have been to Coombe Tracey, have you?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes.\"",
+        "objectID": "2f85be366e6db694e9f1b0b737358090"
+      },
+      "previous": {
+        "content": "\"No, your boy had been observed, and that gave me a guide where to look.\"",
+        "objectID": "4edb3638498f2ac158e84dfe72ef0822"
+      }
+    },
+    "objectID": "b3c3a1ff7645f3d5bafab1e908d04c28",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Yes.\"",
+    "context": {
+      "next": {
+        "content": "\"To see Mrs. Laura Lyons?\"",
+        "objectID": "6384e47fcf803a4d1857a66923d0f0e2"
+      },
+      "previous": {
+        "content": "\"The old gentleman with the telescope, no doubt. I could not make it out when first I saw the light flashing upon the lens.\" He rose and peeped into the hut. \"Ha, I see that Cartwright has brought up some supplies. What's this paper? So you have been to Coombe Tracey, have you?\"",
+        "objectID": "b3c3a1ff7645f3d5bafab1e908d04c28"
+      }
+    },
+    "objectID": "2f85be366e6db694e9f1b0b737358090",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"To see Mrs. Laura Lyons?\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly.\"",
+        "objectID": "235f81454f05f59a67eb406859e2d76b"
+      },
+      "previous": {
+        "content": "\"Yes.\"",
+        "objectID": "2f85be366e6db694e9f1b0b737358090"
+      }
+    },
+    "objectID": "6384e47fcf803a4d1857a66923d0f0e2",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Exactly.\"",
+    "context": {
+      "next": {
+        "content": "\"Well done! Our researches have evidently been running on parallel lines, and when we unite our results I expect we shall have a fairly full knowledge of the case.\"",
+        "objectID": "d9ca5f183e2d119644ec463fcad9626c"
+      },
+      "previous": {
+        "content": "\"To see Mrs. Laura Lyons?\"",
+        "objectID": "6384e47fcf803a4d1857a66923d0f0e2"
+      }
+    },
+    "objectID": "235f81454f05f59a67eb406859e2d76b",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Well done! Our researches have evidently been running on parallel lines, and when we unite our results I expect we shall have a fairly full knowledge of the case.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, I am glad from my heart that you are here, for indeed the responsibility and the mystery were both becoming too much for my nerves. But how in the name of wonder did you come here, and what have you been doing? I thought that you were in Baker Street working out that case of blackmailing.\"",
+        "objectID": "fa5c94df6e8009befbe0180a4bbde4c5"
+      },
+      "previous": {
+        "content": "\"Exactly.\"",
+        "objectID": "235f81454f05f59a67eb406859e2d76b"
+      }
+    },
+    "objectID": "d9ca5f183e2d119644ec463fcad9626c",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Well, I am glad from my heart that you are here, for indeed the responsibility and the mystery were both becoming too much for my nerves. But how in the name of wonder did you come here, and what have you been doing? I thought that you were in Baker Street working out that case of blackmailing.\"",
+    "context": {
+      "next": {
+        "content": "\"That was what I wished you to think.\"",
+        "objectID": "f0a67b46dab38878da8a687d5c0889ad"
+      },
+      "previous": {
+        "content": "\"Well done! Our researches have evidently been running on parallel lines, and when we unite our results I expect we shall have a fairly full knowledge of the case.\"",
+        "objectID": "d9ca5f183e2d119644ec463fcad9626c"
+      }
+    },
+    "objectID": "fa5c94df6e8009befbe0180a4bbde4c5",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"That was what I wished you to think.\"",
+    "context": {
+      "next": {
+        "content": "\"Then you use me, and yet do not trust me!\" I cried with some bitterness. \"I think that I have deserved better at your hands, Holmes.\"",
+        "objectID": "c7d1ceb338ef2953de7a404e58dda4b2"
+      },
+      "previous": {
+        "content": "\"Well, I am glad from my heart that you are here, for indeed the responsibility and the mystery were both becoming too much for my nerves. But how in the name of wonder did you come here, and what have you been doing? I thought that you were in Baker Street working out that case of blackmailing.\"",
+        "objectID": "fa5c94df6e8009befbe0180a4bbde4c5"
+      }
+    },
+    "objectID": "f0a67b46dab38878da8a687d5c0889ad",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Then you use me, and yet do not trust me!\" I cried with some bitterness. \"I think that I have deserved better at your hands, Holmes.\"",
+    "context": {
+      "next": {
+        "content": "\"My dear fellow, you have been invaluable to me in this as in many other cases, and I beg that you will forgive me if I have seemed to play a trick upon you. In truth, it was partly for your own sake that I did it, and it was my appreciation of the danger which you ran which led me to come down and examine the matter for myself.",
+        "objectID": "5abe3c0788d8b8a0f0956d80e6b80ce8"
+      },
+      "previous": {
+        "content": "\"That was what I wished you to think.\"",
+        "objectID": "f0a67b46dab38878da8a687d5c0889ad"
+      }
+    },
+    "objectID": "c7d1ceb338ef2953de7a404e58dda4b2",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"My dear fellow, you have been invaluable to me in this as in many other cases, and I beg that you will forgive me if I have seemed to play a trick upon you. In truth, it was partly for your own sake that I did it, and it was my appreciation of the danger which you ran which led me to come down and examine the matter for myself.",
+    "context": {
+      "next": {
+        "content": "Had I been with Sir Henry and you it is confident that my point of view would have been the same as yours, and my presence would have warned our very formidable opponents to be on their guard. As it is, I have been able to get about as I could not possibly have done had I been living in the Hall, and I remain an unknown factor in the business, ready to throw in all my weight at a critical moment.",
+        "objectID": "d21c6a7e4f440d18fccddc27ca7d2201"
+      },
+      "previous": {
+        "content": "\"Then you use me, and yet do not trust me!\" I cried with some bitterness. \"I think that I have deserved better at your hands, Holmes.\"",
+        "objectID": "c7d1ceb338ef2953de7a404e58dda4b2"
+      }
+    },
+    "objectID": "5abe3c0788d8b8a0f0956d80e6b80ce8",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "Had I been with Sir Henry and you it is confident that my point of view would have been the same as yours, and my presence would have warned our very formidable opponents to be on their guard. As it is, I have been able to get about as I could not possibly have done had I been living in the Hall, and I remain an unknown factor in the business, ready to throw in all my weight at a critical moment.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "b12f2598dc62a996da3af1bbce1cc716"
+      },
+      "previous": {
+        "content": "\"My dear fellow, you have been invaluable to me in this as in many other cases, and I beg that you will forgive me if I have seemed to play a trick upon you. In truth, it was partly for your own sake that I did it, and it was my appreciation of the danger which you ran which led me to come down and examine the matter for myself.",
+        "objectID": "5abe3c0788d8b8a0f0956d80e6b80ce8"
+      }
+    },
+    "objectID": "d21c6a7e4f440d18fccddc27ca7d2201",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"But why keep me in the dark?\"",
+        "objectID": "e9837488572c93bfdd5095f4bf39869d"
+      },
+      "previous": {
+        "content": "Had I been with Sir Henry and you it is confident that my point of view would have been the same as yours, and my presence would have warned our very formidable opponents to be on their guard. As it is, I have been able to get about as I could not possibly have done had I been living in the Hall, and I remain an unknown factor in the business, ready to throw in all my weight at a critical moment.",
+        "objectID": "d21c6a7e4f440d18fccddc27ca7d2201"
+      }
+    },
+    "objectID": "b12f2598dc62a996da3af1bbce1cc716",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"But why keep me in the dark?\"",
+    "context": {
+      "next": {
+        "content": "\"For you to know could not have helped us and might possibly have led to my discovery. You would have wished to tell me something, or in your kindness you would have brought me out some comfort or other, and so an unnecessary risk would be run. I brought Cartwright down with me—you remember the little chap at the express office—and he has seen after my simple wants: a loaf of bread and a clean collar.",
+        "objectID": "e5fffd1772161dbe3b4ced44183c8186"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "b12f2598dc62a996da3af1bbce1cc716"
+      }
+    },
+    "objectID": "e9837488572c93bfdd5095f4bf39869d",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"For you to know could not have helped us and might possibly have led to my discovery. You would have wished to tell me something, or in your kindness you would have brought me out some comfort or other, and so an unnecessary risk would be run. I brought Cartwright down with me—you remember the little chap at the express office—and he has seen after my simple wants: a loaf of bread and a clean collar.",
+    "context": {
+      "next": {
+        "content": "What does man want more? He has given me an extra pair of eyes upon a very active pair of feet, and both have been invaluable.\"",
+        "objectID": "ca9eb7841575da824924f68e727b13f4"
+      },
+      "previous": {
+        "content": "\"But why keep me in the dark?\"",
+        "objectID": "e9837488572c93bfdd5095f4bf39869d"
+      }
+    },
+    "objectID": "e5fffd1772161dbe3b4ced44183c8186",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "What does man want more? He has given me an extra pair of eyes upon a very active pair of feet, and both have been invaluable.\"",
+    "context": {
+      "next": {
+        "content": "\"Then my reports have all been wasted!\"—My voice trembled as I recalled the pains and the pride with which I had composed them.",
+        "objectID": "8430c6a7218de607d25aa15e2d9a5b63"
+      },
+      "previous": {
+        "content": "\"For you to know could not have helped us and might possibly have led to my discovery. You would have wished to tell me something, or in your kindness you would have brought me out some comfort or other, and so an unnecessary risk would be run. I brought Cartwright down with me—you remember the little chap at the express office—and he has seen after my simple wants: a loaf of bread and a clean collar.",
+        "objectID": "e5fffd1772161dbe3b4ced44183c8186"
+      }
+    },
+    "objectID": "ca9eb7841575da824924f68e727b13f4",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Then my reports have all been wasted!\"—My voice trembled as I recalled the pains and the pride with which I had composed them.",
+    "context": {
+      "next": {
+        "content": "Holmes took a bundle of papers from his pocket.",
+        "objectID": "d68b10edb9f932111c9d4fe16928f655"
+      },
+      "previous": {
+        "content": "What does man want more? He has given me an extra pair of eyes upon a very active pair of feet, and both have been invaluable.\"",
+        "objectID": "ca9eb7841575da824924f68e727b13f4"
+      }
+    },
+    "objectID": "8430c6a7218de607d25aa15e2d9a5b63",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "Holmes took a bundle of papers from his pocket.",
+    "context": {
+      "next": {
+        "content": "\"Here are your reports, my dear fellow, and very well thumbed, I assure you. I made excellent arrangements, and they are only delayed one day upon their way. I must compliment you exceedingly upon the zeal and the intelligence which you have shown over an extraordinarily difficult case.\"",
+        "objectID": "58ef66f5d1f27d4742033665715737a8"
+      },
+      "previous": {
+        "content": "\"Then my reports have all been wasted!\"—My voice trembled as I recalled the pains and the pride with which I had composed them.",
+        "objectID": "8430c6a7218de607d25aa15e2d9a5b63"
+      }
+    },
+    "objectID": "d68b10edb9f932111c9d4fe16928f655",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Here are your reports, my dear fellow, and very well thumbed, I assure you. I made excellent arrangements, and they are only delayed one day upon their way. I must compliment you exceedingly upon the zeal and the intelligence which you have shown over an extraordinarily difficult case.\"",
+    "context": {
+      "next": {
+        "content": "I was still rather raw over the deception which had been practised upon me, but the warmth of Holmes's praise drove my anger from my mind. I felt also in my heart that he was right in what he said and that it was really best for our purpose that I should not have known that he was upon the moor.",
+        "objectID": "38ebf2dfbe4bef92fbcfce89d863d9fe"
+      },
+      "previous": {
+        "content": "Holmes took a bundle of papers from his pocket.",
+        "objectID": "d68b10edb9f932111c9d4fe16928f655"
+      }
+    },
+    "objectID": "58ef66f5d1f27d4742033665715737a8",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "I was still rather raw over the deception which had been practised upon me, but the warmth of Holmes's praise drove my anger from my mind. I felt also in my heart that he was right in what he said and that it was really best for our purpose that I should not have known that he was upon the moor.",
+    "context": {
+      "next": {
+        "content": "\"That's better,\" said he, seeing the shadow rise from my face. \"And now tell me the result of your visit to Mrs. Laura Lyons—it was not difficult for me to guess that it was to see her that you had gone, for I am already aware that she is the one person in Coombe Tracey who might be of service to us in the matter.",
+        "objectID": "604831544046fdadb7b9ff45e0d2e9c8"
+      },
+      "previous": {
+        "content": "\"Here are your reports, my dear fellow, and very well thumbed, I assure you. I made excellent arrangements, and they are only delayed one day upon their way. I must compliment you exceedingly upon the zeal and the intelligence which you have shown over an extraordinarily difficult case.\"",
+        "objectID": "58ef66f5d1f27d4742033665715737a8"
+      }
+    },
+    "objectID": "38ebf2dfbe4bef92fbcfce89d863d9fe",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"That's better,\" said he, seeing the shadow rise from my face. \"And now tell me the result of your visit to Mrs. Laura Lyons—it was not difficult for me to guess that it was to see her that you had gone, for I am already aware that she is the one person in Coombe Tracey who might be of service to us in the matter.",
+    "context": {
+      "next": {
+        "content": "In fact, if you had not gone today it is exceedingly probable that I should have gone tomorrow.\"",
+        "objectID": "686125573ee1a9679a9c6199b390966e"
+      },
+      "previous": {
+        "content": "I was still rather raw over the deception which had been practised upon me, but the warmth of Holmes's praise drove my anger from my mind. I felt also in my heart that he was right in what he said and that it was really best for our purpose that I should not have known that he was upon the moor.",
+        "objectID": "38ebf2dfbe4bef92fbcfce89d863d9fe"
+      }
+    },
+    "objectID": "604831544046fdadb7b9ff45e0d2e9c8",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "In fact, if you had not gone today it is exceedingly probable that I should have gone tomorrow.\"",
+    "context": {
+      "next": {
+        "content": "The sun had set and dusk was settling over the moor. The air had turned chill and we withdrew into the hut for warmth. There, sitting together in the twilight, I told Holmes of my conversation with the lady. So interested was he that I had to repeat some of it twice before he was satisfied.",
+        "objectID": "fd1bed7f8469b751482af5c70e5727b2"
+      },
+      "previous": {
+        "content": "\"That's better,\" said he, seeing the shadow rise from my face. \"And now tell me the result of your visit to Mrs. Laura Lyons—it was not difficult for me to guess that it was to see her that you had gone, for I am already aware that she is the one person in Coombe Tracey who might be of service to us in the matter.",
+        "objectID": "604831544046fdadb7b9ff45e0d2e9c8"
+      }
+    },
+    "objectID": "686125573ee1a9679a9c6199b390966e",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "The sun had set and dusk was settling over the moor. The air had turned chill and we withdrew into the hut for warmth. There, sitting together in the twilight, I told Holmes of my conversation with the lady. So interested was he that I had to repeat some of it twice before he was satisfied.",
+    "context": {
+      "next": {
+        "content": "\"This is most important,\" said he when I had concluded. \"It fills up a gap which I had been unable to bridge in this most complex affair. You are aware, perhaps, that a close intimacy exists between this lady and the man Stapleton?\"",
+        "objectID": "4ca4d5bc638143a1ab6dd766802ba0c2"
+      },
+      "previous": {
+        "content": "In fact, if you had not gone today it is exceedingly probable that I should have gone tomorrow.\"",
+        "objectID": "686125573ee1a9679a9c6199b390966e"
+      }
+    },
+    "objectID": "fd1bed7f8469b751482af5c70e5727b2",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"This is most important,\" said he when I had concluded. \"It fills up a gap which I had been unable to bridge in this most complex affair. You are aware, perhaps, that a close intimacy exists between this lady and the man Stapleton?\"",
+    "context": {
+      "next": {
+        "content": "\"I did not know of a close intimacy.\"",
+        "objectID": "e8b573e66d06f5e78567bbd2697f8d5e"
+      },
+      "previous": {
+        "content": "The sun had set and dusk was settling over the moor. The air had turned chill and we withdrew into the hut for warmth. There, sitting together in the twilight, I told Holmes of my conversation with the lady. So interested was he that I had to repeat some of it twice before he was satisfied.",
+        "objectID": "fd1bed7f8469b751482af5c70e5727b2"
+      }
+    },
+    "objectID": "4ca4d5bc638143a1ab6dd766802ba0c2",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"I did not know of a close intimacy.\"",
+    "context": {
+      "next": {
+        "content": "\"There can be no doubt about the matter. They meet, they write, there is a complete understanding between them. Now, this puts a very powerful weapon into our hands. If I could only use it to detach his wife—\"",
+        "objectID": "9609efd7954697c69c9ea65395938483"
+      },
+      "previous": {
+        "content": "\"This is most important,\" said he when I had concluded. \"It fills up a gap which I had been unable to bridge in this most complex affair. You are aware, perhaps, that a close intimacy exists between this lady and the man Stapleton?\"",
+        "objectID": "4ca4d5bc638143a1ab6dd766802ba0c2"
+      }
+    },
+    "objectID": "e8b573e66d06f5e78567bbd2697f8d5e",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"There can be no doubt about the matter. They meet, they write, there is a complete understanding between them. Now, this puts a very powerful weapon into our hands. If I could only use it to detach his wife—\"",
+    "context": {
+      "next": {
+        "content": "\"His wife?\"",
+        "objectID": "5513d340da550053da521a07edffd2d8"
+      },
+      "previous": {
+        "content": "\"I did not know of a close intimacy.\"",
+        "objectID": "e8b573e66d06f5e78567bbd2697f8d5e"
+      }
+    },
+    "objectID": "9609efd7954697c69c9ea65395938483",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"His wife?\"",
+    "context": {
+      "next": {
+        "content": "\"I am giving you some information now, in return for all that you have given me. The lady who has passed here as Miss Stapleton is in reality his wife.\"",
+        "objectID": "bf3732fe953182e0970032711bb31c75"
+      },
+      "previous": {
+        "content": "\"There can be no doubt about the matter. They meet, they write, there is a complete understanding between them. Now, this puts a very powerful weapon into our hands. If I could only use it to detach his wife—\"",
+        "objectID": "9609efd7954697c69c9ea65395938483"
+      }
+    },
+    "objectID": "5513d340da550053da521a07edffd2d8",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"I am giving you some information now, in return for all that you have given me. The lady who has passed here as Miss Stapleton is in reality his wife.\"",
+    "context": {
+      "next": {
+        "content": "\"Good heavens, Holmes! Are you sure of what you say? How could he have permitted Sir Henry to fall in love with her?\"",
+        "objectID": "61979a30574b93a13c93c8f80a3b2cbf"
+      },
+      "previous": {
+        "content": "\"His wife?\"",
+        "objectID": "5513d340da550053da521a07edffd2d8"
+      }
+    },
+    "objectID": "bf3732fe953182e0970032711bb31c75",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Good heavens, Holmes! Are you sure of what you say? How could he have permitted Sir Henry to fall in love with her?\"",
+    "context": {
+      "next": {
+        "content": "\"Sir Henry's falling in love could do no harm to anyone except Sir Henry. He took particular care that Sir Henry did not make love to her, as you have yourself observed. I repeat that the lady is his wife and not his sister.\"",
+        "objectID": "ef4074d2d476c3eecced3f90cf44c0e3"
+      },
+      "previous": {
+        "content": "\"I am giving you some information now, in return for all that you have given me. The lady who has passed here as Miss Stapleton is in reality his wife.\"",
+        "objectID": "bf3732fe953182e0970032711bb31c75"
+      }
+    },
+    "objectID": "61979a30574b93a13c93c8f80a3b2cbf",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Sir Henry's falling in love could do no harm to anyone except Sir Henry. He took particular care that Sir Henry did not make love to her, as you have yourself observed. I repeat that the lady is his wife and not his sister.\"",
+    "context": {
+      "next": {
+        "content": "\"But why this elaborate deception?\"",
+        "objectID": "b465665f0e8af5851bce15cfef9c4a40"
+      },
+      "previous": {
+        "content": "\"Good heavens, Holmes! Are you sure of what you say? How could he have permitted Sir Henry to fall in love with her?\"",
+        "objectID": "61979a30574b93a13c93c8f80a3b2cbf"
+      }
+    },
+    "objectID": "ef4074d2d476c3eecced3f90cf44c0e3",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"But why this elaborate deception?\"",
+    "context": {
+      "next": {
+        "content": "\"Because he foresaw that she would be very much more useful to him in the character of a free woman.\"",
+        "objectID": "f7ba1aeb4389fcbd19655bc9d90504da"
+      },
+      "previous": {
+        "content": "\"Sir Henry's falling in love could do no harm to anyone except Sir Henry. He took particular care that Sir Henry did not make love to her, as you have yourself observed. I repeat that the lady is his wife and not his sister.\"",
+        "objectID": "ef4074d2d476c3eecced3f90cf44c0e3"
+      }
+    },
+    "objectID": "b465665f0e8af5851bce15cfef9c4a40",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Because he foresaw that she would be very much more useful to him in the character of a free woman.\"",
+    "context": {
+      "next": {
+        "content": "All my unspoken instincts, my vague suspicions, suddenly took shape and centred upon the naturalist. In that impassive colourless man, with his straw hat and his butterfly-net, I seemed to see something terrible—a creature of infinite patience and craft, with a smiling face and a murderous heart.",
+        "objectID": "25949c213ab865579addf26ebd05e055"
+      },
+      "previous": {
+        "content": "\"But why this elaborate deception?\"",
+        "objectID": "b465665f0e8af5851bce15cfef9c4a40"
+      }
+    },
+    "objectID": "f7ba1aeb4389fcbd19655bc9d90504da",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "All my unspoken instincts, my vague suspicions, suddenly took shape and centred upon the naturalist. In that impassive colourless man, with his straw hat and his butterfly-net, I seemed to see something terrible—a creature of infinite patience and craft, with a smiling face and a murderous heart.",
+    "context": {
+      "next": {
+        "content": "\"It is he, then, who is our enemy—it is he who dogged us in London?\"",
+        "objectID": "482af819ca53e91edc50d317ecc88942"
+      },
+      "previous": {
+        "content": "\"Because he foresaw that she would be very much more useful to him in the character of a free woman.\"",
+        "objectID": "f7ba1aeb4389fcbd19655bc9d90504da"
+      }
+    },
+    "objectID": "25949c213ab865579addf26ebd05e055",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"It is he, then, who is our enemy—it is he who dogged us in London?\"",
+    "context": {
+      "next": {
+        "content": "\"So I read the riddle.\"",
+        "objectID": "66894d70a72067d2742b010875978aab"
+      },
+      "previous": {
+        "content": "All my unspoken instincts, my vague suspicions, suddenly took shape and centred upon the naturalist. In that impassive colourless man, with his straw hat and his butterfly-net, I seemed to see something terrible—a creature of infinite patience and craft, with a smiling face and a murderous heart.",
+        "objectID": "25949c213ab865579addf26ebd05e055"
+      }
+    },
+    "objectID": "482af819ca53e91edc50d317ecc88942",
+    "order": 50,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"So I read the riddle.\"",
+    "context": {
+      "next": {
+        "content": "\"And the warning—it must have come from her!\"",
+        "objectID": "9e01e649716970e024a13f0088cbcd59"
+      },
+      "previous": {
+        "content": "\"It is he, then, who is our enemy—it is he who dogged us in London?\"",
+        "objectID": "482af819ca53e91edc50d317ecc88942"
+      }
+    },
+    "objectID": "66894d70a72067d2742b010875978aab",
+    "order": 51,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"And the warning—it must have come from her!\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly.\"",
+        "objectID": "740c54f850c6fdc2370264d868999a94"
+      },
+      "previous": {
+        "content": "\"So I read the riddle.\"",
+        "objectID": "66894d70a72067d2742b010875978aab"
+      }
+    },
+    "objectID": "9e01e649716970e024a13f0088cbcd59",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Exactly.\"",
+    "context": {
+      "next": {
+        "content": "The shape of some monstrous villainy, half seen, half guessed, loomed through the darkness which had girt me so long.",
+        "objectID": "d6f349432e70a6d2350e564871156fed"
+      },
+      "previous": {
+        "content": "\"And the warning—it must have come from her!\"",
+        "objectID": "9e01e649716970e024a13f0088cbcd59"
+      }
+    },
+    "objectID": "740c54f850c6fdc2370264d868999a94",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "The shape of some monstrous villainy, half seen, half guessed, loomed through the darkness which had girt me so long.",
+    "context": {
+      "next": {
+        "content": "\"But are you sure of this, Holmes? How do you know that the woman is his wife?\"",
+        "objectID": "499fe1fb20c2603ac3a1fc3f7385a97f"
+      },
+      "previous": {
+        "content": "\"Exactly.\"",
+        "objectID": "740c54f850c6fdc2370264d868999a94"
+      }
+    },
+    "objectID": "d6f349432e70a6d2350e564871156fed",
+    "order": 54,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"But are you sure of this, Holmes? How do you know that the woman is his wife?\"",
+    "context": {
+      "next": {
+        "content": "\"Because he so far forgot himself as to tell you a true piece of autobiography upon the occasion when he first met you, and I dare say he has many a time regretted it since. He was once a schoolmaster in the north of England. Now, there is no one more easy to trace than a schoolmaster. There are scholastic agencies by which one may identify any man who has been in the profession.",
+        "objectID": "6828e37294141f5823e3588857d7afd1"
+      },
+      "previous": {
+        "content": "The shape of some monstrous villainy, half seen, half guessed, loomed through the darkness which had girt me so long.",
+        "objectID": "d6f349432e70a6d2350e564871156fed"
+      }
+    },
+    "objectID": "499fe1fb20c2603ac3a1fc3f7385a97f",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Because he so far forgot himself as to tell you a true piece of autobiography upon the occasion when he first met you, and I dare say he has many a time regretted it since. He was once a schoolmaster in the north of England. Now, there is no one more easy to trace than a schoolmaster. There are scholastic agencies by which one may identify any man who has been in the profession.",
+    "context": {
+      "next": {
+        "content": "A little investigation showed me that a school had come to grief under atrocious circumstances, and that the man who had owned it—the name was different—had disappeared with his wife. The descriptions agreed. When I learned that the missing man was devoted to entomology the identification was complete.",
+        "objectID": "a601be0bc09ae5fe5e5b16345c29da28"
+      },
+      "previous": {
+        "content": "\"But are you sure of this, Holmes? How do you know that the woman is his wife?\"",
+        "objectID": "499fe1fb20c2603ac3a1fc3f7385a97f"
+      }
+    },
+    "objectID": "6828e37294141f5823e3588857d7afd1",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "A little investigation showed me that a school had come to grief under atrocious circumstances, and that the man who had owned it—the name was different—had disappeared with his wife. The descriptions agreed. When I learned that the missing man was devoted to entomology the identification was complete.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "4b82c9336d04bc4d909310371bb2e383"
+      },
+      "previous": {
+        "content": "\"Because he so far forgot himself as to tell you a true piece of autobiography upon the occasion when he first met you, and I dare say he has many a time regretted it since. He was once a schoolmaster in the north of England. Now, there is no one more easy to trace than a schoolmaster. There are scholastic agencies by which one may identify any man who has been in the profession.",
+        "objectID": "6828e37294141f5823e3588857d7afd1"
+      }
+    },
+    "objectID": "a601be0bc09ae5fe5e5b16345c29da28",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "The darkness was rising, but much was still hidden by the shadows.",
+        "objectID": "ad85f2f2fd9004a85ca381ea008f58a2"
+      },
+      "previous": {
+        "content": "A little investigation showed me that a school had come to grief under atrocious circumstances, and that the man who had owned it—the name was different—had disappeared with his wife. The descriptions agreed. When I learned that the missing man was devoted to entomology the identification was complete.",
+        "objectID": "a601be0bc09ae5fe5e5b16345c29da28"
+      }
+    },
+    "objectID": "4b82c9336d04bc4d909310371bb2e383",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "The darkness was rising, but much was still hidden by the shadows.",
+    "context": {
+      "next": {
+        "content": "\"If this woman is in truth his wife, where does Mrs. Laura Lyons come in?\" I asked.",
+        "objectID": "f74f091d3031e2f81da321e2712a20e7"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "4b82c9336d04bc4d909310371bb2e383"
+      }
+    },
+    "objectID": "ad85f2f2fd9004a85ca381ea008f58a2",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"If this woman is in truth his wife, where does Mrs. Laura Lyons come in?\" I asked.",
+    "context": {
+      "next": {
+        "content": "\"That is one of the points upon which your own researches have shed a light. Your interview with the lady has cleared the situation very much. I did not know about a projected divorce between herself and her husband. In that case, regarding Stapleton as an unmarried man, she counted no doubt upon becoming his wife.",
+        "objectID": "0a4a773f7a8bcd587ea86118e092f871"
+      },
+      "previous": {
+        "content": "The darkness was rising, but much was still hidden by the shadows.",
+        "objectID": "ad85f2f2fd9004a85ca381ea008f58a2"
+      }
+    },
+    "objectID": "f74f091d3031e2f81da321e2712a20e7",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"That is one of the points upon which your own researches have shed a light. Your interview with the lady has cleared the situation very much. I did not know about a projected divorce between herself and her husband. In that case, regarding Stapleton as an unmarried man, she counted no doubt upon becoming his wife.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "fff2db850f328eb2106e6f3a5c6efb31"
+      },
+      "previous": {
+        "content": "\"If this woman is in truth his wife, where does Mrs. Laura Lyons come in?\" I asked.",
+        "objectID": "f74f091d3031e2f81da321e2712a20e7"
+      }
+    },
+    "objectID": "0a4a773f7a8bcd587ea86118e092f871",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"And when she is undeceived?\"",
+        "objectID": "f66797705263f660acdd49c5cece2a7b"
+      },
+      "previous": {
+        "content": "\"That is one of the points upon which your own researches have shed a light. Your interview with the lady has cleared the situation very much. I did not know about a projected divorce between herself and her husband. In that case, regarding Stapleton as an unmarried man, she counted no doubt upon becoming his wife.",
+        "objectID": "0a4a773f7a8bcd587ea86118e092f871"
+      }
+    },
+    "objectID": "fff2db850f328eb2106e6f3a5c6efb31",
+    "order": 62,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"And when she is undeceived?\"",
+    "context": {
+      "next": {
+        "content": "\"Why, then we may find the lady of service. It must be our first duty to see her—both of us—tomorrow. Don't you think, Watson, that you are away from your charge rather long? Your place should be at Baskerville Hall.\"",
+        "objectID": "a770fbf193fddfd868fd3c02ac3e58ff"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "fff2db850f328eb2106e6f3a5c6efb31"
+      }
+    },
+    "objectID": "f66797705263f660acdd49c5cece2a7b",
+    "order": 63,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Why, then we may find the lady of service. It must be our first duty to see her—both of us—tomorrow. Don't you think, Watson, that you are away from your charge rather long? Your place should be at Baskerville Hall.\"",
+    "context": {
+      "next": {
+        "content": "The last red streaks had faded away in the west and night had settled upon the moor. A few faint stars were gleaming in a violet sky.",
+        "objectID": "54c3d6669e19454a762e819dd5f68f63"
+      },
+      "previous": {
+        "content": "\"And when she is undeceived?\"",
+        "objectID": "f66797705263f660acdd49c5cece2a7b"
+      }
+    },
+    "objectID": "a770fbf193fddfd868fd3c02ac3e58ff",
+    "order": 64,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "The last red streaks had faded away in the west and night had settled upon the moor. A few faint stars were gleaming in a violet sky.",
+    "context": {
+      "next": {
+        "content": "\"One last question, Holmes,\" I said as I rose. \"Surely there is no need of secrecy between you and me. What is the meaning of it all? What is he after?\"",
+        "objectID": "129db7aad452c370297b2b51808b67d0"
+      },
+      "previous": {
+        "content": "\"Why, then we may find the lady of service. It must be our first duty to see her—both of us—tomorrow. Don't you think, Watson, that you are away from your charge rather long? Your place should be at Baskerville Hall.\"",
+        "objectID": "a770fbf193fddfd868fd3c02ac3e58ff"
+      }
+    },
+    "objectID": "54c3d6669e19454a762e819dd5f68f63",
+    "order": 65,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"One last question, Holmes,\" I said as I rose. \"Surely there is no need of secrecy between you and me. What is the meaning of it all? What is he after?\"",
+    "context": {
+      "next": {
+        "content": "Holmes's voice sank as he answered:",
+        "objectID": "6f79b2644403e85425980cdbd203a190"
+      },
+      "previous": {
+        "content": "The last red streaks had faded away in the west and night had settled upon the moor. A few faint stars were gleaming in a violet sky.",
+        "objectID": "54c3d6669e19454a762e819dd5f68f63"
+      }
+    },
+    "objectID": "129db7aad452c370297b2b51808b67d0",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "Holmes's voice sank as he answered:",
+    "context": {
+      "next": {
+        "content": "\"It is murder, Watson—refined, cold-blooded, deliberate murder. Do not ask me for particulars. My nets are closing upon him, even as his are upon Sir Henry, and with your help he is already almost at my mercy. There is but one danger which can threaten us. It is that he should strike before we are ready to do so.",
+        "objectID": "a6ff13b22c61dc11be947b8e1bd1c1a7"
+      },
+      "previous": {
+        "content": "\"One last question, Holmes,\" I said as I rose. \"Surely there is no need of secrecy between you and me. What is the meaning of it all? What is he after?\"",
+        "objectID": "129db7aad452c370297b2b51808b67d0"
+      }
+    },
+    "objectID": "6f79b2644403e85425980cdbd203a190",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"It is murder, Watson—refined, cold-blooded, deliberate murder. Do not ask me for particulars. My nets are closing upon him, even as his are upon Sir Henry, and with your help he is already almost at my mercy. There is but one danger which can threaten us. It is that he should strike before we are ready to do so.",
+    "context": {
+      "next": {
+        "content": "Another day—two at the most—and I have my case complete, but until then guard your charge as closely as ever a fond mother watched her ailing child. Your mission today has justified itself, and yet I could almost wish that you had not left his side. Hark!\"",
+        "objectID": "10cf1587ae28ea07d894dc6438c74140"
+      },
+      "previous": {
+        "content": "Holmes's voice sank as he answered:",
+        "objectID": "6f79b2644403e85425980cdbd203a190"
+      }
+    },
+    "objectID": "a6ff13b22c61dc11be947b8e1bd1c1a7",
+    "order": 68,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "Another day—two at the most—and I have my case complete, but until then guard your charge as closely as ever a fond mother watched her ailing child. Your mission today has justified itself, and yet I could almost wish that you had not left his side. Hark!\"",
+    "context": {
+      "next": {
+        "content": "A terrible scream—a prolonged yell of horror and anguish—burst out of the silence of the moor. That frightful cry turned the blood to ice in my veins.",
+        "objectID": "36e6f39a64e629270ac998d6a7690d52"
+      },
+      "previous": {
+        "content": "\"It is murder, Watson—refined, cold-blooded, deliberate murder. Do not ask me for particulars. My nets are closing upon him, even as his are upon Sir Henry, and with your help he is already almost at my mercy. There is but one danger which can threaten us. It is that he should strike before we are ready to do so.",
+        "objectID": "a6ff13b22c61dc11be947b8e1bd1c1a7"
+      }
+    },
+    "objectID": "10cf1587ae28ea07d894dc6438c74140",
+    "order": 69,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "A terrible scream—a prolonged yell of horror and anguish—burst out of the silence of the moor. That frightful cry turned the blood to ice in my veins.",
+    "context": {
+      "next": {
+        "content": "\"Oh, my God!\" I gasped. \"What is it? What does it mean?\"",
+        "objectID": "59168cb457777c18b3e36f9436a1d3cd"
+      },
+      "previous": {
+        "content": "Another day—two at the most—and I have my case complete, but until then guard your charge as closely as ever a fond mother watched her ailing child. Your mission today has justified itself, and yet I could almost wish that you had not left his side. Hark!\"",
+        "objectID": "10cf1587ae28ea07d894dc6438c74140"
+      }
+    },
+    "objectID": "36e6f39a64e629270ac998d6a7690d52",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Oh, my God!\" I gasped. \"What is it? What does it mean?\"",
+    "context": {
+      "next": {
+        "content": "Holmes had sprung to his feet, and I saw his dark, athletic outline at the door of the hut, his shoulders stooping, his head thrust forward, his face peering into the darkness.",
+        "objectID": "3cd0a2ddcff4edf9fae6cfc25df1af5a"
+      },
+      "previous": {
+        "content": "A terrible scream—a prolonged yell of horror and anguish—burst out of the silence of the moor. That frightful cry turned the blood to ice in my veins.",
+        "objectID": "36e6f39a64e629270ac998d6a7690d52"
+      }
+    },
+    "objectID": "59168cb457777c18b3e36f9436a1d3cd",
+    "order": 71,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "Holmes had sprung to his feet, and I saw his dark, athletic outline at the door of the hut, his shoulders stooping, his head thrust forward, his face peering into the darkness.",
+    "context": {
+      "next": {
+        "content": "\"Hush!\" he whispered. \"Hush!\"",
+        "objectID": "359c67117dfe4a41e0b5f1c54dc81a90"
+      },
+      "previous": {
+        "content": "\"Oh, my God!\" I gasped. \"What is it? What does it mean?\"",
+        "objectID": "59168cb457777c18b3e36f9436a1d3cd"
+      }
+    },
+    "objectID": "3cd0a2ddcff4edf9fae6cfc25df1af5a",
+    "order": 72,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Hush!\" he whispered. \"Hush!\"",
+    "context": {
+      "next": {
+        "content": "The cry had been loud on account of its vehemence, but it had pealed out from somewhere far off on the shadowy plain. Now it burst upon our ears, nearer, louder, more urgent than before.",
+        "objectID": "259e40d3600348745abc40649a5d68c7"
+      },
+      "previous": {
+        "content": "Holmes had sprung to his feet, and I saw his dark, athletic outline at the door of the hut, his shoulders stooping, his head thrust forward, his face peering into the darkness.",
+        "objectID": "3cd0a2ddcff4edf9fae6cfc25df1af5a"
+      }
+    },
+    "objectID": "359c67117dfe4a41e0b5f1c54dc81a90",
+    "order": 73,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "The cry had been loud on account of its vehemence, but it had pealed out from somewhere far off on the shadowy plain. Now it burst upon our ears, nearer, louder, more urgent than before.",
+    "context": {
+      "next": {
+        "content": "\"Where is it?\" Holmes whispered; and I knew from the thrill of his voice that he, the man of iron, was shaken to the soul. \"Where is it, Watson?\"",
+        "objectID": "5616249f62cf3b453c9e0ba749f9587c"
+      },
+      "previous": {
+        "content": "\"Hush!\" he whispered. \"Hush!\"",
+        "objectID": "359c67117dfe4a41e0b5f1c54dc81a90"
+      }
+    },
+    "objectID": "259e40d3600348745abc40649a5d68c7",
+    "order": 74,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Where is it?\" Holmes whispered; and I knew from the thrill of his voice that he, the man of iron, was shaken to the soul. \"Where is it, Watson?\"",
+    "context": {
+      "next": {
+        "content": "\"There, I think.\" I pointed into the darkness.",
+        "objectID": "69a49133022a8e911cdf0fc5ec241f86"
+      },
+      "previous": {
+        "content": "The cry had been loud on account of its vehemence, but it had pealed out from somewhere far off on the shadowy plain. Now it burst upon our ears, nearer, louder, more urgent than before.",
+        "objectID": "259e40d3600348745abc40649a5d68c7"
+      }
+    },
+    "objectID": "5616249f62cf3b453c9e0ba749f9587c",
+    "order": 75,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"There, I think.\" I pointed into the darkness.",
+    "context": {
+      "next": {
+        "content": "\"No, there!\"",
+        "objectID": "a7457b20c93a5915715e4fe61302c038"
+      },
+      "previous": {
+        "content": "\"Where is it?\" Holmes whispered; and I knew from the thrill of his voice that he, the man of iron, was shaken to the soul. \"Where is it, Watson?\"",
+        "objectID": "5616249f62cf3b453c9e0ba749f9587c"
+      }
+    },
+    "objectID": "69a49133022a8e911cdf0fc5ec241f86",
+    "order": 76,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"No, there!\"",
+    "context": {
+      "next": {
+        "content": "Again the agonized cry swept through the silent night, louder and much nearer than ever. And a new sound mingled with it, a deep, muttered rumble, musical and yet menacing, rising and falling like the low, constant murmur of the sea.",
+        "objectID": "d5d7f35e825b1bba6d74668fbfc28c29"
+      },
+      "previous": {
+        "content": "\"There, I think.\" I pointed into the darkness.",
+        "objectID": "69a49133022a8e911cdf0fc5ec241f86"
+      }
+    },
+    "objectID": "a7457b20c93a5915715e4fe61302c038",
+    "order": 77,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "Again the agonized cry swept through the silent night, louder and much nearer than ever. And a new sound mingled with it, a deep, muttered rumble, musical and yet menacing, rising and falling like the low, constant murmur of the sea.",
+    "context": {
+      "next": {
+        "content": "\"The hound!\" cried Holmes. \"Come, Watson, come! Great heavens, if we are too late!\"",
+        "objectID": "e08445caec3bc7afae32458564157137"
+      },
+      "previous": {
+        "content": "\"No, there!\"",
+        "objectID": "a7457b20c93a5915715e4fe61302c038"
+      }
+    },
+    "objectID": "d5d7f35e825b1bba6d74668fbfc28c29",
+    "order": 78,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"The hound!\" cried Holmes. \"Come, Watson, come! Great heavens, if we are too late!\"",
+    "context": {
+      "next": {
+        "content": "He had started running swiftly over the moor, and I had followed at his heels. But now from somewhere among the broken ground immediately in front of us there came one last despairing yell, and then a dull, heavy thud. We halted and listened. Not another sound broke the heavy silence of the windless night.",
+        "objectID": "fc4886637c14b20d0f5e00035f9afbca"
+      },
+      "previous": {
+        "content": "Again the agonized cry swept through the silent night, louder and much nearer than ever. And a new sound mingled with it, a deep, muttered rumble, musical and yet menacing, rising and falling like the low, constant murmur of the sea.",
+        "objectID": "d5d7f35e825b1bba6d74668fbfc28c29"
+      }
+    },
+    "objectID": "e08445caec3bc7afae32458564157137",
+    "order": 79,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "He had started running swiftly over the moor, and I had followed at his heels. But now from somewhere among the broken ground immediately in front of us there came one last despairing yell, and then a dull, heavy thud. We halted and listened. Not another sound broke the heavy silence of the windless night.",
+    "context": {
+      "next": {
+        "content": "I saw Holmes put his hand to his forehead like a man distracted. He stamped his feet upon the ground.",
+        "objectID": "fa413d9f0853aac4531ba5bcdff57f7c"
+      },
+      "previous": {
+        "content": "\"The hound!\" cried Holmes. \"Come, Watson, come! Great heavens, if we are too late!\"",
+        "objectID": "e08445caec3bc7afae32458564157137"
+      }
+    },
+    "objectID": "fc4886637c14b20d0f5e00035f9afbca",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "I saw Holmes put his hand to his forehead like a man distracted. He stamped his feet upon the ground.",
+    "context": {
+      "next": {
+        "content": "\"He has beaten us, Watson. We are too late.\"",
+        "objectID": "d1f228989c23ccec5b4f3f1598b04d8c"
+      },
+      "previous": {
+        "content": "He had started running swiftly over the moor, and I had followed at his heels. But now from somewhere among the broken ground immediately in front of us there came one last despairing yell, and then a dull, heavy thud. We halted and listened. Not another sound broke the heavy silence of the windless night.",
+        "objectID": "fc4886637c14b20d0f5e00035f9afbca"
+      }
+    },
+    "objectID": "fa413d9f0853aac4531ba5bcdff57f7c",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"He has beaten us, Watson. We are too late.\"",
+    "context": {
+      "next": {
+        "content": "\"No, no, surely not!\"",
+        "objectID": "2dfa0b1bb0792e420bf270a57f163ebc"
+      },
+      "previous": {
+        "content": "I saw Holmes put his hand to his forehead like a man distracted. He stamped his feet upon the ground.",
+        "objectID": "fa413d9f0853aac4531ba5bcdff57f7c"
+      }
+    },
+    "objectID": "d1f228989c23ccec5b4f3f1598b04d8c",
+    "order": 82,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"No, no, surely not!\"",
+    "context": {
+      "next": {
+        "content": "\"Fool that I was to hold my hand. And you, Watson, see what comes of abandoning your charge! But, by Heaven, if the worst has happened we'll avenge him!\"",
+        "objectID": "7c922013729eacfcb2548681366f8632"
+      },
+      "previous": {
+        "content": "\"He has beaten us, Watson. We are too late.\"",
+        "objectID": "d1f228989c23ccec5b4f3f1598b04d8c"
+      }
+    },
+    "objectID": "2dfa0b1bb0792e420bf270a57f163ebc",
+    "order": 83,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Fool that I was to hold my hand. And you, Watson, see what comes of abandoning your charge! But, by Heaven, if the worst has happened we'll avenge him!\"",
+    "context": {
+      "next": {
+        "content": "Blindly we ran through the gloom, blundering against boulders, forcing our way through gorse bushes, panting up hills and rushing down slopes, heading always in the direction whence those dreadful sounds had come. At every rise Holmes looked eagerly round him, but the shadows were thick upon the moor, and nothing moved upon its dreary face.",
+        "objectID": "1cbdefa9ebd6599e93515fa793ca2995"
+      },
+      "previous": {
+        "content": "\"No, no, surely not!\"",
+        "objectID": "2dfa0b1bb0792e420bf270a57f163ebc"
+      }
+    },
+    "objectID": "7c922013729eacfcb2548681366f8632",
+    "order": 84,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "Blindly we ran through the gloom, blundering against boulders, forcing our way through gorse bushes, panting up hills and rushing down slopes, heading always in the direction whence those dreadful sounds had come. At every rise Holmes looked eagerly round him, but the shadows were thick upon the moor, and nothing moved upon its dreary face.",
+    "context": {
+      "next": {
+        "content": "\"Can you see anything?\"",
+        "objectID": "fa72437a1f62fc12ebe051f44e78d1ec"
+      },
+      "previous": {
+        "content": "\"Fool that I was to hold my hand. And you, Watson, see what comes of abandoning your charge! But, by Heaven, if the worst has happened we'll avenge him!\"",
+        "objectID": "7c922013729eacfcb2548681366f8632"
+      }
+    },
+    "objectID": "1cbdefa9ebd6599e93515fa793ca2995",
+    "order": 85,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Can you see anything?\"",
+    "context": {
+      "next": {
+        "content": "\"Nothing.\"",
+        "objectID": "2990cb8c2e5da852dd43e5d5a8d8b1c0"
+      },
+      "previous": {
+        "content": "Blindly we ran through the gloom, blundering against boulders, forcing our way through gorse bushes, panting up hills and rushing down slopes, heading always in the direction whence those dreadful sounds had come. At every rise Holmes looked eagerly round him, but the shadows were thick upon the moor, and nothing moved upon its dreary face.",
+        "objectID": "1cbdefa9ebd6599e93515fa793ca2995"
+      }
+    },
+    "objectID": "fa72437a1f62fc12ebe051f44e78d1ec",
+    "order": 86,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Nothing.\"",
+    "context": {
+      "next": {
+        "content": "\"But, hark, what is that?\"",
+        "objectID": "2148734e512e859eb10e7f95795cd2f3"
+      },
+      "previous": {
+        "content": "\"Can you see anything?\"",
+        "objectID": "fa72437a1f62fc12ebe051f44e78d1ec"
+      }
+    },
+    "objectID": "2990cb8c2e5da852dd43e5d5a8d8b1c0",
+    "order": 87,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"But, hark, what is that?\"",
+    "context": {
+      "next": {
+        "content": "A low moan had fallen upon our ears. There it was again upon our left! On that side a ridge of rocks ended in a sheer cliff which overlooked a stone-strewn slope. On its jagged face was spread-eagled some dark, irregular object. As we ran towards it the vague outline hardened into a definite shape. It was a prostrate man face downward upon the ground, the head doubled under him at a horrible angle, the shoulders rounded and the body hunched together as if in the act of throwing a somersault.",
+        "objectID": "9f9760bbe3f6cf58b21dcdd55869dfe0"
+      },
+      "previous": {
+        "content": "\"Nothing.\"",
+        "objectID": "2990cb8c2e5da852dd43e5d5a8d8b1c0"
+      }
+    },
+    "objectID": "2148734e512e859eb10e7f95795cd2f3",
+    "order": 88,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "A low moan had fallen upon our ears. There it was again upon our left! On that side a ridge of rocks ended in a sheer cliff which overlooked a stone-strewn slope. On its jagged face was spread-eagled some dark, irregular object. As we ran towards it the vague outline hardened into a definite shape. It was a prostrate man face downward upon the ground, the head doubled under him at a horrible angle, the shoulders rounded and the body hunched together as if in the act of throwing a somersault.",
+    "context": {
+      "next": {
+        "content": "So grotesque was the attitude that I could not for the instant realize that that moan had been the passing of his soul. Not a whisper, not a rustle, rose now from the dark figure over which we stooped. Holmes laid his hand upon him and held it up again with an exclamation of horror. The gleam of the match which he struck shone upon his clotted fingers and upon the ghastly pool which widened slowly from the crushed skull of the victim.",
+        "objectID": "e43f081027500cfdf057bd400f13c4d5"
+      },
+      "previous": {
+        "content": "\"But, hark, what is that?\"",
+        "objectID": "2148734e512e859eb10e7f95795cd2f3"
+      }
+    },
+    "objectID": "9f9760bbe3f6cf58b21dcdd55869dfe0",
+    "order": 89,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "So grotesque was the attitude that I could not for the instant realize that that moan had been the passing of his soul. Not a whisper, not a rustle, rose now from the dark figure over which we stooped. Holmes laid his hand upon him and held it up again with an exclamation of horror. The gleam of the match which he struck shone upon his clotted fingers and upon the ghastly pool which widened slowly from the crushed skull of the victim.",
+    "context": {
+      "next": {
+        "content": "And it shone upon something else which turned our hearts sick and faint within us—the body of Sir Henry Baskerville!",
+        "objectID": "cb6fb92c523c34d9cac3b9a9b090996e"
+      },
+      "previous": {
+        "content": "A low moan had fallen upon our ears. There it was again upon our left! On that side a ridge of rocks ended in a sheer cliff which overlooked a stone-strewn slope. On its jagged face was spread-eagled some dark, irregular object. As we ran towards it the vague outline hardened into a definite shape. It was a prostrate man face downward upon the ground, the head doubled under him at a horrible angle, the shoulders rounded and the body hunched together as if in the act of throwing a somersault.",
+        "objectID": "9f9760bbe3f6cf58b21dcdd55869dfe0"
+      }
+    },
+    "objectID": "e43f081027500cfdf057bd400f13c4d5",
+    "order": 90,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "And it shone upon something else which turned our hearts sick and faint within us—the body of Sir Henry Baskerville!",
+    "context": {
+      "next": {
+        "content": "There was no chance of either of us forgetting that peculiar ruddy tweed suit—the very one which he had worn on the first morning that we had seen him in Baker Street. We caught the one clear glimpse of it, and then the match flickered and went out, even as the hope had gone out of our souls. Holmes groaned, and his face glimmered white through the darkness.",
+        "objectID": "86ef38e172584f2e698f722ec5c9e41d"
+      },
+      "previous": {
+        "content": "So grotesque was the attitude that I could not for the instant realize that that moan had been the passing of his soul. Not a whisper, not a rustle, rose now from the dark figure over which we stooped. Holmes laid his hand upon him and held it up again with an exclamation of horror. The gleam of the match which he struck shone upon his clotted fingers and upon the ghastly pool which widened slowly from the crushed skull of the victim.",
+        "objectID": "e43f081027500cfdf057bd400f13c4d5"
+      }
+    },
+    "objectID": "cb6fb92c523c34d9cac3b9a9b090996e",
+    "order": 91,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "There was no chance of either of us forgetting that peculiar ruddy tweed suit—the very one which he had worn on the first morning that we had seen him in Baker Street. We caught the one clear glimpse of it, and then the match flickered and went out, even as the hope had gone out of our souls. Holmes groaned, and his face glimmered white through the darkness.",
+    "context": {
+      "next": {
+        "content": "\"The brute! The brute!\" I cried with clenched hands. \"Oh Holmes, I shall never forgive myself for having left him to his fate.\"",
+        "objectID": "285dee91a41e4a12115ccb26fe5cd110"
+      },
+      "previous": {
+        "content": "And it shone upon something else which turned our hearts sick and faint within us—the body of Sir Henry Baskerville!",
+        "objectID": "cb6fb92c523c34d9cac3b9a9b090996e"
+      }
+    },
+    "objectID": "86ef38e172584f2e698f722ec5c9e41d",
+    "order": 92,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"The brute! The brute!\" I cried with clenched hands. \"Oh Holmes, I shall never forgive myself for having left him to his fate.\"",
+    "context": {
+      "next": {
+        "content": "\"I am more to blame than you, Watson. In order to have my case well rounded and complete, I have thrown away the life of my client. It is the greatest blow which has befallen me in my career. But how could I know—how could I know—that he would risk his life alone upon the moor in the face of all my",
+        "objectID": "c32a5b3447654d2dd16f9686c1b632dd"
+      },
+      "previous": {
+        "content": "There was no chance of either of us forgetting that peculiar ruddy tweed suit—the very one which he had worn on the first morning that we had seen him in Baker Street. We caught the one clear glimpse of it, and then the match flickered and went out, even as the hope had gone out of our souls. Holmes groaned, and his face glimmered white through the darkness.",
+        "objectID": "86ef38e172584f2e698f722ec5c9e41d"
+      }
+    },
+    "objectID": "285dee91a41e4a12115ccb26fe5cd110",
+    "order": 93,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"I am more to blame than you, Watson. In order to have my case well rounded and complete, I have thrown away the life of my client. It is the greatest blow which has befallen me in my career. But how could I know—how could I know—that he would risk his life alone upon the moor in the face of all my",
+    "context": {
+      "next": {
+        "content": "warnings?\"",
+        "objectID": "5cc3e4c6af011062d5e7558e1d3b842d"
+      },
+      "previous": {
+        "content": "\"The brute! The brute!\" I cried with clenched hands. \"Oh Holmes, I shall never forgive myself for having left him to his fate.\"",
+        "objectID": "285dee91a41e4a12115ccb26fe5cd110"
+      }
+    },
+    "objectID": "c32a5b3447654d2dd16f9686c1b632dd",
+    "order": 94,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "warnings?\"",
+    "context": {
+      "next": {
+        "content": "\"That we should have heard his screams—my God, those screams!—and yet have been unable to save him! Where is this brute of a hound which drove him to his death? It may be lurking among these rocks at this instant. And Stapleton, where is he? He shall answer for this deed.\"",
+        "objectID": "b666dcb8c9f93eaff38731e4c8cc53f7"
+      },
+      "previous": {
+        "content": "\"I am more to blame than you, Watson. In order to have my case well rounded and complete, I have thrown away the life of my client. It is the greatest blow which has befallen me in my career. But how could I know—how could I know—that he would risk his life alone upon the moor in the face of all my",
+        "objectID": "c32a5b3447654d2dd16f9686c1b632dd"
+      }
+    },
+    "objectID": "5cc3e4c6af011062d5e7558e1d3b842d",
+    "order": 95,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"That we should have heard his screams—my God, those screams!—and yet have been unable to save him! Where is this brute of a hound which drove him to his death? It may be lurking among these rocks at this instant. And Stapleton, where is he? He shall answer for this deed.\"",
+    "context": {
+      "next": {
+        "content": "\"He shall. I will see to that. Uncle and nephew have been murdered—the one frightened to death by the very sight of a beast which he thought to be supernatural, the other driven to his end in his wild flight to escape from it. But now we have to prove the connection between the man and the beast. Save from what we heard, we cannot even swear to the existence of the latter, since Sir Henry has evidently died from the fall.",
+        "objectID": "77d1d81d4c95fa889175b473fd588222"
+      },
+      "previous": {
+        "content": "warnings?\"",
+        "objectID": "5cc3e4c6af011062d5e7558e1d3b842d"
+      }
+    },
+    "objectID": "b666dcb8c9f93eaff38731e4c8cc53f7",
+    "order": 96,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"He shall. I will see to that. Uncle and nephew have been murdered—the one frightened to death by the very sight of a beast which he thought to be supernatural, the other driven to his end in his wild flight to escape from it. But now we have to prove the connection between the man and the beast. Save from what we heard, we cannot even swear to the existence of the latter, since Sir Henry has evidently died from the fall.",
+    "context": {
+      "next": {
+        "content": "But, by heavens, cunning as he is, the fellow shall be in my power before another day is past!\"",
+        "objectID": "e15ada80f2207605e04af05c933e5ea2"
+      },
+      "previous": {
+        "content": "\"That we should have heard his screams—my God, those screams!—and yet have been unable to save him! Where is this brute of a hound which drove him to his death? It may be lurking among these rocks at this instant. And Stapleton, where is he? He shall answer for this deed.\"",
+        "objectID": "b666dcb8c9f93eaff38731e4c8cc53f7"
+      }
+    },
+    "objectID": "77d1d81d4c95fa889175b473fd588222",
+    "order": 97,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "But, by heavens, cunning as he is, the fellow shall be in my power before another day is past!\"",
+    "context": {
+      "next": {
+        "content": "We stood with bitter hearts on either side of the mangled body, overwhelmed by this sudden and irrevocable disaster which had brought all our long and weary labours to so piteous an end. Then as the moon rose we climbed to the top of the rocks over which our poor friend had fallen, and from the summit we gazed out over the shadowy moor, half silver and half gloom.",
+        "objectID": "61a2f789b641ba46c80af4ff4be9cd14"
+      },
+      "previous": {
+        "content": "\"He shall. I will see to that. Uncle and nephew have been murdered—the one frightened to death by the very sight of a beast which he thought to be supernatural, the other driven to his end in his wild flight to escape from it. But now we have to prove the connection between the man and the beast. Save from what we heard, we cannot even swear to the existence of the latter, since Sir Henry has evidently died from the fall.",
+        "objectID": "77d1d81d4c95fa889175b473fd588222"
+      }
+    },
+    "objectID": "e15ada80f2207605e04af05c933e5ea2",
+    "order": 98,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "We stood with bitter hearts on either side of the mangled body, overwhelmed by this sudden and irrevocable disaster which had brought all our long and weary labours to so piteous an end. Then as the moon rose we climbed to the top of the rocks over which our poor friend had fallen, and from the summit we gazed out over the shadowy moor, half silver and half gloom.",
+    "context": {
+      "next": {
+        "content": "Far away, miles off, in the direction of Grimpen, a single steady yellow light was shining. It could only come from the lonely abode of the Stapletons. With a bitter curse I shook my fist at it as I gazed.",
+        "objectID": "4f9333c950bd2fbf2961b4af9986b6fd"
+      },
+      "previous": {
+        "content": "But, by heavens, cunning as he is, the fellow shall be in my power before another day is past!\"",
+        "objectID": "e15ada80f2207605e04af05c933e5ea2"
+      }
+    },
+    "objectID": "61a2f789b641ba46c80af4ff4be9cd14",
+    "order": 99,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "Far away, miles off, in the direction of Grimpen, a single steady yellow light was shining. It could only come from the lonely abode of the Stapletons. With a bitter curse I shook my fist at it as I gazed.",
+    "context": {
+      "next": {
+        "content": "\"Why should we not seize him at once?\"",
+        "objectID": "dcbf096a6354a1a174d53e0fc1ab9ca1"
+      },
+      "previous": {
+        "content": "We stood with bitter hearts on either side of the mangled body, overwhelmed by this sudden and irrevocable disaster which had brought all our long and weary labours to so piteous an end. Then as the moon rose we climbed to the top of the rocks over which our poor friend had fallen, and from the summit we gazed out over the shadowy moor, half silver and half gloom.",
+        "objectID": "61a2f789b641ba46c80af4ff4be9cd14"
+      }
+    },
+    "objectID": "4f9333c950bd2fbf2961b4af9986b6fd",
+    "order": 100,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Why should we not seize him at once?\"",
+    "context": {
+      "next": {
+        "content": "\"Our case is not complete. The fellow is wary and cunning to the last degree. It is not what we know, but what we can prove. If we make one false move the villain may escape us yet.\"",
+        "objectID": "4b6a9c196c45e98289dc4dddb0370c10"
+      },
+      "previous": {
+        "content": "Far away, miles off, in the direction of Grimpen, a single steady yellow light was shining. It could only come from the lonely abode of the Stapletons. With a bitter curse I shook my fist at it as I gazed.",
+        "objectID": "4f9333c950bd2fbf2961b4af9986b6fd"
+      }
+    },
+    "objectID": "dcbf096a6354a1a174d53e0fc1ab9ca1",
+    "order": 101,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Our case is not complete. The fellow is wary and cunning to the last degree. It is not what we know, but what we can prove. If we make one false move the villain may escape us yet.\"",
+    "context": {
+      "next": {
+        "content": "\"What can we do?\"",
+        "objectID": "2adea8fd359b8a6393430ff53ade2e90"
+      },
+      "previous": {
+        "content": "\"Why should we not seize him at once?\"",
+        "objectID": "dcbf096a6354a1a174d53e0fc1ab9ca1"
+      }
+    },
+    "objectID": "4b6a9c196c45e98289dc4dddb0370c10",
+    "order": 102,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"What can we do?\"",
+    "context": {
+      "next": {
+        "content": "\"There will be plenty for us to do tomorrow. Tonight we can only perform the last offices to our poor friend.\"",
+        "objectID": "1c74d1409c48c2947b8390ba258000d5"
+      },
+      "previous": {
+        "content": "\"Our case is not complete. The fellow is wary and cunning to the last degree. It is not what we know, but what we can prove. If we make one false move the villain may escape us yet.\"",
+        "objectID": "4b6a9c196c45e98289dc4dddb0370c10"
+      }
+    },
+    "objectID": "2adea8fd359b8a6393430ff53ade2e90",
+    "order": 103,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"There will be plenty for us to do tomorrow. Tonight we can only perform the last offices to our poor friend.\"",
+    "context": {
+      "next": {
+        "content": "Together we made our way down the precipitous slope and approached the body, black and clear against the silvered stones. The agony of those contorted limbs struck me with a spasm of pain and blurred my eyes with tears.",
+        "objectID": "84b456d65f58db8cad786093fb33106d"
+      },
+      "previous": {
+        "content": "\"What can we do?\"",
+        "objectID": "2adea8fd359b8a6393430ff53ade2e90"
+      }
+    },
+    "objectID": "1c74d1409c48c2947b8390ba258000d5",
+    "order": 104,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "Together we made our way down the precipitous slope and approached the body, black and clear against the silvered stones. The agony of those contorted limbs struck me with a spasm of pain and blurred my eyes with tears.",
+    "context": {
+      "next": {
+        "content": "\"We must send for help, Holmes! We cannot carry him all the way to the Hall. Good heavens, are you mad?\"",
+        "objectID": "2faf4f0bef2332a6c4691c1057f713ba"
+      },
+      "previous": {
+        "content": "\"There will be plenty for us to do tomorrow. Tonight we can only perform the last offices to our poor friend.\"",
+        "objectID": "1c74d1409c48c2947b8390ba258000d5"
+      }
+    },
+    "objectID": "84b456d65f58db8cad786093fb33106d",
+    "order": 105,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"We must send for help, Holmes! We cannot carry him all the way to the Hall. Good heavens, are you mad?\"",
+    "context": {
+      "next": {
+        "content": "He had uttered a cry and bent over the body. Now he was dancing and laughing and wringing my hand. Could this be my stern, self-contained friend? These were hidden fires, indeed!",
+        "objectID": "2a947f29645e2cf0229e576173d6ced4"
+      },
+      "previous": {
+        "content": "Together we made our way down the precipitous slope and approached the body, black and clear against the silvered stones. The agony of those contorted limbs struck me with a spasm of pain and blurred my eyes with tears.",
+        "objectID": "84b456d65f58db8cad786093fb33106d"
+      }
+    },
+    "objectID": "2faf4f0bef2332a6c4691c1057f713ba",
+    "order": 106,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "He had uttered a cry and bent over the body. Now he was dancing and laughing and wringing my hand. Could this be my stern, self-contained friend? These were hidden fires, indeed!",
+    "context": {
+      "next": {
+        "content": "\"A beard! A beard! The man has a beard!\"",
+        "objectID": "ac821c70ae847fca42f7f9cf511845ab"
+      },
+      "previous": {
+        "content": "\"We must send for help, Holmes! We cannot carry him all the way to the Hall. Good heavens, are you mad?\"",
+        "objectID": "2faf4f0bef2332a6c4691c1057f713ba"
+      }
+    },
+    "objectID": "2a947f29645e2cf0229e576173d6ced4",
+    "order": 107,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"A beard! A beard! The man has a beard!\"",
+    "context": {
+      "next": {
+        "content": "\"A beard?\"",
+        "objectID": "9c968e0f18f29093aa156c19ae3e4edf"
+      },
+      "previous": {
+        "content": "He had uttered a cry and bent over the body. Now he was dancing and laughing and wringing my hand. Could this be my stern, self-contained friend? These were hidden fires, indeed!",
+        "objectID": "2a947f29645e2cf0229e576173d6ced4"
+      }
+    },
+    "objectID": "ac821c70ae847fca42f7f9cf511845ab",
+    "order": 108,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"A beard?\"",
+    "context": {
+      "next": {
+        "content": "\"It is not the baronet—it is—why, it is my neighbour, the convict!\"",
+        "objectID": "8d5d92c6770413e90d9c2bf935b3c542"
+      },
+      "previous": {
+        "content": "\"A beard! A beard! The man has a beard!\"",
+        "objectID": "ac821c70ae847fca42f7f9cf511845ab"
+      }
+    },
+    "objectID": "9c968e0f18f29093aa156c19ae3e4edf",
+    "order": 109,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"It is not the baronet—it is—why, it is my neighbour, the convict!\"",
+    "context": {
+      "next": {
+        "content": "With feverish haste we had turned the body over, and that dripping beard was pointing up to the cold, clear moon. There could be no doubt about the beetling forehead, the sunken animal eyes. It was indeed the same face which had glared upon me in the light of the candle from over the rock—the face of Selden, the criminal.",
+        "objectID": "88d1240507d2f45426057dd9c481b313"
+      },
+      "previous": {
+        "content": "\"A beard?\"",
+        "objectID": "9c968e0f18f29093aa156c19ae3e4edf"
+      }
+    },
+    "objectID": "8d5d92c6770413e90d9c2bf935b3c542",
+    "order": 110,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "With feverish haste we had turned the body over, and that dripping beard was pointing up to the cold, clear moon. There could be no doubt about the beetling forehead, the sunken animal eyes. It was indeed the same face which had glared upon me in the light of the candle from over the rock—the face of Selden, the criminal.",
+    "context": {
+      "next": {
+        "content": "Then in an instant it was all clear to me. I remembered how the baronet had told me that he had handed his old wardrobe to Barrymore. Barrymore had passed it on in order to help Selden in his escape. Boots, shirt, cap—it was all Sir Henry's. The tragedy was still black enough, but this man had at least deserved death by the laws of his country.",
+        "objectID": "b3bb94908b7fef9cbfbbbaf5cfebb954"
+      },
+      "previous": {
+        "content": "\"It is not the baronet—it is—why, it is my neighbour, the convict!\"",
+        "objectID": "8d5d92c6770413e90d9c2bf935b3c542"
+      }
+    },
+    "objectID": "88d1240507d2f45426057dd9c481b313",
+    "order": 111,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "Then in an instant it was all clear to me. I remembered how the baronet had told me that he had handed his old wardrobe to Barrymore. Barrymore had passed it on in order to help Selden in his escape. Boots, shirt, cap—it was all Sir Henry's. The tragedy was still black enough, but this man had at least deserved death by the laws of his country.",
+    "context": {
+      "next": {
+        "content": "I told Holmes how the matter stood, my heart bubbling over with thankfulness and joy.",
+        "objectID": "4a9ae1bf50ffdffb099ba59d46e28c8f"
+      },
+      "previous": {
+        "content": "With feverish haste we had turned the body over, and that dripping beard was pointing up to the cold, clear moon. There could be no doubt about the beetling forehead, the sunken animal eyes. It was indeed the same face which had glared upon me in the light of the candle from over the rock—the face of Selden, the criminal.",
+        "objectID": "88d1240507d2f45426057dd9c481b313"
+      }
+    },
+    "objectID": "b3bb94908b7fef9cbfbbbaf5cfebb954",
+    "order": 112,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "I told Holmes how the matter stood, my heart bubbling over with thankfulness and joy.",
+    "context": {
+      "next": {
+        "content": "\"Then the clothes have been the poor devil's death,\" said he. \"It is clear enough that the hound has been laid on from some article of Sir Henry's—the boot which was abstracted in the hotel, in all probability—and so ran this man down. There is one very singular thing, however: How came Selden, in t",
+        "objectID": "88791deb35fef61b58e7bc6d66c5289e"
+      },
+      "previous": {
+        "content": "Then in an instant it was all clear to me. I remembered how the baronet had told me that he had handed his old wardrobe to Barrymore. Barrymore had passed it on in order to help Selden in his escape. Boots, shirt, cap—it was all Sir Henry's. The tragedy was still black enough, but this man had at least deserved death by the laws of his country.",
+        "objectID": "b3bb94908b7fef9cbfbbbaf5cfebb954"
+      }
+    },
+    "objectID": "4a9ae1bf50ffdffb099ba59d46e28c8f",
+    "order": 113,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Then the clothes have been the poor devil's death,\" said he. \"It is clear enough that the hound has been laid on from some article of Sir Henry's—the boot which was abstracted in the hotel, in all probability—and so ran this man down. There is one very singular thing, however: How came Selden, in t",
+    "context": {
+      "next": {
+        "content": "he darkness, to know that the hound was on his trail?\"",
+        "objectID": "d562f5b8f5f4bc8dc51138484962425e"
+      },
+      "previous": {
+        "content": "I told Holmes how the matter stood, my heart bubbling over with thankfulness and joy.",
+        "objectID": "4a9ae1bf50ffdffb099ba59d46e28c8f"
+      }
+    },
+    "objectID": "88791deb35fef61b58e7bc6d66c5289e",
+    "order": 114,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "he darkness, to know that the hound was on his trail?\"",
+    "context": {
+      "next": {
+        "content": "\"He heard him.\"",
+        "objectID": "c6bb81a6c9164c359d417b85b8f22176"
+      },
+      "previous": {
+        "content": "\"Then the clothes have been the poor devil's death,\" said he. \"It is clear enough that the hound has been laid on from some article of Sir Henry's—the boot which was abstracted in the hotel, in all probability—and so ran this man down. There is one very singular thing, however: How came Selden, in t",
+        "objectID": "88791deb35fef61b58e7bc6d66c5289e"
+      }
+    },
+    "objectID": "d562f5b8f5f4bc8dc51138484962425e",
+    "order": 115,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"He heard him.\"",
+    "context": {
+      "next": {
+        "content": "\"To hear a hound upon the moor would not work a hard man like this convict into such a paroxysm of terror that he would risk recapture by screaming wildly for help. By his cries he must have run a long way after he knew the animal was on his track. How did he know?\"",
+        "objectID": "63143620f22e3c3cf4c3bbce3f036bb4"
+      },
+      "previous": {
+        "content": "he darkness, to know that the hound was on his trail?\"",
+        "objectID": "d562f5b8f5f4bc8dc51138484962425e"
+      }
+    },
+    "objectID": "c6bb81a6c9164c359d417b85b8f22176",
+    "order": 116,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"To hear a hound upon the moor would not work a hard man like this convict into such a paroxysm of terror that he would risk recapture by screaming wildly for help. By his cries he must have run a long way after he knew the animal was on his track. How did he know?\"",
+    "context": {
+      "next": {
+        "content": "\"A greater mystery to me is why this hound, presuming that all our conjectures are correct—\"",
+        "objectID": "c5d46470c4cd71b864583346d85887b7"
+      },
+      "previous": {
+        "content": "\"He heard him.\"",
+        "objectID": "c6bb81a6c9164c359d417b85b8f22176"
+      }
+    },
+    "objectID": "63143620f22e3c3cf4c3bbce3f036bb4",
+    "order": 117,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"A greater mystery to me is why this hound, presuming that all our conjectures are correct—\"",
+    "context": {
+      "next": {
+        "content": "\"I presume nothing.\"",
+        "objectID": "513915706780286c56c75a2858596fd4"
+      },
+      "previous": {
+        "content": "\"To hear a hound upon the moor would not work a hard man like this convict into such a paroxysm of terror that he would risk recapture by screaming wildly for help. By his cries he must have run a long way after he knew the animal was on his track. How did he know?\"",
+        "objectID": "63143620f22e3c3cf4c3bbce3f036bb4"
+      }
+    },
+    "objectID": "c5d46470c4cd71b864583346d85887b7",
+    "order": 118,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"I presume nothing.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, then, why this hound should be loose tonight. I suppose that it does not always run loose upon the moor. Stapleton would not let it go unless he had reason to think that Sir Henry would be there.\"",
+        "objectID": "8eb69da803b01900074dc8fc7bddd01f"
+      },
+      "previous": {
+        "content": "\"A greater mystery to me is why this hound, presuming that all our conjectures are correct—\"",
+        "objectID": "c5d46470c4cd71b864583346d85887b7"
+      }
+    },
+    "objectID": "513915706780286c56c75a2858596fd4",
+    "order": 119,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Well, then, why this hound should be loose tonight. I suppose that it does not always run loose upon the moor. Stapleton would not let it go unless he had reason to think that Sir Henry would be there.\"",
+    "context": {
+      "next": {
+        "content": "\"My difficulty is the more formidable of the two, for I think that we shall very shortly get an explanation of yours, while mine may remain forever a mystery. The question now is, what shall we do with this poor wretch's body? We cannot leave it here to the foxes and the ravens.\"",
+        "objectID": "30ea7f7d073f74018ecddf6399c25e0e"
+      },
+      "previous": {
+        "content": "\"I presume nothing.\"",
+        "objectID": "513915706780286c56c75a2858596fd4"
+      }
+    },
+    "objectID": "8eb69da803b01900074dc8fc7bddd01f",
+    "order": 120,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"My difficulty is the more formidable of the two, for I think that we shall very shortly get an explanation of yours, while mine may remain forever a mystery. The question now is, what shall we do with this poor wretch's body? We cannot leave it here to the foxes and the ravens.\"",
+    "context": {
+      "next": {
+        "content": "\"I suggest that we put it in one of the huts until we can communicate with the police.\"",
+        "objectID": "b52ee0dfb56ae02baeb109f6b33d62f8"
+      },
+      "previous": {
+        "content": "\"Well, then, why this hound should be loose tonight. I suppose that it does not always run loose upon the moor. Stapleton would not let it go unless he had reason to think that Sir Henry would be there.\"",
+        "objectID": "8eb69da803b01900074dc8fc7bddd01f"
+      }
+    },
+    "objectID": "30ea7f7d073f74018ecddf6399c25e0e",
+    "order": 121,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"I suggest that we put it in one of the huts until we can communicate with the police.\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly. I have no doubt that you and I could carry it so far. Halloa, Watson, what's this? It's the man himself, by all that's wonderful and audacious! Not a word to show your suspicions—not a word, or my plans crumble to the ground.\"",
+        "objectID": "ec4eae94d152a4b74a0110f49fd7d80d"
+      },
+      "previous": {
+        "content": "\"My difficulty is the more formidable of the two, for I think that we shall very shortly get an explanation of yours, while mine may remain forever a mystery. The question now is, what shall we do with this poor wretch's body? We cannot leave it here to the foxes and the ravens.\"",
+        "objectID": "30ea7f7d073f74018ecddf6399c25e0e"
+      }
+    },
+    "objectID": "b52ee0dfb56ae02baeb109f6b33d62f8",
+    "order": 122,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Exactly. I have no doubt that you and I could carry it so far. Halloa, Watson, what's this? It's the man himself, by all that's wonderful and audacious! Not a word to show your suspicions—not a word, or my plans crumble to the ground.\"",
+    "context": {
+      "next": {
+        "content": "A figure was approaching us over the moor, and I saw the dull red glow of a cigar. The moon shone upon him, and I could distinguish the dapper shape and jaunty walk of the naturalist. He stopped when he saw us, and then came on again.",
+        "objectID": "67dac79aa73391eb057bb1f1487ba035"
+      },
+      "previous": {
+        "content": "\"I suggest that we put it in one of the huts until we can communicate with the police.\"",
+        "objectID": "b52ee0dfb56ae02baeb109f6b33d62f8"
+      }
+    },
+    "objectID": "ec4eae94d152a4b74a0110f49fd7d80d",
+    "order": 123,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "A figure was approaching us over the moor, and I saw the dull red glow of a cigar. The moon shone upon him, and I could distinguish the dapper shape and jaunty walk of the naturalist. He stopped when he saw us, and then came on again.",
+    "context": {
+      "next": {
+        "content": "\"Why, Dr. Watson, that's not you, is it? You are the last man that I should have expected to see out on the moor at this time of night. But, dear me, what's this? Somebody hurt? Not—don't tell me that it is our friend Sir Henry!\" He hurried past me and stooped over the dead man. I heard a sharp intake of his breath and the cigar fell from his fingers.",
+        "objectID": "66ae087766a03d7142992ffea4b328b2"
+      },
+      "previous": {
+        "content": "\"Exactly. I have no doubt that you and I could carry it so far. Halloa, Watson, what's this? It's the man himself, by all that's wonderful and audacious! Not a word to show your suspicions—not a word, or my plans crumble to the ground.\"",
+        "objectID": "ec4eae94d152a4b74a0110f49fd7d80d"
+      }
+    },
+    "objectID": "67dac79aa73391eb057bb1f1487ba035",
+    "order": 124,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Why, Dr. Watson, that's not you, is it? You are the last man that I should have expected to see out on the moor at this time of night. But, dear me, what's this? Somebody hurt? Not—don't tell me that it is our friend Sir Henry!\" He hurried past me and stooped over the dead man. I heard a sharp intake of his breath and the cigar fell from his fingers.",
+    "context": {
+      "next": {
+        "content": "\"Who—who's this?\" he stammered.",
+        "objectID": "ef187b80ed9c9535e57c772eb7fdb4c4"
+      },
+      "previous": {
+        "content": "A figure was approaching us over the moor, and I saw the dull red glow of a cigar. The moon shone upon him, and I could distinguish the dapper shape and jaunty walk of the naturalist. He stopped when he saw us, and then came on again.",
+        "objectID": "67dac79aa73391eb057bb1f1487ba035"
+      }
+    },
+    "objectID": "66ae087766a03d7142992ffea4b328b2",
+    "order": 125,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Who—who's this?\" he stammered.",
+    "context": {
+      "next": {
+        "content": "\"It is Selden, the man who escaped from Princetown.\"",
+        "objectID": "92115fb2d68b9a07c82d8cdb24433755"
+      },
+      "previous": {
+        "content": "\"Why, Dr. Watson, that's not you, is it? You are the last man that I should have expected to see out on the moor at this time of night. But, dear me, what's this? Somebody hurt? Not—don't tell me that it is our friend Sir Henry!\" He hurried past me and stooped over the dead man. I heard a sharp intake of his breath and the cigar fell from his fingers.",
+        "objectID": "66ae087766a03d7142992ffea4b328b2"
+      }
+    },
+    "objectID": "ef187b80ed9c9535e57c772eb7fdb4c4",
+    "order": 126,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"It is Selden, the man who escaped from Princetown.\"",
+    "context": {
+      "next": {
+        "content": "Stapleton turned a ghastly face upon us, but by a supreme effort he had overcome his amazement and his disappointment. He looked sharply from Holmes to me. \"Dear me! What a very shocking affair! How did he die?\"",
+        "objectID": "eafc09ec5b87f425ca0d31785c12207e"
+      },
+      "previous": {
+        "content": "\"Who—who's this?\" he stammered.",
+        "objectID": "ef187b80ed9c9535e57c772eb7fdb4c4"
+      }
+    },
+    "objectID": "92115fb2d68b9a07c82d8cdb24433755",
+    "order": 127,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "Stapleton turned a ghastly face upon us, but by a supreme effort he had overcome his amazement and his disappointment. He looked sharply from Holmes to me. \"Dear me! What a very shocking affair! How did he die?\"",
+    "context": {
+      "next": {
+        "content": "\"He appears to have broken his neck by falling over these rocks. My friend and I were strolling on the moor when we heard a cry.\"",
+        "objectID": "ae16519081d318cff5e039642d743a7e"
+      },
+      "previous": {
+        "content": "\"It is Selden, the man who escaped from Princetown.\"",
+        "objectID": "92115fb2d68b9a07c82d8cdb24433755"
+      }
+    },
+    "objectID": "eafc09ec5b87f425ca0d31785c12207e",
+    "order": 128,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"He appears to have broken his neck by falling over these rocks. My friend and I were strolling on the moor when we heard a cry.\"",
+    "context": {
+      "next": {
+        "content": "\"I heard a cry also. That was what brought me out. I was uneasy about Sir Henry.\"",
+        "objectID": "2c5635e5dfb7f7749624c36b7be0e80b"
+      },
+      "previous": {
+        "content": "Stapleton turned a ghastly face upon us, but by a supreme effort he had overcome his amazement and his disappointment. He looked sharply from Holmes to me. \"Dear me! What a very shocking affair! How did he die?\"",
+        "objectID": "eafc09ec5b87f425ca0d31785c12207e"
+      }
+    },
+    "objectID": "ae16519081d318cff5e039642d743a7e",
+    "order": 129,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"I heard a cry also. That was what brought me out. I was uneasy about Sir Henry.\"",
+    "context": {
+      "next": {
+        "content": "\"Why about Sir Henry in particular?\" I could not help asking.",
+        "objectID": "43e4fd0fddbdd4465438b4f36e08a551"
+      },
+      "previous": {
+        "content": "\"He appears to have broken his neck by falling over these rocks. My friend and I were strolling on the moor when we heard a cry.\"",
+        "objectID": "ae16519081d318cff5e039642d743a7e"
+      }
+    },
+    "objectID": "2c5635e5dfb7f7749624c36b7be0e80b",
+    "order": 130,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Why about Sir Henry in particular?\" I could not help asking.",
+    "context": {
+      "next": {
+        "content": "\"Because I had suggested that he should come over. When he did not come I was surprised, and I naturally became alarmed for his safety when I heard cries upon the moor. By the way\"—his eyes darted again from my face to Holmes's—\"did you hear anything else besides a cry?\"",
+        "objectID": "ca0001244709a3077bca9bf579073b6a"
+      },
+      "previous": {
+        "content": "\"I heard a cry also. That was what brought me out. I was uneasy about Sir Henry.\"",
+        "objectID": "2c5635e5dfb7f7749624c36b7be0e80b"
+      }
+    },
+    "objectID": "43e4fd0fddbdd4465438b4f36e08a551",
+    "order": 131,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Because I had suggested that he should come over. When he did not come I was surprised, and I naturally became alarmed for his safety when I heard cries upon the moor. By the way\"—his eyes darted again from my face to Holmes's—\"did you hear anything else besides a cry?\"",
+    "context": {
+      "next": {
+        "content": "\"No,\" said Holmes; \"did you?\"",
+        "objectID": "6223adf0d77cd63b0fb3c65768a26fee"
+      },
+      "previous": {
+        "content": "\"Why about Sir Henry in particular?\" I could not help asking.",
+        "objectID": "43e4fd0fddbdd4465438b4f36e08a551"
+      }
+    },
+    "objectID": "ca0001244709a3077bca9bf579073b6a",
+    "order": 132,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"No,\" said Holmes; \"did you?\"",
+    "context": {
+      "next": {
+        "content": "\"No.\"",
+        "objectID": "db9a72d2d10bc4265e51b6c8f8cac844"
+      },
+      "previous": {
+        "content": "\"Because I had suggested that he should come over. When he did not come I was surprised, and I naturally became alarmed for his safety when I heard cries upon the moor. By the way\"—his eyes darted again from my face to Holmes's—\"did you hear anything else besides a cry?\"",
+        "objectID": "ca0001244709a3077bca9bf579073b6a"
+      }
+    },
+    "objectID": "6223adf0d77cd63b0fb3c65768a26fee",
+    "order": 133,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"No.\"",
+    "context": {
+      "next": {
+        "content": "\"What do you mean, then?\"",
+        "objectID": "e5ac87a200302486a88ab8a234a33c3b"
+      },
+      "previous": {
+        "content": "\"No,\" said Holmes; \"did you?\"",
+        "objectID": "6223adf0d77cd63b0fb3c65768a26fee"
+      }
+    },
+    "objectID": "db9a72d2d10bc4265e51b6c8f8cac844",
+    "order": 134,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"What do you mean, then?\"",
+    "context": {
+      "next": {
+        "content": "\"Oh, you know the stories that the peasants tell about a phantom hound, and so on. It is said to be heard at night upon the moor. I was wondering if there were any evidence of such a sound tonight.\"",
+        "objectID": "d612dcaf9cfc1a84f6d42a071871312e"
+      },
+      "previous": {
+        "content": "\"No.\"",
+        "objectID": "db9a72d2d10bc4265e51b6c8f8cac844"
+      }
+    },
+    "objectID": "e5ac87a200302486a88ab8a234a33c3b",
+    "order": 135,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Oh, you know the stories that the peasants tell about a phantom hound, and so on. It is said to be heard at night upon the moor. I was wondering if there were any evidence of such a sound tonight.\"",
+    "context": {
+      "next": {
+        "content": "\"We heard nothing of the kind,\" said I.",
+        "objectID": "3c9684de3bb88829ad0907abf7cd23d2"
+      },
+      "previous": {
+        "content": "\"What do you mean, then?\"",
+        "objectID": "e5ac87a200302486a88ab8a234a33c3b"
+      }
+    },
+    "objectID": "d612dcaf9cfc1a84f6d42a071871312e",
+    "order": 136,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"We heard nothing of the kind,\" said I.",
+    "context": {
+      "next": {
+        "content": "\"And what is your theory of this poor fellow's death?\"",
+        "objectID": "8fffb379b1f7a959889418537fa4b2f8"
+      },
+      "previous": {
+        "content": "\"Oh, you know the stories that the peasants tell about a phantom hound, and so on. It is said to be heard at night upon the moor. I was wondering if there were any evidence of such a sound tonight.\"",
+        "objectID": "d612dcaf9cfc1a84f6d42a071871312e"
+      }
+    },
+    "objectID": "3c9684de3bb88829ad0907abf7cd23d2",
+    "order": 137,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"And what is your theory of this poor fellow's death?\"",
+    "context": {
+      "next": {
+        "content": "\"I have no doubt that anxiety and exposure have driven him off his head. He has rushed about the moor in a crazy state and eventually fallen over here and broken his neck.\"",
+        "objectID": "3ecda1c59eb437123f6b2ed0c3c782cd"
+      },
+      "previous": {
+        "content": "\"We heard nothing of the kind,\" said I.",
+        "objectID": "3c9684de3bb88829ad0907abf7cd23d2"
+      }
+    },
+    "objectID": "8fffb379b1f7a959889418537fa4b2f8",
+    "order": 138,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"I have no doubt that anxiety and exposure have driven him off his head. He has rushed about the moor in a crazy state and eventually fallen over here and broken his neck.\"",
+    "context": {
+      "next": {
+        "content": "\"That seems the most reasonable theory,\" said Stapleton, and he gave a sigh which I took to indicate his relief. \"What do you think about it, Mr. Sherlock Holmes?\"",
+        "objectID": "06466fef096f64cadbf915b755f77dc2"
+      },
+      "previous": {
+        "content": "\"And what is your theory of this poor fellow's death?\"",
+        "objectID": "8fffb379b1f7a959889418537fa4b2f8"
+      }
+    },
+    "objectID": "3ecda1c59eb437123f6b2ed0c3c782cd",
+    "order": 139,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"That seems the most reasonable theory,\" said Stapleton, and he gave a sigh which I took to indicate his relief. \"What do you think about it, Mr. Sherlock Holmes?\"",
+    "context": {
+      "next": {
+        "content": "My friend bowed his compliments. \"You are quick at identification,\" said he.",
+        "objectID": "2cb75d668fbcd8d7bc7cd6c06a2049f7"
+      },
+      "previous": {
+        "content": "\"I have no doubt that anxiety and exposure have driven him off his head. He has rushed about the moor in a crazy state and eventually fallen over here and broken his neck.\"",
+        "objectID": "3ecda1c59eb437123f6b2ed0c3c782cd"
+      }
+    },
+    "objectID": "06466fef096f64cadbf915b755f77dc2",
+    "order": 140,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "My friend bowed his compliments. \"You are quick at identification,\" said he.",
+    "context": {
+      "next": {
+        "content": "\"We have been expecting you in these parts since Dr. Watson came down. You are in time to see a tragedy.\"",
+        "objectID": "f437a5f0502dac0a41047233c13accf9"
+      },
+      "previous": {
+        "content": "\"That seems the most reasonable theory,\" said Stapleton, and he gave a sigh which I took to indicate his relief. \"What do you think about it, Mr. Sherlock Holmes?\"",
+        "objectID": "06466fef096f64cadbf915b755f77dc2"
+      }
+    },
+    "objectID": "2cb75d668fbcd8d7bc7cd6c06a2049f7",
+    "order": 141,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"We have been expecting you in these parts since Dr. Watson came down. You are in time to see a tragedy.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, indeed. I have no doubt that my friend's explanation will cover the facts. I will take an unpleasant remembrance back to London with me tomorrow.\"",
+        "objectID": "d516625a7c68d2b2b6d85c4388634e2c"
+      },
+      "previous": {
+        "content": "My friend bowed his compliments. \"You are quick at identification,\" said he.",
+        "objectID": "2cb75d668fbcd8d7bc7cd6c06a2049f7"
+      }
+    },
+    "objectID": "f437a5f0502dac0a41047233c13accf9",
+    "order": 142,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Yes, indeed. I have no doubt that my friend's explanation will cover the facts. I will take an unpleasant remembrance back to London with me tomorrow.\"",
+    "context": {
+      "next": {
+        "content": "\"Oh, you return tomorrow?\"",
+        "objectID": "dfe82b476e361a388c461db95387b623"
+      },
+      "previous": {
+        "content": "\"We have been expecting you in these parts since Dr. Watson came down. You are in time to see a tragedy.\"",
+        "objectID": "f437a5f0502dac0a41047233c13accf9"
+      }
+    },
+    "objectID": "d516625a7c68d2b2b6d85c4388634e2c",
+    "order": 143,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"Oh, you return tomorrow?\"",
+    "context": {
+      "next": {
+        "content": "\"That is my intention.\"",
+        "objectID": "1cd476055a48665083ec2edffeae8480"
+      },
+      "previous": {
+        "content": "\"Yes, indeed. I have no doubt that my friend's explanation will cover the facts. I will take an unpleasant remembrance back to London with me tomorrow.\"",
+        "objectID": "d516625a7c68d2b2b6d85c4388634e2c"
+      }
+    },
+    "objectID": "dfe82b476e361a388c461db95387b623",
+    "order": 144,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"That is my intention.\"",
+    "context": {
+      "next": {
+        "content": "\"I hope your visit has cast some light upon those occurrences which have puzzled us?\"",
+        "objectID": "5fa6f84d52e9861167cfe757cac997bc"
+      },
+      "previous": {
+        "content": "\"Oh, you return tomorrow?\"",
+        "objectID": "dfe82b476e361a388c461db95387b623"
+      }
+    },
+    "objectID": "1cd476055a48665083ec2edffeae8480",
+    "order": 145,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"I hope your visit has cast some light upon those occurrences which have puzzled us?\"",
+    "context": {
+      "next": {
+        "content": "Holmes shrugged his shoulders.",
+        "objectID": "182efd7bfff8616111f2ce75852f7da3"
+      },
+      "previous": {
+        "content": "\"That is my intention.\"",
+        "objectID": "1cd476055a48665083ec2edffeae8480"
+      }
+    },
+    "objectID": "5fa6f84d52e9861167cfe757cac997bc",
+    "order": 146,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "Holmes shrugged his shoulders.",
+    "context": {
+      "next": {
+        "content": "\"One cannot always have the success for which one hopes. An investigator needs facts and not legends or rumours. It has not been a satisfactory case.\"",
+        "objectID": "312f7113a0c08d05c9410a3726a15c14"
+      },
+      "previous": {
+        "content": "\"I hope your visit has cast some light upon those occurrences which have puzzled us?\"",
+        "objectID": "5fa6f84d52e9861167cfe757cac997bc"
+      }
+    },
+    "objectID": "182efd7bfff8616111f2ce75852f7da3",
+    "order": 147,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"One cannot always have the success for which one hopes. An investigator needs facts and not legends or rumours. It has not been a satisfactory case.\"",
+    "context": {
+      "next": {
+        "content": "My friend spoke in his frankest and most unconcerned manner. Stapleton still looked hard at him. Then he turned to me.",
+        "objectID": "8216600694891ae984bd06ce72c8cc6f"
+      },
+      "previous": {
+        "content": "Holmes shrugged his shoulders.",
+        "objectID": "182efd7bfff8616111f2ce75852f7da3"
+      }
+    },
+    "objectID": "312f7113a0c08d05c9410a3726a15c14",
+    "order": 148,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "My friend spoke in his frankest and most unconcerned manner. Stapleton still looked hard at him. Then he turned to me.",
+    "context": {
+      "next": {
+        "content": "\"I would suggest carrying this poor fellow to my house, but it would give my sister such a fright that I do not feel justified in doing it. I think that if we put something over his face he will be safe until morning.\"",
+        "objectID": "57403dd80fdae95c5847c94855377940"
+      },
+      "previous": {
+        "content": "\"One cannot always have the success for which one hopes. An investigator needs facts and not legends or rumours. It has not been a satisfactory case.\"",
+        "objectID": "312f7113a0c08d05c9410a3726a15c14"
+      }
+    },
+    "objectID": "8216600694891ae984bd06ce72c8cc6f",
+    "order": 149,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "\"I would suggest carrying this poor fellow to my house, but it would give my sister such a fright that I do not feel justified in doing it. I think that if we put something over his face he will be safe until morning.\"",
+    "context": {
+      "next": {
+        "content": "And so it was arranged. Resisting Stapleton's offer of hospitality, Holmes and I set off to Baskerville Hall, leaving the naturalist to return alone. Looking back we saw the figure moving slowly away over the broad moor, and behind him that one black smudge on the silvered slope which showed where the man was lying who had come so horribly to his end.",
+        "objectID": "c816eec274f4493242b3662a72b042f6"
+      },
+      "previous": {
+        "content": "My friend spoke in his frankest and most unconcerned manner. Stapleton still looked hard at him. Then he turned to me.",
+        "objectID": "8216600694891ae984bd06ce72c8cc6f"
+      }
+    },
+    "objectID": "57403dd80fdae95c5847c94855377940",
+    "order": 150,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 12. Death on the Moor",
+    "chapterOrder": 12,
+    "content": "And so it was arranged. Resisting Stapleton's offer of hospitality, Holmes and I set off to Baskerville Hall, leaving the naturalist to return alone. Looking back we saw the figure moving slowly away over the broad moor, and behind him that one black smudge on the silvered slope which showed where the man was lying who had come so horribly to his end.",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "\"I would suggest carrying this poor fellow to my house, but it would give my sister such a fright that I do not feel justified in doing it. I think that if we put something over his face he will be safe until morning.\"",
+        "objectID": "57403dd80fdae95c5847c94855377940"
+      }
+    },
+    "objectID": "c816eec274f4493242b3662a72b042f6",
+    "order": 151,
+    "tagName": "P"
+  }
+]

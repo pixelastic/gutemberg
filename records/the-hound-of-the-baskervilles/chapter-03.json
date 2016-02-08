@@ -1,0 +1,3230 @@
+[
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "I confess at these words a shudder passed through me. There was a thrill in the doctor's voice which showed that he was himself deeply moved by that which he told us. Holmes leaned forward in his excitement and his eyes had the hard, dry glitter which shot from them when he was keenly interested.",
+    "context": {
+      "next": {
+        "content": "\"You saw this?\"",
+        "objectID": "97b5b9ddccd37a130c85db67d61e2ecf"
+      },
+      "previous": null
+    },
+    "objectID": "c6c30ee55e4ef4b806aeb8120d62a2af",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"You saw this?\"",
+    "context": {
+      "next": {
+        "content": "\"As clearly as I see you.\"",
+        "objectID": "d1c99e8a504ee8bc1ce232d38ee449c2"
+      },
+      "previous": {
+        "content": "I confess at these words a shudder passed through me. There was a thrill in the doctor's voice which showed that he was himself deeply moved by that which he told us. Holmes leaned forward in his excitement and his eyes had the hard, dry glitter which shot from them when he was keenly interested.",
+        "objectID": "c6c30ee55e4ef4b806aeb8120d62a2af"
+      }
+    },
+    "objectID": "97b5b9ddccd37a130c85db67d61e2ecf",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"As clearly as I see you.\"",
+    "context": {
+      "next": {
+        "content": "\"And you said nothing?\"",
+        "objectID": "ed054bafd110efe981f6ac9f08de25bb"
+      },
+      "previous": {
+        "content": "\"You saw this?\"",
+        "objectID": "97b5b9ddccd37a130c85db67d61e2ecf"
+      }
+    },
+    "objectID": "d1c99e8a504ee8bc1ce232d38ee449c2",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"And you said nothing?\"",
+    "context": {
+      "next": {
+        "content": "\"What was the use?\"",
+        "objectID": "51c582907549885af49ad5da8f0ef030"
+      },
+      "previous": {
+        "content": "\"As clearly as I see you.\"",
+        "objectID": "d1c99e8a504ee8bc1ce232d38ee449c2"
+      }
+    },
+    "objectID": "ed054bafd110efe981f6ac9f08de25bb",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"What was the use?\"",
+    "context": {
+      "next": {
+        "content": "\"How was it that no one else saw it?\"",
+        "objectID": "4b870b456fe58734dbae292024693749"
+      },
+      "previous": {
+        "content": "\"And you said nothing?\"",
+        "objectID": "ed054bafd110efe981f6ac9f08de25bb"
+      }
+    },
+    "objectID": "51c582907549885af49ad5da8f0ef030",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"How was it that no one else saw it?\"",
+    "context": {
+      "next": {
+        "content": "\"The marks were some twenty yards from the body and no one gave them a thought. I don't suppose I should have done so had I not known this legend.\"",
+        "objectID": "25717b3c1b94480e12244ee10cc7e295"
+      },
+      "previous": {
+        "content": "\"What was the use?\"",
+        "objectID": "51c582907549885af49ad5da8f0ef030"
+      }
+    },
+    "objectID": "4b870b456fe58734dbae292024693749",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"The marks were some twenty yards from the body and no one gave them a thought. I don't suppose I should have done so had I not known this legend.\"",
+    "context": {
+      "next": {
+        "content": "\"There are many sheep-dogs on the moor?\"",
+        "objectID": "a78e8bc1ae7e25a9f8facecb8ae37994"
+      },
+      "previous": {
+        "content": "\"How was it that no one else saw it?\"",
+        "objectID": "4b870b456fe58734dbae292024693749"
+      }
+    },
+    "objectID": "25717b3c1b94480e12244ee10cc7e295",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"There are many sheep-dogs on the moor?\"",
+    "context": {
+      "next": {
+        "content": "\"No doubt, but this was no sheep-dog.\"",
+        "objectID": "df8efc5e12e29a38036c5ec3ef9b0d2d"
+      },
+      "previous": {
+        "content": "\"The marks were some twenty yards from the body and no one gave them a thought. I don't suppose I should have done so had I not known this legend.\"",
+        "objectID": "25717b3c1b94480e12244ee10cc7e295"
+      }
+    },
+    "objectID": "a78e8bc1ae7e25a9f8facecb8ae37994",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"No doubt, but this was no sheep-dog.\"",
+    "context": {
+      "next": {
+        "content": "\"You say it was large?\"",
+        "objectID": "9f2f18deb01fb676eacd624c040618a3"
+      },
+      "previous": {
+        "content": "\"There are many sheep-dogs on the moor?\"",
+        "objectID": "a78e8bc1ae7e25a9f8facecb8ae37994"
+      }
+    },
+    "objectID": "df8efc5e12e29a38036c5ec3ef9b0d2d",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"You say it was large?\"",
+    "context": {
+      "next": {
+        "content": "\"Enormous.\"",
+        "objectID": "0dcdd3d5b933f83dbb2d46d65d514107"
+      },
+      "previous": {
+        "content": "\"No doubt, but this was no sheep-dog.\"",
+        "objectID": "df8efc5e12e29a38036c5ec3ef9b0d2d"
+      }
+    },
+    "objectID": "9f2f18deb01fb676eacd624c040618a3",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Enormous.\"",
+    "context": {
+      "next": {
+        "content": "\"But it had not approached the body?\"",
+        "objectID": "81188814cba2e36833396d472a45c9e3"
+      },
+      "previous": {
+        "content": "\"You say it was large?\"",
+        "objectID": "9f2f18deb01fb676eacd624c040618a3"
+      }
+    },
+    "objectID": "0dcdd3d5b933f83dbb2d46d65d514107",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"But it had not approached the body?\"",
+    "context": {
+      "next": {
+        "content": "\"No.\"",
+        "objectID": "5b5f941c704deba77b56a45f3371d79f"
+      },
+      "previous": {
+        "content": "\"Enormous.\"",
+        "objectID": "0dcdd3d5b933f83dbb2d46d65d514107"
+      }
+    },
+    "objectID": "81188814cba2e36833396d472a45c9e3",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"No.\"",
+    "context": {
+      "next": {
+        "content": "\"What sort of night was it?'",
+        "objectID": "ecedc872d484fb8010fc87e66bd09fd7"
+      },
+      "previous": {
+        "content": "\"But it had not approached the body?\"",
+        "objectID": "81188814cba2e36833396d472a45c9e3"
+      }
+    },
+    "objectID": "5b5f941c704deba77b56a45f3371d79f",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"What sort of night was it?'",
+    "context": {
+      "next": {
+        "content": "\"Damp and raw.\"",
+        "objectID": "f3e18f226471cf1be63c65f53928b6d0"
+      },
+      "previous": {
+        "content": "\"No.\"",
+        "objectID": "5b5f941c704deba77b56a45f3371d79f"
+      }
+    },
+    "objectID": "ecedc872d484fb8010fc87e66bd09fd7",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Damp and raw.\"",
+    "context": {
+      "next": {
+        "content": "\"But not actually raining?\"",
+        "objectID": "cacf5762fad32598383a7626bd19381a"
+      },
+      "previous": {
+        "content": "\"What sort of night was it?'",
+        "objectID": "ecedc872d484fb8010fc87e66bd09fd7"
+      }
+    },
+    "objectID": "f3e18f226471cf1be63c65f53928b6d0",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"But not actually raining?\"",
+    "context": {
+      "next": {
+        "content": "\"No.\"",
+        "objectID": "de20b35659878e4a9e75e5920cf30f82"
+      },
+      "previous": {
+        "content": "\"Damp and raw.\"",
+        "objectID": "f3e18f226471cf1be63c65f53928b6d0"
+      }
+    },
+    "objectID": "cacf5762fad32598383a7626bd19381a",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"No.\"",
+    "context": {
+      "next": {
+        "content": "\"What is the alley like?\"",
+        "objectID": "100a641a99ede579ec4b4dd46385f219"
+      },
+      "previous": {
+        "content": "\"But not actually raining?\"",
+        "objectID": "cacf5762fad32598383a7626bd19381a"
+      }
+    },
+    "objectID": "de20b35659878e4a9e75e5920cf30f82",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"What is the alley like?\"",
+    "context": {
+      "next": {
+        "content": "\"There are two lines of old yew hedge, twelve feet high and impenetrable. The walk in the centre is about eight feet across.\"",
+        "objectID": "a3c444681a163e2e4f3f6c6415aa5207"
+      },
+      "previous": {
+        "content": "\"No.\"",
+        "objectID": "de20b35659878e4a9e75e5920cf30f82"
+      }
+    },
+    "objectID": "100a641a99ede579ec4b4dd46385f219",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"There are two lines of old yew hedge, twelve feet high and impenetrable. The walk in the centre is about eight feet across.\"",
+    "context": {
+      "next": {
+        "content": "\"Is there anything between the hedges and the walk?\"",
+        "objectID": "c8ec5a6009ffcf3382bb76b9ec7be6a4"
+      },
+      "previous": {
+        "content": "\"What is the alley like?\"",
+        "objectID": "100a641a99ede579ec4b4dd46385f219"
+      }
+    },
+    "objectID": "a3c444681a163e2e4f3f6c6415aa5207",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Is there anything between the hedges and the walk?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, there is a strip of grass about six feet broad on either side.\"",
+        "objectID": "55e3e26eaebb6460550d3215bda811af"
+      },
+      "previous": {
+        "content": "\"There are two lines of old yew hedge, twelve feet high and impenetrable. The walk in the centre is about eight feet across.\"",
+        "objectID": "a3c444681a163e2e4f3f6c6415aa5207"
+      }
+    },
+    "objectID": "c8ec5a6009ffcf3382bb76b9ec7be6a4",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Yes, there is a strip of grass about six feet broad on either side.\"",
+    "context": {
+      "next": {
+        "content": "\"I understand that the yew hedge is penetrated at one point by a gate?\"",
+        "objectID": "65b8affdc2a4c9ec3df38434fe6cb6fb"
+      },
+      "previous": {
+        "content": "\"Is there anything between the hedges and the walk?\"",
+        "objectID": "c8ec5a6009ffcf3382bb76b9ec7be6a4"
+      }
+    },
+    "objectID": "55e3e26eaebb6460550d3215bda811af",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"I understand that the yew hedge is penetrated at one point by a gate?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, the wicket-gate which leads on to the moor.\"",
+        "objectID": "68289430856237c59769ec2eec58084f"
+      },
+      "previous": {
+        "content": "\"Yes, there is a strip of grass about six feet broad on either side.\"",
+        "objectID": "55e3e26eaebb6460550d3215bda811af"
+      }
+    },
+    "objectID": "65b8affdc2a4c9ec3df38434fe6cb6fb",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Yes, the wicket-gate which leads on to the moor.\"",
+    "context": {
+      "next": {
+        "content": "\"Is there any other opening?\"",
+        "objectID": "9e27891954226c3c118b6fd5fff53c51"
+      },
+      "previous": {
+        "content": "\"I understand that the yew hedge is penetrated at one point by a gate?\"",
+        "objectID": "65b8affdc2a4c9ec3df38434fe6cb6fb"
+      }
+    },
+    "objectID": "68289430856237c59769ec2eec58084f",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Is there any other opening?\"",
+    "context": {
+      "next": {
+        "content": "\"None.\"",
+        "objectID": "20103c1b37eb898425d25e57bf188ce3"
+      },
+      "previous": {
+        "content": "\"Yes, the wicket-gate which leads on to the moor.\"",
+        "objectID": "68289430856237c59769ec2eec58084f"
+      }
+    },
+    "objectID": "9e27891954226c3c118b6fd5fff53c51",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"None.\"",
+    "context": {
+      "next": {
+        "content": "\"So that to reach the yew alley one either has to come down it from the house or else to enter it by the moor-gate?\"",
+        "objectID": "11211f060d0f6a6d57d9b2d4108ed1c5"
+      },
+      "previous": {
+        "content": "\"Is there any other opening?\"",
+        "objectID": "9e27891954226c3c118b6fd5fff53c51"
+      }
+    },
+    "objectID": "20103c1b37eb898425d25e57bf188ce3",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"So that to reach the yew alley one either has to come down it from the house or else to enter it by the moor-gate?\"",
+    "context": {
+      "next": {
+        "content": "\"There is an exit through a summer-house at the far end.\"",
+        "objectID": "af611d2f4d2bd81b78b63941fda1cbbf"
+      },
+      "previous": {
+        "content": "\"None.\"",
+        "objectID": "20103c1b37eb898425d25e57bf188ce3"
+      }
+    },
+    "objectID": "11211f060d0f6a6d57d9b2d4108ed1c5",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"There is an exit through a summer-house at the far end.\"",
+    "context": {
+      "next": {
+        "content": "\"Had Sir Charles reached this?\"",
+        "objectID": "a577c69b1e1a9ad862680c264006847f"
+      },
+      "previous": {
+        "content": "\"So that to reach the yew alley one either has to come down it from the house or else to enter it by the moor-gate?\"",
+        "objectID": "11211f060d0f6a6d57d9b2d4108ed1c5"
+      }
+    },
+    "objectID": "af611d2f4d2bd81b78b63941fda1cbbf",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Had Sir Charles reached this?\"",
+    "context": {
+      "next": {
+        "content": "\"No; he lay about fifty yards from it.\"",
+        "objectID": "43305abc8d263b6c0c471d5f1567c1b7"
+      },
+      "previous": {
+        "content": "\"There is an exit through a summer-house at the far end.\"",
+        "objectID": "af611d2f4d2bd81b78b63941fda1cbbf"
+      }
+    },
+    "objectID": "a577c69b1e1a9ad862680c264006847f",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"No; he lay about fifty yards from it.\"",
+    "context": {
+      "next": {
+        "content": "\"Now, tell me, Dr. Mortimer—and this is important—the marks which you saw were on the path and not on the grass?\"",
+        "objectID": "1a447370c5a0d2f50af72630f0f68ce9"
+      },
+      "previous": {
+        "content": "\"Had Sir Charles reached this?\"",
+        "objectID": "a577c69b1e1a9ad862680c264006847f"
+      }
+    },
+    "objectID": "43305abc8d263b6c0c471d5f1567c1b7",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Now, tell me, Dr. Mortimer—and this is important—the marks which you saw were on the path and not on the grass?\"",
+    "context": {
+      "next": {
+        "content": "\"No marks could show on the grass.\"",
+        "objectID": "2881cc6f8352d36e2c7120d592d3768a"
+      },
+      "previous": {
+        "content": "\"No; he lay about fifty yards from it.\"",
+        "objectID": "43305abc8d263b6c0c471d5f1567c1b7"
+      }
+    },
+    "objectID": "1a447370c5a0d2f50af72630f0f68ce9",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"No marks could show on the grass.\"",
+    "context": {
+      "next": {
+        "content": "\"Were they on the same side of the path as the moor-gate?\"",
+        "objectID": "178a8e78921d8072028ca022b0a649d9"
+      },
+      "previous": {
+        "content": "\"Now, tell me, Dr. Mortimer—and this is important—the marks which you saw were on the path and not on the grass?\"",
+        "objectID": "1a447370c5a0d2f50af72630f0f68ce9"
+      }
+    },
+    "objectID": "2881cc6f8352d36e2c7120d592d3768a",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Were they on the same side of the path as the moor-gate?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes; they were on the edge of the path on the same side as the moor-gate.\"",
+        "objectID": "a2df6604bdf8b7c897c6ddbf44980d96"
+      },
+      "previous": {
+        "content": "\"No marks could show on the grass.\"",
+        "objectID": "2881cc6f8352d36e2c7120d592d3768a"
+      }
+    },
+    "objectID": "178a8e78921d8072028ca022b0a649d9",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Yes; they were on the edge of the path on the same side as the moor-gate.\"",
+    "context": {
+      "next": {
+        "content": "\"You interest me exceedingly. Another point. Was the wicket-gate closed?\"",
+        "objectID": "06fc640b8c0e5210ff2e741a4f8243c2"
+      },
+      "previous": {
+        "content": "\"Were they on the same side of the path as the moor-gate?\"",
+        "objectID": "178a8e78921d8072028ca022b0a649d9"
+      }
+    },
+    "objectID": "a2df6604bdf8b7c897c6ddbf44980d96",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"You interest me exceedingly. Another point. Was the wicket-gate closed?\"",
+    "context": {
+      "next": {
+        "content": "\"Closed and padlocked.\"",
+        "objectID": "d9443838265e163cb7b60f935deaefbe"
+      },
+      "previous": {
+        "content": "\"Yes; they were on the edge of the path on the same side as the moor-gate.\"",
+        "objectID": "a2df6604bdf8b7c897c6ddbf44980d96"
+      }
+    },
+    "objectID": "06fc640b8c0e5210ff2e741a4f8243c2",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Closed and padlocked.\"",
+    "context": {
+      "next": {
+        "content": "\"How high was it?\"",
+        "objectID": "baea9ff957c165ec78484a35de55348c"
+      },
+      "previous": {
+        "content": "\"You interest me exceedingly. Another point. Was the wicket-gate closed?\"",
+        "objectID": "06fc640b8c0e5210ff2e741a4f8243c2"
+      }
+    },
+    "objectID": "d9443838265e163cb7b60f935deaefbe",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"How high was it?\"",
+    "context": {
+      "next": {
+        "content": "\"About four feet high.\"",
+        "objectID": "374ce4ca8875ea9f70bef22216d4ec1a"
+      },
+      "previous": {
+        "content": "\"Closed and padlocked.\"",
+        "objectID": "d9443838265e163cb7b60f935deaefbe"
+      }
+    },
+    "objectID": "baea9ff957c165ec78484a35de55348c",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"About four feet high.\"",
+    "context": {
+      "next": {
+        "content": "\"Then anyone could have got over it?\"",
+        "objectID": "26369ca9e03fa197abc4502bab443577"
+      },
+      "previous": {
+        "content": "\"How high was it?\"",
+        "objectID": "baea9ff957c165ec78484a35de55348c"
+      }
+    },
+    "objectID": "374ce4ca8875ea9f70bef22216d4ec1a",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Then anyone could have got over it?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes.\"",
+        "objectID": "6dc1d616df1bf61c35c1c7db79464f29"
+      },
+      "previous": {
+        "content": "\"About four feet high.\"",
+        "objectID": "374ce4ca8875ea9f70bef22216d4ec1a"
+      }
+    },
+    "objectID": "26369ca9e03fa197abc4502bab443577",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Yes.\"",
+    "context": {
+      "next": {
+        "content": "\"And what marks did you see by the wicket-gate?\"",
+        "objectID": "4ec3b6159cf8fddb63f1b6c761f93d0b"
+      },
+      "previous": {
+        "content": "\"Then anyone could have got over it?\"",
+        "objectID": "26369ca9e03fa197abc4502bab443577"
+      }
+    },
+    "objectID": "6dc1d616df1bf61c35c1c7db79464f29",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"And what marks did you see by the wicket-gate?\"",
+    "context": {
+      "next": {
+        "content": "\"None in particular.\"",
+        "objectID": "f4f8b5eb931d6290268e80bb68e46215"
+      },
+      "previous": {
+        "content": "\"Yes.\"",
+        "objectID": "6dc1d616df1bf61c35c1c7db79464f29"
+      }
+    },
+    "objectID": "4ec3b6159cf8fddb63f1b6c761f93d0b",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"None in particular.\"",
+    "context": {
+      "next": {
+        "content": "\"Good heaven! Did no one examine?\"",
+        "objectID": "edb3ac441233db293e3bef23c0f775df"
+      },
+      "previous": {
+        "content": "\"And what marks did you see by the wicket-gate?\"",
+        "objectID": "4ec3b6159cf8fddb63f1b6c761f93d0b"
+      }
+    },
+    "objectID": "f4f8b5eb931d6290268e80bb68e46215",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Good heaven! Did no one examine?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, I examined, myself.\"",
+        "objectID": "90476f8cf8af8d3e072619ccc406d704"
+      },
+      "previous": {
+        "content": "\"None in particular.\"",
+        "objectID": "f4f8b5eb931d6290268e80bb68e46215"
+      }
+    },
+    "objectID": "edb3ac441233db293e3bef23c0f775df",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Yes, I examined, myself.\"",
+    "context": {
+      "next": {
+        "content": "\"And found nothing?\"",
+        "objectID": "d529dc8bb659c5032109c550adf749c7"
+      },
+      "previous": {
+        "content": "\"Good heaven! Did no one examine?\"",
+        "objectID": "edb3ac441233db293e3bef23c0f775df"
+      }
+    },
+    "objectID": "90476f8cf8af8d3e072619ccc406d704",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"And found nothing?\"",
+    "context": {
+      "next": {
+        "content": "\"It was all very confused. Sir Charles had evidently stood there for five or ten minutes.\"",
+        "objectID": "2d6e398c95ceade81fb69a2e135c3a4d"
+      },
+      "previous": {
+        "content": "\"Yes, I examined, myself.\"",
+        "objectID": "90476f8cf8af8d3e072619ccc406d704"
+      }
+    },
+    "objectID": "d529dc8bb659c5032109c550adf749c7",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"It was all very confused. Sir Charles had evidently stood there for five or ten minutes.\"",
+    "context": {
+      "next": {
+        "content": "\"How do you know that?\"",
+        "objectID": "8c648dd1fdc1581d7887247eaf7b96ce"
+      },
+      "previous": {
+        "content": "\"And found nothing?\"",
+        "objectID": "d529dc8bb659c5032109c550adf749c7"
+      }
+    },
+    "objectID": "2d6e398c95ceade81fb69a2e135c3a4d",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"How do you know that?\"",
+    "context": {
+      "next": {
+        "content": "\"Because the ash had twice dropped from his cigar.\"",
+        "objectID": "e3fe241e5389dcbd5fa1542e09ed1ede"
+      },
+      "previous": {
+        "content": "\"It was all very confused. Sir Charles had evidently stood there for five or ten minutes.\"",
+        "objectID": "2d6e398c95ceade81fb69a2e135c3a4d"
+      }
+    },
+    "objectID": "8c648dd1fdc1581d7887247eaf7b96ce",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Because the ash had twice dropped from his cigar.\"",
+    "context": {
+      "next": {
+        "content": "\"Excellent! This is a colleague, Watson, after our own heart. But the marks?\"",
+        "objectID": "d08c8ca169ce37435bf2219acf293e2c"
+      },
+      "previous": {
+        "content": "\"How do you know that?\"",
+        "objectID": "8c648dd1fdc1581d7887247eaf7b96ce"
+      }
+    },
+    "objectID": "e3fe241e5389dcbd5fa1542e09ed1ede",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Excellent! This is a colleague, Watson, after our own heart. But the marks?\"",
+    "context": {
+      "next": {
+        "content": "\"He had left his own marks all over that small patch of gravel. I could discern no others.\"",
+        "objectID": "63cd545db533639f8cc09c1f68eccd38"
+      },
+      "previous": {
+        "content": "\"Because the ash had twice dropped from his cigar.\"",
+        "objectID": "e3fe241e5389dcbd5fa1542e09ed1ede"
+      }
+    },
+    "objectID": "d08c8ca169ce37435bf2219acf293e2c",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"He had left his own marks all over that small patch of gravel. I could discern no others.\"",
+    "context": {
+      "next": {
+        "content": "Sherlock Holmes struck his hand against his knee with an impatient gesture.",
+        "objectID": "0cd798dab9bad9c0637da3a8710e1eef"
+      },
+      "previous": {
+        "content": "\"Excellent! This is a colleague, Watson, after our own heart. But the marks?\"",
+        "objectID": "d08c8ca169ce37435bf2219acf293e2c"
+      }
+    },
+    "objectID": "63cd545db533639f8cc09c1f68eccd38",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "Sherlock Holmes struck his hand against his knee with an impatient gesture.",
+    "context": {
+      "next": {
+        "content": "\"If I had only been there!\" he cried. \"It is evidently a case of extraordinary interest, and one which presented immense opportunities to the scientific expert. That gravel page upon which I might have read so much has been long ere this smudged by the rain and defaced by the clogs of curious peasants.",
+        "objectID": "591c13110c346b7b0cfc02253cb44561"
+      },
+      "previous": {
+        "content": "\"He had left his own marks all over that small patch of gravel. I could discern no others.\"",
+        "objectID": "63cd545db533639f8cc09c1f68eccd38"
+      }
+    },
+    "objectID": "0cd798dab9bad9c0637da3a8710e1eef",
+    "order": 50,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"If I had only been there!\" he cried. \"It is evidently a case of extraordinary interest, and one which presented immense opportunities to the scientific expert. That gravel page upon which I might have read so much has been long ere this smudged by the rain and defaced by the clogs of curious peasants.",
+    "context": {
+      "next": {
+        "content": "Oh, Dr. Mortimer, Dr. Mortimer, to think that you should not have called me in! You have indeed much to answer for.\"",
+        "objectID": "1c5c5d7ad6cdf7f1d751a7b9ddb54b3a"
+      },
+      "previous": {
+        "content": "Sherlock Holmes struck his hand against his knee with an impatient gesture.",
+        "objectID": "0cd798dab9bad9c0637da3a8710e1eef"
+      }
+    },
+    "objectID": "591c13110c346b7b0cfc02253cb44561",
+    "order": 51,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "Oh, Dr. Mortimer, Dr. Mortimer, to think that you should not have called me in! You have indeed much to answer for.\"",
+    "context": {
+      "next": {
+        "content": "\"I could not call you in, Mr. Holmes, without disclosing these facts to the world, and I have already given my reasons for not wishing to do so. Besides, besides—\"",
+        "objectID": "046da135200467377c5115b701a659f7"
+      },
+      "previous": {
+        "content": "\"If I had only been there!\" he cried. \"It is evidently a case of extraordinary interest, and one which presented immense opportunities to the scientific expert. That gravel page upon which I might have read so much has been long ere this smudged by the rain and defaced by the clogs of curious peasants.",
+        "objectID": "591c13110c346b7b0cfc02253cb44561"
+      }
+    },
+    "objectID": "1c5c5d7ad6cdf7f1d751a7b9ddb54b3a",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"I could not call you in, Mr. Holmes, without disclosing these facts to the world, and I have already given my reasons for not wishing to do so. Besides, besides—\"",
+    "context": {
+      "next": {
+        "content": "\"Why do you hesitate?\"",
+        "objectID": "de099c9866f037f2eb86f21708a2bfc8"
+      },
+      "previous": {
+        "content": "Oh, Dr. Mortimer, Dr. Mortimer, to think that you should not have called me in! You have indeed much to answer for.\"",
+        "objectID": "1c5c5d7ad6cdf7f1d751a7b9ddb54b3a"
+      }
+    },
+    "objectID": "046da135200467377c5115b701a659f7",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Why do you hesitate?\"",
+    "context": {
+      "next": {
+        "content": "\"There is a realm in which the most acute and most experienced of detectives is helpless.\"",
+        "objectID": "a69b4292d91694a86e970f4376f27a18"
+      },
+      "previous": {
+        "content": "\"I could not call you in, Mr. Holmes, without disclosing these facts to the world, and I have already given my reasons for not wishing to do so. Besides, besides—\"",
+        "objectID": "046da135200467377c5115b701a659f7"
+      }
+    },
+    "objectID": "de099c9866f037f2eb86f21708a2bfc8",
+    "order": 54,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"There is a realm in which the most acute and most experienced of detectives is helpless.\"",
+    "context": {
+      "next": {
+        "content": "\"You mean that the thing is supernatural?\"",
+        "objectID": "4c5f3b722d9d6b4290d8a7738509b97c"
+      },
+      "previous": {
+        "content": "\"Why do you hesitate?\"",
+        "objectID": "de099c9866f037f2eb86f21708a2bfc8"
+      }
+    },
+    "objectID": "a69b4292d91694a86e970f4376f27a18",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"You mean that the thing is supernatural?\"",
+    "context": {
+      "next": {
+        "content": "\"I did not positively say so.\"",
+        "objectID": "4f44e4647789c1d40434a2c20029abac"
+      },
+      "previous": {
+        "content": "\"There is a realm in which the most acute and most experienced of detectives is helpless.\"",
+        "objectID": "a69b4292d91694a86e970f4376f27a18"
+      }
+    },
+    "objectID": "4c5f3b722d9d6b4290d8a7738509b97c",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"I did not positively say so.\"",
+    "context": {
+      "next": {
+        "content": "\"No, but you evidently think it.\"",
+        "objectID": "9ea83039da5e3281cae985282323c53d"
+      },
+      "previous": {
+        "content": "\"You mean that the thing is supernatural?\"",
+        "objectID": "4c5f3b722d9d6b4290d8a7738509b97c"
+      }
+    },
+    "objectID": "4f44e4647789c1d40434a2c20029abac",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"No, but you evidently think it.\"",
+    "context": {
+      "next": {
+        "content": "\"Since the tragedy, Mr. Holmes, there have come to my ears several incidents which are hard to reconcile with the settled order of Nature.\"",
+        "objectID": "4df83eab85acfbdd05661575135a151a"
+      },
+      "previous": {
+        "content": "\"I did not positively say so.\"",
+        "objectID": "4f44e4647789c1d40434a2c20029abac"
+      }
+    },
+    "objectID": "9ea83039da5e3281cae985282323c53d",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Since the tragedy, Mr. Holmes, there have come to my ears several incidents which are hard to reconcile with the settled order of Nature.\"",
+    "context": {
+      "next": {
+        "content": "\"For example?\"",
+        "objectID": "d1854588bd3adffcca330622a1fe71be"
+      },
+      "previous": {
+        "content": "\"No, but you evidently think it.\"",
+        "objectID": "9ea83039da5e3281cae985282323c53d"
+      }
+    },
+    "objectID": "4df83eab85acfbdd05661575135a151a",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"For example?\"",
+    "context": {
+      "next": {
+        "content": "\"I find that before the terrible event occurred several people had seen a creature upon the moor which corresponds with this Baskerville demon, and which could not possibly be any animal known to science. They all agreed that it was a huge creature, luminous, ghastly, and spectral. I have cross-examined these men, one of them a hard-headed countryman, one a farrier, and one a moorland farmer, who all tell the same story of this dreadful apparition, exactly corresponding to the hell-hound of the legend.",
+        "objectID": "41f56370badb3dd1486da70a75228ace"
+      },
+      "previous": {
+        "content": "\"Since the tragedy, Mr. Holmes, there have come to my ears several incidents which are hard to reconcile with the settled order of Nature.\"",
+        "objectID": "4df83eab85acfbdd05661575135a151a"
+      }
+    },
+    "objectID": "d1854588bd3adffcca330622a1fe71be",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"I find that before the terrible event occurred several people had seen a creature upon the moor which corresponds with this Baskerville demon, and which could not possibly be any animal known to science. They all agreed that it was a huge creature, luminous, ghastly, and spectral. I have cross-examined these men, one of them a hard-headed countryman, one a farrier, and one a moorland farmer, who all tell the same story of this dreadful apparition, exactly corresponding to the hell-hound of the legend.",
+    "context": {
+      "next": {
+        "content": "I assure you that there is a reign of terror in the district, and that it is a hardy man who will cross the moor at night.\"",
+        "objectID": "3b286432e5caf7cbd627b4f1853e9527"
+      },
+      "previous": {
+        "content": "\"For example?\"",
+        "objectID": "d1854588bd3adffcca330622a1fe71be"
+      }
+    },
+    "objectID": "41f56370badb3dd1486da70a75228ace",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "I assure you that there is a reign of terror in the district, and that it is a hardy man who will cross the moor at night.\"",
+    "context": {
+      "next": {
+        "content": "\"And you, a trained man of science, believe it to be supernatural?\"",
+        "objectID": "6513a360b8758a4a8ec029374c596ae8"
+      },
+      "previous": {
+        "content": "\"I find that before the terrible event occurred several people had seen a creature upon the moor which corresponds with this Baskerville demon, and which could not possibly be any animal known to science. They all agreed that it was a huge creature, luminous, ghastly, and spectral. I have cross-examined these men, one of them a hard-headed countryman, one a farrier, and one a moorland farmer, who all tell the same story of this dreadful apparition, exactly corresponding to the hell-hound of the legend.",
+        "objectID": "41f56370badb3dd1486da70a75228ace"
+      }
+    },
+    "objectID": "3b286432e5caf7cbd627b4f1853e9527",
+    "order": 62,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"And you, a trained man of science, believe it to be supernatural?\"",
+    "context": {
+      "next": {
+        "content": "\"I do not know what to believe.\"",
+        "objectID": "cc49d3ef81f9e1ff30d1a76a440920f0"
+      },
+      "previous": {
+        "content": "I assure you that there is a reign of terror in the district, and that it is a hardy man who will cross the moor at night.\"",
+        "objectID": "3b286432e5caf7cbd627b4f1853e9527"
+      }
+    },
+    "objectID": "6513a360b8758a4a8ec029374c596ae8",
+    "order": 63,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"I do not know what to believe.\"",
+    "context": {
+      "next": {
+        "content": "Holmes shrugged his shoulders. \"I have hitherto confined my investigations to this world,\" said he. \"In a modest way I have combated evil, but to take on the Father of Evil himself would, perhaps, be too ambitious a task. Yet you must admit that the footmark is material.\"",
+        "objectID": "4a4cfe332d6502d4d7c7dd0223ccc8e4"
+      },
+      "previous": {
+        "content": "\"And you, a trained man of science, believe it to be supernatural?\"",
+        "objectID": "6513a360b8758a4a8ec029374c596ae8"
+      }
+    },
+    "objectID": "cc49d3ef81f9e1ff30d1a76a440920f0",
+    "order": 64,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "Holmes shrugged his shoulders. \"I have hitherto confined my investigations to this world,\" said he. \"In a modest way I have combated evil, but to take on the Father of Evil himself would, perhaps, be too ambitious a task. Yet you must admit that the footmark is material.\"",
+    "context": {
+      "next": {
+        "content": "\"The original hound was material enough to tug a man's throat out, and yet he was diabolical as well.\"",
+        "objectID": "db56956729b2d1d365931e34ba139835"
+      },
+      "previous": {
+        "content": "\"I do not know what to believe.\"",
+        "objectID": "cc49d3ef81f9e1ff30d1a76a440920f0"
+      }
+    },
+    "objectID": "4a4cfe332d6502d4d7c7dd0223ccc8e4",
+    "order": 65,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"The original hound was material enough to tug a man's throat out, and yet he was diabolical as well.\"",
+    "context": {
+      "next": {
+        "content": "\"I see that you have quite gone over to the supernaturalists. But now, Dr. Mortimer, tell me this. If you hold these views, why have you come to consult me at all? You tell me in the same breath that it is useless to investigate Sir Charles's death, and that you desire me to do it.\"",
+        "objectID": "f888486bb538a34ce968029895cb2530"
+      },
+      "previous": {
+        "content": "Holmes shrugged his shoulders. \"I have hitherto confined my investigations to this world,\" said he. \"In a modest way I have combated evil, but to take on the Father of Evil himself would, perhaps, be too ambitious a task. Yet you must admit that the footmark is material.\"",
+        "objectID": "4a4cfe332d6502d4d7c7dd0223ccc8e4"
+      }
+    },
+    "objectID": "db56956729b2d1d365931e34ba139835",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"I see that you have quite gone over to the supernaturalists. But now, Dr. Mortimer, tell me this. If you hold these views, why have you come to consult me at all? You tell me in the same breath that it is useless to investigate Sir Charles's death, and that you desire me to do it.\"",
+    "context": {
+      "next": {
+        "content": "\"I did not say that I desired you to do it.\"",
+        "objectID": "423e4c2623c9611ef847247881658052"
+      },
+      "previous": {
+        "content": "\"The original hound was material enough to tug a man's throat out, and yet he was diabolical as well.\"",
+        "objectID": "db56956729b2d1d365931e34ba139835"
+      }
+    },
+    "objectID": "f888486bb538a34ce968029895cb2530",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"I did not say that I desired you to do it.\"",
+    "context": {
+      "next": {
+        "content": "\"Then, how can I assist you?\"",
+        "objectID": "34c5932326611c1fcf192390b68ee86f"
+      },
+      "previous": {
+        "content": "\"I see that you have quite gone over to the supernaturalists. But now, Dr. Mortimer, tell me this. If you hold these views, why have you come to consult me at all? You tell me in the same breath that it is useless to investigate Sir Charles's death, and that you desire me to do it.\"",
+        "objectID": "f888486bb538a34ce968029895cb2530"
+      }
+    },
+    "objectID": "423e4c2623c9611ef847247881658052",
+    "order": 68,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Then, how can I assist you?\"",
+    "context": {
+      "next": {
+        "content": "\"By advising me as to what I should do with Sir Henry Baskerville, who arrives at Waterloo Station\"—Dr. Mortimer looked at his watch—\"in exactly one hour and a quarter.\"",
+        "objectID": "901903542ae85e175e35a35497ac601a"
+      },
+      "previous": {
+        "content": "\"I did not say that I desired you to do it.\"",
+        "objectID": "423e4c2623c9611ef847247881658052"
+      }
+    },
+    "objectID": "34c5932326611c1fcf192390b68ee86f",
+    "order": 69,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"By advising me as to what I should do with Sir Henry Baskerville, who arrives at Waterloo Station\"—Dr. Mortimer looked at his watch—\"in exactly one hour and a quarter.\"",
+    "context": {
+      "next": {
+        "content": "\"He being the heir?\"",
+        "objectID": "d8ee0aa9cefeba6c3aa8e03756398624"
+      },
+      "previous": {
+        "content": "\"Then, how can I assist you?\"",
+        "objectID": "34c5932326611c1fcf192390b68ee86f"
+      }
+    },
+    "objectID": "901903542ae85e175e35a35497ac601a",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"He being the heir?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes. On the death of Sir Charles we inquired for this young gentleman and found that he had been farming in Canada. From the accounts which have reached us he is an excellent fellow in every way. I speak now not as a medical man but as a trustee and executor of Sir Charles's will.\"",
+        "objectID": "6cb48e2f03ac814e372985583d64fc8f"
+      },
+      "previous": {
+        "content": "\"By advising me as to what I should do with Sir Henry Baskerville, who arrives at Waterloo Station\"—Dr. Mortimer looked at his watch—\"in exactly one hour and a quarter.\"",
+        "objectID": "901903542ae85e175e35a35497ac601a"
+      }
+    },
+    "objectID": "d8ee0aa9cefeba6c3aa8e03756398624",
+    "order": 71,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Yes. On the death of Sir Charles we inquired for this young gentleman and found that he had been farming in Canada. From the accounts which have reached us he is an excellent fellow in every way. I speak now not as a medical man but as a trustee and executor of Sir Charles's will.\"",
+    "context": {
+      "next": {
+        "content": "\"There is no other claimant, I presume?\"",
+        "objectID": "d087e4f12b22812f3fdd5d70e7fc88df"
+      },
+      "previous": {
+        "content": "\"He being the heir?\"",
+        "objectID": "d8ee0aa9cefeba6c3aa8e03756398624"
+      }
+    },
+    "objectID": "6cb48e2f03ac814e372985583d64fc8f",
+    "order": 72,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"There is no other claimant, I presume?\"",
+    "context": {
+      "next": {
+        "content": "\"None. The only other kinsman whom we have been able to trace was Rodger Baskerville, the youngest of three brothers of whom poor Sir Charles was the elder. The second brother, who died young, is the father of this lad Henry. The third, Rodger, was the black sheep of the family. He came of the old masterful Baskerville strain and was the very image, they tell me, of the family picture of old Hugo.",
+        "objectID": "bc663e3d8b8483a9923d7bc6ea627dde"
+      },
+      "previous": {
+        "content": "\"Yes. On the death of Sir Charles we inquired for this young gentleman and found that he had been farming in Canada. From the accounts which have reached us he is an excellent fellow in every way. I speak now not as a medical man but as a trustee and executor of Sir Charles's will.\"",
+        "objectID": "6cb48e2f03ac814e372985583d64fc8f"
+      }
+    },
+    "objectID": "d087e4f12b22812f3fdd5d70e7fc88df",
+    "order": 73,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"None. The only other kinsman whom we have been able to trace was Rodger Baskerville, the youngest of three brothers of whom poor Sir Charles was the elder. The second brother, who died young, is the father of this lad Henry. The third, Rodger, was the black sheep of the family. He came of the old masterful Baskerville strain and was the very image, they tell me, of the family picture of old Hugo.",
+    "context": {
+      "next": {
+        "content": "He made England too hot to hold him, fled to Central America, and died there in 1876 of yellow fever. Henry is the last of the Baskervilles. In one hour and five minutes I meet him at Waterloo Station. I have had a wire that he arrived at Southampton this morning. Now, Mr. Holmes, what would you ad",
+        "objectID": "aa1ec9d4d8ba4f047271e206ba348012"
+      },
+      "previous": {
+        "content": "\"There is no other claimant, I presume?\"",
+        "objectID": "d087e4f12b22812f3fdd5d70e7fc88df"
+      }
+    },
+    "objectID": "bc663e3d8b8483a9923d7bc6ea627dde",
+    "order": 74,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "He made England too hot to hold him, fled to Central America, and died there in 1876 of yellow fever. Henry is the last of the Baskervilles. In one hour and five minutes I meet him at Waterloo Station. I have had a wire that he arrived at Southampton this morning. Now, Mr. Holmes, what would you ad",
+    "context": {
+      "next": {
+        "content": "vise me to do with him?\"",
+        "objectID": "146874ac33a1076b8ba2e2ab27e1d15d"
+      },
+      "previous": {
+        "content": "\"None. The only other kinsman whom we have been able to trace was Rodger Baskerville, the youngest of three brothers of whom poor Sir Charles was the elder. The second brother, who died young, is the father of this lad Henry. The third, Rodger, was the black sheep of the family. He came of the old masterful Baskerville strain and was the very image, they tell me, of the family picture of old Hugo.",
+        "objectID": "bc663e3d8b8483a9923d7bc6ea627dde"
+      }
+    },
+    "objectID": "aa1ec9d4d8ba4f047271e206ba348012",
+    "order": 75,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "vise me to do with him?\"",
+    "context": {
+      "next": {
+        "content": "\"Why should he not go to the home of his fathers?\"",
+        "objectID": "d88c76986d5d2efa468de10e9a0a0a9d"
+      },
+      "previous": {
+        "content": "He made England too hot to hold him, fled to Central America, and died there in 1876 of yellow fever. Henry is the last of the Baskervilles. In one hour and five minutes I meet him at Waterloo Station. I have had a wire that he arrived at Southampton this morning. Now, Mr. Holmes, what would you ad",
+        "objectID": "aa1ec9d4d8ba4f047271e206ba348012"
+      }
+    },
+    "objectID": "146874ac33a1076b8ba2e2ab27e1d15d",
+    "order": 76,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Why should he not go to the home of his fathers?\"",
+    "context": {
+      "next": {
+        "content": "\"It seems natural, does it not? And yet, consider that every Baskerville who goes there meets with an evil fate. I feel sure that if Sir Charles could have spoken with me before his death he would have warned me against bringing this, the last of the old race, and the heir to great wealth, to that deadly place.",
+        "objectID": "efd7174d6cc5324243931fc9c4baffae"
+      },
+      "previous": {
+        "content": "vise me to do with him?\"",
+        "objectID": "146874ac33a1076b8ba2e2ab27e1d15d"
+      }
+    },
+    "objectID": "d88c76986d5d2efa468de10e9a0a0a9d",
+    "order": 77,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"It seems natural, does it not? And yet, consider that every Baskerville who goes there meets with an evil fate. I feel sure that if Sir Charles could have spoken with me before his death he would have warned me against bringing this, the last of the old race, and the heir to great wealth, to that deadly place.",
+    "context": {
+      "next": {
+        "content": "And yet it cannot be denied that the prosperity of the whole poor, bleak countryside depends upon his presence. All the good work which has been done by Sir Charles will crash to the ground if there is no tenant of the Hall. I fear lest I should be swayed too much by my own obvious interest in the matter, and that is why I bring the case before you and ask for your advice.",
+        "objectID": "ea8b52e4a20fcd1644560fb3f733b523"
+      },
+      "previous": {
+        "content": "\"Why should he not go to the home of his fathers?\"",
+        "objectID": "d88c76986d5d2efa468de10e9a0a0a9d"
+      }
+    },
+    "objectID": "efd7174d6cc5324243931fc9c4baffae",
+    "order": 78,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "And yet it cannot be denied that the prosperity of the whole poor, bleak countryside depends upon his presence. All the good work which has been done by Sir Charles will crash to the ground if there is no tenant of the Hall. I fear lest I should be swayed too much by my own obvious interest in the matter, and that is why I bring the case before you and ask for your advice.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "9fca69d41d82f4ee3629c65a6c839750"
+      },
+      "previous": {
+        "content": "\"It seems natural, does it not? And yet, consider that every Baskerville who goes there meets with an evil fate. I feel sure that if Sir Charles could have spoken with me before his death he would have warned me against bringing this, the last of the old race, and the heir to great wealth, to that deadly place.",
+        "objectID": "efd7174d6cc5324243931fc9c4baffae"
+      }
+    },
+    "objectID": "ea8b52e4a20fcd1644560fb3f733b523",
+    "order": 79,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "Holmes considered for a little time.",
+        "objectID": "3d94b65ebc795f43115fa127d217cb0c"
+      },
+      "previous": {
+        "content": "And yet it cannot be denied that the prosperity of the whole poor, bleak countryside depends upon his presence. All the good work which has been done by Sir Charles will crash to the ground if there is no tenant of the Hall. I fear lest I should be swayed too much by my own obvious interest in the matter, and that is why I bring the case before you and ask for your advice.",
+        "objectID": "ea8b52e4a20fcd1644560fb3f733b523"
+      }
+    },
+    "objectID": "9fca69d41d82f4ee3629c65a6c839750",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "Holmes considered for a little time.",
+    "context": {
+      "next": {
+        "content": "\"Put into plain words, the matter is this,\" said he. \"In your opinion there is a diabolical agency which makes Dartmoor an unsafe abode for a Baskerville—that is your opinion?\"",
+        "objectID": "ba482b669c56b48ea20a6d57f1ba4aae"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "9fca69d41d82f4ee3629c65a6c839750"
+      }
+    },
+    "objectID": "3d94b65ebc795f43115fa127d217cb0c",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Put into plain words, the matter is this,\" said he. \"In your opinion there is a diabolical agency which makes Dartmoor an unsafe abode for a Baskerville—that is your opinion?\"",
+    "context": {
+      "next": {
+        "content": "\"At least I might go the length of saying that there is some evidence that this may be so.\"",
+        "objectID": "03d58a9ba000a508509eb276c721308d"
+      },
+      "previous": {
+        "content": "Holmes considered for a little time.",
+        "objectID": "3d94b65ebc795f43115fa127d217cb0c"
+      }
+    },
+    "objectID": "ba482b669c56b48ea20a6d57f1ba4aae",
+    "order": 82,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"At least I might go the length of saying that there is some evidence that this may be so.\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly. But surely, if your supernatural theory be correct, it could work the young man evil in London as easily as in Devonshire. A devil with merely local powers like a parish vestry would be too inconceivable a thing.\"",
+        "objectID": "2accd9e39f03a0cb2f1b2b756d6e6bc1"
+      },
+      "previous": {
+        "content": "\"Put into plain words, the matter is this,\" said he. \"In your opinion there is a diabolical agency which makes Dartmoor an unsafe abode for a Baskerville—that is your opinion?\"",
+        "objectID": "ba482b669c56b48ea20a6d57f1ba4aae"
+      }
+    },
+    "objectID": "03d58a9ba000a508509eb276c721308d",
+    "order": 83,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Exactly. But surely, if your supernatural theory be correct, it could work the young man evil in London as easily as in Devonshire. A devil with merely local powers like a parish vestry would be too inconceivable a thing.\"",
+    "context": {
+      "next": {
+        "content": "\"You put the matter more flippantly, Mr. Holmes, than you would probably do if you were brought into personal contact with these things. Your advice, then, as I understand it, is that the young man will be as safe in Devonshire as in London. He comes in fifty minutes. What would you recommend?\"",
+        "objectID": "8ac9f5b57488b90a26c69959fe514048"
+      },
+      "previous": {
+        "content": "\"At least I might go the length of saying that there is some evidence that this may be so.\"",
+        "objectID": "03d58a9ba000a508509eb276c721308d"
+      }
+    },
+    "objectID": "2accd9e39f03a0cb2f1b2b756d6e6bc1",
+    "order": 84,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"You put the matter more flippantly, Mr. Holmes, than you would probably do if you were brought into personal contact with these things. Your advice, then, as I understand it, is that the young man will be as safe in Devonshire as in London. He comes in fifty minutes. What would you recommend?\"",
+    "context": {
+      "next": {
+        "content": "\"I recommend, sir, that you take a cab, call off your spaniel who is scratching at my front door, and proceed to Waterloo to meet Sir Henry Baskerville.\"",
+        "objectID": "b99c20e69a2a7093797e32a7e94a8ad0"
+      },
+      "previous": {
+        "content": "\"Exactly. But surely, if your supernatural theory be correct, it could work the young man evil in London as easily as in Devonshire. A devil with merely local powers like a parish vestry would be too inconceivable a thing.\"",
+        "objectID": "2accd9e39f03a0cb2f1b2b756d6e6bc1"
+      }
+    },
+    "objectID": "8ac9f5b57488b90a26c69959fe514048",
+    "order": 85,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"I recommend, sir, that you take a cab, call off your spaniel who is scratching at my front door, and proceed to Waterloo to meet Sir Henry Baskerville.\"",
+    "context": {
+      "next": {
+        "content": "\"And then?\"",
+        "objectID": "f0501d1ccc8418b1b1f0f9e05c99f26a"
+      },
+      "previous": {
+        "content": "\"You put the matter more flippantly, Mr. Holmes, than you would probably do if you were brought into personal contact with these things. Your advice, then, as I understand it, is that the young man will be as safe in Devonshire as in London. He comes in fifty minutes. What would you recommend?\"",
+        "objectID": "8ac9f5b57488b90a26c69959fe514048"
+      }
+    },
+    "objectID": "b99c20e69a2a7093797e32a7e94a8ad0",
+    "order": 86,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"And then?\"",
+    "context": {
+      "next": {
+        "content": "\"And then you will say nothing to him at all until I have made up my mind about the matter.\"",
+        "objectID": "cb39f7c814e3996a42903d6a84535709"
+      },
+      "previous": {
+        "content": "\"I recommend, sir, that you take a cab, call off your spaniel who is scratching at my front door, and proceed to Waterloo to meet Sir Henry Baskerville.\"",
+        "objectID": "b99c20e69a2a7093797e32a7e94a8ad0"
+      }
+    },
+    "objectID": "f0501d1ccc8418b1b1f0f9e05c99f26a",
+    "order": 87,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"And then you will say nothing to him at all until I have made up my mind about the matter.\"",
+    "context": {
+      "next": {
+        "content": "\"How long will it take you to make up your mind?\"",
+        "objectID": "45255327a3b90ae2c282a1e307772d27"
+      },
+      "previous": {
+        "content": "\"And then?\"",
+        "objectID": "f0501d1ccc8418b1b1f0f9e05c99f26a"
+      }
+    },
+    "objectID": "cb39f7c814e3996a42903d6a84535709",
+    "order": 88,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"How long will it take you to make up your mind?\"",
+    "context": {
+      "next": {
+        "content": "\"Twenty-four hours. At ten o'clock tomorrow, Dr. Mortimer, I will be much obliged to you if you will call upon me here, and it will be of help to me in my plans for the future if you will bring Sir Henry Baskerville with you.\"",
+        "objectID": "8736261fa59073b01445e58c514a9956"
+      },
+      "previous": {
+        "content": "\"And then you will say nothing to him at all until I have made up my mind about the matter.\"",
+        "objectID": "cb39f7c814e3996a42903d6a84535709"
+      }
+    },
+    "objectID": "45255327a3b90ae2c282a1e307772d27",
+    "order": 89,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Twenty-four hours. At ten o'clock tomorrow, Dr. Mortimer, I will be much obliged to you if you will call upon me here, and it will be of help to me in my plans for the future if you will bring Sir Henry Baskerville with you.\"",
+    "context": {
+      "next": {
+        "content": "\"I will do so, Mr. Holmes.\" He scribbled the appointment on his shirt-cuff and hurried off in his strange, peering, absent-minded fashion. Holmes stopped him at the head of the stair.",
+        "objectID": "58406949b8cff954dd473aeacfc0c5cb"
+      },
+      "previous": {
+        "content": "\"How long will it take you to make up your mind?\"",
+        "objectID": "45255327a3b90ae2c282a1e307772d27"
+      }
+    },
+    "objectID": "8736261fa59073b01445e58c514a9956",
+    "order": 90,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"I will do so, Mr. Holmes.\" He scribbled the appointment on his shirt-cuff and hurried off in his strange, peering, absent-minded fashion. Holmes stopped him at the head of the stair.",
+    "context": {
+      "next": {
+        "content": "\"Only one more question, Dr. Mortimer. You say that before Sir Charles Baskerville's death several people saw this apparition upon the moor?\"",
+        "objectID": "4b74aba2dfe2c5f0b82bc3b3335658e0"
+      },
+      "previous": {
+        "content": "\"Twenty-four hours. At ten o'clock tomorrow, Dr. Mortimer, I will be much obliged to you if you will call upon me here, and it will be of help to me in my plans for the future if you will bring Sir Henry Baskerville with you.\"",
+        "objectID": "8736261fa59073b01445e58c514a9956"
+      }
+    },
+    "objectID": "58406949b8cff954dd473aeacfc0c5cb",
+    "order": 91,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Only one more question, Dr. Mortimer. You say that before Sir Charles Baskerville's death several people saw this apparition upon the moor?\"",
+    "context": {
+      "next": {
+        "content": "\"Three people did.\"",
+        "objectID": "66d2cab39b307c0f26289a0e652def9f"
+      },
+      "previous": {
+        "content": "\"I will do so, Mr. Holmes.\" He scribbled the appointment on his shirt-cuff and hurried off in his strange, peering, absent-minded fashion. Holmes stopped him at the head of the stair.",
+        "objectID": "58406949b8cff954dd473aeacfc0c5cb"
+      }
+    },
+    "objectID": "4b74aba2dfe2c5f0b82bc3b3335658e0",
+    "order": 92,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Three people did.\"",
+    "context": {
+      "next": {
+        "content": "\"Did any see it after?\"",
+        "objectID": "a41b06b13e1fc8e26a2f95355507cf70"
+      },
+      "previous": {
+        "content": "\"Only one more question, Dr. Mortimer. You say that before Sir Charles Baskerville's death several people saw this apparition upon the moor?\"",
+        "objectID": "4b74aba2dfe2c5f0b82bc3b3335658e0"
+      }
+    },
+    "objectID": "66d2cab39b307c0f26289a0e652def9f",
+    "order": 93,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Did any see it after?\"",
+    "context": {
+      "next": {
+        "content": "\"I have not heard of any.\"",
+        "objectID": "e10aeb6d468fc53ea862dbdc8403249a"
+      },
+      "previous": {
+        "content": "\"Three people did.\"",
+        "objectID": "66d2cab39b307c0f26289a0e652def9f"
+      }
+    },
+    "objectID": "a41b06b13e1fc8e26a2f95355507cf70",
+    "order": 94,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"I have not heard of any.\"",
+    "context": {
+      "next": {
+        "content": "\"Thank you. Good-morning.\"",
+        "objectID": "b3870f1c48441e6e006784221a67ac2e"
+      },
+      "previous": {
+        "content": "\"Did any see it after?\"",
+        "objectID": "a41b06b13e1fc8e26a2f95355507cf70"
+      }
+    },
+    "objectID": "e10aeb6d468fc53ea862dbdc8403249a",
+    "order": 95,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Thank you. Good-morning.\"",
+    "context": {
+      "next": {
+        "content": "Holmes returned to his seat with that quiet look of inward satisfaction which meant that he had a congenial task before him.",
+        "objectID": "d31620697287824416674cc2e5937ac5"
+      },
+      "previous": {
+        "content": "\"I have not heard of any.\"",
+        "objectID": "e10aeb6d468fc53ea862dbdc8403249a"
+      }
+    },
+    "objectID": "b3870f1c48441e6e006784221a67ac2e",
+    "order": 96,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "Holmes returned to his seat with that quiet look of inward satisfaction which meant that he had a congenial task before him.",
+    "context": {
+      "next": {
+        "content": "\"Going out, Watson?\"",
+        "objectID": "6c5448e546e6055e0f6f3191bf0cbc78"
+      },
+      "previous": {
+        "content": "\"Thank you. Good-morning.\"",
+        "objectID": "b3870f1c48441e6e006784221a67ac2e"
+      }
+    },
+    "objectID": "d31620697287824416674cc2e5937ac5",
+    "order": 97,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Going out, Watson?\"",
+    "context": {
+      "next": {
+        "content": "\"Unless I can help you.\"",
+        "objectID": "be852e80c4999408a00a9b3e543062b8"
+      },
+      "previous": {
+        "content": "Holmes returned to his seat with that quiet look of inward satisfaction which meant that he had a congenial task before him.",
+        "objectID": "d31620697287824416674cc2e5937ac5"
+      }
+    },
+    "objectID": "6c5448e546e6055e0f6f3191bf0cbc78",
+    "order": 98,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Unless I can help you.\"",
+    "context": {
+      "next": {
+        "content": "\"No, my dear fellow, it is at the hour of action that I turn to you for aid. But this is splendid, really unique from some points of view. When you pass Bradley's, would you ask him to send up a pound of the strongest shag tobacco? Thank you. It would be as well if you could make it convenient not to return before evening.",
+        "objectID": "8afbd09135a3938da89f8fb1c431f6b8"
+      },
+      "previous": {
+        "content": "\"Going out, Watson?\"",
+        "objectID": "6c5448e546e6055e0f6f3191bf0cbc78"
+      }
+    },
+    "objectID": "be852e80c4999408a00a9b3e543062b8",
+    "order": 99,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"No, my dear fellow, it is at the hour of action that I turn to you for aid. But this is splendid, really unique from some points of view. When you pass Bradley's, would you ask him to send up a pound of the strongest shag tobacco? Thank you. It would be as well if you could make it convenient not to return before evening.",
+    "context": {
+      "next": {
+        "content": "Then I should be very glad to compare impressions as to this most interesting problem which has been submitted to us this morning.\"",
+        "objectID": "374f8095dd8450ac7515f3e3e048075e"
+      },
+      "previous": {
+        "content": "\"Unless I can help you.\"",
+        "objectID": "be852e80c4999408a00a9b3e543062b8"
+      }
+    },
+    "objectID": "8afbd09135a3938da89f8fb1c431f6b8",
+    "order": 100,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "Then I should be very glad to compare impressions as to this most interesting problem which has been submitted to us this morning.\"",
+    "context": {
+      "next": {
+        "content": "I knew that seclusion and solitude were very necessary for my friend in those hours of intense mental concentration during which he weighed every particle of evidence, constructed alternative theories, balanced one against the other, and made up his mind as to which points were essential and which immaterial.",
+        "objectID": "046565450642f146af98eab4fb1985bf"
+      },
+      "previous": {
+        "content": "\"No, my dear fellow, it is at the hour of action that I turn to you for aid. But this is splendid, really unique from some points of view. When you pass Bradley's, would you ask him to send up a pound of the strongest shag tobacco? Thank you. It would be as well if you could make it convenient not to return before evening.",
+        "objectID": "8afbd09135a3938da89f8fb1c431f6b8"
+      }
+    },
+    "objectID": "374f8095dd8450ac7515f3e3e048075e",
+    "order": 101,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "I knew that seclusion and solitude were very necessary for my friend in those hours of intense mental concentration during which he weighed every particle of evidence, constructed alternative theories, balanced one against the other, and made up his mind as to which points were essential and which immaterial.",
+    "context": {
+      "next": {
+        "content": "I therefore spent the day at my club and did not return to Baker Street until evening. It was nearly nine o'clock when I found myself in the sitting-room once more.",
+        "objectID": "bcce2cbac32867ce70d0ff73d9ae44cd"
+      },
+      "previous": {
+        "content": "Then I should be very glad to compare impressions as to this most interesting problem which has been submitted to us this morning.\"",
+        "objectID": "374f8095dd8450ac7515f3e3e048075e"
+      }
+    },
+    "objectID": "046565450642f146af98eab4fb1985bf",
+    "order": 102,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "I therefore spent the day at my club and did not return to Baker Street until evening. It was nearly nine o'clock when I found myself in the sitting-room once more.",
+    "context": {
+      "next": {
+        "content": "My first impression as I opened the door was that a fire had broken out, for the room was so filled with smoke that the light of the lamp upon the table was blurred by it. As I entered, however, my fears were set at rest, for it was the acrid fumes of strong coarse tobacco which took me by the throat and set me coughing.",
+        "objectID": "80bd171fe19f3575fc22a6767f573783"
+      },
+      "previous": {
+        "content": "I knew that seclusion and solitude were very necessary for my friend in those hours of intense mental concentration during which he weighed every particle of evidence, constructed alternative theories, balanced one against the other, and made up his mind as to which points were essential and which immaterial.",
+        "objectID": "046565450642f146af98eab4fb1985bf"
+      }
+    },
+    "objectID": "bcce2cbac32867ce70d0ff73d9ae44cd",
+    "order": 103,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "My first impression as I opened the door was that a fire had broken out, for the room was so filled with smoke that the light of the lamp upon the table was blurred by it. As I entered, however, my fears were set at rest, for it was the acrid fumes of strong coarse tobacco which took me by the throat and set me coughing.",
+    "context": {
+      "next": {
+        "content": "Through the haze I had a vague vision of Holmes in his dressing-gown coiled up in an armchair with his black clay pipe between his lips. Several rolls of paper lay around him.",
+        "objectID": "ca00cea3cbc3e5d03b463176797b9883"
+      },
+      "previous": {
+        "content": "I therefore spent the day at my club and did not return to Baker Street until evening. It was nearly nine o'clock when I found myself in the sitting-room once more.",
+        "objectID": "bcce2cbac32867ce70d0ff73d9ae44cd"
+      }
+    },
+    "objectID": "80bd171fe19f3575fc22a6767f573783",
+    "order": 104,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "Through the haze I had a vague vision of Holmes in his dressing-gown coiled up in an armchair with his black clay pipe between his lips. Several rolls of paper lay around him.",
+    "context": {
+      "next": {
+        "content": "\"Caught cold, Watson?\" said he.",
+        "objectID": "42db851b7d697e73232914d61fce6e3a"
+      },
+      "previous": {
+        "content": "My first impression as I opened the door was that a fire had broken out, for the room was so filled with smoke that the light of the lamp upon the table was blurred by it. As I entered, however, my fears were set at rest, for it was the acrid fumes of strong coarse tobacco which took me by the throat and set me coughing.",
+        "objectID": "80bd171fe19f3575fc22a6767f573783"
+      }
+    },
+    "objectID": "ca00cea3cbc3e5d03b463176797b9883",
+    "order": 105,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Caught cold, Watson?\" said he.",
+    "context": {
+      "next": {
+        "content": "\"No, it's this poisonous atmosphere.\"",
+        "objectID": "1759dd34f636e23cbc55069a41647513"
+      },
+      "previous": {
+        "content": "Through the haze I had a vague vision of Holmes in his dressing-gown coiled up in an armchair with his black clay pipe between his lips. Several rolls of paper lay around him.",
+        "objectID": "ca00cea3cbc3e5d03b463176797b9883"
+      }
+    },
+    "objectID": "42db851b7d697e73232914d61fce6e3a",
+    "order": 106,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"No, it's this poisonous atmosphere.\"",
+    "context": {
+      "next": {
+        "content": "\"I suppose it is pretty thick, now that you mention it.\"",
+        "objectID": "aac764e56500cc904eb56a552fa72aba"
+      },
+      "previous": {
+        "content": "\"Caught cold, Watson?\" said he.",
+        "objectID": "42db851b7d697e73232914d61fce6e3a"
+      }
+    },
+    "objectID": "1759dd34f636e23cbc55069a41647513",
+    "order": 107,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"I suppose it is pretty thick, now that you mention it.\"",
+    "context": {
+      "next": {
+        "content": "\"Thick! It is intolerable.\"",
+        "objectID": "c8a17e76b1ab261e824052a5de4faa41"
+      },
+      "previous": {
+        "content": "\"No, it's this poisonous atmosphere.\"",
+        "objectID": "1759dd34f636e23cbc55069a41647513"
+      }
+    },
+    "objectID": "aac764e56500cc904eb56a552fa72aba",
+    "order": 108,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Thick! It is intolerable.\"",
+    "context": {
+      "next": {
+        "content": "\"Open the window, then! You have been at your club all day, I perceive.\"",
+        "objectID": "35da9117cbfedd7fd4f0f8450ff9e941"
+      },
+      "previous": {
+        "content": "\"I suppose it is pretty thick, now that you mention it.\"",
+        "objectID": "aac764e56500cc904eb56a552fa72aba"
+      }
+    },
+    "objectID": "c8a17e76b1ab261e824052a5de4faa41",
+    "order": 109,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Open the window, then! You have been at your club all day, I perceive.\"",
+    "context": {
+      "next": {
+        "content": "\"My dear Holmes!\"",
+        "objectID": "a22b67073642d11735e8e77ffd733600"
+      },
+      "previous": {
+        "content": "\"Thick! It is intolerable.\"",
+        "objectID": "c8a17e76b1ab261e824052a5de4faa41"
+      }
+    },
+    "objectID": "35da9117cbfedd7fd4f0f8450ff9e941",
+    "order": 110,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"My dear Holmes!\"",
+    "context": {
+      "next": {
+        "content": "\"Am I right?\"",
+        "objectID": "82bcd5446c14e6c0a7d16fb2145419f4"
+      },
+      "previous": {
+        "content": "\"Open the window, then! You have been at your club all day, I perceive.\"",
+        "objectID": "35da9117cbfedd7fd4f0f8450ff9e941"
+      }
+    },
+    "objectID": "a22b67073642d11735e8e77ffd733600",
+    "order": 111,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Am I right?\"",
+    "context": {
+      "next": {
+        "content": "\"Certainly, but how?\"",
+        "objectID": "046d3d915ebf99182fd91ac1b3c4c8d2"
+      },
+      "previous": {
+        "content": "\"My dear Holmes!\"",
+        "objectID": "a22b67073642d11735e8e77ffd733600"
+      }
+    },
+    "objectID": "82bcd5446c14e6c0a7d16fb2145419f4",
+    "order": 112,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Certainly, but how?\"",
+    "context": {
+      "next": {
+        "content": "He laughed at my bewildered expression. \"There is a delightful freshness about you, Watson, which makes it a pleasure to exercise any small powers which I possess at your expense. A gentleman goes forth on a showery and miry day. He returns immaculate in the evening with the gloss still on his hat and his boots.",
+        "objectID": "098ca416c29ac709546702d486383bad"
+      },
+      "previous": {
+        "content": "\"Am I right?\"",
+        "objectID": "82bcd5446c14e6c0a7d16fb2145419f4"
+      }
+    },
+    "objectID": "046d3d915ebf99182fd91ac1b3c4c8d2",
+    "order": 113,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "He laughed at my bewildered expression. \"There is a delightful freshness about you, Watson, which makes it a pleasure to exercise any small powers which I possess at your expense. A gentleman goes forth on a showery and miry day. He returns immaculate in the evening with the gloss still on his hat and his boots.",
+    "context": {
+      "next": {
+        "content": "He has been a fixture therefore all day. He is not a man with intimate friends. Where, then, could he have been? Is it not obvious?\"",
+        "objectID": "06cf7c0fa1c39290d92447c42f2d0934"
+      },
+      "previous": {
+        "content": "\"Certainly, but how?\"",
+        "objectID": "046d3d915ebf99182fd91ac1b3c4c8d2"
+      }
+    },
+    "objectID": "098ca416c29ac709546702d486383bad",
+    "order": 114,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "He has been a fixture therefore all day. He is not a man with intimate friends. Where, then, could he have been? Is it not obvious?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, it is rather obvious.\"",
+        "objectID": "5d29d5faa12471bdd08fd61c4e718902"
+      },
+      "previous": {
+        "content": "He laughed at my bewildered expression. \"There is a delightful freshness about you, Watson, which makes it a pleasure to exercise any small powers which I possess at your expense. A gentleman goes forth on a showery and miry day. He returns immaculate in the evening with the gloss still on his hat and his boots.",
+        "objectID": "098ca416c29ac709546702d486383bad"
+      }
+    },
+    "objectID": "06cf7c0fa1c39290d92447c42f2d0934",
+    "order": 115,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Well, it is rather obvious.\"",
+    "context": {
+      "next": {
+        "content": "\"The world is full of obvious things which nobody by any chance ever observes. Where do you think that I have been?\"",
+        "objectID": "94092883bceb40832ec21788432efedf"
+      },
+      "previous": {
+        "content": "He has been a fixture therefore all day. He is not a man with intimate friends. Where, then, could he have been? Is it not obvious?\"",
+        "objectID": "06cf7c0fa1c39290d92447c42f2d0934"
+      }
+    },
+    "objectID": "5d29d5faa12471bdd08fd61c4e718902",
+    "order": 116,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"The world is full of obvious things which nobody by any chance ever observes. Where do you think that I have been?\"",
+    "context": {
+      "next": {
+        "content": "\"A fixture also.\"",
+        "objectID": "a5af3105a56843e0bcc8072e8aa4d111"
+      },
+      "previous": {
+        "content": "\"Well, it is rather obvious.\"",
+        "objectID": "5d29d5faa12471bdd08fd61c4e718902"
+      }
+    },
+    "objectID": "94092883bceb40832ec21788432efedf",
+    "order": 117,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"A fixture also.\"",
+    "context": {
+      "next": {
+        "content": "\"On the contrary, I have been to Devonshire.\"",
+        "objectID": "3e7977626c4f92ffcfb03e1fa33f84dc"
+      },
+      "previous": {
+        "content": "\"The world is full of obvious things which nobody by any chance ever observes. Where do you think that I have been?\"",
+        "objectID": "94092883bceb40832ec21788432efedf"
+      }
+    },
+    "objectID": "a5af3105a56843e0bcc8072e8aa4d111",
+    "order": 118,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"On the contrary, I have been to Devonshire.\"",
+    "context": {
+      "next": {
+        "content": "\"In spirit?\"",
+        "objectID": "0fe133f899686c558062f211913d208f"
+      },
+      "previous": {
+        "content": "\"A fixture also.\"",
+        "objectID": "a5af3105a56843e0bcc8072e8aa4d111"
+      }
+    },
+    "objectID": "3e7977626c4f92ffcfb03e1fa33f84dc",
+    "order": 119,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"In spirit?\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly. My body has remained in this armchair and has, I regret to observe, consumed in my absence two large pots of coffee and an incredible amount of tobacco. After you left I sent down to Stamford's for the Ordnance map of this portion of the moor, and my spirit has hovered over it all day. I flatter myself that I could find my way about.",
+        "objectID": "72c11754f1dad2fcb0b1c311dcb84e8b"
+      },
+      "previous": {
+        "content": "\"On the contrary, I have been to Devonshire.\"",
+        "objectID": "3e7977626c4f92ffcfb03e1fa33f84dc"
+      }
+    },
+    "objectID": "0fe133f899686c558062f211913d208f",
+    "order": 120,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Exactly. My body has remained in this armchair and has, I regret to observe, consumed in my absence two large pots of coffee and an incredible amount of tobacco. After you left I sent down to Stamford's for the Ordnance map of this portion of the moor, and my spirit has hovered over it all day. I flatter myself that I could find my way about.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "6757f239225fb22dba145660143b24e1"
+      },
+      "previous": {
+        "content": "\"In spirit?\"",
+        "objectID": "0fe133f899686c558062f211913d208f"
+      }
+    },
+    "objectID": "72c11754f1dad2fcb0b1c311dcb84e8b",
+    "order": 121,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"A large-scale map, I presume?\"",
+        "objectID": "4b1e48129f3db2ef9f2905a9c34c67a8"
+      },
+      "previous": {
+        "content": "\"Exactly. My body has remained in this armchair and has, I regret to observe, consumed in my absence two large pots of coffee and an incredible amount of tobacco. After you left I sent down to Stamford's for the Ordnance map of this portion of the moor, and my spirit has hovered over it all day. I flatter myself that I could find my way about.",
+        "objectID": "72c11754f1dad2fcb0b1c311dcb84e8b"
+      }
+    },
+    "objectID": "6757f239225fb22dba145660143b24e1",
+    "order": 122,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"A large-scale map, I presume?\"",
+    "context": {
+      "next": {
+        "content": "\"Very large.\"",
+        "objectID": "d7e9c7c058e811b9c446ac92cc731ff1"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "6757f239225fb22dba145660143b24e1"
+      }
+    },
+    "objectID": "4b1e48129f3db2ef9f2905a9c34c67a8",
+    "order": 123,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Very large.\"",
+    "context": {
+      "next": {
+        "content": "He unrolled one section and held it over his knee. \"Here you have the particular district which concerns us. That is Baskerville Hall in the middle.\"",
+        "objectID": "9e4a1b332775f302b6d54620f74cfe95"
+      },
+      "previous": {
+        "content": "\"A large-scale map, I presume?\"",
+        "objectID": "4b1e48129f3db2ef9f2905a9c34c67a8"
+      }
+    },
+    "objectID": "d7e9c7c058e811b9c446ac92cc731ff1",
+    "order": 124,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "He unrolled one section and held it over his knee. \"Here you have the particular district which concerns us. That is Baskerville Hall in the middle.\"",
+    "context": {
+      "next": {
+        "content": "\"With a wood round it?\"",
+        "objectID": "0cd4cb451e53fbb4ea698f6300e98648"
+      },
+      "previous": {
+        "content": "\"Very large.\"",
+        "objectID": "d7e9c7c058e811b9c446ac92cc731ff1"
+      }
+    },
+    "objectID": "9e4a1b332775f302b6d54620f74cfe95",
+    "order": 125,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"With a wood round it?\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly. I fancy the yew alley, though not marked under that name, must stretch along this line, with the moor, as you perceive, upon the right of it. This small clump of buildings here is the hamlet of Grimpen, where our friend Dr. Mortimer has his headquarters. Within a radius of five miles there are, as you see, only a very few scattered dwellings.",
+        "objectID": "5bef964f910ee069baef45e6fbfac49c"
+      },
+      "previous": {
+        "content": "He unrolled one section and held it over his knee. \"Here you have the particular district which concerns us. That is Baskerville Hall in the middle.\"",
+        "objectID": "9e4a1b332775f302b6d54620f74cfe95"
+      }
+    },
+    "objectID": "0cd4cb451e53fbb4ea698f6300e98648",
+    "order": 126,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Exactly. I fancy the yew alley, though not marked under that name, must stretch along this line, with the moor, as you perceive, upon the right of it. This small clump of buildings here is the hamlet of Grimpen, where our friend Dr. Mortimer has his headquarters. Within a radius of five miles there are, as you see, only a very few scattered dwellings.",
+    "context": {
+      "next": {
+        "content": "Here is Lafter Hall, which was mentioned in the narrative. There is a house indicated here which may be the residence of the naturalist—Stapleton, if I remember right, was his name. Here are two moorland farmhouses, High Tor and Foulmire. Then fourteen miles away the great convict prison of Princetown.",
+        "objectID": "900aa8ac75600b1a373e133378104aca"
+      },
+      "previous": {
+        "content": "\"With a wood round it?\"",
+        "objectID": "0cd4cb451e53fbb4ea698f6300e98648"
+      }
+    },
+    "objectID": "5bef964f910ee069baef45e6fbfac49c",
+    "order": 127,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "Here is Lafter Hall, which was mentioned in the narrative. There is a house indicated here which may be the residence of the naturalist—Stapleton, if I remember right, was his name. Here are two moorland farmhouses, High Tor and Foulmire. Then fourteen miles away the great convict prison of Princetown.",
+    "context": {
+      "next": {
+        "content": "Between and around these scattered points extends the desolate, lifeless moor. This, then, is the stage upon which tragedy has been played, and upon which we may help to play it again.\"",
+        "objectID": "54196977c227ffbe841d10606a386630"
+      },
+      "previous": {
+        "content": "\"Exactly. I fancy the yew alley, though not marked under that name, must stretch along this line, with the moor, as you perceive, upon the right of it. This small clump of buildings here is the hamlet of Grimpen, where our friend Dr. Mortimer has his headquarters. Within a radius of five miles there are, as you see, only a very few scattered dwellings.",
+        "objectID": "5bef964f910ee069baef45e6fbfac49c"
+      }
+    },
+    "objectID": "900aa8ac75600b1a373e133378104aca",
+    "order": 128,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "Between and around these scattered points extends the desolate, lifeless moor. This, then, is the stage upon which tragedy has been played, and upon which we may help to play it again.\"",
+    "context": {
+      "next": {
+        "content": "\"It must be a wild place.\"",
+        "objectID": "9bb3f0ba4f974451e70e3e488dac023e"
+      },
+      "previous": {
+        "content": "Here is Lafter Hall, which was mentioned in the narrative. There is a house indicated here which may be the residence of the naturalist—Stapleton, if I remember right, was his name. Here are two moorland farmhouses, High Tor and Foulmire. Then fourteen miles away the great convict prison of Princetown.",
+        "objectID": "900aa8ac75600b1a373e133378104aca"
+      }
+    },
+    "objectID": "54196977c227ffbe841d10606a386630",
+    "order": 129,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"It must be a wild place.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, the setting is a worthy one. If the devil did desire to have a hand in the affairs of men—\"",
+        "objectID": "88015f7146b0227a046505cbcad63d8c"
+      },
+      "previous": {
+        "content": "Between and around these scattered points extends the desolate, lifeless moor. This, then, is the stage upon which tragedy has been played, and upon which we may help to play it again.\"",
+        "objectID": "54196977c227ffbe841d10606a386630"
+      }
+    },
+    "objectID": "9bb3f0ba4f974451e70e3e488dac023e",
+    "order": 130,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Yes, the setting is a worthy one. If the devil did desire to have a hand in the affairs of men—\"",
+    "context": {
+      "next": {
+        "content": "\"Then you are yourself inclining to the supernatural explanation.\"",
+        "objectID": "bb519f4f6019c3f07c4625e53a8ac90d"
+      },
+      "previous": {
+        "content": "\"It must be a wild place.\"",
+        "objectID": "9bb3f0ba4f974451e70e3e488dac023e"
+      }
+    },
+    "objectID": "88015f7146b0227a046505cbcad63d8c",
+    "order": 131,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Then you are yourself inclining to the supernatural explanation.\"",
+    "context": {
+      "next": {
+        "content": "\"The devil's agents may be of flesh and blood, may they not? There are two questions waiting for us at the outset. The one is whether any crime has been committed at all; the second is, what is the crime and how was it committed? Of course, if Dr. Mortimer's surmise should be correct, and we are dealing with forces outside the ordinary laws of Nature, there is an end of our investigation.",
+        "objectID": "44f5b9dfdc91d01d951022d1f8b54508"
+      },
+      "previous": {
+        "content": "\"Yes, the setting is a worthy one. If the devil did desire to have a hand in the affairs of men—\"",
+        "objectID": "88015f7146b0227a046505cbcad63d8c"
+      }
+    },
+    "objectID": "bb519f4f6019c3f07c4625e53a8ac90d",
+    "order": 132,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"The devil's agents may be of flesh and blood, may they not? There are two questions waiting for us at the outset. The one is whether any crime has been committed at all; the second is, what is the crime and how was it committed? Of course, if Dr. Mortimer's surmise should be correct, and we are dealing with forces outside the ordinary laws of Nature, there is an end of our investigation.",
+    "context": {
+      "next": {
+        "content": "But we are bound to exhaust all other hypotheses before falling back upon this one. I think we'll shut that window again, if you don't mind. It is a singular thing, but I find that a concentrated atmosphere helps a concentration of thought. I have not pushed it to the length of getting into a box to think, but that is the logical outcome of my convictions.",
+        "objectID": "d942761c7a2d334b3113a6ff30a9abb4"
+      },
+      "previous": {
+        "content": "\"Then you are yourself inclining to the supernatural explanation.\"",
+        "objectID": "bb519f4f6019c3f07c4625e53a8ac90d"
+      }
+    },
+    "objectID": "44f5b9dfdc91d01d951022d1f8b54508",
+    "order": 133,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "But we are bound to exhaust all other hypotheses before falling back upon this one. I think we'll shut that window again, if you don't mind. It is a singular thing, but I find that a concentrated atmosphere helps a concentration of thought. I have not pushed it to the length of getting into a box to think, but that is the logical outcome of my convictions.",
+    "context": {
+      "next": {
+        "content": "Have you turned the case over in your mind?\"",
+        "objectID": "eec5a6b82f45f3ec75261c56a742f255"
+      },
+      "previous": {
+        "content": "\"The devil's agents may be of flesh and blood, may they not? There are two questions waiting for us at the outset. The one is whether any crime has been committed at all; the second is, what is the crime and how was it committed? Of course, if Dr. Mortimer's surmise should be correct, and we are dealing with forces outside the ordinary laws of Nature, there is an end of our investigation.",
+        "objectID": "44f5b9dfdc91d01d951022d1f8b54508"
+      }
+    },
+    "objectID": "d942761c7a2d334b3113a6ff30a9abb4",
+    "order": 134,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "Have you turned the case over in your mind?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, I have thought a good deal of it in the course of the day.\"",
+        "objectID": "6c2632462bd50bad86e669d938ffff2b"
+      },
+      "previous": {
+        "content": "But we are bound to exhaust all other hypotheses before falling back upon this one. I think we'll shut that window again, if you don't mind. It is a singular thing, but I find that a concentrated atmosphere helps a concentration of thought. I have not pushed it to the length of getting into a box to think, but that is the logical outcome of my convictions.",
+        "objectID": "d942761c7a2d334b3113a6ff30a9abb4"
+      }
+    },
+    "objectID": "eec5a6b82f45f3ec75261c56a742f255",
+    "order": 135,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Yes, I have thought a good deal of it in the course of the day.\"",
+    "context": {
+      "next": {
+        "content": "\"What do you make of it?\"",
+        "objectID": "11422b8c174447cb79198c1541b4c626"
+      },
+      "previous": {
+        "content": "Have you turned the case over in your mind?\"",
+        "objectID": "eec5a6b82f45f3ec75261c56a742f255"
+      }
+    },
+    "objectID": "6c2632462bd50bad86e669d938ffff2b",
+    "order": 136,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"What do you make of it?\"",
+    "context": {
+      "next": {
+        "content": "\"It is very bewildering.\"",
+        "objectID": "6d1999e6a42ca09f495805b6ce13d203"
+      },
+      "previous": {
+        "content": "\"Yes, I have thought a good deal of it in the course of the day.\"",
+        "objectID": "6c2632462bd50bad86e669d938ffff2b"
+      }
+    },
+    "objectID": "11422b8c174447cb79198c1541b4c626",
+    "order": 137,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"It is very bewildering.\"",
+    "context": {
+      "next": {
+        "content": "\"It has certainly a character of its own. There are points of distinction about it. That change in the footprints, for example. What do you make of that?\"",
+        "objectID": "d7a64c2761408041ad3d3345b15f8337"
+      },
+      "previous": {
+        "content": "\"What do you make of it?\"",
+        "objectID": "11422b8c174447cb79198c1541b4c626"
+      }
+    },
+    "objectID": "6d1999e6a42ca09f495805b6ce13d203",
+    "order": 138,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"It has certainly a character of its own. There are points of distinction about it. That change in the footprints, for example. What do you make of that?\"",
+    "context": {
+      "next": {
+        "content": "\"Mortimer said that the man had walked on tiptoe down that portion of the alley.\"",
+        "objectID": "e98471c0a9f5ade63bd59c4fdbb38073"
+      },
+      "previous": {
+        "content": "\"It is very bewildering.\"",
+        "objectID": "6d1999e6a42ca09f495805b6ce13d203"
+      }
+    },
+    "objectID": "d7a64c2761408041ad3d3345b15f8337",
+    "order": 139,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Mortimer said that the man had walked on tiptoe down that portion of the alley.\"",
+    "context": {
+      "next": {
+        "content": "\"He only repeated what some fool had said at the inquest. Why should a man walk on tiptoe down the alley?\"",
+        "objectID": "832684d52090f586534ac65fe0f7b288"
+      },
+      "previous": {
+        "content": "\"It has certainly a character of its own. There are points of distinction about it. That change in the footprints, for example. What do you make of that?\"",
+        "objectID": "d7a64c2761408041ad3d3345b15f8337"
+      }
+    },
+    "objectID": "e98471c0a9f5ade63bd59c4fdbb38073",
+    "order": 140,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"He only repeated what some fool had said at the inquest. Why should a man walk on tiptoe down the alley?\"",
+    "context": {
+      "next": {
+        "content": "\"What then?\"",
+        "objectID": "0075fa23e4aab8ef5d0230b4628700d9"
+      },
+      "previous": {
+        "content": "\"Mortimer said that the man had walked on tiptoe down that portion of the alley.\"",
+        "objectID": "e98471c0a9f5ade63bd59c4fdbb38073"
+      }
+    },
+    "objectID": "832684d52090f586534ac65fe0f7b288",
+    "order": 141,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"What then?\"",
+    "context": {
+      "next": {
+        "content": "\"He was running, Watson—running desperately, running for his life, running until he burst his heart—and fell dead upon his face.\"",
+        "objectID": "32c2ac4e4017cc0a7a9c07834cdb0988"
+      },
+      "previous": {
+        "content": "\"He only repeated what some fool had said at the inquest. Why should a man walk on tiptoe down the alley?\"",
+        "objectID": "832684d52090f586534ac65fe0f7b288"
+      }
+    },
+    "objectID": "0075fa23e4aab8ef5d0230b4628700d9",
+    "order": 142,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"He was running, Watson—running desperately, running for his life, running until he burst his heart—and fell dead upon his face.\"",
+    "context": {
+      "next": {
+        "content": "\"Running from what?\"",
+        "objectID": "5cb975acb643b8d8ed7b7ad8a93ea69e"
+      },
+      "previous": {
+        "content": "\"What then?\"",
+        "objectID": "0075fa23e4aab8ef5d0230b4628700d9"
+      }
+    },
+    "objectID": "32c2ac4e4017cc0a7a9c07834cdb0988",
+    "order": 143,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"Running from what?\"",
+    "context": {
+      "next": {
+        "content": "\"There lies our problem. There are indications that the man was crazed with fear before ever he began to run.\"",
+        "objectID": "71e73fdf8a90d84810e41cbb821c4027"
+      },
+      "previous": {
+        "content": "\"He was running, Watson—running desperately, running for his life, running until he burst his heart—and fell dead upon his face.\"",
+        "objectID": "32c2ac4e4017cc0a7a9c07834cdb0988"
+      }
+    },
+    "objectID": "5cb975acb643b8d8ed7b7ad8a93ea69e",
+    "order": 144,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"There lies our problem. There are indications that the man was crazed with fear before ever he began to run.\"",
+    "context": {
+      "next": {
+        "content": "\"How can you say that?\"",
+        "objectID": "8a3738c463ebffc60ffceccfbaf0a235"
+      },
+      "previous": {
+        "content": "\"Running from what?\"",
+        "objectID": "5cb975acb643b8d8ed7b7ad8a93ea69e"
+      }
+    },
+    "objectID": "71e73fdf8a90d84810e41cbb821c4027",
+    "order": 145,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"How can you say that?\"",
+    "context": {
+      "next": {
+        "content": "\"I am presuming that the cause of his fears came to him across the moor. If that were so, and it seems most probable, only a man who had lost his wits would have run from the house instead of towards it. If the gipsy's evidence may be taken as true, he ran with cries for help in the direction where help was least likely to be.",
+        "objectID": "8288c4087802ed148245edd62fab10ba"
+      },
+      "previous": {
+        "content": "\"There lies our problem. There are indications that the man was crazed with fear before ever he began to run.\"",
+        "objectID": "71e73fdf8a90d84810e41cbb821c4027"
+      }
+    },
+    "objectID": "8a3738c463ebffc60ffceccfbaf0a235",
+    "order": 146,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"I am presuming that the cause of his fears came to him across the moor. If that were so, and it seems most probable, only a man who had lost his wits would have run from the house instead of towards it. If the gipsy's evidence may be taken as true, he ran with cries for help in the direction where help was least likely to be.",
+    "context": {
+      "next": {
+        "content": "Then, again, whom was he waiting for that night, and why was he waiting for him in the yew alley rather than in his own house?\"",
+        "objectID": "b8c3a8ad0c9f83e97f66318b1b636504"
+      },
+      "previous": {
+        "content": "\"How can you say that?\"",
+        "objectID": "8a3738c463ebffc60ffceccfbaf0a235"
+      }
+    },
+    "objectID": "8288c4087802ed148245edd62fab10ba",
+    "order": 147,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "Then, again, whom was he waiting for that night, and why was he waiting for him in the yew alley rather than in his own house?\"",
+    "context": {
+      "next": {
+        "content": "\"You think that he was waiting for someone?\"",
+        "objectID": "c532361a53b23a685b07e1b434526d35"
+      },
+      "previous": {
+        "content": "\"I am presuming that the cause of his fears came to him across the moor. If that were so, and it seems most probable, only a man who had lost his wits would have run from the house instead of towards it. If the gipsy's evidence may be taken as true, he ran with cries for help in the direction where help was least likely to be.",
+        "objectID": "8288c4087802ed148245edd62fab10ba"
+      }
+    },
+    "objectID": "b8c3a8ad0c9f83e97f66318b1b636504",
+    "order": 148,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"You think that he was waiting for someone?\"",
+    "context": {
+      "next": {
+        "content": "\"The man was elderly and infirm. We can understand his taking an evening stroll, but the ground was damp and the night inclement. Is it natural that he should stand for five or ten minutes, as Dr. Mortimer, with more practical sense than I should have given him credit for, deduced from the cigar ash",
+        "objectID": "66429642fd491b2ea788694c3c809b2f"
+      },
+      "previous": {
+        "content": "Then, again, whom was he waiting for that night, and why was he waiting for him in the yew alley rather than in his own house?\"",
+        "objectID": "b8c3a8ad0c9f83e97f66318b1b636504"
+      }
+    },
+    "objectID": "c532361a53b23a685b07e1b434526d35",
+    "order": 149,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"The man was elderly and infirm. We can understand his taking an evening stroll, but the ground was damp and the night inclement. Is it natural that he should stand for five or ten minutes, as Dr. Mortimer, with more practical sense than I should have given him credit for, deduced from the cigar ash",
+    "context": {
+      "next": {
+        "content": "?\"",
+        "objectID": "29a723fab7ed1faccc0d45443be21f96"
+      },
+      "previous": {
+        "content": "\"You think that he was waiting for someone?\"",
+        "objectID": "c532361a53b23a685b07e1b434526d35"
+      }
+    },
+    "objectID": "66429642fd491b2ea788694c3c809b2f",
+    "order": 150,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "?\"",
+    "context": {
+      "next": {
+        "content": "\"But he went out every evening.\"",
+        "objectID": "51d1b2161c1a8d4f89942fa399e39116"
+      },
+      "previous": {
+        "content": "\"The man was elderly and infirm. We can understand his taking an evening stroll, but the ground was damp and the night inclement. Is it natural that he should stand for five or ten minutes, as Dr. Mortimer, with more practical sense than I should have given him credit for, deduced from the cigar ash",
+        "objectID": "66429642fd491b2ea788694c3c809b2f"
+      }
+    },
+    "objectID": "29a723fab7ed1faccc0d45443be21f96",
+    "order": 151,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"But he went out every evening.\"",
+    "context": {
+      "next": {
+        "content": "\"I think it unlikely that he waited at the moor-gate every evening. On the contrary, the evidence is that he avoided the moor. That night he waited there. It was the night before he made his departure for London. The thing takes shape, Watson. It becomes coherent. Might I ask you to hand me my violin, and we will postpone all further thought upon this business until we have had the advantage of meeting Dr.",
+        "objectID": "bd5b5f25f32dbc690bbe5a42f043776c"
+      },
+      "previous": {
+        "content": "?\"",
+        "objectID": "29a723fab7ed1faccc0d45443be21f96"
+      }
+    },
+    "objectID": "51d1b2161c1a8d4f89942fa399e39116",
+    "order": 152,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "\"I think it unlikely that he waited at the moor-gate every evening. On the contrary, the evidence is that he avoided the moor. That night he waited there. It was the night before he made his departure for London. The thing takes shape, Watson. It becomes coherent. Might I ask you to hand me my violin, and we will postpone all further thought upon this business until we have had the advantage of meeting Dr.",
+    "context": {
+      "next": {
+        "content": "Mortimer and Sir Henry Baskerville in the morning.\"",
+        "objectID": "02c30938e1cbb447c7bb7efcf10c2f58"
+      },
+      "previous": {
+        "content": "\"But he went out every evening.\"",
+        "objectID": "51d1b2161c1a8d4f89942fa399e39116"
+      }
+    },
+    "objectID": "bd5b5f25f32dbc690bbe5a42f043776c",
+    "order": 153,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 3. The Problem",
+    "chapterOrder": 3,
+    "content": "Mortimer and Sir Henry Baskerville in the morning.\"",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "\"I think it unlikely that he waited at the moor-gate every evening. On the contrary, the evidence is that he avoided the moor. That night he waited there. It was the night before he made his departure for London. The thing takes shape, Watson. It becomes coherent. Might I ask you to hand me my violin, and we will postpone all further thought upon this business until we have had the advantage of meeting Dr.",
+        "objectID": "bd5b5f25f32dbc690bbe5a42f043776c"
+      }
+    },
+    "objectID": "02c30938e1cbb447c7bb7efcf10c2f58",
+    "order": 154,
+    "tagName": "P"
+  }
+]

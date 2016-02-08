@@ -1,0 +1,3440 @@
+[
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"We're at close grips at last,\" said Holmes as we walked together across the moor. \"What a nerve the fellow has! How he pulled himself together in the face of what must have been a paralyzing shock when he found that the wrong man had fallen a victim to his plot. I told you in London, Watson, and I tell you now again, that we have never had a foeman more worthy of our steel.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "61b599f9a1006478a7da7a1b17f2cac3"
+      },
+      "previous": null
+    },
+    "objectID": "01d7eb59a44d2b60c27bbb733e2a833f",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"I am sorry that he has seen you.\"",
+        "objectID": "60807a46a2b2674e2310cb87d7b17296"
+      },
+      "previous": {
+        "content": "\"We're at close grips at last,\" said Holmes as we walked together across the moor. \"What a nerve the fellow has! How he pulled himself together in the face of what must have been a paralyzing shock when he found that the wrong man had fallen a victim to his plot. I told you in London, Watson, and I tell you now again, that we have never had a foeman more worthy of our steel.",
+        "objectID": "01d7eb59a44d2b60c27bbb733e2a833f"
+      }
+    },
+    "objectID": "61b599f9a1006478a7da7a1b17f2cac3",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I am sorry that he has seen you.\"",
+    "context": {
+      "next": {
+        "content": "\"And so was I at first. But there was no getting out of it.\"",
+        "objectID": "68317227caede83f375857538feba7c8"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "61b599f9a1006478a7da7a1b17f2cac3"
+      }
+    },
+    "objectID": "60807a46a2b2674e2310cb87d7b17296",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"And so was I at first. But there was no getting out of it.\"",
+    "context": {
+      "next": {
+        "content": "\"What effect do you think it will have upon his plans now that he knows you are here?\"",
+        "objectID": "bac243f1e7c4c0215b4735b9461ef164"
+      },
+      "previous": {
+        "content": "\"I am sorry that he has seen you.\"",
+        "objectID": "60807a46a2b2674e2310cb87d7b17296"
+      }
+    },
+    "objectID": "68317227caede83f375857538feba7c8",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"What effect do you think it will have upon his plans now that he knows you are here?\"",
+    "context": {
+      "next": {
+        "content": "\"It may cause him to be more cautious, or it may drive him to desperate measures at once. Like most clever criminals, he may be too confident in his own cleverness and imagine that he has completely deceived us.\"",
+        "objectID": "3cacb326c24bb95dfd92f5c6a303d8dd"
+      },
+      "previous": {
+        "content": "\"And so was I at first. But there was no getting out of it.\"",
+        "objectID": "68317227caede83f375857538feba7c8"
+      }
+    },
+    "objectID": "bac243f1e7c4c0215b4735b9461ef164",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"It may cause him to be more cautious, or it may drive him to desperate measures at once. Like most clever criminals, he may be too confident in his own cleverness and imagine that he has completely deceived us.\"",
+    "context": {
+      "next": {
+        "content": "\"Why should we not arrest him at once?\"",
+        "objectID": "d23deeca4d5dbcb93b522e466dd2ada8"
+      },
+      "previous": {
+        "content": "\"What effect do you think it will have upon his plans now that he knows you are here?\"",
+        "objectID": "bac243f1e7c4c0215b4735b9461ef164"
+      }
+    },
+    "objectID": "3cacb326c24bb95dfd92f5c6a303d8dd",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Why should we not arrest him at once?\"",
+    "context": {
+      "next": {
+        "content": "\"My dear Watson, you were born to be a man of action. Your instinct is always to do something energetic. But supposing, for argument's sake, that we had him arrested tonight, what on earth the better off should we be for that? We could prove nothing against him. There's the devilish cunning of it! If he were acting through a human agent we could get some evidence, but if we were to drag this great dog to the light of day it would not help us in putting a rope round the neck of its master.",
+        "objectID": "b050fd675f502f8b0f48636690ed200f"
+      },
+      "previous": {
+        "content": "\"It may cause him to be more cautious, or it may drive him to desperate measures at once. Like most clever criminals, he may be too confident in his own cleverness and imagine that he has completely deceived us.\"",
+        "objectID": "3cacb326c24bb95dfd92f5c6a303d8dd"
+      }
+    },
+    "objectID": "d23deeca4d5dbcb93b522e466dd2ada8",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"My dear Watson, you were born to be a man of action. Your instinct is always to do something energetic. But supposing, for argument's sake, that we had him arrested tonight, what on earth the better off should we be for that? We could prove nothing against him. There's the devilish cunning of it! If he were acting through a human agent we could get some evidence, but if we were to drag this great dog to the light of day it would not help us in putting a rope round the neck of its master.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "5b8299901a962e6f4043d7e5e61f3ea2"
+      },
+      "previous": {
+        "content": "\"Why should we not arrest him at once?\"",
+        "objectID": "d23deeca4d5dbcb93b522e466dd2ada8"
+      }
+    },
+    "objectID": "b050fd675f502f8b0f48636690ed200f",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Surely we have a case.\"",
+        "objectID": "5051439fb8813ce5558fb780876c0c3b"
+      },
+      "previous": {
+        "content": "\"My dear Watson, you were born to be a man of action. Your instinct is always to do something energetic. But supposing, for argument's sake, that we had him arrested tonight, what on earth the better off should we be for that? We could prove nothing against him. There's the devilish cunning of it! If he were acting through a human agent we could get some evidence, but if we were to drag this great dog to the light of day it would not help us in putting a rope round the neck of its master.",
+        "objectID": "b050fd675f502f8b0f48636690ed200f"
+      }
+    },
+    "objectID": "5b8299901a962e6f4043d7e5e61f3ea2",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Surely we have a case.\"",
+    "context": {
+      "next": {
+        "content": "\"Not a shadow of one—only surmise and conjecture. We should be laughed out of court if we came with such a story and such evidence.\"",
+        "objectID": "4f700bde666b1e809f6ee28ed8cc377a"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "5b8299901a962e6f4043d7e5e61f3ea2"
+      }
+    },
+    "objectID": "5051439fb8813ce5558fb780876c0c3b",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Not a shadow of one—only surmise and conjecture. We should be laughed out of court if we came with such a story and such evidence.\"",
+    "context": {
+      "next": {
+        "content": "\"There is Sir Charles's death.\"",
+        "objectID": "013f2b198b618b69debdcdc2c5c954c5"
+      },
+      "previous": {
+        "content": "\"Surely we have a case.\"",
+        "objectID": "5051439fb8813ce5558fb780876c0c3b"
+      }
+    },
+    "objectID": "4f700bde666b1e809f6ee28ed8cc377a",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"There is Sir Charles's death.\"",
+    "context": {
+      "next": {
+        "content": "\"Found dead without a mark upon him. You and I know that he died of sheer fright, and we know also what frightened him, but how are we to get twelve stolid jurymen to know it? What signs are there of a hound? Where are the marks of its fangs? Of course we know that a hound does not bite a dead body and that Sir Charles was dead before ever the brute overtook him.",
+        "objectID": "63d29bb654faf47e03ffd88d55b706bb"
+      },
+      "previous": {
+        "content": "\"Not a shadow of one—only surmise and conjecture. We should be laughed out of court if we came with such a story and such evidence.\"",
+        "objectID": "4f700bde666b1e809f6ee28ed8cc377a"
+      }
+    },
+    "objectID": "013f2b198b618b69debdcdc2c5c954c5",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Found dead without a mark upon him. You and I know that he died of sheer fright, and we know also what frightened him, but how are we to get twelve stolid jurymen to know it? What signs are there of a hound? Where are the marks of its fangs? Of course we know that a hound does not bite a dead body and that Sir Charles was dead before ever the brute overtook him.",
+    "context": {
+      "next": {
+        "content": "But we have to prove all this, and we are not in a position to do it.\"",
+        "objectID": "336432a47564b91ffa92bf8fdb3da189"
+      },
+      "previous": {
+        "content": "\"There is Sir Charles's death.\"",
+        "objectID": "013f2b198b618b69debdcdc2c5c954c5"
+      }
+    },
+    "objectID": "63d29bb654faf47e03ffd88d55b706bb",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "But we have to prove all this, and we are not in a position to do it.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, then, tonight?\"",
+        "objectID": "077a84accefa700bd0974445897e6774"
+      },
+      "previous": {
+        "content": "\"Found dead without a mark upon him. You and I know that he died of sheer fright, and we know also what frightened him, but how are we to get twelve stolid jurymen to know it? What signs are there of a hound? Where are the marks of its fangs? Of course we know that a hound does not bite a dead body and that Sir Charles was dead before ever the brute overtook him.",
+        "objectID": "63d29bb654faf47e03ffd88d55b706bb"
+      }
+    },
+    "objectID": "336432a47564b91ffa92bf8fdb3da189",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Well, then, tonight?\"",
+    "context": {
+      "next": {
+        "content": "\"We are not much better off tonight. Again, there was no direct connection between the hound and the man's death. We never saw the hound. We heard it, but we could not prove that it was running upon this man's trail. There is a complete absence of motive. No, my dear fellow; we must reconcile ourselves to the fact that we have no case at present, and that it is worth our while to run any risk in order to establish one.",
+        "objectID": "a74e4644035d8ac38e97164d2d0bae31"
+      },
+      "previous": {
+        "content": "But we have to prove all this, and we are not in a position to do it.\"",
+        "objectID": "336432a47564b91ffa92bf8fdb3da189"
+      }
+    },
+    "objectID": "077a84accefa700bd0974445897e6774",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"We are not much better off tonight. Again, there was no direct connection between the hound and the man's death. We never saw the hound. We heard it, but we could not prove that it was running upon this man's trail. There is a complete absence of motive. No, my dear fellow; we must reconcile ourselves to the fact that we have no case at present, and that it is worth our while to run any risk in order to establish one.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "f681642cd672e6619ef79cb51e201ca9"
+      },
+      "previous": {
+        "content": "\"Well, then, tonight?\"",
+        "objectID": "077a84accefa700bd0974445897e6774"
+      }
+    },
+    "objectID": "a74e4644035d8ac38e97164d2d0bae31",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"And how do you propose to do so?\"",
+        "objectID": "15cbb1d66299993eb92272443104b077"
+      },
+      "previous": {
+        "content": "\"We are not much better off tonight. Again, there was no direct connection between the hound and the man's death. We never saw the hound. We heard it, but we could not prove that it was running upon this man's trail. There is a complete absence of motive. No, my dear fellow; we must reconcile ourselves to the fact that we have no case at present, and that it is worth our while to run any risk in order to establish one.",
+        "objectID": "a74e4644035d8ac38e97164d2d0bae31"
+      }
+    },
+    "objectID": "f681642cd672e6619ef79cb51e201ca9",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"And how do you propose to do so?\"",
+    "context": {
+      "next": {
+        "content": "\"I have great hopes of what Mrs. Laura Lyons may do for us when the position of affairs is made clear to her. And I have my own plan as well. Sufficient for tomorrow is the evil thereof; but I hope before the day is past to have the upper hand at last.\"",
+        "objectID": "8f9e14ef7ca8da029b4d1c1a55d4d351"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "f681642cd672e6619ef79cb51e201ca9"
+      }
+    },
+    "objectID": "15cbb1d66299993eb92272443104b077",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I have great hopes of what Mrs. Laura Lyons may do for us when the position of affairs is made clear to her. And I have my own plan as well. Sufficient for tomorrow is the evil thereof; but I hope before the day is past to have the upper hand at last.\"",
+    "context": {
+      "next": {
+        "content": "I could draw nothing further from him, and he walked, lost in thought, as far as the Baskerville gates.",
+        "objectID": "bd86fa00071ae2c13142ace2de7c6412"
+      },
+      "previous": {
+        "content": "\"And how do you propose to do so?\"",
+        "objectID": "15cbb1d66299993eb92272443104b077"
+      }
+    },
+    "objectID": "8f9e14ef7ca8da029b4d1c1a55d4d351",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "I could draw nothing further from him, and he walked, lost in thought, as far as the Baskerville gates.",
+    "context": {
+      "next": {
+        "content": "\"Are you coming up?\"",
+        "objectID": "ee1707bf196e6a183df2cef8df492183"
+      },
+      "previous": {
+        "content": "\"I have great hopes of what Mrs. Laura Lyons may do for us when the position of affairs is made clear to her. And I have my own plan as well. Sufficient for tomorrow is the evil thereof; but I hope before the day is past to have the upper hand at last.\"",
+        "objectID": "8f9e14ef7ca8da029b4d1c1a55d4d351"
+      }
+    },
+    "objectID": "bd86fa00071ae2c13142ace2de7c6412",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Are you coming up?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes; I see no reason for further concealment. But one last word, Watson. Say nothing of the hound to Sir Henry. Let him think that Selden's death was as Stapleton would have us believe. He will have a better nerve for the ordeal which he will have to undergo tomorrow, when he is engaged, if I remember your report aright, to dine with these people.",
+        "objectID": "a61bf8f4bc15abf889544303d854fbb3"
+      },
+      "previous": {
+        "content": "I could draw nothing further from him, and he walked, lost in thought, as far as the Baskerville gates.",
+        "objectID": "bd86fa00071ae2c13142ace2de7c6412"
+      }
+    },
+    "objectID": "ee1707bf196e6a183df2cef8df492183",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Yes; I see no reason for further concealment. But one last word, Watson. Say nothing of the hound to Sir Henry. Let him think that Selden's death was as Stapleton would have us believe. He will have a better nerve for the ordeal which he will have to undergo tomorrow, when he is engaged, if I remember your report aright, to dine with these people.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "3ce80b14ebd529d025dbbda1fe041f54"
+      },
+      "previous": {
+        "content": "\"Are you coming up?\"",
+        "objectID": "ee1707bf196e6a183df2cef8df492183"
+      }
+    },
+    "objectID": "a61bf8f4bc15abf889544303d854fbb3",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"And so am I.\"",
+        "objectID": "80189c262ec253652819a8fd4829de49"
+      },
+      "previous": {
+        "content": "\"Yes; I see no reason for further concealment. But one last word, Watson. Say nothing of the hound to Sir Henry. Let him think that Selden's death was as Stapleton would have us believe. He will have a better nerve for the ordeal which he will have to undergo tomorrow, when he is engaged, if I remember your report aright, to dine with these people.",
+        "objectID": "a61bf8f4bc15abf889544303d854fbb3"
+      }
+    },
+    "objectID": "3ce80b14ebd529d025dbbda1fe041f54",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"And so am I.\"",
+    "context": {
+      "next": {
+        "content": "\"Then you must excuse yourself and he must go alone. That will be easily arranged. And now, if we are too late for dinner, I think that we are both ready for our suppers.\"",
+        "objectID": "ed44366795391b8c64b7d792eefb3bb2"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "3ce80b14ebd529d025dbbda1fe041f54"
+      }
+    },
+    "objectID": "80189c262ec253652819a8fd4829de49",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Then you must excuse yourself and he must go alone. That will be easily arranged. And now, if we are too late for dinner, I think that we are both ready for our suppers.\"",
+    "context": {
+      "next": {
+        "content": "Sir Henry was more pleased than surprised to see Sherlock Holmes, for he had for some days been expecting that recent events would bring him down from London. He did raise his eyebrows, however, when he found that my friend had neither any luggage nor any explanations for its absence. Between us we soon supplied his wants, and then over a belated supper we explained to the baronet as much of our experience as it seemed desirable that he should know.",
+        "objectID": "150959b4363ef2e5f81ab341cc031f3f"
+      },
+      "previous": {
+        "content": "\"And so am I.\"",
+        "objectID": "80189c262ec253652819a8fd4829de49"
+      }
+    },
+    "objectID": "ed44366795391b8c64b7d792eefb3bb2",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "Sir Henry was more pleased than surprised to see Sherlock Holmes, for he had for some days been expecting that recent events would bring him down from London. He did raise his eyebrows, however, when he found that my friend had neither any luggage nor any explanations for its absence. Between us we soon supplied his wants, and then over a belated supper we explained to the baronet as much of our experience as it seemed desirable that he should know.",
+    "context": {
+      "next": {
+        "content": "But first I had the unpleasant duty of breaking the news to Barrymore and his wife. To him it may have been an unmitigated relief, but she wept bitterly in her apron. To all the world he was the man of violence, half animal and half demon; but to her he always remained the little wilful boy of her own girlhood, the child who had clung to her hand.",
+        "objectID": "59853f7eaf224475036e743d143babe2"
+      },
+      "previous": {
+        "content": "\"Then you must excuse yourself and he must go alone. That will be easily arranged. And now, if we are too late for dinner, I think that we are both ready for our suppers.\"",
+        "objectID": "ed44366795391b8c64b7d792eefb3bb2"
+      }
+    },
+    "objectID": "150959b4363ef2e5f81ab341cc031f3f",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "But first I had the unpleasant duty of breaking the news to Barrymore and his wife. To him it may have been an unmitigated relief, but she wept bitterly in her apron. To all the world he was the man of violence, half animal and half demon; but to her he always remained the little wilful boy of her own girlhood, the child who had clung to her hand.",
+    "context": {
+      "next": {
+        "content": "Evil indeed is the man who has not one woman to mourn him.",
+        "objectID": "2261a1e7463b938b67d318ef1c374e58"
+      },
+      "previous": {
+        "content": "Sir Henry was more pleased than surprised to see Sherlock Holmes, for he had for some days been expecting that recent events would bring him down from London. He did raise his eyebrows, however, when he found that my friend had neither any luggage nor any explanations for its absence. Between us we soon supplied his wants, and then over a belated supper we explained to the baronet as much of our experience as it seemed desirable that he should know.",
+        "objectID": "150959b4363ef2e5f81ab341cc031f3f"
+      }
+    },
+    "objectID": "59853f7eaf224475036e743d143babe2",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "Evil indeed is the man who has not one woman to mourn him.",
+    "context": {
+      "next": {
+        "content": "\"I've been moping in the house all day since Watson went off in the morning,\" said the baronet. \"I guess I should have some credit, for I have kept my promise. If I hadn't sworn not to go about alone I might have had a more lively evening, for I had a message from Stapleton asking me over there.\"",
+        "objectID": "4b9f96f80030cdd86ca91d9a0a2510ce"
+      },
+      "previous": {
+        "content": "But first I had the unpleasant duty of breaking the news to Barrymore and his wife. To him it may have been an unmitigated relief, but she wept bitterly in her apron. To all the world he was the man of violence, half animal and half demon; but to her he always remained the little wilful boy of her own girlhood, the child who had clung to her hand.",
+        "objectID": "59853f7eaf224475036e743d143babe2"
+      }
+    },
+    "objectID": "2261a1e7463b938b67d318ef1c374e58",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I've been moping in the house all day since Watson went off in the morning,\" said the baronet. \"I guess I should have some credit, for I have kept my promise. If I hadn't sworn not to go about alone I might have had a more lively evening, for I had a message from Stapleton asking me over there.\"",
+    "context": {
+      "next": {
+        "content": "\"I have no doubt that you would have had a more lively evening,\" said Holmes drily. \"By the way, I don't suppose you appreciate that we have been mourning over you as having broken your neck?\"",
+        "objectID": "8e1098a82fe21aeed31c02434069899a"
+      },
+      "previous": {
+        "content": "Evil indeed is the man who has not one woman to mourn him.",
+        "objectID": "2261a1e7463b938b67d318ef1c374e58"
+      }
+    },
+    "objectID": "4b9f96f80030cdd86ca91d9a0a2510ce",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I have no doubt that you would have had a more lively evening,\" said Holmes drily. \"By the way, I don't suppose you appreciate that we have been mourning over you as having broken your neck?\"",
+    "context": {
+      "next": {
+        "content": "Sir Henry opened his eyes. \"How was that?\"",
+        "objectID": "8db248dd53e9a1e082e3049f6647262b"
+      },
+      "previous": {
+        "content": "\"I've been moping in the house all day since Watson went off in the morning,\" said the baronet. \"I guess I should have some credit, for I have kept my promise. If I hadn't sworn not to go about alone I might have had a more lively evening, for I had a message from Stapleton asking me over there.\"",
+        "objectID": "4b9f96f80030cdd86ca91d9a0a2510ce"
+      }
+    },
+    "objectID": "8e1098a82fe21aeed31c02434069899a",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "Sir Henry opened his eyes. \"How was that?\"",
+    "context": {
+      "next": {
+        "content": "\"This poor wretch was dressed in your clothes. I fear your servant who gave them to him may get into trouble with the police.\"",
+        "objectID": "bbefa264277f68b8fa21ca395f48ac6b"
+      },
+      "previous": {
+        "content": "\"I have no doubt that you would have had a more lively evening,\" said Holmes drily. \"By the way, I don't suppose you appreciate that we have been mourning over you as having broken your neck?\"",
+        "objectID": "8e1098a82fe21aeed31c02434069899a"
+      }
+    },
+    "objectID": "8db248dd53e9a1e082e3049f6647262b",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"This poor wretch was dressed in your clothes. I fear your servant who gave them to him may get into trouble with the police.\"",
+    "context": {
+      "next": {
+        "content": "\"That is unlikely. There was no mark on any of them, as far as I know.\"",
+        "objectID": "bdc391d988b34b4217f88c1163e378b9"
+      },
+      "previous": {
+        "content": "Sir Henry opened his eyes. \"How was that?\"",
+        "objectID": "8db248dd53e9a1e082e3049f6647262b"
+      }
+    },
+    "objectID": "bbefa264277f68b8fa21ca395f48ac6b",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"That is unlikely. There was no mark on any of them, as far as I know.\"",
+    "context": {
+      "next": {
+        "content": "\"That's lucky for him—in fact, it's lucky for all of you, since you are all on the wrong side of the law in this matter. I am not sure that as a conscientious detective my first duty is not to arrest the whole household. Watson's reports are most incriminating documents.\"",
+        "objectID": "c0d02e31606db702f8ebdda8f1514768"
+      },
+      "previous": {
+        "content": "\"This poor wretch was dressed in your clothes. I fear your servant who gave them to him may get into trouble with the police.\"",
+        "objectID": "bbefa264277f68b8fa21ca395f48ac6b"
+      }
+    },
+    "objectID": "bdc391d988b34b4217f88c1163e378b9",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"That's lucky for him—in fact, it's lucky for all of you, since you are all on the wrong side of the law in this matter. I am not sure that as a conscientious detective my first duty is not to arrest the whole household. Watson's reports are most incriminating documents.\"",
+    "context": {
+      "next": {
+        "content": "\"But how about the case?\" asked the baronet. \"Have you made anything out of the tangle? I don't know that Watson and I are much the wiser since we came down.\"",
+        "objectID": "fd725345a5a2dd5f5b80ffbfe84e598f"
+      },
+      "previous": {
+        "content": "\"That is unlikely. There was no mark on any of them, as far as I know.\"",
+        "objectID": "bdc391d988b34b4217f88c1163e378b9"
+      }
+    },
+    "objectID": "c0d02e31606db702f8ebdda8f1514768",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"But how about the case?\" asked the baronet. \"Have you made anything out of the tangle? I don't know that Watson and I are much the wiser since we came down.\"",
+    "context": {
+      "next": {
+        "content": "\"I think that I shall be in a position to make the situation rather more clear to you before long. It has been an exceedingly difficult and most complicated business. There are several points upon which we still want light—but it is coming all the same.\"",
+        "objectID": "ad69682d9df7734125080f7dd669996e"
+      },
+      "previous": {
+        "content": "\"That's lucky for him—in fact, it's lucky for all of you, since you are all on the wrong side of the law in this matter. I am not sure that as a conscientious detective my first duty is not to arrest the whole household. Watson's reports are most incriminating documents.\"",
+        "objectID": "c0d02e31606db702f8ebdda8f1514768"
+      }
+    },
+    "objectID": "fd725345a5a2dd5f5b80ffbfe84e598f",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I think that I shall be in a position to make the situation rather more clear to you before long. It has been an exceedingly difficult and most complicated business. There are several points upon which we still want light—but it is coming all the same.\"",
+    "context": {
+      "next": {
+        "content": "\"We've had one experience, as Watson has no doubt told you. We heard the hound on the moor, so I can swear that it is not all empty superstition. I had something to do with dogs when I was out West, and I know one when I hear one. If you can muzzle that one and put him on a chain I'll be ready to swear you are the greatest detective of all time.",
+        "objectID": "ccc08f4a0d08d7b7942599f6fba8bfb7"
+      },
+      "previous": {
+        "content": "\"But how about the case?\" asked the baronet. \"Have you made anything out of the tangle? I don't know that Watson and I are much the wiser since we came down.\"",
+        "objectID": "fd725345a5a2dd5f5b80ffbfe84e598f"
+      }
+    },
+    "objectID": "ad69682d9df7734125080f7dd669996e",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"We've had one experience, as Watson has no doubt told you. We heard the hound on the moor, so I can swear that it is not all empty superstition. I had something to do with dogs when I was out West, and I know one when I hear one. If you can muzzle that one and put him on a chain I'll be ready to swear you are the greatest detective of all time.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "0549736a400290a8466567eb4b900577"
+      },
+      "previous": {
+        "content": "\"I think that I shall be in a position to make the situation rather more clear to you before long. It has been an exceedingly difficult and most complicated business. There are several points upon which we still want light—but it is coming all the same.\"",
+        "objectID": "ad69682d9df7734125080f7dd669996e"
+      }
+    },
+    "objectID": "ccc08f4a0d08d7b7942599f6fba8bfb7",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"I think I will muzzle him and chain him all right if you will give me your help.\"",
+        "objectID": "10b5f7db2ef7d5749b9fe9a02229b661"
+      },
+      "previous": {
+        "content": "\"We've had one experience, as Watson has no doubt told you. We heard the hound on the moor, so I can swear that it is not all empty superstition. I had something to do with dogs when I was out West, and I know one when I hear one. If you can muzzle that one and put him on a chain I'll be ready to swear you are the greatest detective of all time.",
+        "objectID": "ccc08f4a0d08d7b7942599f6fba8bfb7"
+      }
+    },
+    "objectID": "0549736a400290a8466567eb4b900577",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I think I will muzzle him and chain him all right if you will give me your help.\"",
+    "context": {
+      "next": {
+        "content": "\"Whatever you tell me to do I will do.\"",
+        "objectID": "f5b9b86e1790ffd23d07c3a90dae8d54"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "0549736a400290a8466567eb4b900577"
+      }
+    },
+    "objectID": "10b5f7db2ef7d5749b9fe9a02229b661",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Whatever you tell me to do I will do.\"",
+    "context": {
+      "next": {
+        "content": "\"Very good; and I will ask you also to do it blindly, without always asking the reason.\"",
+        "objectID": "51b3823473bc8b5b34493327d337ac27"
+      },
+      "previous": {
+        "content": "\"I think I will muzzle him and chain him all right if you will give me your help.\"",
+        "objectID": "10b5f7db2ef7d5749b9fe9a02229b661"
+      }
+    },
+    "objectID": "f5b9b86e1790ffd23d07c3a90dae8d54",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Very good; and I will ask you also to do it blindly, without always asking the reason.\"",
+    "context": {
+      "next": {
+        "content": "\"Just as you like.\"",
+        "objectID": "ad11a2ed48c8b77a5f6b1e0b42a2f8f9"
+      },
+      "previous": {
+        "content": "\"Whatever you tell me to do I will do.\"",
+        "objectID": "f5b9b86e1790ffd23d07c3a90dae8d54"
+      }
+    },
+    "objectID": "51b3823473bc8b5b34493327d337ac27",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Just as you like.\"",
+    "context": {
+      "next": {
+        "content": "\"If you will do this I think the chances are that our little problem will soon be solved. I have no doubt—\"",
+        "objectID": "21a2542720a9a6496c8226e2dfffecad"
+      },
+      "previous": {
+        "content": "\"Very good; and I will ask you also to do it blindly, without always asking the reason.\"",
+        "objectID": "51b3823473bc8b5b34493327d337ac27"
+      }
+    },
+    "objectID": "ad11a2ed48c8b77a5f6b1e0b42a2f8f9",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"If you will do this I think the chances are that our little problem will soon be solved. I have no doubt—\"",
+    "context": {
+      "next": {
+        "content": "He stopped suddenly and stared fixedly up over my head into the air. The lamp beat upon his face, and so intent was it and so still that it might have been that of a clear-cut classical statue, a personification of alertness and expectation.",
+        "objectID": "197c537db04ceb06a3a8953dd61d375d"
+      },
+      "previous": {
+        "content": "\"Just as you like.\"",
+        "objectID": "ad11a2ed48c8b77a5f6b1e0b42a2f8f9"
+      }
+    },
+    "objectID": "21a2542720a9a6496c8226e2dfffecad",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "He stopped suddenly and stared fixedly up over my head into the air. The lamp beat upon his face, and so intent was it and so still that it might have been that of a clear-cut classical statue, a personification of alertness and expectation.",
+    "context": {
+      "next": {
+        "content": "\"What is it?\" we both cried.",
+        "objectID": "688592eb5bf19eb8a8b512b9470f2003"
+      },
+      "previous": {
+        "content": "\"If you will do this I think the chances are that our little problem will soon be solved. I have no doubt—\"",
+        "objectID": "21a2542720a9a6496c8226e2dfffecad"
+      }
+    },
+    "objectID": "197c537db04ceb06a3a8953dd61d375d",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"What is it?\" we both cried.",
+    "context": {
+      "next": {
+        "content": "I could see as he looked down that he was repressing some internal emotion. His features were still composed, but his eyes shone with amused exultation.",
+        "objectID": "762e6c53c492c3c8109eb9f4876d7fac"
+      },
+      "previous": {
+        "content": "He stopped suddenly and stared fixedly up over my head into the air. The lamp beat upon his face, and so intent was it and so still that it might have been that of a clear-cut classical statue, a personification of alertness and expectation.",
+        "objectID": "197c537db04ceb06a3a8953dd61d375d"
+      }
+    },
+    "objectID": "688592eb5bf19eb8a8b512b9470f2003",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "I could see as he looked down that he was repressing some internal emotion. His features were still composed, but his eyes shone with amused exultation.",
+    "context": {
+      "next": {
+        "content": "\"Excuse the admiration of a connoisseur,\" said he as he waved his hand towards the line of portraits which covered the opposite wall. \"Watson won't allow that I know anything of art but that is mere jealousy because our views upon the subject differ. Now, these are a really very fine series of portraits.",
+        "objectID": "cc9d34fb9e7ea3e98f95de0ce27cdf22"
+      },
+      "previous": {
+        "content": "\"What is it?\" we both cried.",
+        "objectID": "688592eb5bf19eb8a8b512b9470f2003"
+      }
+    },
+    "objectID": "762e6c53c492c3c8109eb9f4876d7fac",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Excuse the admiration of a connoisseur,\" said he as he waved his hand towards the line of portraits which covered the opposite wall. \"Watson won't allow that I know anything of art but that is mere jealousy because our views upon the subject differ. Now, these are a really very fine series of portraits.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "ae6e06953d9ce4f46f607f3ac803ed3c"
+      },
+      "previous": {
+        "content": "I could see as he looked down that he was repressing some internal emotion. His features were still composed, but his eyes shone with amused exultation.",
+        "objectID": "762e6c53c492c3c8109eb9f4876d7fac"
+      }
+    },
+    "objectID": "cc9d34fb9e7ea3e98f95de0ce27cdf22",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Well, I'm glad to hear you say so,\" said Sir Henry, glancing with some surprise at my friend. \"I don't pretend to know much about these things, and I'd be a better judge of a horse or a steer than of a picture. I didn't know that you found time for such things.\"",
+        "objectID": "e491b7beced6c426058f424545c0873c"
+      },
+      "previous": {
+        "content": "\"Excuse the admiration of a connoisseur,\" said he as he waved his hand towards the line of portraits which covered the opposite wall. \"Watson won't allow that I know anything of art but that is mere jealousy because our views upon the subject differ. Now, these are a really very fine series of portraits.",
+        "objectID": "cc9d34fb9e7ea3e98f95de0ce27cdf22"
+      }
+    },
+    "objectID": "ae6e06953d9ce4f46f607f3ac803ed3c",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Well, I'm glad to hear you say so,\" said Sir Henry, glancing with some surprise at my friend. \"I don't pretend to know much about these things, and I'd be a better judge of a horse or a steer than of a picture. I didn't know that you found time for such things.\"",
+    "context": {
+      "next": {
+        "content": "\"I know what is good when I see it, and I see it now. That's a Kneller, I'll swear, that lady in the blue silk over yonder, and the stout gentleman with the wig ought to be a Reynolds. They are all family portraits, I presume?\"",
+        "objectID": "2c5a6b80de648eb9ed2897b75c2bff3c"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "ae6e06953d9ce4f46f607f3ac803ed3c"
+      }
+    },
+    "objectID": "e491b7beced6c426058f424545c0873c",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I know what is good when I see it, and I see it now. That's a Kneller, I'll swear, that lady in the blue silk over yonder, and the stout gentleman with the wig ought to be a Reynolds. They are all family portraits, I presume?\"",
+    "context": {
+      "next": {
+        "content": "\"Every one.\"",
+        "objectID": "df0dda34b7cc3a925d05b2813032c128"
+      },
+      "previous": {
+        "content": "\"Well, I'm glad to hear you say so,\" said Sir Henry, glancing with some surprise at my friend. \"I don't pretend to know much about these things, and I'd be a better judge of a horse or a steer than of a picture. I didn't know that you found time for such things.\"",
+        "objectID": "e491b7beced6c426058f424545c0873c"
+      }
+    },
+    "objectID": "2c5a6b80de648eb9ed2897b75c2bff3c",
+    "order": 50,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Every one.\"",
+    "context": {
+      "next": {
+        "content": "\"Do you know the names?\"",
+        "objectID": "aed0d70217106a834b94730aacc364a5"
+      },
+      "previous": {
+        "content": "\"I know what is good when I see it, and I see it now. That's a Kneller, I'll swear, that lady in the blue silk over yonder, and the stout gentleman with the wig ought to be a Reynolds. They are all family portraits, I presume?\"",
+        "objectID": "2c5a6b80de648eb9ed2897b75c2bff3c"
+      }
+    },
+    "objectID": "df0dda34b7cc3a925d05b2813032c128",
+    "order": 51,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Do you know the names?\"",
+    "context": {
+      "next": {
+        "content": "\"Barrymore has been coaching me in them, and I think I can say my lessons fairly well.\"",
+        "objectID": "f3d062364473f76578937b606b20fffb"
+      },
+      "previous": {
+        "content": "\"Every one.\"",
+        "objectID": "df0dda34b7cc3a925d05b2813032c128"
+      }
+    },
+    "objectID": "aed0d70217106a834b94730aacc364a5",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Barrymore has been coaching me in them, and I think I can say my lessons fairly well.\"",
+    "context": {
+      "next": {
+        "content": "\"Who is the gentleman with the telescope?\"",
+        "objectID": "dadef0b3a26b3e4cf557758eb840ac7b"
+      },
+      "previous": {
+        "content": "\"Do you know the names?\"",
+        "objectID": "aed0d70217106a834b94730aacc364a5"
+      }
+    },
+    "objectID": "f3d062364473f76578937b606b20fffb",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Who is the gentleman with the telescope?\"",
+    "context": {
+      "next": {
+        "content": "\"That is Rear-Admiral Baskerville, who served under Rodney in the West Indies. The man with the blue coat and the roll of paper is Sir William Baskerville, who was Chairman of Committees of the House of Commons under Pitt.\"",
+        "objectID": "ac8c4372067c4c26bacab8a273986fd9"
+      },
+      "previous": {
+        "content": "\"Barrymore has been coaching me in them, and I think I can say my lessons fairly well.\"",
+        "objectID": "f3d062364473f76578937b606b20fffb"
+      }
+    },
+    "objectID": "dadef0b3a26b3e4cf557758eb840ac7b",
+    "order": 54,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"That is Rear-Admiral Baskerville, who served under Rodney in the West Indies. The man with the blue coat and the roll of paper is Sir William Baskerville, who was Chairman of Committees of the House of Commons under Pitt.\"",
+    "context": {
+      "next": {
+        "content": "\"And this Cavalier opposite to me—the one with the black velvet and the lace?\"",
+        "objectID": "449c91ec3c862ecad035b9ece194d549"
+      },
+      "previous": {
+        "content": "\"Who is the gentleman with the telescope?\"",
+        "objectID": "dadef0b3a26b3e4cf557758eb840ac7b"
+      }
+    },
+    "objectID": "ac8c4372067c4c26bacab8a273986fd9",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"And this Cavalier opposite to me—the one with the black velvet and the lace?\"",
+    "context": {
+      "next": {
+        "content": "\"Ah, you have a right to know about him. That is the cause of all the mischief, the wicked Hugo, who started the Hound of the Baskervilles. We're not likely to forget him.\"",
+        "objectID": "1263d90606f8facdacf338fb5ff134b6"
+      },
+      "previous": {
+        "content": "\"That is Rear-Admiral Baskerville, who served under Rodney in the West Indies. The man with the blue coat and the roll of paper is Sir William Baskerville, who was Chairman of Committees of the House of Commons under Pitt.\"",
+        "objectID": "ac8c4372067c4c26bacab8a273986fd9"
+      }
+    },
+    "objectID": "449c91ec3c862ecad035b9ece194d549",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Ah, you have a right to know about him. That is the cause of all the mischief, the wicked Hugo, who started the Hound of the Baskervilles. We're not likely to forget him.\"",
+    "context": {
+      "next": {
+        "content": "I gazed with interest and some surprise upon the portrait.",
+        "objectID": "b7578ae3e93b863df91d372fbeefff7a"
+      },
+      "previous": {
+        "content": "\"And this Cavalier opposite to me—the one with the black velvet and the lace?\"",
+        "objectID": "449c91ec3c862ecad035b9ece194d549"
+      }
+    },
+    "objectID": "1263d90606f8facdacf338fb5ff134b6",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "I gazed with interest and some surprise upon the portrait.",
+    "context": {
+      "next": {
+        "content": "\"Dear me!\" said Holmes, \"he seems a quiet, meek-mannered man enough, but I dare say that there was a lurking devil in his eyes. I had pictured him as a more robust and ruffianly person.\"",
+        "objectID": "643a132dc1074c88af5fd7b4be5e7c01"
+      },
+      "previous": {
+        "content": "\"Ah, you have a right to know about him. That is the cause of all the mischief, the wicked Hugo, who started the Hound of the Baskervilles. We're not likely to forget him.\"",
+        "objectID": "1263d90606f8facdacf338fb5ff134b6"
+      }
+    },
+    "objectID": "b7578ae3e93b863df91d372fbeefff7a",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Dear me!\" said Holmes, \"he seems a quiet, meek-mannered man enough, but I dare say that there was a lurking devil in his eyes. I had pictured him as a more robust and ruffianly person.\"",
+    "context": {
+      "next": {
+        "content": "\"There's no doubt about the authenticity, for the name and the date, 1647, are on the back of the canvas.\"",
+        "objectID": "881256112711fc9fef45928f50408044"
+      },
+      "previous": {
+        "content": "I gazed with interest and some surprise upon the portrait.",
+        "objectID": "b7578ae3e93b863df91d372fbeefff7a"
+      }
+    },
+    "objectID": "643a132dc1074c88af5fd7b4be5e7c01",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"There's no doubt about the authenticity, for the name and the date, 1647, are on the back of the canvas.\"",
+    "context": {
+      "next": {
+        "content": "Holmes said little more, but the picture of the old roysterer seemed to have a fascination for him, and his eyes were continually fixed upon it during supper. It was not until later, when Sir Henry had gone to his room, that I was able to follow the trend of his thoughts. He led me back into the banqueting-hall, his bedroom candle in his hand, and he held it up against the time-stained portrait on the wall.",
+        "objectID": "e673c9432967dfe80b103fb7ceb4aa2f"
+      },
+      "previous": {
+        "content": "\"Dear me!\" said Holmes, \"he seems a quiet, meek-mannered man enough, but I dare say that there was a lurking devil in his eyes. I had pictured him as a more robust and ruffianly person.\"",
+        "objectID": "643a132dc1074c88af5fd7b4be5e7c01"
+      }
+    },
+    "objectID": "881256112711fc9fef45928f50408044",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "Holmes said little more, but the picture of the old roysterer seemed to have a fascination for him, and his eyes were continually fixed upon it during supper. It was not until later, when Sir Henry had gone to his room, that I was able to follow the trend of his thoughts. He led me back into the banqueting-hall, his bedroom candle in his hand, and he held it up against the time-stained portrait on the wall.",
+    "context": {
+      "next": {
+        "content": "\"Do you see anything there?\"",
+        "objectID": "3701ff85330428222792f110a46415ef"
+      },
+      "previous": {
+        "content": "\"There's no doubt about the authenticity, for the name and the date, 1647, are on the back of the canvas.\"",
+        "objectID": "881256112711fc9fef45928f50408044"
+      }
+    },
+    "objectID": "e673c9432967dfe80b103fb7ceb4aa2f",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Do you see anything there?\"",
+    "context": {
+      "next": {
+        "content": "I looked at the broad plumed hat, the curling love-locks, the white lace collar, and the straight, severe face which was framed between them. It was not a brutal countenance, but it was prim, hard, and stern, with a firm-set, thin-lipped mouth, and a coldly intolerant eye.",
+        "objectID": "a0686c7ec35cb885cdfd2b6f7e31723a"
+      },
+      "previous": {
+        "content": "Holmes said little more, but the picture of the old roysterer seemed to have a fascination for him, and his eyes were continually fixed upon it during supper. It was not until later, when Sir Henry had gone to his room, that I was able to follow the trend of his thoughts. He led me back into the banqueting-hall, his bedroom candle in his hand, and he held it up against the time-stained portrait on the wall.",
+        "objectID": "e673c9432967dfe80b103fb7ceb4aa2f"
+      }
+    },
+    "objectID": "3701ff85330428222792f110a46415ef",
+    "order": 62,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "I looked at the broad plumed hat, the curling love-locks, the white lace collar, and the straight, severe face which was framed between them. It was not a brutal countenance, but it was prim, hard, and stern, with a firm-set, thin-lipped mouth, and a coldly intolerant eye.",
+    "context": {
+      "next": {
+        "content": "\"Is it like anyone you know?\"",
+        "objectID": "7d6ff9f8741dc22d6fc12408975720eb"
+      },
+      "previous": {
+        "content": "\"Do you see anything there?\"",
+        "objectID": "3701ff85330428222792f110a46415ef"
+      }
+    },
+    "objectID": "a0686c7ec35cb885cdfd2b6f7e31723a",
+    "order": 63,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Is it like anyone you know?\"",
+    "context": {
+      "next": {
+        "content": "\"There is something of Sir Henry about the jaw.\"",
+        "objectID": "4c0aa901c16694e6d5b16b725bd0f261"
+      },
+      "previous": {
+        "content": "I looked at the broad plumed hat, the curling love-locks, the white lace collar, and the straight, severe face which was framed between them. It was not a brutal countenance, but it was prim, hard, and stern, with a firm-set, thin-lipped mouth, and a coldly intolerant eye.",
+        "objectID": "a0686c7ec35cb885cdfd2b6f7e31723a"
+      }
+    },
+    "objectID": "7d6ff9f8741dc22d6fc12408975720eb",
+    "order": 64,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"There is something of Sir Henry about the jaw.\"",
+    "context": {
+      "next": {
+        "content": "\"Just a suggestion, perhaps. But wait an instant!\" He stood upon a chair, and, holding up the light in his left hand, he curved his right arm over the broad hat and round the long ringlets.",
+        "objectID": "9c8148c1433fe396db3cc05bc9af87c8"
+      },
+      "previous": {
+        "content": "\"Is it like anyone you know?\"",
+        "objectID": "7d6ff9f8741dc22d6fc12408975720eb"
+      }
+    },
+    "objectID": "4c0aa901c16694e6d5b16b725bd0f261",
+    "order": 65,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Just a suggestion, perhaps. But wait an instant!\" He stood upon a chair, and, holding up the light in his left hand, he curved his right arm over the broad hat and round the long ringlets.",
+    "context": {
+      "next": {
+        "content": "\"Good heavens!\" I cried in amazement.",
+        "objectID": "9f25d54ec6ccdd1feae16cecbf0e38ad"
+      },
+      "previous": {
+        "content": "\"There is something of Sir Henry about the jaw.\"",
+        "objectID": "4c0aa901c16694e6d5b16b725bd0f261"
+      }
+    },
+    "objectID": "9c8148c1433fe396db3cc05bc9af87c8",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Good heavens!\" I cried in amazement.",
+    "context": {
+      "next": {
+        "content": "The face of Stapleton had sprung out of the canvas.",
+        "objectID": "360b974d96ac10e1c7ad584cda9c4072"
+      },
+      "previous": {
+        "content": "\"Just a suggestion, perhaps. But wait an instant!\" He stood upon a chair, and, holding up the light in his left hand, he curved his right arm over the broad hat and round the long ringlets.",
+        "objectID": "9c8148c1433fe396db3cc05bc9af87c8"
+      }
+    },
+    "objectID": "9f25d54ec6ccdd1feae16cecbf0e38ad",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "The face of Stapleton had sprung out of the canvas.",
+    "context": {
+      "next": {
+        "content": "\"Ha, you see it now. My eyes have been trained to examine faces and not their trimmings. It is the first quality of a criminal investigator that he should see through a disguise.\"",
+        "objectID": "11002f57f84b47036ffbeb09ba42f317"
+      },
+      "previous": {
+        "content": "\"Good heavens!\" I cried in amazement.",
+        "objectID": "9f25d54ec6ccdd1feae16cecbf0e38ad"
+      }
+    },
+    "objectID": "360b974d96ac10e1c7ad584cda9c4072",
+    "order": 68,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Ha, you see it now. My eyes have been trained to examine faces and not their trimmings. It is the first quality of a criminal investigator that he should see through a disguise.\"",
+    "context": {
+      "next": {
+        "content": "\"But this is marvellous. It might be his portrait.\"",
+        "objectID": "a4255b6c92ccbaa61eb65caf54f9e1ca"
+      },
+      "previous": {
+        "content": "The face of Stapleton had sprung out of the canvas.",
+        "objectID": "360b974d96ac10e1c7ad584cda9c4072"
+      }
+    },
+    "objectID": "11002f57f84b47036ffbeb09ba42f317",
+    "order": 69,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"But this is marvellous. It might be his portrait.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, it is an interesting instance of a throwback, which appears to be both physical and spiritual. A study of family portraits is enough to convert a man to the doctrine of reincarnation. The fellow is a Baskerville—that is evident.\"",
+        "objectID": "cf48e308e05815dd11098a9abf6bd074"
+      },
+      "previous": {
+        "content": "\"Ha, you see it now. My eyes have been trained to examine faces and not their trimmings. It is the first quality of a criminal investigator that he should see through a disguise.\"",
+        "objectID": "11002f57f84b47036ffbeb09ba42f317"
+      }
+    },
+    "objectID": "a4255b6c92ccbaa61eb65caf54f9e1ca",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Yes, it is an interesting instance of a throwback, which appears to be both physical and spiritual. A study of family portraits is enough to convert a man to the doctrine of reincarnation. The fellow is a Baskerville—that is evident.\"",
+    "context": {
+      "next": {
+        "content": "\"With designs upon the succession.\"",
+        "objectID": "ce7742ec8ac1e473614ff03151969147"
+      },
+      "previous": {
+        "content": "\"But this is marvellous. It might be his portrait.\"",
+        "objectID": "a4255b6c92ccbaa61eb65caf54f9e1ca"
+      }
+    },
+    "objectID": "cf48e308e05815dd11098a9abf6bd074",
+    "order": 71,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"With designs upon the succession.\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly. This chance of the picture has supplied us with one of our most obvious missing links. We have him, Watson, we have him, and I dare swear that before tomorrow night he will be fluttering in our net as helpless as one of his own butterflies. A pin, a cork, and a card, and we add him to the Baker Street collection!\" He burst into one of his rare fits of laughter as he turned away from the picture.",
+        "objectID": "e286b5db6165b7bdde6d95dfd5bd3e11"
+      },
+      "previous": {
+        "content": "\"Yes, it is an interesting instance of a throwback, which appears to be both physical and spiritual. A study of family portraits is enough to convert a man to the doctrine of reincarnation. The fellow is a Baskerville—that is evident.\"",
+        "objectID": "cf48e308e05815dd11098a9abf6bd074"
+      }
+    },
+    "objectID": "ce7742ec8ac1e473614ff03151969147",
+    "order": 72,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Exactly. This chance of the picture has supplied us with one of our most obvious missing links. We have him, Watson, we have him, and I dare swear that before tomorrow night he will be fluttering in our net as helpless as one of his own butterflies. A pin, a cork, and a card, and we add him to the Baker Street collection!\" He burst into one of his rare fits of laughter as he turned away from the picture.",
+    "context": {
+      "next": {
+        "content": "I have not heard him laugh often, and it has always boded ill to somebody.",
+        "objectID": "c6071e07921dc3f1c4d83365d73604ab"
+      },
+      "previous": {
+        "content": "\"With designs upon the succession.\"",
+        "objectID": "ce7742ec8ac1e473614ff03151969147"
+      }
+    },
+    "objectID": "e286b5db6165b7bdde6d95dfd5bd3e11",
+    "order": 73,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "I have not heard him laugh often, and it has always boded ill to somebody.",
+    "context": {
+      "next": {
+        "content": "I was up betimes in the morning, but Holmes was afoot earlier still, for I saw him as I dressed, coming up the drive.",
+        "objectID": "4a8f5705f662c16e507141497d6ada96"
+      },
+      "previous": {
+        "content": "\"Exactly. This chance of the picture has supplied us with one of our most obvious missing links. We have him, Watson, we have him, and I dare swear that before tomorrow night he will be fluttering in our net as helpless as one of his own butterflies. A pin, a cork, and a card, and we add him to the Baker Street collection!\" He burst into one of his rare fits of laughter as he turned away from the picture.",
+        "objectID": "e286b5db6165b7bdde6d95dfd5bd3e11"
+      }
+    },
+    "objectID": "c6071e07921dc3f1c4d83365d73604ab",
+    "order": 74,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "I was up betimes in the morning, but Holmes was afoot earlier still, for I saw him as I dressed, coming up the drive.",
+    "context": {
+      "next": {
+        "content": "\"Yes, we should have a full day today,\" he remarked, and he rubbed his hands with the joy of action. \"The nets are all in place, and the drag is about to begin. We'll know before the day is out whether we have caught our big, leanjawed pike, or whether he has got through the meshes.\"",
+        "objectID": "0146a2fa728285a8328d6c8d6cb74283"
+      },
+      "previous": {
+        "content": "I have not heard him laugh often, and it has always boded ill to somebody.",
+        "objectID": "c6071e07921dc3f1c4d83365d73604ab"
+      }
+    },
+    "objectID": "4a8f5705f662c16e507141497d6ada96",
+    "order": 75,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Yes, we should have a full day today,\" he remarked, and he rubbed his hands with the joy of action. \"The nets are all in place, and the drag is about to begin. We'll know before the day is out whether we have caught our big, leanjawed pike, or whether he has got through the meshes.\"",
+    "context": {
+      "next": {
+        "content": "\"Have you been on the moor already?\"",
+        "objectID": "c04e837ed2f56eba05512b89c3a276a7"
+      },
+      "previous": {
+        "content": "I was up betimes in the morning, but Holmes was afoot earlier still, for I saw him as I dressed, coming up the drive.",
+        "objectID": "4a8f5705f662c16e507141497d6ada96"
+      }
+    },
+    "objectID": "0146a2fa728285a8328d6c8d6cb74283",
+    "order": 76,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Have you been on the moor already?\"",
+    "context": {
+      "next": {
+        "content": "\"I have sent a report from Grimpen to Princetown as to the death of Selden. I think I can promise that none of you will be troubled in the matter. And I have also communicated with my faithful Cartwright, who would certainly have pined away at the door of my hut, as a dog does at his master's grave, if I had not set his mind at rest about my safety.",
+        "objectID": "c8b99c6b77104d5a215afad0d004eac5"
+      },
+      "previous": {
+        "content": "\"Yes, we should have a full day today,\" he remarked, and he rubbed his hands with the joy of action. \"The nets are all in place, and the drag is about to begin. We'll know before the day is out whether we have caught our big, leanjawed pike, or whether he has got through the meshes.\"",
+        "objectID": "0146a2fa728285a8328d6c8d6cb74283"
+      }
+    },
+    "objectID": "c04e837ed2f56eba05512b89c3a276a7",
+    "order": 77,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I have sent a report from Grimpen to Princetown as to the death of Selden. I think I can promise that none of you will be troubled in the matter. And I have also communicated with my faithful Cartwright, who would certainly have pined away at the door of my hut, as a dog does at his master's grave, if I had not set his mind at rest about my safety.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "fcef84e227780c3b95e64e8e308eab61"
+      },
+      "previous": {
+        "content": "\"Have you been on the moor already?\"",
+        "objectID": "c04e837ed2f56eba05512b89c3a276a7"
+      }
+    },
+    "objectID": "c8b99c6b77104d5a215afad0d004eac5",
+    "order": 78,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"What is the next move?\"",
+        "objectID": "c1326ca84d39f3c6a48a30b04d2a8581"
+      },
+      "previous": {
+        "content": "\"I have sent a report from Grimpen to Princetown as to the death of Selden. I think I can promise that none of you will be troubled in the matter. And I have also communicated with my faithful Cartwright, who would certainly have pined away at the door of my hut, as a dog does at his master's grave, if I had not set his mind at rest about my safety.",
+        "objectID": "c8b99c6b77104d5a215afad0d004eac5"
+      }
+    },
+    "objectID": "fcef84e227780c3b95e64e8e308eab61",
+    "order": 79,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"What is the next move?\"",
+    "context": {
+      "next": {
+        "content": "\"To see Sir Henry. Ah, here he is!\"",
+        "objectID": "0e0dae3cb4e44d02fccfd1a724e7a2ea"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "fcef84e227780c3b95e64e8e308eab61"
+      }
+    },
+    "objectID": "c1326ca84d39f3c6a48a30b04d2a8581",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"To see Sir Henry. Ah, here he is!\"",
+    "context": {
+      "next": {
+        "content": "\"Good-morning, Holmes,\" said the baronet. \"You look like a general who is planning a battle with his chief of the staff.\"",
+        "objectID": "0cdd2a81d9af122d2c888a5d41466e14"
+      },
+      "previous": {
+        "content": "\"What is the next move?\"",
+        "objectID": "c1326ca84d39f3c6a48a30b04d2a8581"
+      }
+    },
+    "objectID": "0e0dae3cb4e44d02fccfd1a724e7a2ea",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Good-morning, Holmes,\" said the baronet. \"You look like a general who is planning a battle with his chief of the staff.\"",
+    "context": {
+      "next": {
+        "content": "\"That is the exact situation. Watson was asking for orders.\"",
+        "objectID": "2491ebde6b317f9f0c250ed658864881"
+      },
+      "previous": {
+        "content": "\"To see Sir Henry. Ah, here he is!\"",
+        "objectID": "0e0dae3cb4e44d02fccfd1a724e7a2ea"
+      }
+    },
+    "objectID": "0cdd2a81d9af122d2c888a5d41466e14",
+    "order": 82,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"That is the exact situation. Watson was asking for orders.\"",
+    "context": {
+      "next": {
+        "content": "\"And so do I.\"",
+        "objectID": "d00bb81caef86881c6215efd67676ca9"
+      },
+      "previous": {
+        "content": "\"Good-morning, Holmes,\" said the baronet. \"You look like a general who is planning a battle with his chief of the staff.\"",
+        "objectID": "0cdd2a81d9af122d2c888a5d41466e14"
+      }
+    },
+    "objectID": "2491ebde6b317f9f0c250ed658864881",
+    "order": 83,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"And so do I.\"",
+    "context": {
+      "next": {
+        "content": "\"Very good. You are engaged, as I understand, to dine with our friends the Stapletons tonight.\"",
+        "objectID": "cf37dc95fc67f920409d09f6632d10ac"
+      },
+      "previous": {
+        "content": "\"That is the exact situation. Watson was asking for orders.\"",
+        "objectID": "2491ebde6b317f9f0c250ed658864881"
+      }
+    },
+    "objectID": "d00bb81caef86881c6215efd67676ca9",
+    "order": 84,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Very good. You are engaged, as I understand, to dine with our friends the Stapletons tonight.\"",
+    "context": {
+      "next": {
+        "content": "\"I hope that you will come also. They are very hospitable people, and I am sure that they would be very glad to see you.\"",
+        "objectID": "5b5eda361f96e953ed4c537f1f08559f"
+      },
+      "previous": {
+        "content": "\"And so do I.\"",
+        "objectID": "d00bb81caef86881c6215efd67676ca9"
+      }
+    },
+    "objectID": "cf37dc95fc67f920409d09f6632d10ac",
+    "order": 85,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I hope that you will come also. They are very hospitable people, and I am sure that they would be very glad to see you.\"",
+    "context": {
+      "next": {
+        "content": "\"I fear that Watson and I must go to London.\"",
+        "objectID": "f96cea357d0e81012f5414d19a151362"
+      },
+      "previous": {
+        "content": "\"Very good. You are engaged, as I understand, to dine with our friends the Stapletons tonight.\"",
+        "objectID": "cf37dc95fc67f920409d09f6632d10ac"
+      }
+    },
+    "objectID": "5b5eda361f96e953ed4c537f1f08559f",
+    "order": 86,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I fear that Watson and I must go to London.\"",
+    "context": {
+      "next": {
+        "content": "\"To London?\"",
+        "objectID": "2d37dd9c8f915089e61b36b21533d900"
+      },
+      "previous": {
+        "content": "\"I hope that you will come also. They are very hospitable people, and I am sure that they would be very glad to see you.\"",
+        "objectID": "5b5eda361f96e953ed4c537f1f08559f"
+      }
+    },
+    "objectID": "f96cea357d0e81012f5414d19a151362",
+    "order": 87,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"To London?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, I think that we should be more useful there at the present juncture.\"",
+        "objectID": "65b14ab37a9bd6fb469c7352d25fbe58"
+      },
+      "previous": {
+        "content": "\"I fear that Watson and I must go to London.\"",
+        "objectID": "f96cea357d0e81012f5414d19a151362"
+      }
+    },
+    "objectID": "2d37dd9c8f915089e61b36b21533d900",
+    "order": 88,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Yes, I think that we should be more useful there at the present juncture.\"",
+    "context": {
+      "next": {
+        "content": "The baronet's face perceptibly lengthened.",
+        "objectID": "afb17906bf65ee47e662f97163950398"
+      },
+      "previous": {
+        "content": "\"To London?\"",
+        "objectID": "2d37dd9c8f915089e61b36b21533d900"
+      }
+    },
+    "objectID": "65b14ab37a9bd6fb469c7352d25fbe58",
+    "order": 89,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "The baronet's face perceptibly lengthened.",
+    "context": {
+      "next": {
+        "content": "\"I hoped that you were going to see me through this business. The Hall and the moor are not very pleasant places when one is alone.\"",
+        "objectID": "e12dadfe4406c73606e9e3b4a996dc58"
+      },
+      "previous": {
+        "content": "\"Yes, I think that we should be more useful there at the present juncture.\"",
+        "objectID": "65b14ab37a9bd6fb469c7352d25fbe58"
+      }
+    },
+    "objectID": "afb17906bf65ee47e662f97163950398",
+    "order": 90,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I hoped that you were going to see me through this business. The Hall and the moor are not very pleasant places when one is alone.\"",
+    "context": {
+      "next": {
+        "content": "\"My dear fellow, you must trust me implicitly and do exactly what I tell you. You can tell your friends that we should have been happy to have come with you, but that urgent business required us to be in town. We hope very soon to return to Devonshire. Will you remember to give them that message?\"",
+        "objectID": "0d7d5db06af71c1757b3d402c40c5612"
+      },
+      "previous": {
+        "content": "The baronet's face perceptibly lengthened.",
+        "objectID": "afb17906bf65ee47e662f97163950398"
+      }
+    },
+    "objectID": "e12dadfe4406c73606e9e3b4a996dc58",
+    "order": 91,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"My dear fellow, you must trust me implicitly and do exactly what I tell you. You can tell your friends that we should have been happy to have come with you, but that urgent business required us to be in town. We hope very soon to return to Devonshire. Will you remember to give them that message?\"",
+    "context": {
+      "next": {
+        "content": "\"If you insist upon it.\"",
+        "objectID": "d0ddea2e957175530aff6b67fcc48966"
+      },
+      "previous": {
+        "content": "\"I hoped that you were going to see me through this business. The Hall and the moor are not very pleasant places when one is alone.\"",
+        "objectID": "e12dadfe4406c73606e9e3b4a996dc58"
+      }
+    },
+    "objectID": "0d7d5db06af71c1757b3d402c40c5612",
+    "order": 92,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"If you insist upon it.\"",
+    "context": {
+      "next": {
+        "content": "\"There is no alternative, I assure you.\"",
+        "objectID": "9dc326dff8ebea1d95c5b7c718ce0ede"
+      },
+      "previous": {
+        "content": "\"My dear fellow, you must trust me implicitly and do exactly what I tell you. You can tell your friends that we should have been happy to have come with you, but that urgent business required us to be in town. We hope very soon to return to Devonshire. Will you remember to give them that message?\"",
+        "objectID": "0d7d5db06af71c1757b3d402c40c5612"
+      }
+    },
+    "objectID": "d0ddea2e957175530aff6b67fcc48966",
+    "order": 93,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"There is no alternative, I assure you.\"",
+    "context": {
+      "next": {
+        "content": "I saw by the baronet's clouded brow that he was deeply hurt by what he regarded as our desertion.",
+        "objectID": "b34c99e2716626878f338b8f5d13475e"
+      },
+      "previous": {
+        "content": "\"If you insist upon it.\"",
+        "objectID": "d0ddea2e957175530aff6b67fcc48966"
+      }
+    },
+    "objectID": "9dc326dff8ebea1d95c5b7c718ce0ede",
+    "order": 94,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "I saw by the baronet's clouded brow that he was deeply hurt by what he regarded as our desertion.",
+    "context": {
+      "next": {
+        "content": "\"When do you desire to go?\" he asked coldly.",
+        "objectID": "5f7a8b2382dd08c3be0f8c0631c16d28"
+      },
+      "previous": {
+        "content": "\"There is no alternative, I assure you.\"",
+        "objectID": "9dc326dff8ebea1d95c5b7c718ce0ede"
+      }
+    },
+    "objectID": "b34c99e2716626878f338b8f5d13475e",
+    "order": 95,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"When do you desire to go?\" he asked coldly.",
+    "context": {
+      "next": {
+        "content": "\"Immediately after breakfast. We will drive in to Coombe Tracey, but Watson will leave his things as a pledge that he will come back to you. Watson, you will send a note to Stapleton to tell him that you regret that you cannot come.\"",
+        "objectID": "d72b5d568b4c032f4af98d3390f4eead"
+      },
+      "previous": {
+        "content": "I saw by the baronet's clouded brow that he was deeply hurt by what he regarded as our desertion.",
+        "objectID": "b34c99e2716626878f338b8f5d13475e"
+      }
+    },
+    "objectID": "5f7a8b2382dd08c3be0f8c0631c16d28",
+    "order": 96,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Immediately after breakfast. We will drive in to Coombe Tracey, but Watson will leave his things as a pledge that he will come back to you. Watson, you will send a note to Stapleton to tell him that you regret that you cannot come.\"",
+    "context": {
+      "next": {
+        "content": "\"I have a good mind to go to London with you,\" said the baronet. \"Why should I stay here alone?\"",
+        "objectID": "8caa27732d68ba62e1eb7155f3f98d1e"
+      },
+      "previous": {
+        "content": "\"When do you desire to go?\" he asked coldly.",
+        "objectID": "5f7a8b2382dd08c3be0f8c0631c16d28"
+      }
+    },
+    "objectID": "d72b5d568b4c032f4af98d3390f4eead",
+    "order": 97,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I have a good mind to go to London with you,\" said the baronet. \"Why should I stay here alone?\"",
+    "context": {
+      "next": {
+        "content": "\"Because it is your post of duty. Because you gave me your word that you would do as you were told, and I tell you to stay.\"",
+        "objectID": "6a1cb6ade46a9ea2b7c18a3e751f4aad"
+      },
+      "previous": {
+        "content": "\"Immediately after breakfast. We will drive in to Coombe Tracey, but Watson will leave his things as a pledge that he will come back to you. Watson, you will send a note to Stapleton to tell him that you regret that you cannot come.\"",
+        "objectID": "d72b5d568b4c032f4af98d3390f4eead"
+      }
+    },
+    "objectID": "8caa27732d68ba62e1eb7155f3f98d1e",
+    "order": 98,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Because it is your post of duty. Because you gave me your word that you would do as you were told, and I tell you to stay.\"",
+    "context": {
+      "next": {
+        "content": "\"All right, then, I'll stay.\"",
+        "objectID": "8c917f38d1d84aa2eb4431542a6e449c"
+      },
+      "previous": {
+        "content": "\"I have a good mind to go to London with you,\" said the baronet. \"Why should I stay here alone?\"",
+        "objectID": "8caa27732d68ba62e1eb7155f3f98d1e"
+      }
+    },
+    "objectID": "6a1cb6ade46a9ea2b7c18a3e751f4aad",
+    "order": 99,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"All right, then, I'll stay.\"",
+    "context": {
+      "next": {
+        "content": "\"One more direction! I wish you to drive to Merripit House. Send back your trap, however, and let them know that you intend to walk home.\"",
+        "objectID": "a9bfd5b8081ee8da07cbb3d75df3f506"
+      },
+      "previous": {
+        "content": "\"Because it is your post of duty. Because you gave me your word that you would do as you were told, and I tell you to stay.\"",
+        "objectID": "6a1cb6ade46a9ea2b7c18a3e751f4aad"
+      }
+    },
+    "objectID": "8c917f38d1d84aa2eb4431542a6e449c",
+    "order": 100,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"One more direction! I wish you to drive to Merripit House. Send back your trap, however, and let them know that you intend to walk home.\"",
+    "context": {
+      "next": {
+        "content": "\"To walk across the moor?\"",
+        "objectID": "3d81ee625a0d9f636ee6468b598c08a0"
+      },
+      "previous": {
+        "content": "\"All right, then, I'll stay.\"",
+        "objectID": "8c917f38d1d84aa2eb4431542a6e449c"
+      }
+    },
+    "objectID": "a9bfd5b8081ee8da07cbb3d75df3f506",
+    "order": 101,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"To walk across the moor?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes.\"",
+        "objectID": "23fb3ae7ce2530fbb6fc37009c26e221"
+      },
+      "previous": {
+        "content": "\"One more direction! I wish you to drive to Merripit House. Send back your trap, however, and let them know that you intend to walk home.\"",
+        "objectID": "a9bfd5b8081ee8da07cbb3d75df3f506"
+      }
+    },
+    "objectID": "3d81ee625a0d9f636ee6468b598c08a0",
+    "order": 102,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Yes.\"",
+    "context": {
+      "next": {
+        "content": "\"But that is the very thing which you have so often cautioned me not to do.\"",
+        "objectID": "b0bc7e54e3fb270b273a277a55fd022d"
+      },
+      "previous": {
+        "content": "\"To walk across the moor?\"",
+        "objectID": "3d81ee625a0d9f636ee6468b598c08a0"
+      }
+    },
+    "objectID": "23fb3ae7ce2530fbb6fc37009c26e221",
+    "order": 103,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"But that is the very thing which you have so often cautioned me not to do.\"",
+    "context": {
+      "next": {
+        "content": "\"This time you may do it with safety. If I had not every confidence in your nerve and courage I would not suggest it, but it is essential that you should do it.\"",
+        "objectID": "72c0c0f805dc522bb70b8d69e2d779b4"
+      },
+      "previous": {
+        "content": "\"Yes.\"",
+        "objectID": "23fb3ae7ce2530fbb6fc37009c26e221"
+      }
+    },
+    "objectID": "b0bc7e54e3fb270b273a277a55fd022d",
+    "order": 104,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"This time you may do it with safety. If I had not every confidence in your nerve and courage I would not suggest it, but it is essential that you should do it.\"",
+    "context": {
+      "next": {
+        "content": "\"Then I will do it.\"",
+        "objectID": "110c8e5dd44fad123f7b03dcb2ea67cb"
+      },
+      "previous": {
+        "content": "\"But that is the very thing which you have so often cautioned me not to do.\"",
+        "objectID": "b0bc7e54e3fb270b273a277a55fd022d"
+      }
+    },
+    "objectID": "72c0c0f805dc522bb70b8d69e2d779b4",
+    "order": 105,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Then I will do it.\"",
+    "context": {
+      "next": {
+        "content": "\"And as you value your life do not go across the moor in any direction save along the straight path which leads from Merripit House to the Grimpen Road, and is your natural way home.\"",
+        "objectID": "325af0107cc49911b0b83a518abe8717"
+      },
+      "previous": {
+        "content": "\"This time you may do it with safety. If I had not every confidence in your nerve and courage I would not suggest it, but it is essential that you should do it.\"",
+        "objectID": "72c0c0f805dc522bb70b8d69e2d779b4"
+      }
+    },
+    "objectID": "110c8e5dd44fad123f7b03dcb2ea67cb",
+    "order": 106,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"And as you value your life do not go across the moor in any direction save along the straight path which leads from Merripit House to the Grimpen Road, and is your natural way home.\"",
+    "context": {
+      "next": {
+        "content": "\"I will do just what you say.\"",
+        "objectID": "e65e58bfb3e989d8123b2cb2aa9624d2"
+      },
+      "previous": {
+        "content": "\"Then I will do it.\"",
+        "objectID": "110c8e5dd44fad123f7b03dcb2ea67cb"
+      }
+    },
+    "objectID": "325af0107cc49911b0b83a518abe8717",
+    "order": 107,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I will do just what you say.\"",
+    "context": {
+      "next": {
+        "content": "\"Very good. I should be glad to get away as soon after breakfast as possible, so as to reach London in the afternoon.\"",
+        "objectID": "ee68fa5e2463c0686d4fb4dd2bdaf8bb"
+      },
+      "previous": {
+        "content": "\"And as you value your life do not go across the moor in any direction save along the straight path which leads from Merripit House to the Grimpen Road, and is your natural way home.\"",
+        "objectID": "325af0107cc49911b0b83a518abe8717"
+      }
+    },
+    "objectID": "e65e58bfb3e989d8123b2cb2aa9624d2",
+    "order": 108,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Very good. I should be glad to get away as soon after breakfast as possible, so as to reach London in the afternoon.\"",
+    "context": {
+      "next": {
+        "content": "I was much astounded by this programme, though I remembered that Holmes had said to Stapleton on the night before that his visit would terminate next day. It had not crossed my mind however, that he would wish me to go with him, nor could I understand how we could both be absent at a moment which he himself declared to be critical.",
+        "objectID": "8bf2b9d188b2a517dbbd51061f2ce246"
+      },
+      "previous": {
+        "content": "\"I will do just what you say.\"",
+        "objectID": "e65e58bfb3e989d8123b2cb2aa9624d2"
+      }
+    },
+    "objectID": "ee68fa5e2463c0686d4fb4dd2bdaf8bb",
+    "order": 109,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "I was much astounded by this programme, though I remembered that Holmes had said to Stapleton on the night before that his visit would terminate next day. It had not crossed my mind however, that he would wish me to go with him, nor could I understand how we could both be absent at a moment which he himself declared to be critical.",
+    "context": {
+      "next": {
+        "content": "There was nothing for it, however, but implicit obedience; so we bade good-bye to our rueful friend, and a couple of hours afterwards we were at the station of Coombe Tracey and had dispatched the trap upon its return journey. A small boy was waiting upon the platform.",
+        "objectID": "32f9b4bb535ef35ca074c4031b21f15d"
+      },
+      "previous": {
+        "content": "\"Very good. I should be glad to get away as soon after breakfast as possible, so as to reach London in the afternoon.\"",
+        "objectID": "ee68fa5e2463c0686d4fb4dd2bdaf8bb"
+      }
+    },
+    "objectID": "8bf2b9d188b2a517dbbd51061f2ce246",
+    "order": 110,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "There was nothing for it, however, but implicit obedience; so we bade good-bye to our rueful friend, and a couple of hours afterwards we were at the station of Coombe Tracey and had dispatched the trap upon its return journey. A small boy was waiting upon the platform.",
+    "context": {
+      "next": {
+        "content": "\"Any orders, sir?\"",
+        "objectID": "d2af07c488bc1b394d139120409572ce"
+      },
+      "previous": {
+        "content": "I was much astounded by this programme, though I remembered that Holmes had said to Stapleton on the night before that his visit would terminate next day. It had not crossed my mind however, that he would wish me to go with him, nor could I understand how we could both be absent at a moment which he himself declared to be critical.",
+        "objectID": "8bf2b9d188b2a517dbbd51061f2ce246"
+      }
+    },
+    "objectID": "32f9b4bb535ef35ca074c4031b21f15d",
+    "order": 111,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Any orders, sir?\"",
+    "context": {
+      "next": {
+        "content": "\"You will take this train to town, Cartwright. The moment you arrive you will send a wire to Sir Henry Baskerville, in my name, to say that if he finds the pocketbook which I have dropped he is to send it by registered post to Baker Street.\"",
+        "objectID": "71994a6951048fdc0ff78113ca643779"
+      },
+      "previous": {
+        "content": "There was nothing for it, however, but implicit obedience; so we bade good-bye to our rueful friend, and a couple of hours afterwards we were at the station of Coombe Tracey and had dispatched the trap upon its return journey. A small boy was waiting upon the platform.",
+        "objectID": "32f9b4bb535ef35ca074c4031b21f15d"
+      }
+    },
+    "objectID": "d2af07c488bc1b394d139120409572ce",
+    "order": 112,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"You will take this train to town, Cartwright. The moment you arrive you will send a wire to Sir Henry Baskerville, in my name, to say that if he finds the pocketbook which I have dropped he is to send it by registered post to Baker Street.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, sir.\"",
+        "objectID": "adfc388f020fb4c7cbecaa8c4bccb441"
+      },
+      "previous": {
+        "content": "\"Any orders, sir?\"",
+        "objectID": "d2af07c488bc1b394d139120409572ce"
+      }
+    },
+    "objectID": "71994a6951048fdc0ff78113ca643779",
+    "order": 113,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Yes, sir.\"",
+    "context": {
+      "next": {
+        "content": "\"And ask at the station office if there is a message for me.\"",
+        "objectID": "957c810cbbe764e1e0c82f04f015bfd6"
+      },
+      "previous": {
+        "content": "\"You will take this train to town, Cartwright. The moment you arrive you will send a wire to Sir Henry Baskerville, in my name, to say that if he finds the pocketbook which I have dropped he is to send it by registered post to Baker Street.\"",
+        "objectID": "71994a6951048fdc0ff78113ca643779"
+      }
+    },
+    "objectID": "adfc388f020fb4c7cbecaa8c4bccb441",
+    "order": 114,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"And ask at the station office if there is a message for me.\"",
+    "context": {
+      "next": {
+        "content": "The boy returned with a telegram, which Holmes handed to me. It ran:",
+        "objectID": "8f1991b67914c8a561f81131c804dea8"
+      },
+      "previous": {
+        "content": "\"Yes, sir.\"",
+        "objectID": "adfc388f020fb4c7cbecaa8c4bccb441"
+      }
+    },
+    "objectID": "957c810cbbe764e1e0c82f04f015bfd6",
+    "order": 115,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "The boy returned with a telegram, which Holmes handed to me. It ran:",
+    "context": {
+      "next": {
+        "content": "Wire received. Coming down with unsigned warrant. Arrive five-forty. Lestrade.",
+        "objectID": "b6d7d213c0eb8201f24473a60bb96443"
+      },
+      "previous": {
+        "content": "\"And ask at the station office if there is a message for me.\"",
+        "objectID": "957c810cbbe764e1e0c82f04f015bfd6"
+      }
+    },
+    "objectID": "8f1991b67914c8a561f81131c804dea8",
+    "order": 116,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "Wire received. Coming down with unsigned warrant. Arrive five-forty. Lestrade.",
+    "context": {
+      "next": {
+        "content": "\"That is in answer to mine of this morning. He is the best of the professionals, I think, and we may need his assistance. Now, Watson, I think that we cannot employ our time better than by calling upon your acquaintance, Mrs. Laura Lyons.\"",
+        "objectID": "f79179d83b618604e5ea9f6081425208"
+      },
+      "previous": {
+        "content": "The boy returned with a telegram, which Holmes handed to me. It ran:",
+        "objectID": "8f1991b67914c8a561f81131c804dea8"
+      }
+    },
+    "objectID": "b6d7d213c0eb8201f24473a60bb96443",
+    "order": 117,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"That is in answer to mine of this morning. He is the best of the professionals, I think, and we may need his assistance. Now, Watson, I think that we cannot employ our time better than by calling upon your acquaintance, Mrs. Laura Lyons.\"",
+    "context": {
+      "next": {
+        "content": "His plan of campaign was beginning to be evident. He would use the baronet in order to convince the Stapletons that we were really gone, while we should actually return at the instant when we were likely to be needed. That telegram from London, if mentioned by Sir Henry to the Stapletons, must remove the last suspicions from their minds.",
+        "objectID": "0279fa2b892272efedf14f135ea8f908"
+      },
+      "previous": {
+        "content": "Wire received. Coming down with unsigned warrant. Arrive five-forty. Lestrade.",
+        "objectID": "b6d7d213c0eb8201f24473a60bb96443"
+      }
+    },
+    "objectID": "f79179d83b618604e5ea9f6081425208",
+    "order": 118,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "His plan of campaign was beginning to be evident. He would use the baronet in order to convince the Stapletons that we were really gone, while we should actually return at the instant when we were likely to be needed. That telegram from London, if mentioned by Sir Henry to the Stapletons, must remove the last suspicions from their minds.",
+    "context": {
+      "next": {
+        "content": "Already I seemed to see our nets drawing closer around that leanjawed pike.",
+        "objectID": "27c6298f9bbbf0b380f8c540983f58ae"
+      },
+      "previous": {
+        "content": "\"That is in answer to mine of this morning. He is the best of the professionals, I think, and we may need his assistance. Now, Watson, I think that we cannot employ our time better than by calling upon your acquaintance, Mrs. Laura Lyons.\"",
+        "objectID": "f79179d83b618604e5ea9f6081425208"
+      }
+    },
+    "objectID": "0279fa2b892272efedf14f135ea8f908",
+    "order": 119,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "Already I seemed to see our nets drawing closer around that leanjawed pike.",
+    "context": {
+      "next": {
+        "content": "Mrs. Laura Lyons was in her office, and Sherlock Holmes opened his interview with a frankness and directness which considerably amazed her.",
+        "objectID": "b23988b8efef4af6481078f26a17eb7f"
+      },
+      "previous": {
+        "content": "His plan of campaign was beginning to be evident. He would use the baronet in order to convince the Stapletons that we were really gone, while we should actually return at the instant when we were likely to be needed. That telegram from London, if mentioned by Sir Henry to the Stapletons, must remove the last suspicions from their minds.",
+        "objectID": "0279fa2b892272efedf14f135ea8f908"
+      }
+    },
+    "objectID": "27c6298f9bbbf0b380f8c540983f58ae",
+    "order": 120,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "Mrs. Laura Lyons was in her office, and Sherlock Holmes opened his interview with a frankness and directness which considerably amazed her.",
+    "context": {
+      "next": {
+        "content": "\"I am investigating the circumstances which attended the death of the late Sir Charles Baskerville,\" said he. \"My friend here, Dr. Watson, has informed me of what you have communicated, and also of what you have withheld in connection with that matter.\"",
+        "objectID": "e5c77c8ea501aec685285b96375bdc2b"
+      },
+      "previous": {
+        "content": "Already I seemed to see our nets drawing closer around that leanjawed pike.",
+        "objectID": "27c6298f9bbbf0b380f8c540983f58ae"
+      }
+    },
+    "objectID": "b23988b8efef4af6481078f26a17eb7f",
+    "order": 121,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I am investigating the circumstances which attended the death of the late Sir Charles Baskerville,\" said he. \"My friend here, Dr. Watson, has informed me of what you have communicated, and also of what you have withheld in connection with that matter.\"",
+    "context": {
+      "next": {
+        "content": "\"What have I withheld?\" she asked defiantly.",
+        "objectID": "bdd26a0e0236e8668dfe9ff93994dde6"
+      },
+      "previous": {
+        "content": "Mrs. Laura Lyons was in her office, and Sherlock Holmes opened his interview with a frankness and directness which considerably amazed her.",
+        "objectID": "b23988b8efef4af6481078f26a17eb7f"
+      }
+    },
+    "objectID": "e5c77c8ea501aec685285b96375bdc2b",
+    "order": 122,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"What have I withheld?\" she asked defiantly.",
+    "context": {
+      "next": {
+        "content": "\"You have confessed that you asked Sir Charles to be at the gate at ten o'clock. We know that that was the place and hour of his death. You have withheld what the connection is between these events.\"",
+        "objectID": "2c1ef6cb2f2050ed8933bd0bcffcd577"
+      },
+      "previous": {
+        "content": "\"I am investigating the circumstances which attended the death of the late Sir Charles Baskerville,\" said he. \"My friend here, Dr. Watson, has informed me of what you have communicated, and also of what you have withheld in connection with that matter.\"",
+        "objectID": "e5c77c8ea501aec685285b96375bdc2b"
+      }
+    },
+    "objectID": "bdd26a0e0236e8668dfe9ff93994dde6",
+    "order": 123,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"You have confessed that you asked Sir Charles to be at the gate at ten o'clock. We know that that was the place and hour of his death. You have withheld what the connection is between these events.\"",
+    "context": {
+      "next": {
+        "content": "\"There is no connection.\"",
+        "objectID": "d047ce3f6b27ca0fd85238d4b3caaa2c"
+      },
+      "previous": {
+        "content": "\"What have I withheld?\" she asked defiantly.",
+        "objectID": "bdd26a0e0236e8668dfe9ff93994dde6"
+      }
+    },
+    "objectID": "2c1ef6cb2f2050ed8933bd0bcffcd577",
+    "order": 124,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"There is no connection.\"",
+    "context": {
+      "next": {
+        "content": "\"In that case the coincidence must indeed be an extraordinary one. But I think that we shall succeed in establishing a connection, after all. I wish to be perfectly frank with you, Mrs. Lyons. We regard this case as one of murder, and the evidence may implicate not only your friend Mr. Stapleton but his wife as well.",
+        "objectID": "448896945dfe56f0985390be11c1c7aa"
+      },
+      "previous": {
+        "content": "\"You have confessed that you asked Sir Charles to be at the gate at ten o'clock. We know that that was the place and hour of his death. You have withheld what the connection is between these events.\"",
+        "objectID": "2c1ef6cb2f2050ed8933bd0bcffcd577"
+      }
+    },
+    "objectID": "d047ce3f6b27ca0fd85238d4b3caaa2c",
+    "order": 125,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"In that case the coincidence must indeed be an extraordinary one. But I think that we shall succeed in establishing a connection, after all. I wish to be perfectly frank with you, Mrs. Lyons. We regard this case as one of murder, and the evidence may implicate not only your friend Mr. Stapleton but his wife as well.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "db6911e3939ffe019c84dc4a94043529"
+      },
+      "previous": {
+        "content": "\"There is no connection.\"",
+        "objectID": "d047ce3f6b27ca0fd85238d4b3caaa2c"
+      }
+    },
+    "objectID": "448896945dfe56f0985390be11c1c7aa",
+    "order": 126,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "The lady sprang from her chair.",
+        "objectID": "fcf89628ccdc9c8f701e9d67c2a7d07d"
+      },
+      "previous": {
+        "content": "\"In that case the coincidence must indeed be an extraordinary one. But I think that we shall succeed in establishing a connection, after all. I wish to be perfectly frank with you, Mrs. Lyons. We regard this case as one of murder, and the evidence may implicate not only your friend Mr. Stapleton but his wife as well.",
+        "objectID": "448896945dfe56f0985390be11c1c7aa"
+      }
+    },
+    "objectID": "db6911e3939ffe019c84dc4a94043529",
+    "order": 127,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "The lady sprang from her chair.",
+    "context": {
+      "next": {
+        "content": "\"His wife!\" she cried.",
+        "objectID": "ab22cd3359510c71f253f4d48a800c97"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "db6911e3939ffe019c84dc4a94043529"
+      }
+    },
+    "objectID": "fcf89628ccdc9c8f701e9d67c2a7d07d",
+    "order": 128,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"His wife!\" she cried.",
+    "context": {
+      "next": {
+        "content": "\"The fact is no longer a secret. The person who has passed for his sister is really his wife.\"",
+        "objectID": "71136f1b770d6b576307887abdaf651d"
+      },
+      "previous": {
+        "content": "The lady sprang from her chair.",
+        "objectID": "fcf89628ccdc9c8f701e9d67c2a7d07d"
+      }
+    },
+    "objectID": "ab22cd3359510c71f253f4d48a800c97",
+    "order": 129,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"The fact is no longer a secret. The person who has passed for his sister is really his wife.\"",
+    "context": {
+      "next": {
+        "content": "Mrs. Lyons had resumed her seat. Her hands were grasping the arms of her chair, and I saw that the pink nails had turned white with the pressure of her grip.",
+        "objectID": "b1443474e25375f30ad214241eb338e2"
+      },
+      "previous": {
+        "content": "\"His wife!\" she cried.",
+        "objectID": "ab22cd3359510c71f253f4d48a800c97"
+      }
+    },
+    "objectID": "71136f1b770d6b576307887abdaf651d",
+    "order": 130,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "Mrs. Lyons had resumed her seat. Her hands were grasping the arms of her chair, and I saw that the pink nails had turned white with the pressure of her grip.",
+    "context": {
+      "next": {
+        "content": "\"His wife!\" she said again. \"His wife! He is not a married man.\"",
+        "objectID": "58bc5ae84b1bd774646504f24fc07d0c"
+      },
+      "previous": {
+        "content": "\"The fact is no longer a secret. The person who has passed for his sister is really his wife.\"",
+        "objectID": "71136f1b770d6b576307887abdaf651d"
+      }
+    },
+    "objectID": "b1443474e25375f30ad214241eb338e2",
+    "order": 131,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"His wife!\" she said again. \"His wife! He is not a married man.\"",
+    "context": {
+      "next": {
+        "content": "Sherlock Holmes shrugged his shoulders.",
+        "objectID": "0c38e2c0da7c55638fcfc397edd2310d"
+      },
+      "previous": {
+        "content": "Mrs. Lyons had resumed her seat. Her hands were grasping the arms of her chair, and I saw that the pink nails had turned white with the pressure of her grip.",
+        "objectID": "b1443474e25375f30ad214241eb338e2"
+      }
+    },
+    "objectID": "58bc5ae84b1bd774646504f24fc07d0c",
+    "order": 132,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "Sherlock Holmes shrugged his shoulders.",
+    "context": {
+      "next": {
+        "content": "\"Prove it to me! Prove it to me! And if you can do so—!\"",
+        "objectID": "6a114ae09462a0ca046811b39907da32"
+      },
+      "previous": {
+        "content": "\"His wife!\" she said again. \"His wife! He is not a married man.\"",
+        "objectID": "58bc5ae84b1bd774646504f24fc07d0c"
+      }
+    },
+    "objectID": "0c38e2c0da7c55638fcfc397edd2310d",
+    "order": 133,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Prove it to me! Prove it to me! And if you can do so—!\"",
+    "context": {
+      "next": {
+        "content": "The fierce flash of her eyes said more than any words.",
+        "objectID": "f4319373de1c712f2b1674f7daac2849"
+      },
+      "previous": {
+        "content": "Sherlock Holmes shrugged his shoulders.",
+        "objectID": "0c38e2c0da7c55638fcfc397edd2310d"
+      }
+    },
+    "objectID": "6a114ae09462a0ca046811b39907da32",
+    "order": 134,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "The fierce flash of her eyes said more than any words.",
+    "context": {
+      "next": {
+        "content": "\"I have come prepared to do so,\" said Holmes, drawing several papers from his pocket. \"Here is a photograph of the couple taken in York four years ago. It is indorsed 'Mr. and Mrs. Vandeleur,' but you will have no difficulty in recognizing him, and her also, if you know her by sight. Here are three written descriptions by trustworthy witnesses of Mr.",
+        "objectID": "58aeb81af337df56e6a0e4b87ebcd095"
+      },
+      "previous": {
+        "content": "\"Prove it to me! Prove it to me! And if you can do so—!\"",
+        "objectID": "6a114ae09462a0ca046811b39907da32"
+      }
+    },
+    "objectID": "f4319373de1c712f2b1674f7daac2849",
+    "order": 135,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I have come prepared to do so,\" said Holmes, drawing several papers from his pocket. \"Here is a photograph of the couple taken in York four years ago. It is indorsed 'Mr. and Mrs. Vandeleur,' but you will have no difficulty in recognizing him, and her also, if you know her by sight. Here are three written descriptions by trustworthy witnesses of Mr.",
+    "context": {
+      "next": {
+        "content": "and Mrs. Vandeleur, who at that time kept St. Oliver's private school. Read them and see if you can doubt the identity of these people.\"",
+        "objectID": "efb86aec7fa56072654148a42565a714"
+      },
+      "previous": {
+        "content": "The fierce flash of her eyes said more than any words.",
+        "objectID": "f4319373de1c712f2b1674f7daac2849"
+      }
+    },
+    "objectID": "58aeb81af337df56e6a0e4b87ebcd095",
+    "order": 136,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "and Mrs. Vandeleur, who at that time kept St. Oliver's private school. Read them and see if you can doubt the identity of these people.\"",
+    "context": {
+      "next": {
+        "content": "She glanced at them, and then looked up at us with the set, rigid face of a desperate woman.",
+        "objectID": "e0de90a25ead9089ca7cc4596d2cfe30"
+      },
+      "previous": {
+        "content": "\"I have come prepared to do so,\" said Holmes, drawing several papers from his pocket. \"Here is a photograph of the couple taken in York four years ago. It is indorsed 'Mr. and Mrs. Vandeleur,' but you will have no difficulty in recognizing him, and her also, if you know her by sight. Here are three written descriptions by trustworthy witnesses of Mr.",
+        "objectID": "58aeb81af337df56e6a0e4b87ebcd095"
+      }
+    },
+    "objectID": "efb86aec7fa56072654148a42565a714",
+    "order": 137,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "She glanced at them, and then looked up at us with the set, rigid face of a desperate woman.",
+    "context": {
+      "next": {
+        "content": "\"Mr. Holmes,\" she said, \"this man had offered me marriage on condition that I could get a divorce from my husband. He has lied to me, the villain, in every conceivable way. Not one word of truth has he ever told me. And why—why? I imagined that all was for my own sake. But now I see that I was never anything but a tool in his hands.",
+        "objectID": "7ea9e9069337eebf3bc8771a523dd7f2"
+      },
+      "previous": {
+        "content": "and Mrs. Vandeleur, who at that time kept St. Oliver's private school. Read them and see if you can doubt the identity of these people.\"",
+        "objectID": "efb86aec7fa56072654148a42565a714"
+      }
+    },
+    "objectID": "e0de90a25ead9089ca7cc4596d2cfe30",
+    "order": 138,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Mr. Holmes,\" she said, \"this man had offered me marriage on condition that I could get a divorce from my husband. He has lied to me, the villain, in every conceivable way. Not one word of truth has he ever told me. And why—why? I imagined that all was for my own sake. But now I see that I was never anything but a tool in his hands.",
+    "context": {
+      "next": {
+        "content": "Why should I preserve faith with him who never kept any with me? Why should I try to shield him from the consequences of his own wicked acts? Ask me what you like, and there is nothing which I shall hold back. One thing I swear to you, and that is that when I wrote the letter I never dreamed of any harm to the old gentleman, who had been my kindest friend.",
+        "objectID": "663b0b08a2440ad27a5d67ca5f90c985"
+      },
+      "previous": {
+        "content": "She glanced at them, and then looked up at us with the set, rigid face of a desperate woman.",
+        "objectID": "e0de90a25ead9089ca7cc4596d2cfe30"
+      }
+    },
+    "objectID": "7ea9e9069337eebf3bc8771a523dd7f2",
+    "order": 139,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "Why should I preserve faith with him who never kept any with me? Why should I try to shield him from the consequences of his own wicked acts? Ask me what you like, and there is nothing which I shall hold back. One thing I swear to you, and that is that when I wrote the letter I never dreamed of any harm to the old gentleman, who had been my kindest friend.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "85e97d0cb8bfbef15fd96c6d627a94ad"
+      },
+      "previous": {
+        "content": "\"Mr. Holmes,\" she said, \"this man had offered me marriage on condition that I could get a divorce from my husband. He has lied to me, the villain, in every conceivable way. Not one word of truth has he ever told me. And why—why? I imagined that all was for my own sake. But now I see that I was never anything but a tool in his hands.",
+        "objectID": "7ea9e9069337eebf3bc8771a523dd7f2"
+      }
+    },
+    "objectID": "663b0b08a2440ad27a5d67ca5f90c985",
+    "order": 140,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"I entirely believe you, madam,\" said Sherlock Holmes. \"The recital of these events must be very painful to you, and perhaps it will make it easier if I tell you what occurred, and you can check me if I make any material mistake. The sending of this letter was suggested to you by Stapleton?\"",
+        "objectID": "4a74cb7007382a87bb8b98dd3680ef0a"
+      },
+      "previous": {
+        "content": "Why should I preserve faith with him who never kept any with me? Why should I try to shield him from the consequences of his own wicked acts? Ask me what you like, and there is nothing which I shall hold back. One thing I swear to you, and that is that when I wrote the letter I never dreamed of any harm to the old gentleman, who had been my kindest friend.",
+        "objectID": "663b0b08a2440ad27a5d67ca5f90c985"
+      }
+    },
+    "objectID": "85e97d0cb8bfbef15fd96c6d627a94ad",
+    "order": 141,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I entirely believe you, madam,\" said Sherlock Holmes. \"The recital of these events must be very painful to you, and perhaps it will make it easier if I tell you what occurred, and you can check me if I make any material mistake. The sending of this letter was suggested to you by Stapleton?\"",
+    "context": {
+      "next": {
+        "content": "\"He dictated it.\"",
+        "objectID": "ae7d47cb40015fb97b50e57834e1cfef"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "85e97d0cb8bfbef15fd96c6d627a94ad"
+      }
+    },
+    "objectID": "4a74cb7007382a87bb8b98dd3680ef0a",
+    "order": 142,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"He dictated it.\"",
+    "context": {
+      "next": {
+        "content": "\"I presume that the reason he gave was that you would receive help from Sir Charles for the legal expenses connected with your divorce?\"",
+        "objectID": "22f8eff814214e204dbb9efda6d99d94"
+      },
+      "previous": {
+        "content": "\"I entirely believe you, madam,\" said Sherlock Holmes. \"The recital of these events must be very painful to you, and perhaps it will make it easier if I tell you what occurred, and you can check me if I make any material mistake. The sending of this letter was suggested to you by Stapleton?\"",
+        "objectID": "4a74cb7007382a87bb8b98dd3680ef0a"
+      }
+    },
+    "objectID": "ae7d47cb40015fb97b50e57834e1cfef",
+    "order": 143,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I presume that the reason he gave was that you would receive help from Sir Charles for the legal expenses connected with your divorce?\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly.\"",
+        "objectID": "c641c4b4d2454480b19a7c1f5397a6e3"
+      },
+      "previous": {
+        "content": "\"He dictated it.\"",
+        "objectID": "ae7d47cb40015fb97b50e57834e1cfef"
+      }
+    },
+    "objectID": "22f8eff814214e204dbb9efda6d99d94",
+    "order": 144,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Exactly.\"",
+    "context": {
+      "next": {
+        "content": "\"And then after you had sent the letter he dissuaded you from keeping the appointment?\"",
+        "objectID": "786293cc8e14a436e265fffd3db8cbe8"
+      },
+      "previous": {
+        "content": "\"I presume that the reason he gave was that you would receive help from Sir Charles for the legal expenses connected with your divorce?\"",
+        "objectID": "22f8eff814214e204dbb9efda6d99d94"
+      }
+    },
+    "objectID": "c641c4b4d2454480b19a7c1f5397a6e3",
+    "order": 145,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"And then after you had sent the letter he dissuaded you from keeping the appointment?\"",
+    "context": {
+      "next": {
+        "content": "\"He told me that it would hurt his self-respect that any other man should find the money for such an object, and that though he was a poor man himself he would devote his last penny to removing the obstacles which divided us.\"",
+        "objectID": "d39776cff0550cf122d5d25d3332b8e0"
+      },
+      "previous": {
+        "content": "\"Exactly.\"",
+        "objectID": "c641c4b4d2454480b19a7c1f5397a6e3"
+      }
+    },
+    "objectID": "786293cc8e14a436e265fffd3db8cbe8",
+    "order": 146,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"He told me that it would hurt his self-respect that any other man should find the money for such an object, and that though he was a poor man himself he would devote his last penny to removing the obstacles which divided us.\"",
+    "context": {
+      "next": {
+        "content": "\"He appears to be a very consistent character. And then you heard nothing until you read the reports of the death in the paper?\"",
+        "objectID": "6327e95c836a5c1b22cd5fc581f81186"
+      },
+      "previous": {
+        "content": "\"And then after you had sent the letter he dissuaded you from keeping the appointment?\"",
+        "objectID": "786293cc8e14a436e265fffd3db8cbe8"
+      }
+    },
+    "objectID": "d39776cff0550cf122d5d25d3332b8e0",
+    "order": 147,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"He appears to be a very consistent character. And then you heard nothing until you read the reports of the death in the paper?\"",
+    "context": {
+      "next": {
+        "content": "\"No.\"",
+        "objectID": "760487607fb4611af1b64a99fed08be2"
+      },
+      "previous": {
+        "content": "\"He told me that it would hurt his self-respect that any other man should find the money for such an object, and that though he was a poor man himself he would devote his last penny to removing the obstacles which divided us.\"",
+        "objectID": "d39776cff0550cf122d5d25d3332b8e0"
+      }
+    },
+    "objectID": "6327e95c836a5c1b22cd5fc581f81186",
+    "order": 148,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"No.\"",
+    "context": {
+      "next": {
+        "content": "\"And he made you swear to say nothing about your appointment with Sir Charles?\"",
+        "objectID": "766152200873b86b82fbfce7f30994e3"
+      },
+      "previous": {
+        "content": "\"He appears to be a very consistent character. And then you heard nothing until you read the reports of the death in the paper?\"",
+        "objectID": "6327e95c836a5c1b22cd5fc581f81186"
+      }
+    },
+    "objectID": "760487607fb4611af1b64a99fed08be2",
+    "order": 149,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"And he made you swear to say nothing about your appointment with Sir Charles?\"",
+    "context": {
+      "next": {
+        "content": "\"He did. He said that the death was a very mysterious one, and that I should certainly be suspected if the facts came out. He frightened me into remaining silent.\"",
+        "objectID": "f33ff1e3ba39c1075db4e286e10a038e"
+      },
+      "previous": {
+        "content": "\"No.\"",
+        "objectID": "760487607fb4611af1b64a99fed08be2"
+      }
+    },
+    "objectID": "766152200873b86b82fbfce7f30994e3",
+    "order": 150,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"He did. He said that the death was a very mysterious one, and that I should certainly be suspected if the facts came out. He frightened me into remaining silent.\"",
+    "context": {
+      "next": {
+        "content": "\"Quite so. But you had your suspicions?\"",
+        "objectID": "1651e21a2dc401b40b010ac342f0271e"
+      },
+      "previous": {
+        "content": "\"And he made you swear to say nothing about your appointment with Sir Charles?\"",
+        "objectID": "766152200873b86b82fbfce7f30994e3"
+      }
+    },
+    "objectID": "f33ff1e3ba39c1075db4e286e10a038e",
+    "order": 151,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Quite so. But you had your suspicions?\"",
+    "context": {
+      "next": {
+        "content": "She hesitated and looked down.",
+        "objectID": "c50c3d46c5dcf9048f16a459bc45b0c8"
+      },
+      "previous": {
+        "content": "\"He did. He said that the death was a very mysterious one, and that I should certainly be suspected if the facts came out. He frightened me into remaining silent.\"",
+        "objectID": "f33ff1e3ba39c1075db4e286e10a038e"
+      }
+    },
+    "objectID": "1651e21a2dc401b40b010ac342f0271e",
+    "order": 152,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "She hesitated and looked down.",
+    "context": {
+      "next": {
+        "content": "\"I knew him,\" she said. \"But if he had kept faith with me I should always have done so with him.\"",
+        "objectID": "85bcbc68628d189827637f9dae6033ca"
+      },
+      "previous": {
+        "content": "\"Quite so. But you had your suspicions?\"",
+        "objectID": "1651e21a2dc401b40b010ac342f0271e"
+      }
+    },
+    "objectID": "c50c3d46c5dcf9048f16a459bc45b0c8",
+    "order": 153,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I knew him,\" she said. \"But if he had kept faith with me I should always have done so with him.\"",
+    "context": {
+      "next": {
+        "content": "\"I think that on the whole you have had a fortunate escape,\" said Sherlock Holmes. \"You have had him in your power and he knew it, and yet you are alive. You have been walking for some months very near to the edge of a precipice. We must wish you good-morning now, Mrs. Lyons, and it is probable that you will very shortly hear from us again.",
+        "objectID": "e552663a7ae5a4f31937f8ce37b78154"
+      },
+      "previous": {
+        "content": "She hesitated and looked down.",
+        "objectID": "c50c3d46c5dcf9048f16a459bc45b0c8"
+      }
+    },
+    "objectID": "85bcbc68628d189827637f9dae6033ca",
+    "order": 154,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"I think that on the whole you have had a fortunate escape,\" said Sherlock Holmes. \"You have had him in your power and he knew it, and yet you are alive. You have been walking for some months very near to the edge of a precipice. We must wish you good-morning now, Mrs. Lyons, and it is probable that you will very shortly hear from us again.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "c3b022e599a00c57d7ea17fb104d9d98"
+      },
+      "previous": {
+        "content": "\"I knew him,\" she said. \"But if he had kept faith with me I should always have done so with him.\"",
+        "objectID": "85bcbc68628d189827637f9dae6033ca"
+      }
+    },
+    "objectID": "e552663a7ae5a4f31937f8ce37b78154",
+    "order": 155,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Our case becomes rounded off, and difficulty after difficulty thins away in front of us,\" said Holmes as we stood waiting for the arrival of the express from town. \"I shall soon be in the position of being able to put into a single connected narrative one of the most singular and sensational crimes of modern times.",
+        "objectID": "d4e97743a8fc0dedd82c4dcc8bf25443"
+      },
+      "previous": {
+        "content": "\"I think that on the whole you have had a fortunate escape,\" said Sherlock Holmes. \"You have had him in your power and he knew it, and yet you are alive. You have been walking for some months very near to the edge of a precipice. We must wish you good-morning now, Mrs. Lyons, and it is probable that you will very shortly hear from us again.",
+        "objectID": "e552663a7ae5a4f31937f8ce37b78154"
+      }
+    },
+    "objectID": "c3b022e599a00c57d7ea17fb104d9d98",
+    "order": 156,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Our case becomes rounded off, and difficulty after difficulty thins away in front of us,\" said Holmes as we stood waiting for the arrival of the express from town. \"I shall soon be in the position of being able to put into a single connected narrative one of the most singular and sensational crimes of modern times.",
+    "context": {
+      "next": {
+        "content": "Students of criminology will remember the analogous incidents in Godno, in Little Russia, in the year '66, and of course there are the Anderson murders in North Carolina, but this case possesses some features which are entirely its own. Even now we have no clear case against this very wily man. But I shall be very much surprised if it is not clear enough before we go to bed this night.",
+        "objectID": "c9c7b459a8d5c3c682adef35201b6764"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "c3b022e599a00c57d7ea17fb104d9d98"
+      }
+    },
+    "objectID": "d4e97743a8fc0dedd82c4dcc8bf25443",
+    "order": 157,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "Students of criminology will remember the analogous incidents in Godno, in Little Russia, in the year '66, and of course there are the Anderson murders in North Carolina, but this case possesses some features which are entirely its own. Even now we have no clear case against this very wily man. But I shall be very much surprised if it is not clear enough before we go to bed this night.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "b7d7b425f0b2aa2512c9b1de09857134"
+      },
+      "previous": {
+        "content": "\"Our case becomes rounded off, and difficulty after difficulty thins away in front of us,\" said Holmes as we stood waiting for the arrival of the express from town. \"I shall soon be in the position of being able to put into a single connected narrative one of the most singular and sensational crimes of modern times.",
+        "objectID": "d4e97743a8fc0dedd82c4dcc8bf25443"
+      }
+    },
+    "objectID": "c9c7b459a8d5c3c682adef35201b6764",
+    "order": 158,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "The London express came roaring into the station, and a small, wiry bulldog of a man had sprung from a first-class carriage. We all three shook hands, and I saw at once from the reverential way in which Lestrade gazed at my companion that he had learned a good deal since the days when they had first worked together.",
+        "objectID": "00f53fa7cdd8d8283e135540d1e58b6d"
+      },
+      "previous": {
+        "content": "Students of criminology will remember the analogous incidents in Godno, in Little Russia, in the year '66, and of course there are the Anderson murders in North Carolina, but this case possesses some features which are entirely its own. Even now we have no clear case against this very wily man. But I shall be very much surprised if it is not clear enough before we go to bed this night.",
+        "objectID": "c9c7b459a8d5c3c682adef35201b6764"
+      }
+    },
+    "objectID": "b7d7b425f0b2aa2512c9b1de09857134",
+    "order": 159,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "The London express came roaring into the station, and a small, wiry bulldog of a man had sprung from a first-class carriage. We all three shook hands, and I saw at once from the reverential way in which Lestrade gazed at my companion that he had learned a good deal since the days when they had first worked together.",
+    "context": {
+      "next": {
+        "content": "I could well remember the scorn which the theories of the reasoner used then to excite in the practical man.",
+        "objectID": "d8ade0690cfa870cbea14e2bd5be478d"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "b7d7b425f0b2aa2512c9b1de09857134"
+      }
+    },
+    "objectID": "00f53fa7cdd8d8283e135540d1e58b6d",
+    "order": 160,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "I could well remember the scorn which the theories of the reasoner used then to excite in the practical man.",
+    "context": {
+      "next": {
+        "content": "\"Anything good?\" he asked.",
+        "objectID": "cec8fb6466cef64c130af08737b10ed4"
+      },
+      "previous": {
+        "content": "The London express came roaring into the station, and a small, wiry bulldog of a man had sprung from a first-class carriage. We all three shook hands, and I saw at once from the reverential way in which Lestrade gazed at my companion that he had learned a good deal since the days when they had first worked together.",
+        "objectID": "00f53fa7cdd8d8283e135540d1e58b6d"
+      }
+    },
+    "objectID": "d8ade0690cfa870cbea14e2bd5be478d",
+    "order": 161,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"Anything good?\" he asked.",
+    "context": {
+      "next": {
+        "content": "\"The biggest thing for years,\" said Holmes. \"We have two hours before we need think of starting. I think we might employ it in getting some dinner and then, Lestrade, we will take the London fog out of your throat by giving you a breath of the pure night air of Dartmoor. Never been there? Ah, well, I don't suppose you will forget your first visit.",
+        "objectID": "0988dad2ebaa8adbdfe341e1780c81fe"
+      },
+      "previous": {
+        "content": "I could well remember the scorn which the theories of the reasoner used then to excite in the practical man.",
+        "objectID": "d8ade0690cfa870cbea14e2bd5be478d"
+      }
+    },
+    "objectID": "cec8fb6466cef64c130af08737b10ed4",
+    "order": 162,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"The biggest thing for years,\" said Holmes. \"We have two hours before we need think of starting. I think we might employ it in getting some dinner and then, Lestrade, we will take the London fog out of your throat by giving you a breath of the pure night air of Dartmoor. Never been there? Ah, well, I don't suppose you will forget your first visit.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "c32f17dd231da31fafa6b35ff9765edc"
+      },
+      "previous": {
+        "content": "\"Anything good?\" he asked.",
+        "objectID": "cec8fb6466cef64c130af08737b10ed4"
+      }
+    },
+    "objectID": "0988dad2ebaa8adbdfe341e1780c81fe",
+    "order": 163,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 13. Fixing the Nets",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "\"The biggest thing for years,\" said Holmes. \"We have two hours before we need think of starting. I think we might employ it in getting some dinner and then, Lestrade, we will take the London fog out of your throat by giving you a breath of the pure night air of Dartmoor. Never been there? Ah, well, I don't suppose you will forget your first visit.",
+        "objectID": "0988dad2ebaa8adbdfe341e1780c81fe"
+      }
+    },
+    "objectID": "c32f17dd231da31fafa6b35ff9765edc",
+    "order": 164,
+    "tagName": "P"
+  }
+]

@@ -2,3 +2,5 @@
 npm run import -- "./books/a-study-in-scarlet.htm" --bookOrder=1 --strategy "stud"
 npm run import -- "./books/the-sign-of-the-four.htm" --bookOrder=2 --strategy "sign"
 npm run import -- "./books/the-adventures-of-sherlock-holmes.htm" --bookOrder=3 --strategy "adve"
+npm run import -- "./books/the-memoirs-of-sherlock-holmes.htm" --bookOrder=4 --strategy "memo"
+npm run import -- "./books/the-hound-of-the-baskervilles.htm" --bookOrder=5 --strategy "houn"

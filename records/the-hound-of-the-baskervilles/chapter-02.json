@@ -1,0 +1,983 @@
+[
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"I have in my pocket a manuscript,\" said Dr. James Mortimer.",
+    "context": {
+      "next": {
+        "content": "\"I observed it as you entered the room,\" said Holmes.",
+        "objectID": "4f4ad839b3ab856b02506f44c4798fdc"
+      },
+      "previous": null
+    },
+    "objectID": "e3703901d0a8d261b6a879eaa3136b64",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"I observed it as you entered the room,\" said Holmes.",
+    "context": {
+      "next": {
+        "content": "\"It is an old manuscript.\"",
+        "objectID": "b9aed80f6918fa8b49f50980701871a8"
+      },
+      "previous": {
+        "content": "\"I have in my pocket a manuscript,\" said Dr. James Mortimer.",
+        "objectID": "e3703901d0a8d261b6a879eaa3136b64"
+      }
+    },
+    "objectID": "4f4ad839b3ab856b02506f44c4798fdc",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"It is an old manuscript.\"",
+    "context": {
+      "next": {
+        "content": "\"Early eighteenth century, unless it is a forgery.\"",
+        "objectID": "db122134a0af0c8711b1751005a64a3a"
+      },
+      "previous": {
+        "content": "\"I observed it as you entered the room,\" said Holmes.",
+        "objectID": "4f4ad839b3ab856b02506f44c4798fdc"
+      }
+    },
+    "objectID": "b9aed80f6918fa8b49f50980701871a8",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"Early eighteenth century, unless it is a forgery.\"",
+    "context": {
+      "next": {
+        "content": "\"How can you say that, sir?\"",
+        "objectID": "d47309f95cca02d838979481c9e79ea8"
+      },
+      "previous": {
+        "content": "\"It is an old manuscript.\"",
+        "objectID": "b9aed80f6918fa8b49f50980701871a8"
+      }
+    },
+    "objectID": "db122134a0af0c8711b1751005a64a3a",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"How can you say that, sir?\"",
+    "context": {
+      "next": {
+        "content": "\"You have presented an inch or two of it to my examination all the time that you have been talking. It would be a poor expert who could not give the date of a document within a decade or so. You may possibly have read my little monograph upon the subject. I put that at 1730.\"",
+        "objectID": "65d5a16941c7da7b18404074954dd5c3"
+      },
+      "previous": {
+        "content": "\"Early eighteenth century, unless it is a forgery.\"",
+        "objectID": "db122134a0af0c8711b1751005a64a3a"
+      }
+    },
+    "objectID": "d47309f95cca02d838979481c9e79ea8",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"You have presented an inch or two of it to my examination all the time that you have been talking. It would be a poor expert who could not give the date of a document within a decade or so. You may possibly have read my little monograph upon the subject. I put that at 1730.\"",
+    "context": {
+      "next": {
+        "content": "\"The exact date is 1742.\" Dr. Mortimer drew it from his breast-pocket. \"This family paper was committed to my care by Sir Charles Baskerville, whose sudden and tragic death some three months ago created so much excitement in Devonshire. I may say that I was his personal friend as well as his medical attendant.",
+        "objectID": "c0077a34ee19e08f5d1b9869b58bac55"
+      },
+      "previous": {
+        "content": "\"How can you say that, sir?\"",
+        "objectID": "d47309f95cca02d838979481c9e79ea8"
+      }
+    },
+    "objectID": "65d5a16941c7da7b18404074954dd5c3",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"The exact date is 1742.\" Dr. Mortimer drew it from his breast-pocket. \"This family paper was committed to my care by Sir Charles Baskerville, whose sudden and tragic death some three months ago created so much excitement in Devonshire. I may say that I was his personal friend as well as his medical attendant.",
+    "context": {
+      "next": {
+        "content": "He was a strong-minded man, sir, shrewd, practical, and as unimaginative as I am myself. Yet he took this document very seriously, and his mind was prepared for just such an end as did eventually overtake him.\"",
+        "objectID": "ab07fbe42237a70342b019c0df3c1287"
+      },
+      "previous": {
+        "content": "\"You have presented an inch or two of it to my examination all the time that you have been talking. It would be a poor expert who could not give the date of a document within a decade or so. You may possibly have read my little monograph upon the subject. I put that at 1730.\"",
+        "objectID": "65d5a16941c7da7b18404074954dd5c3"
+      }
+    },
+    "objectID": "c0077a34ee19e08f5d1b9869b58bac55",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "He was a strong-minded man, sir, shrewd, practical, and as unimaginative as I am myself. Yet he took this document very seriously, and his mind was prepared for just such an end as did eventually overtake him.\"",
+    "context": {
+      "next": {
+        "content": "Holmes stretched out his hand for the manuscript and flattened it upon his knee. \"You will observe, Watson, the alternative use of the long s and the short. It is one of several indications which enabled me to fix the date.\"",
+        "objectID": "7c535afcdc35dff6930aa1e15c79f5f5"
+      },
+      "previous": {
+        "content": "\"The exact date is 1742.\" Dr. Mortimer drew it from his breast-pocket. \"This family paper was committed to my care by Sir Charles Baskerville, whose sudden and tragic death some three months ago created so much excitement in Devonshire. I may say that I was his personal friend as well as his medical attendant.",
+        "objectID": "c0077a34ee19e08f5d1b9869b58bac55"
+      }
+    },
+    "objectID": "ab07fbe42237a70342b019c0df3c1287",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "Holmes stretched out his hand for the manuscript and flattened it upon his knee. \"You will observe, Watson, the alternative use of the long s and the short. It is one of several indications which enabled me to fix the date.\"",
+    "context": {
+      "next": {
+        "content": "I looked over his shoulder at the yellow paper and the faded script. At the head was written: \"Baskerville Hall,\" and below in large, scrawling figures: \"1742.\"",
+        "objectID": "c14cf2ee72e0fa89ae8e90bf16a1922e"
+      },
+      "previous": {
+        "content": "He was a strong-minded man, sir, shrewd, practical, and as unimaginative as I am myself. Yet he took this document very seriously, and his mind was prepared for just such an end as did eventually overtake him.\"",
+        "objectID": "ab07fbe42237a70342b019c0df3c1287"
+      }
+    },
+    "objectID": "7c535afcdc35dff6930aa1e15c79f5f5",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "I looked over his shoulder at the yellow paper and the faded script. At the head was written: \"Baskerville Hall,\" and below in large, scrawling figures: \"1742.\"",
+    "context": {
+      "next": {
+        "content": "\"It appears to be a statement of some sort.\"",
+        "objectID": "69710156af9e83b6ddbc6c731235d44a"
+      },
+      "previous": {
+        "content": "Holmes stretched out his hand for the manuscript and flattened it upon his knee. \"You will observe, Watson, the alternative use of the long s and the short. It is one of several indications which enabled me to fix the date.\"",
+        "objectID": "7c535afcdc35dff6930aa1e15c79f5f5"
+      }
+    },
+    "objectID": "c14cf2ee72e0fa89ae8e90bf16a1922e",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"It appears to be a statement of some sort.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, it is a statement of a certain legend which runs in the Baskerville family.\"",
+        "objectID": "987d8b52eee238f327cd107e49eafb59"
+      },
+      "previous": {
+        "content": "I looked over his shoulder at the yellow paper and the faded script. At the head was written: \"Baskerville Hall,\" and below in large, scrawling figures: \"1742.\"",
+        "objectID": "c14cf2ee72e0fa89ae8e90bf16a1922e"
+      }
+    },
+    "objectID": "69710156af9e83b6ddbc6c731235d44a",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"Yes, it is a statement of a certain legend which runs in the Baskerville family.\"",
+    "context": {
+      "next": {
+        "content": "\"But I understand that it is something more modern and practical upon which you wish to consult me?\"",
+        "objectID": "312a91e05254ea2d90feb86ecb9ff5c5"
+      },
+      "previous": {
+        "content": "\"It appears to be a statement of some sort.\"",
+        "objectID": "69710156af9e83b6ddbc6c731235d44a"
+      }
+    },
+    "objectID": "987d8b52eee238f327cd107e49eafb59",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"But I understand that it is something more modern and practical upon which you wish to consult me?\"",
+    "context": {
+      "next": {
+        "content": "\"Most modern. A most practical, pressing matter, which must be decided within twenty-four hours. But the manuscript is short and is intimately connected with the affair. With your permission I will read it to you.\"",
+        "objectID": "afa68587b8f8e537f3280d26837d16ac"
+      },
+      "previous": {
+        "content": "\"Yes, it is a statement of a certain legend which runs in the Baskerville family.\"",
+        "objectID": "987d8b52eee238f327cd107e49eafb59"
+      }
+    },
+    "objectID": "312a91e05254ea2d90feb86ecb9ff5c5",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"Most modern. A most practical, pressing matter, which must be decided within twenty-four hours. But the manuscript is short and is intimately connected with the affair. With your permission I will read it to you.\"",
+    "context": {
+      "next": {
+        "content": "Holmes leaned back in his chair, placed his finger-tips together, and closed his eyes, with an air of resignation. Dr. Mortimer turned the manuscript to the light and read in a high, cracking voice the following curious, old-world narrative:",
+        "objectID": "6f85a1da977fbe4efe7ecf447e43d423"
+      },
+      "previous": {
+        "content": "\"But I understand that it is something more modern and practical upon which you wish to consult me?\"",
+        "objectID": "312a91e05254ea2d90feb86ecb9ff5c5"
+      }
+    },
+    "objectID": "afa68587b8f8e537f3280d26837d16ac",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "Holmes leaned back in his chair, placed his finger-tips together, and closed his eyes, with an air of resignation. Dr. Mortimer turned the manuscript to the light and read in a high, cracking voice the following curious, old-world narrative:",
+    "context": {
+      "next": {
+        "content": "When Dr. Mortimer had finished reading this singular narrative he pushed his spectacles up on his forehead and stared across at Mr. Sherlock Holmes. The latter yawned and tossed the end of his cigarette into the fire.",
+        "objectID": "a3f0b6476d5d4424d35ec1a5397b7d50"
+      },
+      "previous": {
+        "content": "\"Most modern. A most practical, pressing matter, which must be decided within twenty-four hours. But the manuscript is short and is intimately connected with the affair. With your permission I will read it to you.\"",
+        "objectID": "afa68587b8f8e537f3280d26837d16ac"
+      }
+    },
+    "objectID": "6f85a1da977fbe4efe7ecf447e43d423",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "When Dr. Mortimer had finished reading this singular narrative he pushed his spectacles up on his forehead and stared across at Mr. Sherlock Holmes. The latter yawned and tossed the end of his cigarette into the fire.",
+    "context": {
+      "next": {
+        "content": "\"Well?\" said he.",
+        "objectID": "80a3626fb1705a3e7348b46db660203e"
+      },
+      "previous": {
+        "content": "Holmes leaned back in his chair, placed his finger-tips together, and closed his eyes, with an air of resignation. Dr. Mortimer turned the manuscript to the light and read in a high, cracking voice the following curious, old-world narrative:",
+        "objectID": "6f85a1da977fbe4efe7ecf447e43d423"
+      }
+    },
+    "objectID": "a3f0b6476d5d4424d35ec1a5397b7d50",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"Well?\" said he.",
+    "context": {
+      "next": {
+        "content": "\"Do you not find it interesting?\"",
+        "objectID": "88c29fc852641538426debbff00a377e"
+      },
+      "previous": {
+        "content": "When Dr. Mortimer had finished reading this singular narrative he pushed his spectacles up on his forehead and stared across at Mr. Sherlock Holmes. The latter yawned and tossed the end of his cigarette into the fire.",
+        "objectID": "a3f0b6476d5d4424d35ec1a5397b7d50"
+      }
+    },
+    "objectID": "80a3626fb1705a3e7348b46db660203e",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"Do you not find it interesting?\"",
+    "context": {
+      "next": {
+        "content": "\"To a collector of fairy tales.\"",
+        "objectID": "44f3d62cef01d4879371f56c262fe3fb"
+      },
+      "previous": {
+        "content": "\"Well?\" said he.",
+        "objectID": "80a3626fb1705a3e7348b46db660203e"
+      }
+    },
+    "objectID": "88c29fc852641538426debbff00a377e",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"To a collector of fairy tales.\"",
+    "context": {
+      "next": {
+        "content": "Dr. Mortimer drew a folded newspaper out of his pocket.",
+        "objectID": "26752cd045af2f6ab2cdc67d0267cf6a"
+      },
+      "previous": {
+        "content": "\"Do you not find it interesting?\"",
+        "objectID": "88c29fc852641538426debbff00a377e"
+      }
+    },
+    "objectID": "44f3d62cef01d4879371f56c262fe3fb",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "Dr. Mortimer drew a folded newspaper out of his pocket.",
+    "context": {
+      "next": {
+        "content": "\"Now, Mr. Holmes, we will give you something a little more recent. This is the Devon County Chronicle of May 14th of this year. It is a short account of the facts elicited at the death of Sir Charles Baskerville which occurred a few days before that date.\"",
+        "objectID": "f0aa4b23bcdf2b3e32656d5cc695c08c"
+      },
+      "previous": {
+        "content": "\"To a collector of fairy tales.\"",
+        "objectID": "44f3d62cef01d4879371f56c262fe3fb"
+      }
+    },
+    "objectID": "26752cd045af2f6ab2cdc67d0267cf6a",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"Now, Mr. Holmes, we will give you something a little more recent. This is the Devon County Chronicle of May 14th of this year. It is a short account of the facts elicited at the death of Sir Charles Baskerville which occurred a few days before that date.\"",
+    "context": {
+      "next": {
+        "content": "My friend leaned a little forward and his expression became intent. Our visitor readjusted his glasses and began:",
+        "objectID": "3bc7a21698f3225549ba7047a78a3731"
+      },
+      "previous": {
+        "content": "Dr. Mortimer drew a folded newspaper out of his pocket.",
+        "objectID": "26752cd045af2f6ab2cdc67d0267cf6a"
+      }
+    },
+    "objectID": "f0aa4b23bcdf2b3e32656d5cc695c08c",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "My friend leaned a little forward and his expression became intent. Our visitor readjusted his glasses and began:",
+    "context": {
+      "next": {
+        "content": "Dr. Mortimer refolded his paper and replaced it in his pocket. \"Those are the public facts, Mr. Holmes, in connection with the death of Sir Charles Baskerville.\"",
+        "objectID": "ee8876c4b553cd778373acc4fe3e48ea"
+      },
+      "previous": {
+        "content": "\"Now, Mr. Holmes, we will give you something a little more recent. This is the Devon County Chronicle of May 14th of this year. It is a short account of the facts elicited at the death of Sir Charles Baskerville which occurred a few days before that date.\"",
+        "objectID": "f0aa4b23bcdf2b3e32656d5cc695c08c"
+      }
+    },
+    "objectID": "3bc7a21698f3225549ba7047a78a3731",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "Dr. Mortimer refolded his paper and replaced it in his pocket. \"Those are the public facts, Mr. Holmes, in connection with the death of Sir Charles Baskerville.\"",
+    "context": {
+      "next": {
+        "content": "\"I must thank you,\" said Sherlock Holmes, \"for calling my attention to a case which certainly presents some features of interest. I had observed some newspaper comment at the time, but I was exceedingly preoccupied by that little affair of the Vatican cameos, and in my anxiety to oblige the Pope I lost touch with several interesting English cases.",
+        "objectID": "8e518685e124dc24826c22d50b43c58f"
+      },
+      "previous": {
+        "content": "My friend leaned a little forward and his expression became intent. Our visitor readjusted his glasses and began:",
+        "objectID": "3bc7a21698f3225549ba7047a78a3731"
+      }
+    },
+    "objectID": "ee8876c4b553cd778373acc4fe3e48ea",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"I must thank you,\" said Sherlock Holmes, \"for calling my attention to a case which certainly presents some features of interest. I had observed some newspaper comment at the time, but I was exceedingly preoccupied by that little affair of the Vatican cameos, and in my anxiety to oblige the Pope I lost touch with several interesting English cases.",
+    "context": {
+      "next": {
+        "content": "This article, you say, contains all the public facts?\"",
+        "objectID": "5a0f65f044adf0017f2ae094e025a1fb"
+      },
+      "previous": {
+        "content": "Dr. Mortimer refolded his paper and replaced it in his pocket. \"Those are the public facts, Mr. Holmes, in connection with the death of Sir Charles Baskerville.\"",
+        "objectID": "ee8876c4b553cd778373acc4fe3e48ea"
+      }
+    },
+    "objectID": "8e518685e124dc24826c22d50b43c58f",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "This article, you say, contains all the public facts?\"",
+    "context": {
+      "next": {
+        "content": "\"It does.\"",
+        "objectID": "b46a925fd8643240881207a53941358d"
+      },
+      "previous": {
+        "content": "\"I must thank you,\" said Sherlock Holmes, \"for calling my attention to a case which certainly presents some features of interest. I had observed some newspaper comment at the time, but I was exceedingly preoccupied by that little affair of the Vatican cameos, and in my anxiety to oblige the Pope I lost touch with several interesting English cases.",
+        "objectID": "8e518685e124dc24826c22d50b43c58f"
+      }
+    },
+    "objectID": "5a0f65f044adf0017f2ae094e025a1fb",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"It does.\"",
+    "context": {
+      "next": {
+        "content": "\"Then let me have the private ones.\" He leaned back, put his finger-tips together, and assumed his most impassive and judicial expression.",
+        "objectID": "4131f7d3ce5dae04423d400568602056"
+      },
+      "previous": {
+        "content": "This article, you say, contains all the public facts?\"",
+        "objectID": "5a0f65f044adf0017f2ae094e025a1fb"
+      }
+    },
+    "objectID": "b46a925fd8643240881207a53941358d",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"Then let me have the private ones.\" He leaned back, put his finger-tips together, and assumed his most impassive and judicial expression.",
+    "context": {
+      "next": {
+        "content": "\"In doing so,\" said Dr. Mortimer, who had begun to show signs of some strong emotion, \"I am telling that which I have not confided to anyone. My motive for withholding it from the coroner's inquiry is that a man of science shrinks from placing himself in the public position of seeming to indorse a popular superstition.",
+        "objectID": "4fa01ba5eabaaf34684cc4c310207dfc"
+      },
+      "previous": {
+        "content": "\"It does.\"",
+        "objectID": "b46a925fd8643240881207a53941358d"
+      }
+    },
+    "objectID": "4131f7d3ce5dae04423d400568602056",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"In doing so,\" said Dr. Mortimer, who had begun to show signs of some strong emotion, \"I am telling that which I have not confided to anyone. My motive for withholding it from the coroner's inquiry is that a man of science shrinks from placing himself in the public position of seeming to indorse a popular superstition.",
+    "context": {
+      "next": {
+        "content": "I had the further motive that Baskerville Hall, as the paper says, would certainly remain untenanted if anything were done to increase its already rather grim reputation. For both these reasons I thought that I was justified in telling rather less than I knew, since no practical good could result from it, but with you there is no reason why I should not be perfectly frank.",
+        "objectID": "533d8786329b59fe091edc1df5c3b143"
+      },
+      "previous": {
+        "content": "\"Then let me have the private ones.\" He leaned back, put his finger-tips together, and assumed his most impassive and judicial expression.",
+        "objectID": "4131f7d3ce5dae04423d400568602056"
+      }
+    },
+    "objectID": "4fa01ba5eabaaf34684cc4c310207dfc",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "I had the further motive that Baskerville Hall, as the paper says, would certainly remain untenanted if anything were done to increase its already rather grim reputation. For both these reasons I thought that I was justified in telling rather less than I knew, since no practical good could result from it, but with you there is no reason why I should not be perfectly frank.",
+    "context": {
+      "next": {
+        "content": "\"The moor is very sparsely inhabited, and those who live near each other are thrown very much together. For this reason I saw a good deal of Sir Charles Baskerville. With the exception of Mr. Frankland, of Lafter Hall, and Mr. Stapleton, the naturalist, there are no other men of education within many miles.",
+        "objectID": "5c71382f4909ca6fa7109b59229b4382"
+      },
+      "previous": {
+        "content": "\"In doing so,\" said Dr. Mortimer, who had begun to show signs of some strong emotion, \"I am telling that which I have not confided to anyone. My motive for withholding it from the coroner's inquiry is that a man of science shrinks from placing himself in the public position of seeming to indorse a popular superstition.",
+        "objectID": "4fa01ba5eabaaf34684cc4c310207dfc"
+      }
+    },
+    "objectID": "533d8786329b59fe091edc1df5c3b143",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"The moor is very sparsely inhabited, and those who live near each other are thrown very much together. For this reason I saw a good deal of Sir Charles Baskerville. With the exception of Mr. Frankland, of Lafter Hall, and Mr. Stapleton, the naturalist, there are no other men of education within many miles.",
+    "context": {
+      "next": {
+        "content": "Sir Charles was a retiring man, but the chance of his illness brought us together, and a community of interests in science kept us so. He had brought back much scientific information from South Africa, and many a charming evening we have spent together discussing the comparative anatomy of the Bushman and the Hottentot.",
+        "objectID": "2d61aa71b33578b7a1ed2e8fca3d4a13"
+      },
+      "previous": {
+        "content": "I had the further motive that Baskerville Hall, as the paper says, would certainly remain untenanted if anything were done to increase its already rather grim reputation. For both these reasons I thought that I was justified in telling rather less than I knew, since no practical good could result from it, but with you there is no reason why I should not be perfectly frank.",
+        "objectID": "533d8786329b59fe091edc1df5c3b143"
+      }
+    },
+    "objectID": "5c71382f4909ca6fa7109b59229b4382",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "Sir Charles was a retiring man, but the chance of his illness brought us together, and a community of interests in science kept us so. He had brought back much scientific information from South Africa, and many a charming evening we have spent together discussing the comparative anatomy of the Bushman and the Hottentot.",
+    "context": {
+      "next": {
+        "content": "\"Within the last few months it became increasingly plain to me that Sir Charles's nervous system was strained to the breaking point. He had taken this legend which I have read you exceedingly to heart—so much so that, although he would walk in his own grounds, nothing would induce him to go out upon the moor at night.",
+        "objectID": "44e6c05cd24b77b76eb2064471bbf68e"
+      },
+      "previous": {
+        "content": "\"The moor is very sparsely inhabited, and those who live near each other are thrown very much together. For this reason I saw a good deal of Sir Charles Baskerville. With the exception of Mr. Frankland, of Lafter Hall, and Mr. Stapleton, the naturalist, there are no other men of education within many miles.",
+        "objectID": "5c71382f4909ca6fa7109b59229b4382"
+      }
+    },
+    "objectID": "2d61aa71b33578b7a1ed2e8fca3d4a13",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"Within the last few months it became increasingly plain to me that Sir Charles's nervous system was strained to the breaking point. He had taken this legend which I have read you exceedingly to heart—so much so that, although he would walk in his own grounds, nothing would induce him to go out upon the moor at night.",
+    "context": {
+      "next": {
+        "content": "Incredible as it may appear to you, Mr. Holmes, he was honestly convinced that a dreadful fate overhung his family, and certainly the records which he was able to give of his ancestors were not encouraging. The idea of some ghastly presence constantly haunted him, and on more than one occasion he has asked me whether I had on my medical journeys at night ever seen any strange creature or heard the baying of a hound.",
+        "objectID": "44cb812b5be260ce18b7f8d4a87efcf0"
+      },
+      "previous": {
+        "content": "Sir Charles was a retiring man, but the chance of his illness brought us together, and a community of interests in science kept us so. He had brought back much scientific information from South Africa, and many a charming evening we have spent together discussing the comparative anatomy of the Bushman and the Hottentot.",
+        "objectID": "2d61aa71b33578b7a1ed2e8fca3d4a13"
+      }
+    },
+    "objectID": "44e6c05cd24b77b76eb2064471bbf68e",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "Incredible as it may appear to you, Mr. Holmes, he was honestly convinced that a dreadful fate overhung his family, and certainly the records which he was able to give of his ancestors were not encouraging. The idea of some ghastly presence constantly haunted him, and on more than one occasion he has asked me whether I had on my medical journeys at night ever seen any strange creature or heard the baying of a hound.",
+    "context": {
+      "next": {
+        "content": "The latter question he put to me several times, and always with a voice which vibrated with excitement.",
+        "objectID": "08c0c169195ed427d7accf0efb51b1b5"
+      },
+      "previous": {
+        "content": "\"Within the last few months it became increasingly plain to me that Sir Charles's nervous system was strained to the breaking point. He had taken this legend which I have read you exceedingly to heart—so much so that, although he would walk in his own grounds, nothing would induce him to go out upon the moor at night.",
+        "objectID": "44e6c05cd24b77b76eb2064471bbf68e"
+      }
+    },
+    "objectID": "44cb812b5be260ce18b7f8d4a87efcf0",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "The latter question he put to me several times, and always with a voice which vibrated with excitement.",
+    "context": {
+      "next": {
+        "content": "\"I can well remember driving up to his house in the evening some three weeks before the fatal event. He chanced to be at his hall door. I had descended from my gig and was standing in front of him, when I saw his eyes fix themselves over my shoulder and stare past me with an expression of the most dreadful horror.",
+        "objectID": "2b3a117138f861eb313672b1419deb05"
+      },
+      "previous": {
+        "content": "Incredible as it may appear to you, Mr. Holmes, he was honestly convinced that a dreadful fate overhung his family, and certainly the records which he was able to give of his ancestors were not encouraging. The idea of some ghastly presence constantly haunted him, and on more than one occasion he has asked me whether I had on my medical journeys at night ever seen any strange creature or heard the baying of a hound.",
+        "objectID": "44cb812b5be260ce18b7f8d4a87efcf0"
+      }
+    },
+    "objectID": "08c0c169195ed427d7accf0efb51b1b5",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"I can well remember driving up to his house in the evening some three weeks before the fatal event. He chanced to be at his hall door. I had descended from my gig and was standing in front of him, when I saw his eyes fix themselves over my shoulder and stare past me with an expression of the most dreadful horror.",
+    "context": {
+      "next": {
+        "content": "I whisked round and had just time to catch a glimpse of something which I took to be a large black calf passing at the head of the drive. So excited and alarmed was he that I was compelled to go down to the spot where the animal had been and look around for it. It was gone, however, and the incident appeared to make the worst impression upon his mind.",
+        "objectID": "9c0dcd8bd0af253a633e54daae508156"
+      },
+      "previous": {
+        "content": "The latter question he put to me several times, and always with a voice which vibrated with excitement.",
+        "objectID": "08c0c169195ed427d7accf0efb51b1b5"
+      }
+    },
+    "objectID": "2b3a117138f861eb313672b1419deb05",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "I whisked round and had just time to catch a glimpse of something which I took to be a large black calf passing at the head of the drive. So excited and alarmed was he that I was compelled to go down to the spot where the animal had been and look around for it. It was gone, however, and the incident appeared to make the worst impression upon his mind.",
+    "context": {
+      "next": {
+        "content": "I stayed with him all the evening, and it was on that occasion, to explain the emotion which he had shown, that he confided to my keeping that narrative which I read to you when first I came. I mention this small episode because it assumes some importance in view of the tragedy which followed, but I was convinced at the time that the matter was entirely trivial and that his excitement had no justification.",
+        "objectID": "b826605cb5273fd9c57c0f852167f522"
+      },
+      "previous": {
+        "content": "\"I can well remember driving up to his house in the evening some three weeks before the fatal event. He chanced to be at his hall door. I had descended from my gig and was standing in front of him, when I saw his eyes fix themselves over my shoulder and stare past me with an expression of the most dreadful horror.",
+        "objectID": "2b3a117138f861eb313672b1419deb05"
+      }
+    },
+    "objectID": "9c0dcd8bd0af253a633e54daae508156",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "I stayed with him all the evening, and it was on that occasion, to explain the emotion which he had shown, that he confided to my keeping that narrative which I read to you when first I came. I mention this small episode because it assumes some importance in view of the tragedy which followed, but I was convinced at the time that the matter was entirely trivial and that his excitement had no justification.",
+    "context": {
+      "next": {
+        "content": "\"It was at my advice that Sir Charles was about to go to London. His heart was, I knew, affected, and the constant anxiety in which he lived, however chimerical the cause of it might be, was evidently having a serious effect upon his health. I thought that a few months among the distractions of town would send him back a new man.",
+        "objectID": "967f346a52bb743ba9edd8a519fc52ff"
+      },
+      "previous": {
+        "content": "I whisked round and had just time to catch a glimpse of something which I took to be a large black calf passing at the head of the drive. So excited and alarmed was he that I was compelled to go down to the spot where the animal had been and look around for it. It was gone, however, and the incident appeared to make the worst impression upon his mind.",
+        "objectID": "9c0dcd8bd0af253a633e54daae508156"
+      }
+    },
+    "objectID": "b826605cb5273fd9c57c0f852167f522",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"It was at my advice that Sir Charles was about to go to London. His heart was, I knew, affected, and the constant anxiety in which he lived, however chimerical the cause of it might be, was evidently having a serious effect upon his health. I thought that a few months among the distractions of town would send him back a new man.",
+    "context": {
+      "next": {
+        "content": "Mr. Stapleton, a mutual friend who was much concerned at his state of health, was of the same opinion. At the last instant came this terrible catastrophe.",
+        "objectID": "e18f2ca1cf87c4e977eaae39377390c2"
+      },
+      "previous": {
+        "content": "I stayed with him all the evening, and it was on that occasion, to explain the emotion which he had shown, that he confided to my keeping that narrative which I read to you when first I came. I mention this small episode because it assumes some importance in view of the tragedy which followed, but I was convinced at the time that the matter was entirely trivial and that his excitement had no justification.",
+        "objectID": "b826605cb5273fd9c57c0f852167f522"
+      }
+    },
+    "objectID": "967f346a52bb743ba9edd8a519fc52ff",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "Mr. Stapleton, a mutual friend who was much concerned at his state of health, was of the same opinion. At the last instant came this terrible catastrophe.",
+    "context": {
+      "next": {
+        "content": "\"On the night of Sir Charles's death Barrymore the butler, who made the discovery, sent Perkins the groom on horseback to me, and as I was sitting up late I was able to reach Baskerville Hall within an hour of the event. I checked and corroborated all the facts which were mentioned at the inquest. I followed the footsteps down the yew alley, I saw the spot at the moor-gate where he seemed to have waited, I remarked the change in the shape of the prints after that point, I noted that there were no other footsteps save those of Barrymore on the soft gravel, and finally I carefully examined the body, which had not been touched until my arrival.",
+        "objectID": "48939b76e6f37e16d6915fdac3914efa"
+      },
+      "previous": {
+        "content": "\"It was at my advice that Sir Charles was about to go to London. His heart was, I knew, affected, and the constant anxiety in which he lived, however chimerical the cause of it might be, was evidently having a serious effect upon his health. I thought that a few months among the distractions of town would send him back a new man.",
+        "objectID": "967f346a52bb743ba9edd8a519fc52ff"
+      }
+    },
+    "objectID": "e18f2ca1cf87c4e977eaae39377390c2",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"On the night of Sir Charles's death Barrymore the butler, who made the discovery, sent Perkins the groom on horseback to me, and as I was sitting up late I was able to reach Baskerville Hall within an hour of the event. I checked and corroborated all the facts which were mentioned at the inquest. I followed the footsteps down the yew alley, I saw the spot at the moor-gate where he seemed to have waited, I remarked the change in the shape of the prints after that point, I noted that there were no other footsteps save those of Barrymore on the soft gravel, and finally I carefully examined the body, which had not been touched until my arrival.",
+    "context": {
+      "next": {
+        "content": "Sir Charles lay on his face, his arms out, his fingers dug into the ground, and his features convulsed with some strong emotion to such an extent that I could hardly have sworn to his identity. There was certainly no physical injury of any kind. But one false statement was made by Barrymore at the inquest.",
+        "objectID": "8699eac03982759259ea394f7dff7edd"
+      },
+      "previous": {
+        "content": "Mr. Stapleton, a mutual friend who was much concerned at his state of health, was of the same opinion. At the last instant came this terrible catastrophe.",
+        "objectID": "e18f2ca1cf87c4e977eaae39377390c2"
+      }
+    },
+    "objectID": "48939b76e6f37e16d6915fdac3914efa",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "Sir Charles lay on his face, his arms out, his fingers dug into the ground, and his features convulsed with some strong emotion to such an extent that I could hardly have sworn to his identity. There was certainly no physical injury of any kind. But one false statement was made by Barrymore at the inquest.",
+    "context": {
+      "next": {
+        "content": "He said that there were no traces upon the ground round the body. He did not observe any. But I did—some little distance off, but fresh and clear.\"",
+        "objectID": "106fe0ed339a670595a0a90d9d7440d4"
+      },
+      "previous": {
+        "content": "\"On the night of Sir Charles's death Barrymore the butler, who made the discovery, sent Perkins the groom on horseback to me, and as I was sitting up late I was able to reach Baskerville Hall within an hour of the event. I checked and corroborated all the facts which were mentioned at the inquest. I followed the footsteps down the yew alley, I saw the spot at the moor-gate where he seemed to have waited, I remarked the change in the shape of the prints after that point, I noted that there were no other footsteps save those of Barrymore on the soft gravel, and finally I carefully examined the body, which had not been touched until my arrival.",
+        "objectID": "48939b76e6f37e16d6915fdac3914efa"
+      }
+    },
+    "objectID": "8699eac03982759259ea394f7dff7edd",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "He said that there were no traces upon the ground round the body. He did not observe any. But I did—some little distance off, but fresh and clear.\"",
+    "context": {
+      "next": {
+        "content": "\"Footprints?\"",
+        "objectID": "3ee88dd6834d5696f42eb41c7bdab937"
+      },
+      "previous": {
+        "content": "Sir Charles lay on his face, his arms out, his fingers dug into the ground, and his features convulsed with some strong emotion to such an extent that I could hardly have sworn to his identity. There was certainly no physical injury of any kind. But one false statement was made by Barrymore at the inquest.",
+        "objectID": "8699eac03982759259ea394f7dff7edd"
+      }
+    },
+    "objectID": "106fe0ed339a670595a0a90d9d7440d4",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"Footprints?\"",
+    "context": {
+      "next": {
+        "content": "\"Footprints.\"",
+        "objectID": "839884706b5b70f9248f682159a3a670"
+      },
+      "previous": {
+        "content": "He said that there were no traces upon the ground round the body. He did not observe any. But I did—some little distance off, but fresh and clear.\"",
+        "objectID": "106fe0ed339a670595a0a90d9d7440d4"
+      }
+    },
+    "objectID": "3ee88dd6834d5696f42eb41c7bdab937",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"Footprints.\"",
+    "context": {
+      "next": {
+        "content": "\"A man's or a woman's?\"",
+        "objectID": "a380b4b518bdf9b2911f1cab729ce27f"
+      },
+      "previous": {
+        "content": "\"Footprints?\"",
+        "objectID": "3ee88dd6834d5696f42eb41c7bdab937"
+      }
+    },
+    "objectID": "839884706b5b70f9248f682159a3a670",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"A man's or a woman's?\"",
+    "context": {
+      "next": {
+        "content": "Dr. Mortimer looked strangely at us for an instant, and his voice sank almost to a whisper as he answered.",
+        "objectID": "93920da394b9ed9d127166e09a5bec79"
+      },
+      "previous": {
+        "content": "\"Footprints.\"",
+        "objectID": "839884706b5b70f9248f682159a3a670"
+      }
+    },
+    "objectID": "a380b4b518bdf9b2911f1cab729ce27f",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "Dr. Mortimer looked strangely at us for an instant, and his voice sank almost to a whisper as he answered.",
+    "context": {
+      "next": {
+        "content": "\"Mr. Holmes, they were the footprints of a gigantic hound!\"",
+        "objectID": "c0d15017f74d07a43c847e49e40cf980"
+      },
+      "previous": {
+        "content": "\"A man's or a woman's?\"",
+        "objectID": "a380b4b518bdf9b2911f1cab729ce27f"
+      }
+    },
+    "objectID": "93920da394b9ed9d127166e09a5bec79",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "By A. Conan Doyle",
+    "book": "THE HOUND OF THE BASKERVILLES",
+    "bookOrder": 5,
+    "chapterName": "Chapter 2. The Curse of the Baskervilles",
+    "chapterOrder": 2,
+    "content": "\"Mr. Holmes, they were the footprints of a gigantic hound!\"",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "Dr. Mortimer looked strangely at us for an instant, and his voice sank almost to a whisper as he answered.",
+        "objectID": "93920da394b9ed9d127166e09a5bec79"
+      }
+    },
+    "objectID": "c0d15017f74d07a43c847e49e40cf980",
+    "order": 47,
+    "tagName": "P"
+  }
+]
