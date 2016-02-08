@@ -2,6 +2,7 @@ bower_components
 node_modules
 nohup.out
 npm-debug.log
+public
 tmp
 *~
 *.orig

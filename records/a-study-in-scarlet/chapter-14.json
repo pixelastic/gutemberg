@@ -47,8 +47,8 @@
     "content": "\"I don't see that they had very much to do with his capture,\" I answered.",
     "context": {
       "next": {
-        "content": "\"What you do in this world is a matter of no consequence,\" returned my companion, bitterly. \"The question is, what can you make people believe that you have done. Never mind,\" he continued, more brightly, after a pause. \"I would not have missed the investigation for anything. There has been no better case within my recollection. Simple as it was, there were several most instructive points about it.\"",
-        "objectID": "ddb2e0b91b5b44be1ae46035f217d226"
+        "content": "\"What you do in this world is a matter of no consequence,\" returned my companion, bitterly. \"The question is, what can you make people believe that you have done. Never mind,\" he continued, more brightly, after a pause. \"I would not have missed the investigation for anything. There has been no better case within my recollection.",
+        "objectID": "fb05b7db59bba90d3b61b83dbb1c5a45"
       },
       "previous": {
         "content": "\"Gregson and Lestrade will be wild about his death,\" Holmes remarked, as we chatted it over next evening. \"Where will their grand advertisement be now?\"",
@@ -65,19 +65,40 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
     "chapterOrder": 14,
-    "content": "\"What you do in this world is a matter of no consequence,\" returned my companion, bitterly. \"The question is, what can you make people believe that you have done. Never mind,\" he continued, more brightly, after a pause. \"I would not have missed the investigation for anything. There has been no better case within my recollection. Simple as it was, there were several most instructive points about it.\"",
+    "content": "\"What you do in this world is a matter of no consequence,\" returned my companion, bitterly. \"The question is, what can you make people believe that you have done. Never mind,\" he continued, more brightly, after a pause. \"I would not have missed the investigation for anything. There has been no better case within my recollection.",
     "context": {
       "next": {
-        "content": "\"Simple!\" I ejaculated.",
-        "objectID": "ee698a9b7c806aaa45e7cd821bfe1151"
+        "content": "Simple as it was, there were several most instructive points about it.\"",
+        "objectID": "db572408fa2ce35fb911bf24758d8f28"
       },
       "previous": {
         "content": "\"I don't see that they had very much to do with his capture,\" I answered.",
         "objectID": "0a9e9ce30156491f0b95d0cdb6a86b64"
       }
     },
-    "objectID": "ddb2e0b91b5b44be1ae46035f217d226",
+    "objectID": "fb05b7db59bba90d3b61b83dbb1c5a45",
     "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "Simple as it was, there were several most instructive points about it.\"",
+    "context": {
+      "next": {
+        "content": "\"Simple!\" I ejaculated.",
+        "objectID": "93125d650d19f6aa43ceba86d8eece17"
+      },
+      "previous": {
+        "content": "\"What you do in this world is a matter of no consequence,\" returned my companion, bitterly. \"The question is, what can you make people believe that you have done. Never mind,\" he continued, more brightly, after a pause. \"I would not have missed the investigation for anything. There has been no better case within my recollection.",
+        "objectID": "fb05b7db59bba90d3b61b83dbb1c5a45"
+      }
+    },
+    "objectID": "db572408fa2ce35fb911bf24758d8f28",
+    "order": 5,
     "tagName": "P"
   },
   {
@@ -90,15 +111,15 @@
     "context": {
       "next": {
         "content": "\"Well, really, it can hardly be described as otherwise,\" said Sherlock Holmes, smiling at my surprise. \"The proof of its intrinsic simplicity is, that without any help save a few very ordinary deductions I was able to lay my hand upon the criminal within three days.\"",
-        "objectID": "97437cfb4ac86649df9fad32c23d3f97"
+        "objectID": "47059db0791aead055a8bb04b6aef2d7"
       },
       "previous": {
-        "content": "\"What you do in this world is a matter of no consequence,\" returned my companion, bitterly. \"The question is, what can you make people believe that you have done. Never mind,\" he continued, more brightly, after a pause. \"I would not have missed the investigation for anything. There has been no better case within my recollection. Simple as it was, there were several most instructive points about it.\"",
-        "objectID": "ddb2e0b91b5b44be1ae46035f217d226"
+        "content": "Simple as it was, there were several most instructive points about it.\"",
+        "objectID": "db572408fa2ce35fb911bf24758d8f28"
       }
     },
-    "objectID": "ee698a9b7c806aaa45e7cd821bfe1151",
-    "order": 5,
+    "objectID": "93125d650d19f6aa43ceba86d8eece17",
+    "order": 6,
     "tagName": "P"
   },
   {
@@ -111,15 +132,15 @@
     "context": {
       "next": {
         "content": "\"That is true,\" said I.",
-        "objectID": "dbfa88cac4aa18fe08c3342b5159e2f1"
+        "objectID": "57ea5e94fdd3e89d06abb4f845d362a2"
       },
       "previous": {
         "content": "\"Simple!\" I ejaculated.",
-        "objectID": "ee698a9b7c806aaa45e7cd821bfe1151"
+        "objectID": "93125d650d19f6aa43ceba86d8eece17"
       }
     },
-    "objectID": "97437cfb4ac86649df9fad32c23d3f97",
-    "order": 6,
+    "objectID": "47059db0791aead055a8bb04b6aef2d7",
+    "order": 7,
     "tagName": "P"
   },
   {
@@ -131,16 +152,16 @@
     "content": "\"That is true,\" said I.",
     "context": {
       "next": {
-        "content": "\"I have already explained to you that what is out of the common is usually a guide rather than a hindrance. In solving a problem of this sort, the grand thing is to be able to reason backwards. That is a very useful accomplishment, and a very easy one, but people do not practise it much. In the every-day affairs of life it is more useful to reason forwards, and so the other comes to be neglected. There are fifty who can reason synthetically for one who can reason analytically.\"",
-        "objectID": "42f5a037dfe41f8922176870274c5c34"
+        "content": "\"I have already explained to you that what is out of the common is usually a guide rather than a hindrance. In solving a problem of this sort, the grand thing is to be able to reason backwards. That is a very useful accomplishment, and a very easy one, but people do not practise it much. In the every-day affairs of life it is more useful to reason forwards, and so the other comes to be neglected.",
+        "objectID": "227691e26bb38274bd28be9278f3ba66"
       },
       "previous": {
         "content": "\"Well, really, it can hardly be described as otherwise,\" said Sherlock Holmes, smiling at my surprise. \"The proof of its intrinsic simplicity is, that without any help save a few very ordinary deductions I was able to lay my hand upon the criminal within three days.\"",
-        "objectID": "97437cfb4ac86649df9fad32c23d3f97"
+        "objectID": "47059db0791aead055a8bb04b6aef2d7"
       }
     },
-    "objectID": "dbfa88cac4aa18fe08c3342b5159e2f1",
-    "order": 7,
+    "objectID": "57ea5e94fdd3e89d06abb4f845d362a2",
+    "order": 8,
     "tagName": "P"
   },
   {
@@ -149,19 +170,40 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
     "chapterOrder": 14,
-    "content": "\"I have already explained to you that what is out of the common is usually a guide rather than a hindrance. In solving a problem of this sort, the grand thing is to be able to reason backwards. That is a very useful accomplishment, and a very easy one, but people do not practise it much. In the every-day affairs of life it is more useful to reason forwards, and so the other comes to be neglected. There are fifty who can reason synthetically for one who can reason analytically.\"",
+    "content": "\"I have already explained to you that what is out of the common is usually a guide rather than a hindrance. In solving a problem of this sort, the grand thing is to be able to reason backwards. That is a very useful accomplishment, and a very easy one, but people do not practise it much. In the every-day affairs of life it is more useful to reason forwards, and so the other comes to be neglected.",
     "context": {
       "next": {
-        "content": "\"I confess,\" said I, \"that I do not quite follow you.\"",
-        "objectID": "546f172783686e7dad3be9959432779e"
+        "content": "There are fifty who can reason synthetically for one who can reason analytically.\"",
+        "objectID": "6766eb1a90ec4ffe86fb098d2e23e5f7"
       },
       "previous": {
         "content": "\"That is true,\" said I.",
-        "objectID": "dbfa88cac4aa18fe08c3342b5159e2f1"
+        "objectID": "57ea5e94fdd3e89d06abb4f845d362a2"
       }
     },
-    "objectID": "42f5a037dfe41f8922176870274c5c34",
-    "order": 8,
+    "objectID": "227691e26bb38274bd28be9278f3ba66",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "There are fifty who can reason synthetically for one who can reason analytically.\"",
+    "context": {
+      "next": {
+        "content": "\"I confess,\" said I, \"that I do not quite follow you.\"",
+        "objectID": "d9052e386ebd6441564b4783c9b5e0ab"
+      },
+      "previous": {
+        "content": "\"I have already explained to you that what is out of the common is usually a guide rather than a hindrance. In solving a problem of this sort, the grand thing is to be able to reason backwards. That is a very useful accomplishment, and a very easy one, but people do not practise it much. In the every-day affairs of life it is more useful to reason forwards, and so the other comes to be neglected.",
+        "objectID": "227691e26bb38274bd28be9278f3ba66"
+      }
+    },
+    "objectID": "6766eb1a90ec4ffe86fb098d2e23e5f7",
+    "order": 10,
     "tagName": "P"
   },
   {
@@ -173,16 +215,16 @@
     "content": "\"I confess,\" said I, \"that I do not quite follow you.\"",
     "context": {
       "next": {
-        "content": "\"I hardly expected that you would. Let me see if I can make it clearer. Most people, if you describe a train of events to them, will tell you what the result would be. They can put those events together in their minds, and argue from them that something will come to pass. There are few people, however, who, if you told them a result, would be able to evolve from their own inner consciousness what the steps were which led up to that result. This power is what I mean when I talk of reasoning backwards, or analytically.\"",
-        "objectID": "20e77efbe16c8c19b3bc5c31c8c5b5ad"
+        "content": "\"I hardly expected that you would. Let me see if I can make it clearer. Most people, if you describe a train of events to them, will tell you what the result would be. They can put those events together in their minds, and argue from them that something will come to pass. There are few people, however, who, if you told them a result, would be able to evolve from their own inner consciousness what the steps were which led up to that result.",
+        "objectID": "30ea7c1a04bd789d81a0ffeac6775eb6"
       },
       "previous": {
-        "content": "\"I have already explained to you that what is out of the common is usually a guide rather than a hindrance. In solving a problem of this sort, the grand thing is to be able to reason backwards. That is a very useful accomplishment, and a very easy one, but people do not practise it much. In the every-day affairs of life it is more useful to reason forwards, and so the other comes to be neglected. There are fifty who can reason synthetically for one who can reason analytically.\"",
-        "objectID": "42f5a037dfe41f8922176870274c5c34"
+        "content": "There are fifty who can reason synthetically for one who can reason analytically.\"",
+        "objectID": "6766eb1a90ec4ffe86fb098d2e23e5f7"
       }
     },
-    "objectID": "546f172783686e7dad3be9959432779e",
-    "order": 9,
+    "objectID": "d9052e386ebd6441564b4783c9b5e0ab",
+    "order": 11,
     "tagName": "P"
   },
   {
@@ -191,19 +233,40 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
     "chapterOrder": 14,
-    "content": "\"I hardly expected that you would. Let me see if I can make it clearer. Most people, if you describe a train of events to them, will tell you what the result would be. They can put those events together in their minds, and argue from them that something will come to pass. There are few people, however, who, if you told them a result, would be able to evolve from their own inner consciousness what the steps were which led up to that result. This power is what I mean when I talk of reasoning backwards, or analytically.\"",
+    "content": "\"I hardly expected that you would. Let me see if I can make it clearer. Most people, if you describe a train of events to them, will tell you what the result would be. They can put those events together in their minds, and argue from them that something will come to pass. There are few people, however, who, if you told them a result, would be able to evolve from their own inner consciousness what the steps were which led up to that result.",
     "context": {
       "next": {
-        "content": "\"I understand,\" said I.",
-        "objectID": "604f4e34afb3bb5c43d01526e8abea23"
+        "content": "This power is what I mean when I talk of reasoning backwards, or analytically.\"",
+        "objectID": "aabb8d0613d68c4a1d4f31c0b2629be8"
       },
       "previous": {
         "content": "\"I confess,\" said I, \"that I do not quite follow you.\"",
-        "objectID": "546f172783686e7dad3be9959432779e"
+        "objectID": "d9052e386ebd6441564b4783c9b5e0ab"
       }
     },
-    "objectID": "20e77efbe16c8c19b3bc5c31c8c5b5ad",
-    "order": 10,
+    "objectID": "30ea7c1a04bd789d81a0ffeac6775eb6",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "This power is what I mean when I talk of reasoning backwards, or analytically.\"",
+    "context": {
+      "next": {
+        "content": "\"I understand,\" said I.",
+        "objectID": "45aa7d872fc40817a184727a12c62c9e"
+      },
+      "previous": {
+        "content": "\"I hardly expected that you would. Let me see if I can make it clearer. Most people, if you describe a train of events to them, will tell you what the result would be. They can put those events together in their minds, and argue from them that something will come to pass. There are few people, however, who, if you told them a result, would be able to evolve from their own inner consciousness what the steps were which led up to that result.",
+        "objectID": "30ea7c1a04bd789d81a0ffeac6775eb6"
+      }
+    },
+    "objectID": "aabb8d0613d68c4a1d4f31c0b2629be8",
+    "order": 13,
     "tagName": "P"
   },
   {
@@ -215,78 +278,15 @@
     "content": "\"I understand,\" said I.",
     "context": {
       "next": {
-        "content": "\"Now this was a case in which you were given the result and had to find everything else for yourself. Now let me endeavour to show you the different steps in my reasoning. To begin at the beginning. I approached the house, as you know, on foot, and with my mind entirely free from all impressions. I naturally began by examining the roadway, and there, as I have already explained to you, I saw clearly the marks of a cab, which, I ascertained by inquiry, must have been there during the night. I satisfied myself that it was a cab and not a private carriage by the narrow gauge of the wheels. The ordinary London growler is considerably less wide than a gentleman's brougham.",
-        "objectID": "26bca3cf8f20614cf516c5127ff4af03"
+        "content": "\"Now this was a case in which you were given the result and had to find everything else for yourself. Now let me endeavour to show you the different steps in my reasoning. To begin at the beginning. I approached the house, as you know, on foot, and with my mind entirely free from all impressions. I naturally began by examining the roadway, and there, as I have already explained to you, I saw clearly the marks of a cab, which, I ascertained by inquiry, must have been there during the night.",
+        "objectID": "12153b89193d6b463dcb73ca5e43a4f6"
       },
       "previous": {
-        "content": "\"I hardly expected that you would. Let me see if I can make it clearer. Most people, if you describe a train of events to them, will tell you what the result would be. They can put those events together in their minds, and argue from them that something will come to pass. There are few people, however, who, if you told them a result, would be able to evolve from their own inner consciousness what the steps were which led up to that result. This power is what I mean when I talk of reasoning backwards, or analytically.\"",
-        "objectID": "20e77efbe16c8c19b3bc5c31c8c5b5ad"
+        "content": "This power is what I mean when I talk of reasoning backwards, or analytically.\"",
+        "objectID": "aabb8d0613d68c4a1d4f31c0b2629be8"
       }
     },
-    "objectID": "604f4e34afb3bb5c43d01526e8abea23",
-    "order": 11,
-    "tagName": "P"
-  },
-  {
-    "author": "A. Conan Doyle",
-    "book": "A Study in Scarlet.",
-    "bookOrder": 1,
-    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
-    "chapterOrder": 14,
-    "content": "\"Now this was a case in which you were given the result and had to find everything else for yourself. Now let me endeavour to show you the different steps in my reasoning. To begin at the beginning. I approached the house, as you know, on foot, and with my mind entirely free from all impressions. I naturally began by examining the roadway, and there, as I have already explained to you, I saw clearly the marks of a cab, which, I ascertained by inquiry, must have been there during the night. I satisfied myself that it was a cab and not a private carriage by the narrow gauge of the wheels. The ordinary London growler is considerably less wide than a gentleman's brougham.",
-    "context": {
-      "next": {
-        "content": "\"This was the first point gained. I then walked slowly down the garden path, which happened to be composed of a clay soil, peculiarly suitable for taking impressions. No doubt it appeared to you to be a mere trampled line of slush, but to my trained eyes every mark upon its surface had a meaning. There is no branch of detective science which is so important and so much neglected as the art of tracing footsteps. Happily, I have always laid great stress upon it, and much practice has made it second nature to me. I saw the heavy footmarks of the constables, but I saw also the track of the two men who had first passed through the garden. It was easy to tell that they had been before the others, because in places their marks had been entirely obliterated by the others coming upon the top of them. In this way my second link was formed, which told me that the nocturnal visitors were two in number, one remarkable for his height (as I calculated from the length of his stride), and the other fashionably dressed, to judge from the small and elegant impression left by his boots.",
-        "objectID": "af5b6e2b16fb214cea036d7a8fd88208"
-      },
-      "previous": {
-        "content": "\"I understand,\" said I.",
-        "objectID": "604f4e34afb3bb5c43d01526e8abea23"
-      }
-    },
-    "objectID": "26bca3cf8f20614cf516c5127ff4af03",
-    "order": 12,
-    "tagName": "P"
-  },
-  {
-    "author": "A. Conan Doyle",
-    "book": "A Study in Scarlet.",
-    "bookOrder": 1,
-    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
-    "chapterOrder": 14,
-    "content": "\"This was the first point gained. I then walked slowly down the garden path, which happened to be composed of a clay soil, peculiarly suitable for taking impressions. No doubt it appeared to you to be a mere trampled line of slush, but to my trained eyes every mark upon its surface had a meaning. There is no branch of detective science which is so important and so much neglected as the art of tracing footsteps. Happily, I have always laid great stress upon it, and much practice has made it second nature to me. I saw the heavy footmarks of the constables, but I saw also the track of the two men who had first passed through the garden. It was easy to tell that they had been before the others, because in places their marks had been entirely obliterated by the others coming upon the top of them. In this way my second link was formed, which told me that the nocturnal visitors were two in number, one remarkable for his height (as I calculated from the length of his stride), and the other fashionably dressed, to judge from the small and elegant impression left by his boots.",
-    "context": {
-      "next": {
-        "content": "\"On entering the house this last inference was confirmed. My well-booted man lay before me. The tall one, then, had done the murder, if murder there was. There was no wound upon the dead man's person, but the agitated expression upon his face assured me that he had foreseen his fate before it came upon him. Men who die from heart disease, or any sudden natural cause, never by any chance exhibit agitation upon their features. Having sniffed the dead man's lips I detected a slightly sour smell, and I came to the conclusion that he had had poison forced upon him. Again, I argued that it had been forced upon him from the hatred and fear expressed upon his face. By the method of exclusion, I had arrived at this result, for no other hypothesis would meet the facts. Do not imagine that it was a very unheard of idea. The forcible administration of poison is by no means a new thing in criminal annals. The cases of Dolsky in Odessa, and of Leturier in Montpellier, will occur at once to any toxicologist.",
-        "objectID": "0f117d5546fa6b2752a0f207a45be8f8"
-      },
-      "previous": {
-        "content": "\"Now this was a case in which you were given the result and had to find everything else for yourself. Now let me endeavour to show you the different steps in my reasoning. To begin at the beginning. I approached the house, as you know, on foot, and with my mind entirely free from all impressions. I naturally began by examining the roadway, and there, as I have already explained to you, I saw clearly the marks of a cab, which, I ascertained by inquiry, must have been there during the night. I satisfied myself that it was a cab and not a private carriage by the narrow gauge of the wheels. The ordinary London growler is considerably less wide than a gentleman's brougham.",
-        "objectID": "26bca3cf8f20614cf516c5127ff4af03"
-      }
-    },
-    "objectID": "af5b6e2b16fb214cea036d7a8fd88208",
-    "order": 13,
-    "tagName": "P"
-  },
-  {
-    "author": "A. Conan Doyle",
-    "book": "A Study in Scarlet.",
-    "bookOrder": 1,
-    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
-    "chapterOrder": 14,
-    "content": "\"On entering the house this last inference was confirmed. My well-booted man lay before me. The tall one, then, had done the murder, if murder there was. There was no wound upon the dead man's person, but the agitated expression upon his face assured me that he had foreseen his fate before it came upon him. Men who die from heart disease, or any sudden natural cause, never by any chance exhibit agitation upon their features. Having sniffed the dead man's lips I detected a slightly sour smell, and I came to the conclusion that he had had poison forced upon him. Again, I argued that it had been forced upon him from the hatred and fear expressed upon his face. By the method of exclusion, I had arrived at this result, for no other hypothesis would meet the facts. Do not imagine that it was a very unheard of idea. The forcible administration of poison is by no means a new thing in criminal annals. The cases of Dolsky in Odessa, and of Leturier in Montpellier, will occur at once to any toxicologist.",
-    "context": {
-      "next": {
-        "content": "\"And now came the great question as to the reason why. Robbery had not been the object of the murder, for nothing was taken. Was it politics, then, or was it a woman? That was the question which confronted me. I was inclined from the first to the latter supposition. Political assassins are only too glad to do their work and to fly. This murder had, on the contrary, been done most deliberately, and the perpetrator had left his tracks all over the room, showing that he had been there all the time. It must have been a private wrong, and not a political one, which called for such a methodical revenge. When the inscription was discovered upon the wall I was more inclined than ever to my opinion. The thing was too evidently a blind. When the ring was found, however, it settled the question. Clearly the murderer had used it to remind his victim of some dead or absent woman. It was at this point that I asked Gregson whether he had enquired in his telegram to Cleveland as to any particular point in Mr. Drebber's former career. He answered, you remember, in the negative.",
-        "objectID": "7bdf4afd4d3bd19181a0854ab350c461"
-      },
-      "previous": {
-        "content": "\"This was the first point gained. I then walked slowly down the garden path, which happened to be composed of a clay soil, peculiarly suitable for taking impressions. No doubt it appeared to you to be a mere trampled line of slush, but to my trained eyes every mark upon its surface had a meaning. There is no branch of detective science which is so important and so much neglected as the art of tracing footsteps. Happily, I have always laid great stress upon it, and much practice has made it second nature to me. I saw the heavy footmarks of the constables, but I saw also the track of the two men who had first passed through the garden. It was easy to tell that they had been before the others, because in places their marks had been entirely obliterated by the others coming upon the top of them. In this way my second link was formed, which told me that the nocturnal visitors were two in number, one remarkable for his height (as I calculated from the length of his stride), and the other fashionably dressed, to judge from the small and elegant impression left by his boots.",
-        "objectID": "af5b6e2b16fb214cea036d7a8fd88208"
-      }
-    },
-    "objectID": "0f117d5546fa6b2752a0f207a45be8f8",
+    "objectID": "45aa7d872fc40817a184727a12c62c9e",
     "order": 14,
     "tagName": "P"
   },
@@ -296,18 +296,18 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
     "chapterOrder": 14,
-    "content": "\"And now came the great question as to the reason why. Robbery had not been the object of the murder, for nothing was taken. Was it politics, then, or was it a woman? That was the question which confronted me. I was inclined from the first to the latter supposition. Political assassins are only too glad to do their work and to fly. This murder had, on the contrary, been done most deliberately, and the perpetrator had left his tracks all over the room, showing that he had been there all the time. It must have been a private wrong, and not a political one, which called for such a methodical revenge. When the inscription was discovered upon the wall I was more inclined than ever to my opinion. The thing was too evidently a blind. When the ring was found, however, it settled the question. Clearly the murderer had used it to remind his victim of some dead or absent woman. It was at this point that I asked Gregson whether he had enquired in his telegram to Cleveland as to any particular point in Mr. Drebber's former career. He answered, you remember, in the negative.",
+    "content": "\"Now this was a case in which you were given the result and had to find everything else for yourself. Now let me endeavour to show you the different steps in my reasoning. To begin at the beginning. I approached the house, as you know, on foot, and with my mind entirely free from all impressions. I naturally began by examining the roadway, and there, as I have already explained to you, I saw clearly the marks of a cab, which, I ascertained by inquiry, must have been there during the night.",
     "context": {
       "next": {
-        "content": "\"I then proceeded to make a careful examination of the room, which confirmed me in my opinion as to the murderer's height, and furnished me with the additional details as to the Trichinopoly cigar and the length of his nails. I had already come to the conclusion, since there were no signs of a struggle, that the blood which covered the floor had burst from the murderer's nose in his excitement. I could perceive that the track of blood coincided with the track of his feet. It is seldom that any man, unless he is very full-blooded, breaks out in this way through emotion, so I hazarded the opinion that the criminal was probably a robust and ruddy-faced man. Events proved that I had judged correctly.",
-        "objectID": "4f616605e2250346008922c9ab1a3a36"
+        "content": "I satisfied myself that it was a cab and not a private carriage by the narrow gauge of the wheels. The ordinary London growler is considerably less wide than a gentleman's brougham.",
+        "objectID": "5dc3fe5c852d5532859217900d025d69"
       },
       "previous": {
-        "content": "\"On entering the house this last inference was confirmed. My well-booted man lay before me. The tall one, then, had done the murder, if murder there was. There was no wound upon the dead man's person, but the agitated expression upon his face assured me that he had foreseen his fate before it came upon him. Men who die from heart disease, or any sudden natural cause, never by any chance exhibit agitation upon their features. Having sniffed the dead man's lips I detected a slightly sour smell, and I came to the conclusion that he had had poison forced upon him. Again, I argued that it had been forced upon him from the hatred and fear expressed upon his face. By the method of exclusion, I had arrived at this result, for no other hypothesis would meet the facts. Do not imagine that it was a very unheard of idea. The forcible administration of poison is by no means a new thing in criminal annals. The cases of Dolsky in Odessa, and of Leturier in Montpellier, will occur at once to any toxicologist.",
-        "objectID": "0f117d5546fa6b2752a0f207a45be8f8"
+        "content": "\"I understand,\" said I.",
+        "objectID": "45aa7d872fc40817a184727a12c62c9e"
       }
     },
-    "objectID": "7bdf4afd4d3bd19181a0854ab350c461",
+    "objectID": "12153b89193d6b463dcb73ca5e43a4f6",
     "order": 15,
     "tagName": "P"
   },
@@ -317,18 +317,18 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
     "chapterOrder": 14,
-    "content": "\"I then proceeded to make a careful examination of the room, which confirmed me in my opinion as to the murderer's height, and furnished me with the additional details as to the Trichinopoly cigar and the length of his nails. I had already come to the conclusion, since there were no signs of a struggle, that the blood which covered the floor had burst from the murderer's nose in his excitement. I could perceive that the track of blood coincided with the track of his feet. It is seldom that any man, unless he is very full-blooded, breaks out in this way through emotion, so I hazarded the opinion that the criminal was probably a robust and ruddy-faced man. Events proved that I had judged correctly.",
+    "content": "I satisfied myself that it was a cab and not a private carriage by the narrow gauge of the wheels. The ordinary London growler is considerably less wide than a gentleman's brougham.",
     "context": {
       "next": {
-        "content": "\"Having left the house, I proceeded to do what Gregson had neglected. I telegraphed to the head of the police at Cleveland, limiting my enquiry to the circumstances connected with the marriage of Enoch Drebber. The answer was conclusive. It told me that Drebber had already applied for the protection of the law against an old rival in love, named Jefferson Hope, and that this same Hope was at present in Europe. I knew now that I held the clue to the mystery in my hand, and all that remained was to secure the murderer.",
-        "objectID": "5b7a4f2ce8b02e67daa3028c7fbd4a25"
+        "content": "\"This was the first point gained. I then walked slowly down the garden path, which happened to be composed of a clay soil, peculiarly suitable for taking impressions. No doubt it appeared to you to be a mere trampled line of slush, but to my trained eyes every mark upon its surface had a meaning. There is no branch of detective science which is so important and so much neglected as the art of tracing footsteps.",
+        "objectID": "c1d01776b1567ee50dff4b93d25cf038"
       },
       "previous": {
-        "content": "\"And now came the great question as to the reason why. Robbery had not been the object of the murder, for nothing was taken. Was it politics, then, or was it a woman? That was the question which confronted me. I was inclined from the first to the latter supposition. Political assassins are only too glad to do their work and to fly. This murder had, on the contrary, been done most deliberately, and the perpetrator had left his tracks all over the room, showing that he had been there all the time. It must have been a private wrong, and not a political one, which called for such a methodical revenge. When the inscription was discovered upon the wall I was more inclined than ever to my opinion. The thing was too evidently a blind. When the ring was found, however, it settled the question. Clearly the murderer had used it to remind his victim of some dead or absent woman. It was at this point that I asked Gregson whether he had enquired in his telegram to Cleveland as to any particular point in Mr. Drebber's former career. He answered, you remember, in the negative.",
-        "objectID": "7bdf4afd4d3bd19181a0854ab350c461"
+        "content": "\"Now this was a case in which you were given the result and had to find everything else for yourself. Now let me endeavour to show you the different steps in my reasoning. To begin at the beginning. I approached the house, as you know, on foot, and with my mind entirely free from all impressions. I naturally began by examining the roadway, and there, as I have already explained to you, I saw clearly the marks of a cab, which, I ascertained by inquiry, must have been there during the night.",
+        "objectID": "12153b89193d6b463dcb73ca5e43a4f6"
       }
     },
-    "objectID": "4f616605e2250346008922c9ab1a3a36",
+    "objectID": "5dc3fe5c852d5532859217900d025d69",
     "order": 16,
     "tagName": "P"
   },
@@ -338,18 +338,18 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
     "chapterOrder": 14,
-    "content": "\"Having left the house, I proceeded to do what Gregson had neglected. I telegraphed to the head of the police at Cleveland, limiting my enquiry to the circumstances connected with the marriage of Enoch Drebber. The answer was conclusive. It told me that Drebber had already applied for the protection of the law against an old rival in love, named Jefferson Hope, and that this same Hope was at present in Europe. I knew now that I held the clue to the mystery in my hand, and all that remained was to secure the murderer.",
+    "content": "\"This was the first point gained. I then walked slowly down the garden path, which happened to be composed of a clay soil, peculiarly suitable for taking impressions. No doubt it appeared to you to be a mere trampled line of slush, but to my trained eyes every mark upon its surface had a meaning. There is no branch of detective science which is so important and so much neglected as the art of tracing footsteps.",
     "context": {
       "next": {
-        "content": "\"I had already determined in my own mind that the man who had walked into the house with Drebber, was none other than the man who had driven the cab. The marks in the road showed me that the horse had wandered on in a way which would have been impossible had there been anyone in charge of it. Where, then, could the driver be, unless he were inside the house? Again, it is absurd to suppose that any sane man would carry out a deliberate crime under the very eyes, as it were, of a third person, who was sure to betray him. Lastly, supposing one man wished to dog another through London, what better means could he adopt than to turn cabdriver. All these considerations led me to the irresistible conclusion that Jefferson Hope was to be found among the jarveys of the Metropolis.",
-        "objectID": "454db48e35e5bd5f3f792db21df211fe"
+        "content": "Happily, I have always laid great stress upon it, and much practice has made it second nature to me. I saw the heavy footmarks of the constables, but I saw also the track of the two men who had first passed through the garden. It was easy to tell that they had been before the others, because in places their marks had been entirely obliterated by the others coming upon the top of them.",
+        "objectID": "db2ce49612c21bd52eaae6053020a16a"
       },
       "previous": {
-        "content": "\"I then proceeded to make a careful examination of the room, which confirmed me in my opinion as to the murderer's height, and furnished me with the additional details as to the Trichinopoly cigar and the length of his nails. I had already come to the conclusion, since there were no signs of a struggle, that the blood which covered the floor had burst from the murderer's nose in his excitement. I could perceive that the track of blood coincided with the track of his feet. It is seldom that any man, unless he is very full-blooded, breaks out in this way through emotion, so I hazarded the opinion that the criminal was probably a robust and ruddy-faced man. Events proved that I had judged correctly.",
-        "objectID": "4f616605e2250346008922c9ab1a3a36"
+        "content": "I satisfied myself that it was a cab and not a private carriage by the narrow gauge of the wheels. The ordinary London growler is considerably less wide than a gentleman's brougham.",
+        "objectID": "5dc3fe5c852d5532859217900d025d69"
       }
     },
-    "objectID": "5b7a4f2ce8b02e67daa3028c7fbd4a25",
+    "objectID": "c1d01776b1567ee50dff4b93d25cf038",
     "order": 17,
     "tagName": "P"
   },
@@ -359,18 +359,18 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
     "chapterOrder": 14,
-    "content": "\"I had already determined in my own mind that the man who had walked into the house with Drebber, was none other than the man who had driven the cab. The marks in the road showed me that the horse had wandered on in a way which would have been impossible had there been anyone in charge of it. Where, then, could the driver be, unless he were inside the house? Again, it is absurd to suppose that any sane man would carry out a deliberate crime under the very eyes, as it were, of a third person, who was sure to betray him. Lastly, supposing one man wished to dog another through London, what better means could he adopt than to turn cabdriver. All these considerations led me to the irresistible conclusion that Jefferson Hope was to be found among the jarveys of the Metropolis.",
+    "content": "Happily, I have always laid great stress upon it, and much practice has made it second nature to me. I saw the heavy footmarks of the constables, but I saw also the track of the two men who had first passed through the garden. It was easy to tell that they had been before the others, because in places their marks had been entirely obliterated by the others coming upon the top of them.",
     "context": {
       "next": {
-        "content": "\"If he had been one there was no reason to believe that he had ceased to be. On the contrary, from his point of view, any sudden change would be likely to draw attention to himself. He would, probably, for a time at least, continue to perform his duties. There was no reason to suppose that he was going under an assumed name. Why should he change his name in a country where no one knew his original one? I therefore organized my Street Arab detective corps, and sent them systematically to every cab proprietor in London until they ferreted out the man that I wanted. How well they succeeded, and how quickly I took advantage of it, are still fresh in your recollection. The murder of Stangerson was an incident which was entirely unexpected, but which could hardly in any case have been prevented. Through it, as you know, I came into possession of the pills, the existence of which I had already surmised. You see the whole thing is a chain of logical sequences without a break or flaw.\"",
-        "objectID": "689d1e820a7eeb3667bd81b45b79b307"
+        "content": "In this way my second link was formed, which told me that the nocturnal visitors were two in number, one remarkable for his height (as I calculated from the length of his stride), and the other fashionably dressed, to judge from the small and elegant impression left by his boots.",
+        "objectID": "6c6db76865485b31d6a0b037b7038f69"
       },
       "previous": {
-        "content": "\"Having left the house, I proceeded to do what Gregson had neglected. I telegraphed to the head of the police at Cleveland, limiting my enquiry to the circumstances connected with the marriage of Enoch Drebber. The answer was conclusive. It told me that Drebber had already applied for the protection of the law against an old rival in love, named Jefferson Hope, and that this same Hope was at present in Europe. I knew now that I held the clue to the mystery in my hand, and all that remained was to secure the murderer.",
-        "objectID": "5b7a4f2ce8b02e67daa3028c7fbd4a25"
+        "content": "\"This was the first point gained. I then walked slowly down the garden path, which happened to be composed of a clay soil, peculiarly suitable for taking impressions. No doubt it appeared to you to be a mere trampled line of slush, but to my trained eyes every mark upon its surface had a meaning. There is no branch of detective science which is so important and so much neglected as the art of tracing footsteps.",
+        "objectID": "c1d01776b1567ee50dff4b93d25cf038"
       }
     },
-    "objectID": "454db48e35e5bd5f3f792db21df211fe",
+    "objectID": "db2ce49612c21bd52eaae6053020a16a",
     "order": 18,
     "tagName": "P"
   },
@@ -380,19 +380,376 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
     "chapterOrder": 14,
-    "content": "\"If he had been one there was no reason to believe that he had ceased to be. On the contrary, from his point of view, any sudden change would be likely to draw attention to himself. He would, probably, for a time at least, continue to perform his duties. There was no reason to suppose that he was going under an assumed name. Why should he change his name in a country where no one knew his original one? I therefore organized my Street Arab detective corps, and sent them systematically to every cab proprietor in London until they ferreted out the man that I wanted. How well they succeeded, and how quickly I took advantage of it, are still fresh in your recollection. The murder of Stangerson was an incident which was entirely unexpected, but which could hardly in any case have been prevented. Through it, as you know, I came into possession of the pills, the existence of which I had already surmised. You see the whole thing is a chain of logical sequences without a break or flaw.\"",
+    "content": "In this way my second link was formed, which told me that the nocturnal visitors were two in number, one remarkable for his height (as I calculated from the length of his stride), and the other fashionably dressed, to judge from the small and elegant impression left by his boots.",
+    "context": {
+      "next": {
+        "content": "\"On entering the house this last inference was confirmed. My well-booted man lay before me. The tall one, then, had done the murder, if murder there was. There was no wound upon the dead man's person, but the agitated expression upon his face assured me that he had foreseen his fate before it came upon him.",
+        "objectID": "315938996c17d28d0dfe122c52e2ca98"
+      },
+      "previous": {
+        "content": "Happily, I have always laid great stress upon it, and much practice has made it second nature to me. I saw the heavy footmarks of the constables, but I saw also the track of the two men who had first passed through the garden. It was easy to tell that they had been before the others, because in places their marks had been entirely obliterated by the others coming upon the top of them.",
+        "objectID": "db2ce49612c21bd52eaae6053020a16a"
+      }
+    },
+    "objectID": "6c6db76865485b31d6a0b037b7038f69",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "\"On entering the house this last inference was confirmed. My well-booted man lay before me. The tall one, then, had done the murder, if murder there was. There was no wound upon the dead man's person, but the agitated expression upon his face assured me that he had foreseen his fate before it came upon him.",
+    "context": {
+      "next": {
+        "content": "Men who die from heart disease, or any sudden natural cause, never by any chance exhibit agitation upon their features. Having sniffed the dead man's lips I detected a slightly sour smell, and I came to the conclusion that he had had poison forced upon him. Again, I argued that it had been forced upon him from the hatred and fear expressed upon his face.",
+        "objectID": "935f329d9b57ae7e22335e82ff45867f"
+      },
+      "previous": {
+        "content": "In this way my second link was formed, which told me that the nocturnal visitors were two in number, one remarkable for his height (as I calculated from the length of his stride), and the other fashionably dressed, to judge from the small and elegant impression left by his boots.",
+        "objectID": "6c6db76865485b31d6a0b037b7038f69"
+      }
+    },
+    "objectID": "315938996c17d28d0dfe122c52e2ca98",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "Men who die from heart disease, or any sudden natural cause, never by any chance exhibit agitation upon their features. Having sniffed the dead man's lips I detected a slightly sour smell, and I came to the conclusion that he had had poison forced upon him. Again, I argued that it had been forced upon him from the hatred and fear expressed upon his face.",
+    "context": {
+      "next": {
+        "content": "By the method of exclusion, I had arrived at this result, for no other hypothesis would meet the facts. Do not imagine that it was a very unheard of idea. The forcible administration of poison is by no means a new thing in criminal annals. The cases of Dolsky in Odessa, and of Leturier in Montpellier, will occur at once to any toxicologist.",
+        "objectID": "020b21c59ea2d7a22a82a44914472546"
+      },
+      "previous": {
+        "content": "\"On entering the house this last inference was confirmed. My well-booted man lay before me. The tall one, then, had done the murder, if murder there was. There was no wound upon the dead man's person, but the agitated expression upon his face assured me that he had foreseen his fate before it came upon him.",
+        "objectID": "315938996c17d28d0dfe122c52e2ca98"
+      }
+    },
+    "objectID": "935f329d9b57ae7e22335e82ff45867f",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "By the method of exclusion, I had arrived at this result, for no other hypothesis would meet the facts. Do not imagine that it was a very unheard of idea. The forcible administration of poison is by no means a new thing in criminal annals. The cases of Dolsky in Odessa, and of Leturier in Montpellier, will occur at once to any toxicologist.",
+    "context": {
+      "next": {
+        "content": "\"And now came the great question as to the reason why. Robbery had not been the object of the murder, for nothing was taken. Was it politics, then, or was it a woman? That was the question which confronted me. I was inclined from the first to the latter supposition. Political assassins are only too glad to do their work and to fly.",
+        "objectID": "921855de42e9dbc6049bd36fb4dfa7ab"
+      },
+      "previous": {
+        "content": "Men who die from heart disease, or any sudden natural cause, never by any chance exhibit agitation upon their features. Having sniffed the dead man's lips I detected a slightly sour smell, and I came to the conclusion that he had had poison forced upon him. Again, I argued that it had been forced upon him from the hatred and fear expressed upon his face.",
+        "objectID": "935f329d9b57ae7e22335e82ff45867f"
+      }
+    },
+    "objectID": "020b21c59ea2d7a22a82a44914472546",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "\"And now came the great question as to the reason why. Robbery had not been the object of the murder, for nothing was taken. Was it politics, then, or was it a woman? That was the question which confronted me. I was inclined from the first to the latter supposition. Political assassins are only too glad to do their work and to fly.",
+    "context": {
+      "next": {
+        "content": "This murder had, on the contrary, been done most deliberately, and the perpetrator had left his tracks all over the room, showing that he had been there all the time. It must have been a private wrong, and not a political one, which called for such a methodical revenge. When the inscription was discovered upon the wall I was more inclined than ever to my opinion.",
+        "objectID": "f70afc9972aed81f56b52787e81bbc22"
+      },
+      "previous": {
+        "content": "By the method of exclusion, I had arrived at this result, for no other hypothesis would meet the facts. Do not imagine that it was a very unheard of idea. The forcible administration of poison is by no means a new thing in criminal annals. The cases of Dolsky in Odessa, and of Leturier in Montpellier, will occur at once to any toxicologist.",
+        "objectID": "020b21c59ea2d7a22a82a44914472546"
+      }
+    },
+    "objectID": "921855de42e9dbc6049bd36fb4dfa7ab",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "This murder had, on the contrary, been done most deliberately, and the perpetrator had left his tracks all over the room, showing that he had been there all the time. It must have been a private wrong, and not a political one, which called for such a methodical revenge. When the inscription was discovered upon the wall I was more inclined than ever to my opinion.",
+    "context": {
+      "next": {
+        "content": "The thing was too evidently a blind. When the ring was found, however, it settled the question. Clearly the murderer had used it to remind his victim of some dead or absent woman. It was at this point that I asked Gregson whether he had enquired in his telegram to Cleveland as to any particular point in Mr.",
+        "objectID": "8d8b02a1e1d07ab43c1c5c722791c56b"
+      },
+      "previous": {
+        "content": "\"And now came the great question as to the reason why. Robbery had not been the object of the murder, for nothing was taken. Was it politics, then, or was it a woman? That was the question which confronted me. I was inclined from the first to the latter supposition. Political assassins are only too glad to do their work and to fly.",
+        "objectID": "921855de42e9dbc6049bd36fb4dfa7ab"
+      }
+    },
+    "objectID": "f70afc9972aed81f56b52787e81bbc22",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "The thing was too evidently a blind. When the ring was found, however, it settled the question. Clearly the murderer had used it to remind his victim of some dead or absent woman. It was at this point that I asked Gregson whether he had enquired in his telegram to Cleveland as to any particular point in Mr.",
+    "context": {
+      "next": {
+        "content": "Drebber's former career. He answered, you remember, in the negative.",
+        "objectID": "016f6f906ee9e14de3439da3f7062bc3"
+      },
+      "previous": {
+        "content": "This murder had, on the contrary, been done most deliberately, and the perpetrator had left his tracks all over the room, showing that he had been there all the time. It must have been a private wrong, and not a political one, which called for such a methodical revenge. When the inscription was discovered upon the wall I was more inclined than ever to my opinion.",
+        "objectID": "f70afc9972aed81f56b52787e81bbc22"
+      }
+    },
+    "objectID": "8d8b02a1e1d07ab43c1c5c722791c56b",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "Drebber's former career. He answered, you remember, in the negative.",
+    "context": {
+      "next": {
+        "content": "\"I then proceeded to make a careful examination of the room, which confirmed me in my opinion as to the murderer's height, and furnished me with the additional details as to the Trichinopoly cigar and the length of his nails. I had already come to the conclusion, since there were no signs of a struggle, that the blood which covered the floor had burst from the murderer's nose in his excitement.",
+        "objectID": "d62caf2f0f389038c809efdad665bfc3"
+      },
+      "previous": {
+        "content": "The thing was too evidently a blind. When the ring was found, however, it settled the question. Clearly the murderer had used it to remind his victim of some dead or absent woman. It was at this point that I asked Gregson whether he had enquired in his telegram to Cleveland as to any particular point in Mr.",
+        "objectID": "8d8b02a1e1d07ab43c1c5c722791c56b"
+      }
+    },
+    "objectID": "016f6f906ee9e14de3439da3f7062bc3",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "\"I then proceeded to make a careful examination of the room, which confirmed me in my opinion as to the murderer's height, and furnished me with the additional details as to the Trichinopoly cigar and the length of his nails. I had already come to the conclusion, since there were no signs of a struggle, that the blood which covered the floor had burst from the murderer's nose in his excitement.",
+    "context": {
+      "next": {
+        "content": "I could perceive that the track of blood coincided with the track of his feet. It is seldom that any man, unless he is very full-blooded, breaks out in this way through emotion, so I hazarded the opinion that the criminal was probably a robust and ruddy-faced man. Events proved that I had judged correctly.",
+        "objectID": "b070b9f0f7def8a5541e0b4db3855a3a"
+      },
+      "previous": {
+        "content": "Drebber's former career. He answered, you remember, in the negative.",
+        "objectID": "016f6f906ee9e14de3439da3f7062bc3"
+      }
+    },
+    "objectID": "d62caf2f0f389038c809efdad665bfc3",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "I could perceive that the track of blood coincided with the track of his feet. It is seldom that any man, unless he is very full-blooded, breaks out in this way through emotion, so I hazarded the opinion that the criminal was probably a robust and ruddy-faced man. Events proved that I had judged correctly.",
+    "context": {
+      "next": {
+        "content": "\"Having left the house, I proceeded to do what Gregson had neglected. I telegraphed to the head of the police at Cleveland, limiting my enquiry to the circumstances connected with the marriage of Enoch Drebber. The answer was conclusive. It told me that Drebber had already applied for the protection of the law against an old rival in love, named Jefferson Hope, and that this same Hope was at present in Europe.",
+        "objectID": "0d9e88c7db4aaeca0988c25b1a38dbb4"
+      },
+      "previous": {
+        "content": "\"I then proceeded to make a careful examination of the room, which confirmed me in my opinion as to the murderer's height, and furnished me with the additional details as to the Trichinopoly cigar and the length of his nails. I had already come to the conclusion, since there were no signs of a struggle, that the blood which covered the floor had burst from the murderer's nose in his excitement.",
+        "objectID": "d62caf2f0f389038c809efdad665bfc3"
+      }
+    },
+    "objectID": "b070b9f0f7def8a5541e0b4db3855a3a",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "\"Having left the house, I proceeded to do what Gregson had neglected. I telegraphed to the head of the police at Cleveland, limiting my enquiry to the circumstances connected with the marriage of Enoch Drebber. The answer was conclusive. It told me that Drebber had already applied for the protection of the law against an old rival in love, named Jefferson Hope, and that this same Hope was at present in Europe.",
+    "context": {
+      "next": {
+        "content": "I knew now that I held the clue to the mystery in my hand, and all that remained was to secure the murderer.",
+        "objectID": "92113e9a55fe3e5b320c29c73db93131"
+      },
+      "previous": {
+        "content": "I could perceive that the track of blood coincided with the track of his feet. It is seldom that any man, unless he is very full-blooded, breaks out in this way through emotion, so I hazarded the opinion that the criminal was probably a robust and ruddy-faced man. Events proved that I had judged correctly.",
+        "objectID": "b070b9f0f7def8a5541e0b4db3855a3a"
+      }
+    },
+    "objectID": "0d9e88c7db4aaeca0988c25b1a38dbb4",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "I knew now that I held the clue to the mystery in my hand, and all that remained was to secure the murderer.",
+    "context": {
+      "next": {
+        "content": "\"I had already determined in my own mind that the man who had walked into the house with Drebber, was none other than the man who had driven the cab. The marks in the road showed me that the horse had wandered on in a way which would have been impossible had there been anyone in charge of it. Where, then, could the driver be, unless he were inside the house? Again, it is absurd to suppose that any sane man would carry out a deliberate crime under the very eyes, as it were, of a third person, who was sure to betray him.",
+        "objectID": "1447ac7a7323f71fc7f87866e26f716b"
+      },
+      "previous": {
+        "content": "\"Having left the house, I proceeded to do what Gregson had neglected. I telegraphed to the head of the police at Cleveland, limiting my enquiry to the circumstances connected with the marriage of Enoch Drebber. The answer was conclusive. It told me that Drebber had already applied for the protection of the law against an old rival in love, named Jefferson Hope, and that this same Hope was at present in Europe.",
+        "objectID": "0d9e88c7db4aaeca0988c25b1a38dbb4"
+      }
+    },
+    "objectID": "92113e9a55fe3e5b320c29c73db93131",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "\"I had already determined in my own mind that the man who had walked into the house with Drebber, was none other than the man who had driven the cab. The marks in the road showed me that the horse had wandered on in a way which would have been impossible had there been anyone in charge of it. Where, then, could the driver be, unless he were inside the house? Again, it is absurd to suppose that any sane man would carry out a deliberate crime under the very eyes, as it were, of a third person, who was sure to betray him.",
+    "context": {
+      "next": {
+        "content": "Lastly, supposing one man wished to dog another through London, what better means could he adopt than to turn cabdriver. All these considerations led me to the irresistible conclusion that Jefferson Hope was to be found among the jarveys of the Metropolis.",
+        "objectID": "9d81ecc0e0e7140ce358345b4c1ab696"
+      },
+      "previous": {
+        "content": "I knew now that I held the clue to the mystery in my hand, and all that remained was to secure the murderer.",
+        "objectID": "92113e9a55fe3e5b320c29c73db93131"
+      }
+    },
+    "objectID": "1447ac7a7323f71fc7f87866e26f716b",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "Lastly, supposing one man wished to dog another through London, what better means could he adopt than to turn cabdriver. All these considerations led me to the irresistible conclusion that Jefferson Hope was to be found among the jarveys of the Metropolis.",
+    "context": {
+      "next": {
+        "content": "\"If he had been one there was no reason to believe that he had ceased to be. On the contrary, from his point of view, any sudden change would be likely to draw attention to himself. He would, probably, for a time at least, continue to perform his duties. There was no reason to suppose that he was going under an assumed name.",
+        "objectID": "f1c33721c11d3e86b06a6d99d8294816"
+      },
+      "previous": {
+        "content": "\"I had already determined in my own mind that the man who had walked into the house with Drebber, was none other than the man who had driven the cab. The marks in the road showed me that the horse had wandered on in a way which would have been impossible had there been anyone in charge of it. Where, then, could the driver be, unless he were inside the house? Again, it is absurd to suppose that any sane man would carry out a deliberate crime under the very eyes, as it were, of a third person, who was sure to betray him.",
+        "objectID": "1447ac7a7323f71fc7f87866e26f716b"
+      }
+    },
+    "objectID": "9d81ecc0e0e7140ce358345b4c1ab696",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "\"If he had been one there was no reason to believe that he had ceased to be. On the contrary, from his point of view, any sudden change would be likely to draw attention to himself. He would, probably, for a time at least, continue to perform his duties. There was no reason to suppose that he was going under an assumed name.",
+    "context": {
+      "next": {
+        "content": "Why should he change his name in a country where no one knew his original one? I therefore organized my Street Arab detective corps, and sent them systematically to every cab proprietor in London until they ferreted out the man that I wanted. How well they succeeded, and how quickly I took advantage of it, are still fresh in your recollection.",
+        "objectID": "69b1c574cb6a354b097823b28c3cf06f"
+      },
+      "previous": {
+        "content": "Lastly, supposing one man wished to dog another through London, what better means could he adopt than to turn cabdriver. All these considerations led me to the irresistible conclusion that Jefferson Hope was to be found among the jarveys of the Metropolis.",
+        "objectID": "9d81ecc0e0e7140ce358345b4c1ab696"
+      }
+    },
+    "objectID": "f1c33721c11d3e86b06a6d99d8294816",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "Why should he change his name in a country where no one knew his original one? I therefore organized my Street Arab detective corps, and sent them systematically to every cab proprietor in London until they ferreted out the man that I wanted. How well they succeeded, and how quickly I took advantage of it, are still fresh in your recollection.",
+    "context": {
+      "next": {
+        "content": "The murder of Stangerson was an incident which was entirely unexpected, but which could hardly in any case have been prevented. Through it, as you know, I came into possession of the pills, the existence of which I had already surmised. You see the whole thing is a chain of logical sequences without a break or flaw.",
+        "objectID": "a05a859b6c2bc7c2beefc7e21f7de015"
+      },
+      "previous": {
+        "content": "\"If he had been one there was no reason to believe that he had ceased to be. On the contrary, from his point of view, any sudden change would be likely to draw attention to himself. He would, probably, for a time at least, continue to perform his duties. There was no reason to suppose that he was going under an assumed name.",
+        "objectID": "f1c33721c11d3e86b06a6d99d8294816"
+      }
+    },
+    "objectID": "69b1c574cb6a354b097823b28c3cf06f",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "The murder of Stangerson was an incident which was entirely unexpected, but which could hardly in any case have been prevented. Through it, as you know, I came into possession of the pills, the existence of which I had already surmised. You see the whole thing is a chain of logical sequences without a break or flaw.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "c4b6844a31d57e8dca5b6c202e444d62"
+      },
+      "previous": {
+        "content": "Why should he change his name in a country where no one knew his original one? I therefore organized my Street Arab detective corps, and sent them systematically to every cab proprietor in London until they ferreted out the man that I wanted. How well they succeeded, and how quickly I took advantage of it, are still fresh in your recollection.",
+        "objectID": "69b1c574cb6a354b097823b28c3cf06f"
+      }
+    },
+    "objectID": "a05a859b6c2bc7c2beefc7e21f7de015",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "\"",
     "context": {
       "next": {
         "content": "\"It is wonderful!\" I cried. \"Your merits should be publicly recognized. You should publish an account of the case. If you won't, I will for you.\"",
-        "objectID": "e58dab0e26f111197467ed2d280bc43f"
+        "objectID": "0c7a5b6985716fa66bf1a21cb7c6646f"
       },
       "previous": {
-        "content": "\"I had already determined in my own mind that the man who had walked into the house with Drebber, was none other than the man who had driven the cab. The marks in the road showed me that the horse had wandered on in a way which would have been impossible had there been anyone in charge of it. Where, then, could the driver be, unless he were inside the house? Again, it is absurd to suppose that any sane man would carry out a deliberate crime under the very eyes, as it were, of a third person, who was sure to betray him. Lastly, supposing one man wished to dog another through London, what better means could he adopt than to turn cabdriver. All these considerations led me to the irresistible conclusion that Jefferson Hope was to be found among the jarveys of the Metropolis.",
-        "objectID": "454db48e35e5bd5f3f792db21df211fe"
+        "content": "The murder of Stangerson was an incident which was entirely unexpected, but which could hardly in any case have been prevented. Through it, as you know, I came into possession of the pills, the existence of which I had already surmised. You see the whole thing is a chain of logical sequences without a break or flaw.",
+        "objectID": "a05a859b6c2bc7c2beefc7e21f7de015"
       }
     },
-    "objectID": "689d1e820a7eeb3667bd81b45b79b307",
-    "order": 19,
+    "objectID": "c4b6844a31d57e8dca5b6c202e444d62",
+    "order": 36,
     "tagName": "P"
   },
   {
@@ -405,15 +762,15 @@
     "context": {
       "next": {
         "content": "\"You may do what you like, Doctor,\" he answered. \"See here!\" he continued, handing a paper over to me, \"look at this!\"",
-        "objectID": "f1c7cff0df0c680a23f077e410142c08"
+        "objectID": "d67b42e688c8fc1d1d0c7b0a59c6ff78"
       },
       "previous": {
-        "content": "\"If he had been one there was no reason to believe that he had ceased to be. On the contrary, from his point of view, any sudden change would be likely to draw attention to himself. He would, probably, for a time at least, continue to perform his duties. There was no reason to suppose that he was going under an assumed name. Why should he change his name in a country where no one knew his original one? I therefore organized my Street Arab detective corps, and sent them systematically to every cab proprietor in London until they ferreted out the man that I wanted. How well they succeeded, and how quickly I took advantage of it, are still fresh in your recollection. The murder of Stangerson was an incident which was entirely unexpected, but which could hardly in any case have been prevented. Through it, as you know, I came into possession of the pills, the existence of which I had already surmised. You see the whole thing is a chain of logical sequences without a break or flaw.\"",
-        "objectID": "689d1e820a7eeb3667bd81b45b79b307"
+        "content": "\"",
+        "objectID": "c4b6844a31d57e8dca5b6c202e444d62"
       }
     },
-    "objectID": "e58dab0e26f111197467ed2d280bc43f",
-    "order": 20,
+    "objectID": "0c7a5b6985716fa66bf1a21cb7c6646f",
+    "order": 37,
     "tagName": "P"
   },
   {
@@ -426,15 +783,15 @@
     "context": {
       "next": {
         "content": "It was the Echo for the day, and the paragraph to which he pointed was devoted to the case in question.",
-        "objectID": "226dbaa73cb14345b4647cb201b283e9"
+        "objectID": "b5cdd15b93255c370ab203fc105ef820"
       },
       "previous": {
         "content": "\"It is wonderful!\" I cried. \"Your merits should be publicly recognized. You should publish an account of the case. If you won't, I will for you.\"",
-        "objectID": "e58dab0e26f111197467ed2d280bc43f"
+        "objectID": "0c7a5b6985716fa66bf1a21cb7c6646f"
       }
     },
-    "objectID": "f1c7cff0df0c680a23f077e410142c08",
-    "order": 21,
+    "objectID": "d67b42e688c8fc1d1d0c7b0a59c6ff78",
+    "order": 38,
     "tagName": "P"
   },
   {
@@ -446,16 +803,16 @@
     "content": "It was the Echo for the day, and the paragraph to which he pointed was devoted to the case in question.",
     "context": {
       "next": {
-        "content": "\"The public,\" it said, \"have lost a sensational treat through the sudden death of the man Hope, who was suspected of the murder of Mr. Enoch Drebber and of Mr. Joseph Stangerson. The details of the case will probably be never known now, though we are informed upon good authority that the crime was the result of an old standing and romantic feud, in which love and Mormonism bore a part. It seems that both the victims belonged, in their younger days, to the Latter Day Saints, and Hope, the deceased prisoner, hails also from Salt Lake City. If the case has had no other effect, it, at least, brings out in the most striking manner the efficiency of our detective police force, and will serve as a lesson to all foreigners that they will do wisely to settle their feuds at home, and not to carry them on to British soil. It is an open secret that the credit of this smart capture belongs entirely to the well-known Scotland Yard officials, Messrs. Lestrade and Gregson. The man was apprehended, it appears, in the rooms of a certain Mr. Sherlock Holmes, who has himself, as an amateur, shown some talent in the detective line, and who, with such instructors, may hope in time to attain to some degree of their skill. It is expected that a testimonial of some sort will be presented to the two officers as a fitting recognition of their services.\"",
-        "objectID": "a09dac1cdf97b187d9631ad345cf952e"
+        "content": "\"The public,\" it said, \"have lost a sensational treat through the sudden death of the man Hope, who was suspected of the murder of Mr. Enoch Drebber and of Mr. Joseph Stangerson. The details of the case will probably be never known now, though we are informed upon good authority that the crime was the result of an old standing and romantic feud, in which love and Mormonism bore a part.",
+        "objectID": "d9437a1b695df4f68a32a98470246461"
       },
       "previous": {
         "content": "\"You may do what you like, Doctor,\" he answered. \"See here!\" he continued, handing a paper over to me, \"look at this!\"",
-        "objectID": "f1c7cff0df0c680a23f077e410142c08"
+        "objectID": "d67b42e688c8fc1d1d0c7b0a59c6ff78"
       }
     },
-    "objectID": "226dbaa73cb14345b4647cb201b283e9",
-    "order": 22,
+    "objectID": "b5cdd15b93255c370ab203fc105ef820",
+    "order": 39,
     "tagName": "P"
   },
   {
@@ -464,19 +821,82 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
     "chapterOrder": 14,
-    "content": "\"The public,\" it said, \"have lost a sensational treat through the sudden death of the man Hope, who was suspected of the murder of Mr. Enoch Drebber and of Mr. Joseph Stangerson. The details of the case will probably be never known now, though we are informed upon good authority that the crime was the result of an old standing and romantic feud, in which love and Mormonism bore a part. It seems that both the victims belonged, in their younger days, to the Latter Day Saints, and Hope, the deceased prisoner, hails also from Salt Lake City. If the case has had no other effect, it, at least, brings out in the most striking manner the efficiency of our detective police force, and will serve as a lesson to all foreigners that they will do wisely to settle their feuds at home, and not to carry them on to British soil. It is an open secret that the credit of this smart capture belongs entirely to the well-known Scotland Yard officials, Messrs. Lestrade and Gregson. The man was apprehended, it appears, in the rooms of a certain Mr. Sherlock Holmes, who has himself, as an amateur, shown some talent in the detective line, and who, with such instructors, may hope in time to attain to some degree of their skill. It is expected that a testimonial of some sort will be presented to the two officers as a fitting recognition of their services.\"",
+    "content": "\"The public,\" it said, \"have lost a sensational treat through the sudden death of the man Hope, who was suspected of the murder of Mr. Enoch Drebber and of Mr. Joseph Stangerson. The details of the case will probably be never known now, though we are informed upon good authority that the crime was the result of an old standing and romantic feud, in which love and Mormonism bore a part.",
     "context": {
       "next": {
-        "content": "\"Didn't I tell you so when we started?\" cried Sherlock Holmes with a laugh. \"That's the result of all our Study in Scarlet: to get them a testimonial!\"",
-        "objectID": "1d480be8c6e2785171902e2d130371b6"
+        "content": "It seems that both the victims belonged, in their younger days, to the Latter Day Saints, and Hope, the deceased prisoner, hails also from Salt Lake City. If the case has had no other effect, it, at least, brings out in the most striking manner the efficiency of our detective police force, and will serve as a lesson to all foreigners that they will do wisely to settle their feuds at home, and not to carry them on to British soil.",
+        "objectID": "b61994a00e908a40ad5b6f50f6e2f304"
       },
       "previous": {
         "content": "It was the Echo for the day, and the paragraph to which he pointed was devoted to the case in question.",
-        "objectID": "226dbaa73cb14345b4647cb201b283e9"
+        "objectID": "b5cdd15b93255c370ab203fc105ef820"
       }
     },
-    "objectID": "a09dac1cdf97b187d9631ad345cf952e",
-    "order": 23,
+    "objectID": "d9437a1b695df4f68a32a98470246461",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "It seems that both the victims belonged, in their younger days, to the Latter Day Saints, and Hope, the deceased prisoner, hails also from Salt Lake City. If the case has had no other effect, it, at least, brings out in the most striking manner the efficiency of our detective police force, and will serve as a lesson to all foreigners that they will do wisely to settle their feuds at home, and not to carry them on to British soil.",
+    "context": {
+      "next": {
+        "content": "It is an open secret that the credit of this smart capture belongs entirely to the well-known Scotland Yard officials, Messrs. Lestrade and Gregson. The man was apprehended, it appears, in the rooms of a certain Mr. Sherlock Holmes, who has himself, as an amateur, shown some talent in the detective line, and who, with such instructors, may hope in time to attain to some degree of their skill.",
+        "objectID": "ad8a7271f1c219c2f4408280c3506e80"
+      },
+      "previous": {
+        "content": "\"The public,\" it said, \"have lost a sensational treat through the sudden death of the man Hope, who was suspected of the murder of Mr. Enoch Drebber and of Mr. Joseph Stangerson. The details of the case will probably be never known now, though we are informed upon good authority that the crime was the result of an old standing and romantic feud, in which love and Mormonism bore a part.",
+        "objectID": "d9437a1b695df4f68a32a98470246461"
+      }
+    },
+    "objectID": "b61994a00e908a40ad5b6f50f6e2f304",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "It is an open secret that the credit of this smart capture belongs entirely to the well-known Scotland Yard officials, Messrs. Lestrade and Gregson. The man was apprehended, it appears, in the rooms of a certain Mr. Sherlock Holmes, who has himself, as an amateur, shown some talent in the detective line, and who, with such instructors, may hope in time to attain to some degree of their skill.",
+    "context": {
+      "next": {
+        "content": "It is expected that a testimonial of some sort will be presented to the two officers as a fitting recognition of their services.\"",
+        "objectID": "2b1ff52758aed6d6e6486cbd5523114f"
+      },
+      "previous": {
+        "content": "It seems that both the victims belonged, in their younger days, to the Latter Day Saints, and Hope, the deceased prisoner, hails also from Salt Lake City. If the case has had no other effect, it, at least, brings out in the most striking manner the efficiency of our detective police force, and will serve as a lesson to all foreigners that they will do wisely to settle their feuds at home, and not to carry them on to British soil.",
+        "objectID": "b61994a00e908a40ad5b6f50f6e2f304"
+      }
+    },
+    "objectID": "ad8a7271f1c219c2f4408280c3506e80",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII. THE CONCLUSION.",
+    "chapterOrder": 14,
+    "content": "It is expected that a testimonial of some sort will be presented to the two officers as a fitting recognition of their services.\"",
+    "context": {
+      "next": {
+        "content": "\"Didn't I tell you so when we started?\" cried Sherlock Holmes with a laugh. \"That's the result of all our Study in Scarlet: to get them a testimonial!\"",
+        "objectID": "4344f51f6a53f7c0591a2bfb66d4b18d"
+      },
+      "previous": {
+        "content": "It is an open secret that the credit of this smart capture belongs entirely to the well-known Scotland Yard officials, Messrs. Lestrade and Gregson. The man was apprehended, it appears, in the rooms of a certain Mr. Sherlock Holmes, who has himself, as an amateur, shown some talent in the detective line, and who, with such instructors, may hope in time to attain to some degree of their skill.",
+        "objectID": "ad8a7271f1c219c2f4408280c3506e80"
+      }
+    },
+    "objectID": "2b1ff52758aed6d6e6486cbd5523114f",
+    "order": 43,
     "tagName": "P"
   },
   {
@@ -489,15 +909,15 @@
     "context": {
       "next": {
         "content": "\"Never mind,\" I answered, \"I have all the facts in my journal, and the public shall know them. In the meantime you must make yourself contented by the consciousness of success, like the Roman miser—",
-        "objectID": "5f44e1778df7f0dd83bbe5f75e56aed9"
+        "objectID": "9ebf1a46ba39d47333298a7aa77e9acd"
       },
       "previous": {
-        "content": "\"The public,\" it said, \"have lost a sensational treat through the sudden death of the man Hope, who was suspected of the murder of Mr. Enoch Drebber and of Mr. Joseph Stangerson. The details of the case will probably be never known now, though we are informed upon good authority that the crime was the result of an old standing and romantic feud, in which love and Mormonism bore a part. It seems that both the victims belonged, in their younger days, to the Latter Day Saints, and Hope, the deceased prisoner, hails also from Salt Lake City. If the case has had no other effect, it, at least, brings out in the most striking manner the efficiency of our detective police force, and will serve as a lesson to all foreigners that they will do wisely to settle their feuds at home, and not to carry them on to British soil. It is an open secret that the credit of this smart capture belongs entirely to the well-known Scotland Yard officials, Messrs. Lestrade and Gregson. The man was apprehended, it appears, in the rooms of a certain Mr. Sherlock Holmes, who has himself, as an amateur, shown some talent in the detective line, and who, with such instructors, may hope in time to attain to some degree of their skill. It is expected that a testimonial of some sort will be presented to the two officers as a fitting recognition of their services.\"",
-        "objectID": "a09dac1cdf97b187d9631ad345cf952e"
+        "content": "It is expected that a testimonial of some sort will be presented to the two officers as a fitting recognition of their services.\"",
+        "objectID": "2b1ff52758aed6d6e6486cbd5523114f"
       }
     },
-    "objectID": "1d480be8c6e2785171902e2d130371b6",
-    "order": 24,
+    "objectID": "4344f51f6a53f7c0591a2bfb66d4b18d",
+    "order": 44,
     "tagName": "P"
   },
   {
@@ -511,11 +931,11 @@
       "next": null,
       "previous": {
         "content": "\"Didn't I tell you so when we started?\" cried Sherlock Holmes with a laugh. \"That's the result of all our Study in Scarlet: to get them a testimonial!\"",
-        "objectID": "1d480be8c6e2785171902e2d130371b6"
+        "objectID": "4344f51f6a53f7c0591a2bfb66d4b18d"
       }
     },
-    "objectID": "5f44e1778df7f0dd83bbe5f75e56aed9",
-    "order": 25,
+    "objectID": "9ebf1a46ba39d47333298a7aa77e9acd",
+    "order": 45,
     "tagName": "P"
   }
 ]

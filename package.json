@@ -19,7 +19,9 @@
     "build": "./scripts/build",
     "import": "babel-node ./lib/import.js",
     "push": "babel-node ./lib/push.js",
-    "serve": "brunch watch"
+    "serve": "brunch watch",
+    "test": "BABEL_ENV=test mocha --reporter dot",
+    "test:watch": "BABEL_ENV=test mocha --reporter min --watch"
   },
   "devDependencies": {
     "algoliasearch": "^3.10.2",
@@ -37,6 +39,7 @@
     "eslint-config-algolia": "^4.5.0",
     "eslint-plugin-algolia": "^1.5.0",
     "eslint-plugin-react": "^3.11.3",
+    "expect": "^1.14.0",
     "gh-pages": "^0.8.0",
     "glob": "^6.0.4",
     "jquery": "^2.2.0",
@@ -44,9 +47,11 @@
     "json-stable-stringify": "^1.0.0",
     "lodash": "^4.1.0",
     "mkdirp": "^0.5.1",
+    "mocha": "^2.4.5",
     "node-uuid": "^1.4.7",
     "roman-numerals": "^0.3.2",
     "sass-brunch": "^2.0.0",
+    "sinon": "^1.17.3",
     "zpad": "^0.5.0"
   },
   "dependencies": {}

@@ -110,8 +110,8 @@
     "content": "\"We have been hearing Gregson's view of the matter,\" Holmes observed. \"Would you mind letting us know what you have seen and done?\"",
     "context": {
       "next": {
-        "content": "\"I have no objection,\" Lestrade answered, seating himself. \"I freely confess that I was of the opinion that Stangerson was concerned in the death of Drebber. This fresh development has shown me that I was completely mistaken. Full of the one idea, I set myself to find out what had become of the Secretary. They had been seen together at Euston Station about half-past eight on the evening of the third. At two in the morning Drebber had been found in the Brixton Road. The question which confronted me was to find out how Stangerson had been employed between 8.30 and the time of the crime, and what had become of him afterwards. I telegraphed to Liverpool, giving a description of the man, and warning them to keep a watch upon the American boats. I then set to work calling upon all the hotels and lodging-houses in the vicinity of Euston. You see, I argued that if Drebber and his companion had become separated, the natural course for the latter would be to put up somewhere in the vicinity for the night, and then to hang about the station again next morning.\"",
-        "objectID": "dab0e7ff96ec2c620b07c79bebe2ba8e"
+        "content": "\"I have no objection,\" Lestrade answered, seating himself. \"I freely confess that I was of the opinion that Stangerson was concerned in the death of Drebber. This fresh development has shown me that I was completely mistaken. Full of the one idea, I set myself to find out what had become of the Secretary.",
+        "objectID": "e2511d2d21c7904e45d948bcb5f2f5dd"
       },
       "previous": {
         "content": "\"I have just come from his room,\" said Lestrade. \"I was the first to discover what had occurred.\"",
@@ -128,19 +128,82 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "\"I have no objection,\" Lestrade answered, seating himself. \"I freely confess that I was of the opinion that Stangerson was concerned in the death of Drebber. This fresh development has shown me that I was completely mistaken. Full of the one idea, I set myself to find out what had become of the Secretary. They had been seen together at Euston Station about half-past eight on the evening of the third. At two in the morning Drebber had been found in the Brixton Road. The question which confronted me was to find out how Stangerson had been employed between 8.30 and the time of the crime, and what had become of him afterwards. I telegraphed to Liverpool, giving a description of the man, and warning them to keep a watch upon the American boats. I then set to work calling upon all the hotels and lodging-houses in the vicinity of Euston. You see, I argued that if Drebber and his companion had become separated, the natural course for the latter would be to put up somewhere in the vicinity for the night, and then to hang about the station again next morning.\"",
+    "content": "\"I have no objection,\" Lestrade answered, seating himself. \"I freely confess that I was of the opinion that Stangerson was concerned in the death of Drebber. This fresh development has shown me that I was completely mistaken. Full of the one idea, I set myself to find out what had become of the Secretary.",
     "context": {
       "next": {
-        "content": "\"They would be likely to agree on some meeting-place beforehand,\" remarked Holmes.",
-        "objectID": "12be5292e4ce0fd5f19b81464ea7481f"
+        "content": "They had been seen together at Euston Station about half-past eight on the evening of the third. At two in the morning Drebber had been found in the Brixton Road. The question which confronted me was to find out how Stangerson had been employed between 8.30 and the time of the crime, and what had become of him afterwards.",
+        "objectID": "fae8a78f48c90fe0bcf212e7bb7403cd"
       },
       "previous": {
         "content": "\"We have been hearing Gregson's view of the matter,\" Holmes observed. \"Would you mind letting us know what you have seen and done?\"",
         "objectID": "37854f8e15aad7e626d627d302ed4ea0"
       }
     },
-    "objectID": "dab0e7ff96ec2c620b07c79bebe2ba8e",
+    "objectID": "e2511d2d21c7904e45d948bcb5f2f5dd",
     "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "They had been seen together at Euston Station about half-past eight on the evening of the third. At two in the morning Drebber had been found in the Brixton Road. The question which confronted me was to find out how Stangerson had been employed between 8.30 and the time of the crime, and what had become of him afterwards.",
+    "context": {
+      "next": {
+        "content": "I telegraphed to Liverpool, giving a description of the man, and warning them to keep a watch upon the American boats. I then set to work calling upon all the hotels and lodging-houses in the vicinity of Euston. You see, I argued that if Drebber and his companion had become separated, the natural course for the latter would be to put up somewhere in the vicinity for the night, and then to hang about the station again next morning.",
+        "objectID": "371b65c8b362ff26ae773dd700b8e286"
+      },
+      "previous": {
+        "content": "\"I have no objection,\" Lestrade answered, seating himself. \"I freely confess that I was of the opinion that Stangerson was concerned in the death of Drebber. This fresh development has shown me that I was completely mistaken. Full of the one idea, I set myself to find out what had become of the Secretary.",
+        "objectID": "e2511d2d21c7904e45d948bcb5f2f5dd"
+      }
+    },
+    "objectID": "fae8a78f48c90fe0bcf212e7bb7403cd",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "I telegraphed to Liverpool, giving a description of the man, and warning them to keep a watch upon the American boats. I then set to work calling upon all the hotels and lodging-houses in the vicinity of Euston. You see, I argued that if Drebber and his companion had become separated, the natural course for the latter would be to put up somewhere in the vicinity for the night, and then to hang about the station again next morning.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "77690813864f6ab59ca94603a82ba72d"
+      },
+      "previous": {
+        "content": "They had been seen together at Euston Station about half-past eight on the evening of the third. At two in the morning Drebber had been found in the Brixton Road. The question which confronted me was to find out how Stangerson had been employed between 8.30 and the time of the crime, and what had become of him afterwards.",
+        "objectID": "fae8a78f48c90fe0bcf212e7bb7403cd"
+      }
+    },
+    "objectID": "371b65c8b362ff26ae773dd700b8e286",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"They would be likely to agree on some meeting-place beforehand,\" remarked Holmes.",
+        "objectID": "8ab83fccdb61cda5a0847602de70995a"
+      },
+      "previous": {
+        "content": "I telegraphed to Liverpool, giving a description of the man, and warning them to keep a watch upon the American boats. I then set to work calling upon all the hotels and lodging-houses in the vicinity of Euston. You see, I argued that if Drebber and his companion had become separated, the natural course for the latter would be to put up somewhere in the vicinity for the night, and then to hang about the station again next morning.",
+        "objectID": "371b65c8b362ff26ae773dd700b8e286"
+      }
+    },
+    "objectID": "77690813864f6ab59ca94603a82ba72d",
+    "order": 10,
     "tagName": "P"
   },
   {
@@ -153,15 +216,15 @@
     "context": {
       "next": {
         "content": "\"So it proved. I spent the whole of yesterday evening in making enquiries entirely without avail. This morning I began very early, and at eight o'clock I reached Halliday's Private Hotel, in Little George Street. On my enquiry as to whether a Mr. Stangerson was living there, they at once answered me in the affirmative.",
-        "objectID": "e7aedcdc09648d3e839e9c7f651f18ff"
+        "objectID": "161d3a13e6ccd85c555c751be85a7e91"
       },
       "previous": {
-        "content": "\"I have no objection,\" Lestrade answered, seating himself. \"I freely confess that I was of the opinion that Stangerson was concerned in the death of Drebber. This fresh development has shown me that I was completely mistaken. Full of the one idea, I set myself to find out what had become of the Secretary. They had been seen together at Euston Station about half-past eight on the evening of the third. At two in the morning Drebber had been found in the Brixton Road. The question which confronted me was to find out how Stangerson had been employed between 8.30 and the time of the crime, and what had become of him afterwards. I telegraphed to Liverpool, giving a description of the man, and warning them to keep a watch upon the American boats. I then set to work calling upon all the hotels and lodging-houses in the vicinity of Euston. You see, I argued that if Drebber and his companion had become separated, the natural course for the latter would be to put up somewhere in the vicinity for the night, and then to hang about the station again next morning.\"",
-        "objectID": "dab0e7ff96ec2c620b07c79bebe2ba8e"
+        "content": "\"",
+        "objectID": "77690813864f6ab59ca94603a82ba72d"
       }
     },
-    "objectID": "12be5292e4ce0fd5f19b81464ea7481f",
-    "order": 8,
+    "objectID": "8ab83fccdb61cda5a0847602de70995a",
+    "order": 11,
     "tagName": "P"
   },
   {
@@ -174,15 +237,15 @@
     "context": {
       "next": {
         "content": "\"'No doubt you are the gentleman whom he was expecting,' they said. 'He has been waiting for a gentleman for two days.'",
-        "objectID": "69190ff1c2c3d0327d9e1a41d3fa3c19"
+        "objectID": "72ef2deb33289f02eddea4bc81f37262"
       },
       "previous": {
         "content": "\"They would be likely to agree on some meeting-place beforehand,\" remarked Holmes.",
-        "objectID": "12be5292e4ce0fd5f19b81464ea7481f"
+        "objectID": "8ab83fccdb61cda5a0847602de70995a"
       }
     },
-    "objectID": "e7aedcdc09648d3e839e9c7f651f18ff",
-    "order": 9,
+    "objectID": "161d3a13e6ccd85c555c751be85a7e91",
+    "order": 12,
     "tagName": "P"
   },
   {
@@ -195,15 +258,15 @@
     "context": {
       "next": {
         "content": "\"'Where is he now?' I asked.",
-        "objectID": "b8bfa79ce3de362661255823989a519e"
+        "objectID": "f41179d7772ab20fc27bb8090cb3420d"
       },
       "previous": {
         "content": "\"So it proved. I spent the whole of yesterday evening in making enquiries entirely without avail. This morning I began very early, and at eight o'clock I reached Halliday's Private Hotel, in Little George Street. On my enquiry as to whether a Mr. Stangerson was living there, they at once answered me in the affirmative.",
-        "objectID": "e7aedcdc09648d3e839e9c7f651f18ff"
+        "objectID": "161d3a13e6ccd85c555c751be85a7e91"
       }
     },
-    "objectID": "69190ff1c2c3d0327d9e1a41d3fa3c19",
-    "order": 10,
+    "objectID": "72ef2deb33289f02eddea4bc81f37262",
+    "order": 13,
     "tagName": "P"
   },
   {
@@ -216,15 +279,15 @@
     "context": {
       "next": {
         "content": "\"'He is upstairs in bed. He wished to be called at nine.'",
-        "objectID": "d3977a26c496f959f3dea73a614e2278"
+        "objectID": "56d253efe5e7340f1f2a60f5f49c823d"
       },
       "previous": {
         "content": "\"'No doubt you are the gentleman whom he was expecting,' they said. 'He has been waiting for a gentleman for two days.'",
-        "objectID": "69190ff1c2c3d0327d9e1a41d3fa3c19"
+        "objectID": "72ef2deb33289f02eddea4bc81f37262"
       }
     },
-    "objectID": "b8bfa79ce3de362661255823989a519e",
-    "order": 11,
+    "objectID": "f41179d7772ab20fc27bb8090cb3420d",
+    "order": 14,
     "tagName": "P"
   },
   {
@@ -237,15 +300,15 @@
     "context": {
       "next": {
         "content": "\"'I will go up and see him at once,' I said.",
-        "objectID": "77b5894b4185d9da8c3ae8a285c9ac22"
+        "objectID": "5e2d81488b7caec7576f67d32b265b3d"
       },
       "previous": {
         "content": "\"'Where is he now?' I asked.",
-        "objectID": "b8bfa79ce3de362661255823989a519e"
+        "objectID": "f41179d7772ab20fc27bb8090cb3420d"
       }
     },
-    "objectID": "d3977a26c496f959f3dea73a614e2278",
-    "order": 12,
+    "objectID": "56d253efe5e7340f1f2a60f5f49c823d",
+    "order": 15,
     "tagName": "P"
   },
   {
@@ -257,16 +320,16 @@
     "content": "\"'I will go up and see him at once,' I said.",
     "context": {
       "next": {
-        "content": "\"It seemed to me that my sudden appearance might shake his nerves and lead him to say something unguarded. The Boots volunteered to show me the room: it was on the second floor, and there was a small corridor leading up to it. The Boots pointed out the door to me, and was about to go downstairs again when I saw something that made me feel sickish, in spite of my twenty years' experience. From under the door there curled a little red ribbon of blood, which had meandered across the passage and formed a little pool along the skirting at the other side. I gave a cry, which brought the Boots back. He nearly fainted when he saw it. The door was locked on the inside, but we put our shoulders to it, and knocked it in. The window of the room was open, and beside the window, all huddled up, lay the body of a man in his nightdress. He was quite dead, and had been for some time, for his limbs were rigid and cold. When we turned him over, the Boots recognized him at once as being the same gentleman who had engaged the room under the name of Joseph Stangerson. The cause of death was a deep stab in the left side, which must have penetrated the heart. And now comes the strangest part of the affair. What do you suppose was above the murdered man?\"",
-        "objectID": "7ee00538e0a569ff12f3ddf96246209e"
+        "content": "\"It seemed to me that my sudden appearance might shake his nerves and lead him to say something unguarded. The Boots volunteered to show me the room: it was on the second floor, and there was a small corridor leading up to it. The Boots pointed out the door to me, and was about to go downstairs again when I saw something that made me feel sickish, in spite of my twenty years' experience.",
+        "objectID": "1c95080d3861158d981c13c372fbc11b"
       },
       "previous": {
         "content": "\"'He is upstairs in bed. He wished to be called at nine.'",
-        "objectID": "d3977a26c496f959f3dea73a614e2278"
+        "objectID": "56d253efe5e7340f1f2a60f5f49c823d"
       }
     },
-    "objectID": "77b5894b4185d9da8c3ae8a285c9ac22",
-    "order": 13,
+    "objectID": "5e2d81488b7caec7576f67d32b265b3d",
+    "order": 16,
     "tagName": "P"
   },
   {
@@ -275,19 +338,82 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "\"It seemed to me that my sudden appearance might shake his nerves and lead him to say something unguarded. The Boots volunteered to show me the room: it was on the second floor, and there was a small corridor leading up to it. The Boots pointed out the door to me, and was about to go downstairs again when I saw something that made me feel sickish, in spite of my twenty years' experience. From under the door there curled a little red ribbon of blood, which had meandered across the passage and formed a little pool along the skirting at the other side. I gave a cry, which brought the Boots back. He nearly fainted when he saw it. The door was locked on the inside, but we put our shoulders to it, and knocked it in. The window of the room was open, and beside the window, all huddled up, lay the body of a man in his nightdress. He was quite dead, and had been for some time, for his limbs were rigid and cold. When we turned him over, the Boots recognized him at once as being the same gentleman who had engaged the room under the name of Joseph Stangerson. The cause of death was a deep stab in the left side, which must have penetrated the heart. And now comes the strangest part of the affair. What do you suppose was above the murdered man?\"",
+    "content": "\"It seemed to me that my sudden appearance might shake his nerves and lead him to say something unguarded. The Boots volunteered to show me the room: it was on the second floor, and there was a small corridor leading up to it. The Boots pointed out the door to me, and was about to go downstairs again when I saw something that made me feel sickish, in spite of my twenty years' experience.",
     "context": {
       "next": {
-        "content": "I felt a creeping of the flesh, and a presentiment of coming horror, even before Sherlock Holmes answered.",
-        "objectID": "457936a47745c6d9fe7323781995245d"
+        "content": "From under the door there curled a little red ribbon of blood, which had meandered across the passage and formed a little pool along the skirting at the other side. I gave a cry, which brought the Boots back. He nearly fainted when he saw it. The door was locked on the inside, but we put our shoulders to it, and knocked it in.",
+        "objectID": "9a21d622fec8ca3c87d0141f3416b19c"
       },
       "previous": {
         "content": "\"'I will go up and see him at once,' I said.",
-        "objectID": "77b5894b4185d9da8c3ae8a285c9ac22"
+        "objectID": "5e2d81488b7caec7576f67d32b265b3d"
       }
     },
-    "objectID": "7ee00538e0a569ff12f3ddf96246209e",
-    "order": 14,
+    "objectID": "1c95080d3861158d981c13c372fbc11b",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "From under the door there curled a little red ribbon of blood, which had meandered across the passage and formed a little pool along the skirting at the other side. I gave a cry, which brought the Boots back. He nearly fainted when he saw it. The door was locked on the inside, but we put our shoulders to it, and knocked it in.",
+    "context": {
+      "next": {
+        "content": "The window of the room was open, and beside the window, all huddled up, lay the body of a man in his nightdress. He was quite dead, and had been for some time, for his limbs were rigid and cold. When we turned him over, the Boots recognized him at once as being the same gentleman who had engaged the room under the name of Joseph Stangerson.",
+        "objectID": "03f2360319ef677b530956bcc044ac45"
+      },
+      "previous": {
+        "content": "\"It seemed to me that my sudden appearance might shake his nerves and lead him to say something unguarded. The Boots volunteered to show me the room: it was on the second floor, and there was a small corridor leading up to it. The Boots pointed out the door to me, and was about to go downstairs again when I saw something that made me feel sickish, in spite of my twenty years' experience.",
+        "objectID": "1c95080d3861158d981c13c372fbc11b"
+      }
+    },
+    "objectID": "9a21d622fec8ca3c87d0141f3416b19c",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "The window of the room was open, and beside the window, all huddled up, lay the body of a man in his nightdress. He was quite dead, and had been for some time, for his limbs were rigid and cold. When we turned him over, the Boots recognized him at once as being the same gentleman who had engaged the room under the name of Joseph Stangerson.",
+    "context": {
+      "next": {
+        "content": "The cause of death was a deep stab in the left side, which must have penetrated the heart. And now comes the strangest part of the affair. What do you suppose was above the murdered man?\"",
+        "objectID": "bd28adf9627ec4b741f404b1a67db86e"
+      },
+      "previous": {
+        "content": "From under the door there curled a little red ribbon of blood, which had meandered across the passage and formed a little pool along the skirting at the other side. I gave a cry, which brought the Boots back. He nearly fainted when he saw it. The door was locked on the inside, but we put our shoulders to it, and knocked it in.",
+        "objectID": "9a21d622fec8ca3c87d0141f3416b19c"
+      }
+    },
+    "objectID": "03f2360319ef677b530956bcc044ac45",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "The cause of death was a deep stab in the left side, which must have penetrated the heart. And now comes the strangest part of the affair. What do you suppose was above the murdered man?\"",
+    "context": {
+      "next": {
+        "content": "I felt a creeping of the flesh, and a presentiment of coming horror, even before Sherlock Holmes answered.",
+        "objectID": "87386333c2c5be22b2dea20ce530157b"
+      },
+      "previous": {
+        "content": "The window of the room was open, and beside the window, all huddled up, lay the body of a man in his nightdress. He was quite dead, and had been for some time, for his limbs were rigid and cold. When we turned him over, the Boots recognized him at once as being the same gentleman who had engaged the room under the name of Joseph Stangerson.",
+        "objectID": "03f2360319ef677b530956bcc044ac45"
+      }
+    },
+    "objectID": "bd28adf9627ec4b741f404b1a67db86e",
+    "order": 20,
     "tagName": "P"
   },
   {
@@ -300,15 +426,15 @@
     "context": {
       "next": {
         "content": "\"The word RACHE, written in letters of blood,\" he said.",
-        "objectID": "35224a768559eec616f0c13ee32b208f"
+        "objectID": "3bc7ae6efbefea05d703ba6722db9b8f"
       },
       "previous": {
-        "content": "\"It seemed to me that my sudden appearance might shake his nerves and lead him to say something unguarded. The Boots volunteered to show me the room: it was on the second floor, and there was a small corridor leading up to it. The Boots pointed out the door to me, and was about to go downstairs again when I saw something that made me feel sickish, in spite of my twenty years' experience. From under the door there curled a little red ribbon of blood, which had meandered across the passage and formed a little pool along the skirting at the other side. I gave a cry, which brought the Boots back. He nearly fainted when he saw it. The door was locked on the inside, but we put our shoulders to it, and knocked it in. The window of the room was open, and beside the window, all huddled up, lay the body of a man in his nightdress. He was quite dead, and had been for some time, for his limbs were rigid and cold. When we turned him over, the Boots recognized him at once as being the same gentleman who had engaged the room under the name of Joseph Stangerson. The cause of death was a deep stab in the left side, which must have penetrated the heart. And now comes the strangest part of the affair. What do you suppose was above the murdered man?\"",
-        "objectID": "7ee00538e0a569ff12f3ddf96246209e"
+        "content": "The cause of death was a deep stab in the left side, which must have penetrated the heart. And now comes the strangest part of the affair. What do you suppose was above the murdered man?\"",
+        "objectID": "bd28adf9627ec4b741f404b1a67db86e"
       }
     },
-    "objectID": "457936a47745c6d9fe7323781995245d",
-    "order": 15,
+    "objectID": "87386333c2c5be22b2dea20ce530157b",
+    "order": 21,
     "tagName": "P"
   },
   {
@@ -321,15 +447,15 @@
     "context": {
       "next": {
         "content": "\"That was it,\" said Lestrade, in an awe-struck voice; and we were all silent for a while.",
-        "objectID": "4d458d0991864cccb3e0c5f76d336143"
+        "objectID": "48e12e4fbd465462383683b608e7ad40"
       },
       "previous": {
         "content": "I felt a creeping of the flesh, and a presentiment of coming horror, even before Sherlock Holmes answered.",
-        "objectID": "457936a47745c6d9fe7323781995245d"
+        "objectID": "87386333c2c5be22b2dea20ce530157b"
       }
     },
-    "objectID": "35224a768559eec616f0c13ee32b208f",
-    "order": 16,
+    "objectID": "3bc7ae6efbefea05d703ba6722db9b8f",
+    "order": 22,
     "tagName": "P"
   },
   {
@@ -342,15 +468,15 @@
     "context": {
       "next": {
         "content": "There was something so methodical and so incomprehensible about the deeds of this unknown assassin, that it imparted a fresh ghastliness to his crimes. My nerves, which were steady enough on the field of battle tingled as I thought of it.",
-        "objectID": "53fc06446700766a7d3db1df14f8c527"
+        "objectID": "b9dc45a781ad6da75f939317ca46d368"
       },
       "previous": {
         "content": "\"The word RACHE, written in letters of blood,\" he said.",
-        "objectID": "35224a768559eec616f0c13ee32b208f"
+        "objectID": "3bc7ae6efbefea05d703ba6722db9b8f"
       }
     },
-    "objectID": "4d458d0991864cccb3e0c5f76d336143",
-    "order": 17,
+    "objectID": "48e12e4fbd465462383683b608e7ad40",
+    "order": 23,
     "tagName": "P"
   },
   {
@@ -362,16 +488,16 @@
     "content": "There was something so methodical and so incomprehensible about the deeds of this unknown assassin, that it imparted a fresh ghastliness to his crimes. My nerves, which were steady enough on the field of battle tingled as I thought of it.",
     "context": {
       "next": {
-        "content": "\"The man was seen,\" continued Lestrade. \"A milk boy, passing on his way to the dairy, happened to walk down the lane which leads from the mews at the back of the hotel. He noticed that a ladder, which usually lay there, was raised against one of the windows of the second floor, which was wide open. After passing, he looked back and saw a man descend the ladder. He came down so quietly and openly that the boy imagined him to be some carpenter or joiner at work in the hotel. He took no particular notice of him, beyond thinking in his own mind that it was early for him to be at work. He has an impression that the man was tall, had a reddish face, and was dressed in a long, brownish coat. He must have stayed in the room some little time after the murder, for we found blood-stained water in the basin, where he had washed his hands, and marks on the sheets where he had deliberately wiped his knife.\"",
-        "objectID": "3c3aa5d01fbab9d05d3d92b3b890972b"
+        "content": "\"The man was seen,\" continued Lestrade. \"A milk boy, passing on his way to the dairy, happened to walk down the lane which leads from the mews at the back of the hotel. He noticed that a ladder, which usually lay there, was raised against one of the windows of the second floor, which was wide open. After passing, he looked back and saw a man descend the ladder.",
+        "objectID": "ddbf90e69995838d8c87c885e2212f81"
       },
       "previous": {
         "content": "\"That was it,\" said Lestrade, in an awe-struck voice; and we were all silent for a while.",
-        "objectID": "4d458d0991864cccb3e0c5f76d336143"
+        "objectID": "48e12e4fbd465462383683b608e7ad40"
       }
     },
-    "objectID": "53fc06446700766a7d3db1df14f8c527",
-    "order": 18,
+    "objectID": "b9dc45a781ad6da75f939317ca46d368",
+    "order": 24,
     "tagName": "P"
   },
   {
@@ -380,19 +506,61 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "\"The man was seen,\" continued Lestrade. \"A milk boy, passing on his way to the dairy, happened to walk down the lane which leads from the mews at the back of the hotel. He noticed that a ladder, which usually lay there, was raised against one of the windows of the second floor, which was wide open. After passing, he looked back and saw a man descend the ladder. He came down so quietly and openly that the boy imagined him to be some carpenter or joiner at work in the hotel. He took no particular notice of him, beyond thinking in his own mind that it was early for him to be at work. He has an impression that the man was tall, had a reddish face, and was dressed in a long, brownish coat. He must have stayed in the room some little time after the murder, for we found blood-stained water in the basin, where he had washed his hands, and marks on the sheets where he had deliberately wiped his knife.\"",
+    "content": "\"The man was seen,\" continued Lestrade. \"A milk boy, passing on his way to the dairy, happened to walk down the lane which leads from the mews at the back of the hotel. He noticed that a ladder, which usually lay there, was raised against one of the windows of the second floor, which was wide open. After passing, he looked back and saw a man descend the ladder.",
     "context": {
       "next": {
-        "content": "I glanced at Holmes on hearing the description of the murderer, which tallied so exactly with his own. There was, however, no trace of exultation or satisfaction upon his face.",
-        "objectID": "802374e90d911c42b2a293c6e6a21a0f"
+        "content": "He came down so quietly and openly that the boy imagined him to be some carpenter or joiner at work in the hotel. He took no particular notice of him, beyond thinking in his own mind that it was early for him to be at work. He has an impression that the man was tall, had a reddish face, and was dressed in a long, brownish coat.",
+        "objectID": "c86c0fc1115716e8f915bb5ae455626d"
       },
       "previous": {
         "content": "There was something so methodical and so incomprehensible about the deeds of this unknown assassin, that it imparted a fresh ghastliness to his crimes. My nerves, which were steady enough on the field of battle tingled as I thought of it.",
-        "objectID": "53fc06446700766a7d3db1df14f8c527"
+        "objectID": "b9dc45a781ad6da75f939317ca46d368"
       }
     },
-    "objectID": "3c3aa5d01fbab9d05d3d92b3b890972b",
-    "order": 19,
+    "objectID": "ddbf90e69995838d8c87c885e2212f81",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "He came down so quietly and openly that the boy imagined him to be some carpenter or joiner at work in the hotel. He took no particular notice of him, beyond thinking in his own mind that it was early for him to be at work. He has an impression that the man was tall, had a reddish face, and was dressed in a long, brownish coat.",
+    "context": {
+      "next": {
+        "content": "He must have stayed in the room some little time after the murder, for we found blood-stained water in the basin, where he had washed his hands, and marks on the sheets where he had deliberately wiped his knife.\"",
+        "objectID": "f7a00085e338e323ef7fae0af2b341a4"
+      },
+      "previous": {
+        "content": "\"The man was seen,\" continued Lestrade. \"A milk boy, passing on his way to the dairy, happened to walk down the lane which leads from the mews at the back of the hotel. He noticed that a ladder, which usually lay there, was raised against one of the windows of the second floor, which was wide open. After passing, he looked back and saw a man descend the ladder.",
+        "objectID": "ddbf90e69995838d8c87c885e2212f81"
+      }
+    },
+    "objectID": "c86c0fc1115716e8f915bb5ae455626d",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "He must have stayed in the room some little time after the murder, for we found blood-stained water in the basin, where he had washed his hands, and marks on the sheets where he had deliberately wiped his knife.\"",
+    "context": {
+      "next": {
+        "content": "I glanced at Holmes on hearing the description of the murderer, which tallied so exactly with his own. There was, however, no trace of exultation or satisfaction upon his face.",
+        "objectID": "5635d26a77e23df5337c75aae4847d8f"
+      },
+      "previous": {
+        "content": "He came down so quietly and openly that the boy imagined him to be some carpenter or joiner at work in the hotel. He took no particular notice of him, beyond thinking in his own mind that it was early for him to be at work. He has an impression that the man was tall, had a reddish face, and was dressed in a long, brownish coat.",
+        "objectID": "c86c0fc1115716e8f915bb5ae455626d"
+      }
+    },
+    "objectID": "f7a00085e338e323ef7fae0af2b341a4",
+    "order": 27,
     "tagName": "P"
   },
   {
@@ -405,15 +573,15 @@
     "context": {
       "next": {
         "content": "\"Did you find nothing in the room which could furnish a clue to the murderer?\" he asked.",
-        "objectID": "702d9dbdb8510dadb4a22dfe5c27f201"
+        "objectID": "2458ab3a11df4bc564d533c660b7f848"
       },
       "previous": {
-        "content": "\"The man was seen,\" continued Lestrade. \"A milk boy, passing on his way to the dairy, happened to walk down the lane which leads from the mews at the back of the hotel. He noticed that a ladder, which usually lay there, was raised against one of the windows of the second floor, which was wide open. After passing, he looked back and saw a man descend the ladder. He came down so quietly and openly that the boy imagined him to be some carpenter or joiner at work in the hotel. He took no particular notice of him, beyond thinking in his own mind that it was early for him to be at work. He has an impression that the man was tall, had a reddish face, and was dressed in a long, brownish coat. He must have stayed in the room some little time after the murder, for we found blood-stained water in the basin, where he had washed his hands, and marks on the sheets where he had deliberately wiped his knife.\"",
-        "objectID": "3c3aa5d01fbab9d05d3d92b3b890972b"
+        "content": "He must have stayed in the room some little time after the murder, for we found blood-stained water in the basin, where he had washed his hands, and marks on the sheets where he had deliberately wiped his knife.\"",
+        "objectID": "f7a00085e338e323ef7fae0af2b341a4"
       }
     },
-    "objectID": "802374e90d911c42b2a293c6e6a21a0f",
-    "order": 20,
+    "objectID": "5635d26a77e23df5337c75aae4847d8f",
+    "order": 28,
     "tagName": "P"
   },
   {
@@ -425,16 +593,16 @@
     "content": "\"Did you find nothing in the room which could furnish a clue to the murderer?\" he asked.",
     "context": {
       "next": {
-        "content": "\"Nothing. Stangerson had Drebber's purse in his pocket, but it seems that this was usual, as he did all the paying. There was eighty odd pounds in it, but nothing had been taken. Whatever the motives of these extraordinary crimes, robbery is certainly not one of them. There were no papers or memoranda in the murdered man's pocket, except a single telegram, dated from Cleveland about a month ago, and containing the words, 'J. H. is in Europe.' There was no name appended to this message.\"",
-        "objectID": "47059cce23c4143cf9992372c0c5e08b"
+        "content": "\"Nothing. Stangerson had Drebber's purse in his pocket, but it seems that this was usual, as he did all the paying. There was eighty odd pounds in it, but nothing had been taken. Whatever the motives of these extraordinary crimes, robbery is certainly not one of them. There were no papers or memoranda in the murdered man's pocket, except a single telegram, dated from Cleveland about a month ago, and containing the words, 'J.",
+        "objectID": "ea5f772369ffa57f7fe97e590e4489c5"
       },
       "previous": {
         "content": "I glanced at Holmes on hearing the description of the murderer, which tallied so exactly with his own. There was, however, no trace of exultation or satisfaction upon his face.",
-        "objectID": "802374e90d911c42b2a293c6e6a21a0f"
+        "objectID": "5635d26a77e23df5337c75aae4847d8f"
       }
     },
-    "objectID": "702d9dbdb8510dadb4a22dfe5c27f201",
-    "order": 21,
+    "objectID": "2458ab3a11df4bc564d533c660b7f848",
+    "order": 29,
     "tagName": "P"
   },
   {
@@ -443,19 +611,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "\"Nothing. Stangerson had Drebber's purse in his pocket, but it seems that this was usual, as he did all the paying. There was eighty odd pounds in it, but nothing had been taken. Whatever the motives of these extraordinary crimes, robbery is certainly not one of them. There were no papers or memoranda in the murdered man's pocket, except a single telegram, dated from Cleveland about a month ago, and containing the words, 'J. H. is in Europe.' There was no name appended to this message.\"",
+    "content": "\"Nothing. Stangerson had Drebber's purse in his pocket, but it seems that this was usual, as he did all the paying. There was eighty odd pounds in it, but nothing had been taken. Whatever the motives of these extraordinary crimes, robbery is certainly not one of them. There were no papers or memoranda in the murdered man's pocket, except a single telegram, dated from Cleveland about a month ago, and containing the words, 'J.",
     "context": {
       "next": {
-        "content": "\"And there was nothing else?\" Holmes asked.",
-        "objectID": "5eb552a7c2eac8a238cd3a2624d3285d"
+        "content": "H. is in Europe.' There was no name appended to this message.\"",
+        "objectID": "c97ee6551bb5fdc9c5dce4fea8337825"
       },
       "previous": {
         "content": "\"Did you find nothing in the room which could furnish a clue to the murderer?\" he asked.",
-        "objectID": "702d9dbdb8510dadb4a22dfe5c27f201"
+        "objectID": "2458ab3a11df4bc564d533c660b7f848"
       }
     },
-    "objectID": "47059cce23c4143cf9992372c0c5e08b",
-    "order": 22,
+    "objectID": "ea5f772369ffa57f7fe97e590e4489c5",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "H. is in Europe.' There was no name appended to this message.\"",
+    "context": {
+      "next": {
+        "content": "\"And there was nothing else?\" Holmes asked.",
+        "objectID": "6c3d0f2c4e79300aba1f87176daff65e"
+      },
+      "previous": {
+        "content": "\"Nothing. Stangerson had Drebber's purse in his pocket, but it seems that this was usual, as he did all the paying. There was eighty odd pounds in it, but nothing had been taken. Whatever the motives of these extraordinary crimes, robbery is certainly not one of them. There were no papers or memoranda in the murdered man's pocket, except a single telegram, dated from Cleveland about a month ago, and containing the words, 'J.",
+        "objectID": "ea5f772369ffa57f7fe97e590e4489c5"
+      }
+    },
+    "objectID": "c97ee6551bb5fdc9c5dce4fea8337825",
+    "order": 31,
     "tagName": "P"
   },
   {
@@ -468,15 +657,15 @@
     "context": {
       "next": {
         "content": "\"Nothing of any importance. The man's novel, with which he had read himself to sleep was lying upon the bed, and his pipe was on a chair beside him. There was a glass of water on the table, and on the window-sill a small chip ointment box containing a couple of pills.\"",
-        "objectID": "9de23e0612492b38fcc4336b69cd922c"
+        "objectID": "54dcb4bb7efda68ef83dbe4b79e8d506"
       },
       "previous": {
-        "content": "\"Nothing. Stangerson had Drebber's purse in his pocket, but it seems that this was usual, as he did all the paying. There was eighty odd pounds in it, but nothing had been taken. Whatever the motives of these extraordinary crimes, robbery is certainly not one of them. There were no papers or memoranda in the murdered man's pocket, except a single telegram, dated from Cleveland about a month ago, and containing the words, 'J. H. is in Europe.' There was no name appended to this message.\"",
-        "objectID": "47059cce23c4143cf9992372c0c5e08b"
+        "content": "H. is in Europe.' There was no name appended to this message.\"",
+        "objectID": "c97ee6551bb5fdc9c5dce4fea8337825"
       }
     },
-    "objectID": "5eb552a7c2eac8a238cd3a2624d3285d",
-    "order": 23,
+    "objectID": "6c3d0f2c4e79300aba1f87176daff65e",
+    "order": 32,
     "tagName": "P"
   },
   {
@@ -489,15 +678,15 @@
     "context": {
       "next": {
         "content": "Sherlock Holmes sprang from his chair with an exclamation of delight.",
-        "objectID": "10e563b93c2f21c0b0643c3036f936f7"
+        "objectID": "d5d8476416e9d337015cb5cb1cd132f0"
       },
       "previous": {
         "content": "\"And there was nothing else?\" Holmes asked.",
-        "objectID": "5eb552a7c2eac8a238cd3a2624d3285d"
+        "objectID": "6c3d0f2c4e79300aba1f87176daff65e"
       }
     },
-    "objectID": "9de23e0612492b38fcc4336b69cd922c",
-    "order": 24,
+    "objectID": "54dcb4bb7efda68ef83dbe4b79e8d506",
+    "order": 33,
     "tagName": "P"
   },
   {
@@ -510,15 +699,15 @@
     "context": {
       "next": {
         "content": "\"The last link,\" he cried, exultantly. \"My case is complete.\"",
-        "objectID": "d008a5b5cf6dbfc0d89b1799e62d71b9"
+        "objectID": "314ee1d53d8baeae9fa2922f3920ef3b"
       },
       "previous": {
         "content": "\"Nothing of any importance. The man's novel, with which he had read himself to sleep was lying upon the bed, and his pipe was on a chair beside him. There was a glass of water on the table, and on the window-sill a small chip ointment box containing a couple of pills.\"",
-        "objectID": "9de23e0612492b38fcc4336b69cd922c"
+        "objectID": "54dcb4bb7efda68ef83dbe4b79e8d506"
       }
     },
-    "objectID": "10e563b93c2f21c0b0643c3036f936f7",
-    "order": 25,
+    "objectID": "d5d8476416e9d337015cb5cb1cd132f0",
+    "order": 34,
     "tagName": "P"
   },
   {
@@ -531,15 +720,15 @@
     "context": {
       "next": {
         "content": "The two detectives stared at him in amazement.",
-        "objectID": "aa79dd8490b0cdc9f39d8c9cfb5ae9dd"
+        "objectID": "1b42ee5bb45f31b44070d1a229ee27a2"
       },
       "previous": {
         "content": "Sherlock Holmes sprang from his chair with an exclamation of delight.",
-        "objectID": "10e563b93c2f21c0b0643c3036f936f7"
+        "objectID": "d5d8476416e9d337015cb5cb1cd132f0"
       }
     },
-    "objectID": "d008a5b5cf6dbfc0d89b1799e62d71b9",
-    "order": 26,
+    "objectID": "314ee1d53d8baeae9fa2922f3920ef3b",
+    "order": 35,
     "tagName": "P"
   },
   {
@@ -551,16 +740,16 @@
     "content": "The two detectives stared at him in amazement.",
     "context": {
       "next": {
-        "content": "\"I have now in my hands,\" my companion said, confidently, \"all the threads which have formed such a tangle. There are, of course, details to be filled in, but I am as certain of all the main facts, from the time that Drebber parted from Stangerson at the station, up to the discovery of the body of the latter, as if I had seen them with my own eyes. I will give you a proof of my knowledge. Could you lay your hand upon those pills?\"",
-        "objectID": "0c9516e418ecb0c55137c642534237d8"
+        "content": "\"I have now in my hands,\" my companion said, confidently, \"all the threads which have formed such a tangle. There are, of course, details to be filled in, but I am as certain of all the main facts, from the time that Drebber parted from Stangerson at the station, up to the discovery of the body of the latter, as if I had seen them with my own eyes.",
+        "objectID": "c043b65c0ba25a44d97c46bca5a14ae3"
       },
       "previous": {
         "content": "\"The last link,\" he cried, exultantly. \"My case is complete.\"",
-        "objectID": "d008a5b5cf6dbfc0d89b1799e62d71b9"
+        "objectID": "314ee1d53d8baeae9fa2922f3920ef3b"
       }
     },
-    "objectID": "aa79dd8490b0cdc9f39d8c9cfb5ae9dd",
-    "order": 27,
+    "objectID": "1b42ee5bb45f31b44070d1a229ee27a2",
+    "order": 36,
     "tagName": "P"
   },
   {
@@ -569,19 +758,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "\"I have now in my hands,\" my companion said, confidently, \"all the threads which have formed such a tangle. There are, of course, details to be filled in, but I am as certain of all the main facts, from the time that Drebber parted from Stangerson at the station, up to the discovery of the body of the latter, as if I had seen them with my own eyes. I will give you a proof of my knowledge. Could you lay your hand upon those pills?\"",
+    "content": "\"I have now in my hands,\" my companion said, confidently, \"all the threads which have formed such a tangle. There are, of course, details to be filled in, but I am as certain of all the main facts, from the time that Drebber parted from Stangerson at the station, up to the discovery of the body of the latter, as if I had seen them with my own eyes.",
     "context": {
       "next": {
-        "content": "\"I have them,\" said Lestrade, producing a small white box; \"I took them and the purse and the telegram, intending to have them put in a place of safety at the Police Station. It was the merest chance my taking these pills, for I am bound to say that I do not attach any importance to them.\"",
-        "objectID": "30477d95552d8503487bc5ccf67c341f"
+        "content": "I will give you a proof of my knowledge. Could you lay your hand upon those pills?\"",
+        "objectID": "5f81adc7bab93b3c55d5d448e86d5c40"
       },
       "previous": {
         "content": "The two detectives stared at him in amazement.",
-        "objectID": "aa79dd8490b0cdc9f39d8c9cfb5ae9dd"
+        "objectID": "1b42ee5bb45f31b44070d1a229ee27a2"
       }
     },
-    "objectID": "0c9516e418ecb0c55137c642534237d8",
-    "order": 28,
+    "objectID": "c043b65c0ba25a44d97c46bca5a14ae3",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "I will give you a proof of my knowledge. Could you lay your hand upon those pills?\"",
+    "context": {
+      "next": {
+        "content": "\"I have them,\" said Lestrade, producing a small white box; \"I took them and the purse and the telegram, intending to have them put in a place of safety at the Police Station. It was the merest chance my taking these pills, for I am bound to say that I do not attach any importance to them.\"",
+        "objectID": "111e8fe60d3c991ea572d0b45836d2cb"
+      },
+      "previous": {
+        "content": "\"I have now in my hands,\" my companion said, confidently, \"all the threads which have formed such a tangle. There are, of course, details to be filled in, but I am as certain of all the main facts, from the time that Drebber parted from Stangerson at the station, up to the discovery of the body of the latter, as if I had seen them with my own eyes.",
+        "objectID": "c043b65c0ba25a44d97c46bca5a14ae3"
+      }
+    },
+    "objectID": "5f81adc7bab93b3c55d5d448e86d5c40",
+    "order": 38,
     "tagName": "P"
   },
   {
@@ -594,15 +804,15 @@
     "context": {
       "next": {
         "content": "\"Give them here,\" said Holmes. \"Now, Doctor,\" turning to me, \"are those ordinary pills?\"",
-        "objectID": "d781f814ec6df74783e5811384a4bce9"
+        "objectID": "ebf037413c42ba2f4215f12e7787a065"
       },
       "previous": {
-        "content": "\"I have now in my hands,\" my companion said, confidently, \"all the threads which have formed such a tangle. There are, of course, details to be filled in, but I am as certain of all the main facts, from the time that Drebber parted from Stangerson at the station, up to the discovery of the body of the latter, as if I had seen them with my own eyes. I will give you a proof of my knowledge. Could you lay your hand upon those pills?\"",
-        "objectID": "0c9516e418ecb0c55137c642534237d8"
+        "content": "I will give you a proof of my knowledge. Could you lay your hand upon those pills?\"",
+        "objectID": "5f81adc7bab93b3c55d5d448e86d5c40"
       }
     },
-    "objectID": "30477d95552d8503487bc5ccf67c341f",
-    "order": 29,
+    "objectID": "111e8fe60d3c991ea572d0b45836d2cb",
+    "order": 39,
     "tagName": "P"
   },
   {
@@ -615,15 +825,15 @@
     "context": {
       "next": {
         "content": "They certainly were not. They were of a pearly grey colour, small, round, and almost transparent against the light. \"From their lightness and transparency, I should imagine that they are soluble in water,\" I remarked.",
-        "objectID": "b4417b345afe1e74fce9bab3a1481c89"
+        "objectID": "ee0053aa466a8ba398958decd391fe28"
       },
       "previous": {
         "content": "\"I have them,\" said Lestrade, producing a small white box; \"I took them and the purse and the telegram, intending to have them put in a place of safety at the Police Station. It was the merest chance my taking these pills, for I am bound to say that I do not attach any importance to them.\"",
-        "objectID": "30477d95552d8503487bc5ccf67c341f"
+        "objectID": "111e8fe60d3c991ea572d0b45836d2cb"
       }
     },
-    "objectID": "d781f814ec6df74783e5811384a4bce9",
-    "order": 30,
+    "objectID": "ebf037413c42ba2f4215f12e7787a065",
+    "order": 40,
     "tagName": "P"
   },
   {
@@ -636,15 +846,15 @@
     "context": {
       "next": {
         "content": "\"Precisely so,\" answered Holmes. \"Now would you mind going down and fetching that poor little devil of a terrier which has been bad so long, and which the landlady wanted you to put out of its pain yesterday.\"",
-        "objectID": "66d450e16b3b443627cbe4191f580f1e"
+        "objectID": "e45f4bec0bf89f8f936163cea2490d54"
       },
       "previous": {
         "content": "\"Give them here,\" said Holmes. \"Now, Doctor,\" turning to me, \"are those ordinary pills?\"",
-        "objectID": "d781f814ec6df74783e5811384a4bce9"
+        "objectID": "ebf037413c42ba2f4215f12e7787a065"
       }
     },
-    "objectID": "b4417b345afe1e74fce9bab3a1481c89",
-    "order": 31,
+    "objectID": "ee0053aa466a8ba398958decd391fe28",
+    "order": 41,
     "tagName": "P"
   },
   {
@@ -657,15 +867,15 @@
     "context": {
       "next": {
         "content": "I went downstairs and carried the dog upstair in my arms. It's laboured breathing and glazing eye showed that it was not far from its end. Indeed, its snow-white muzzle proclaimed that it had already exceeded the usual term of canine existence. I placed it upon a cushion on the rug.",
-        "objectID": "a14fb1a13a1d0fbf477a362820be7d90"
+        "objectID": "b545d418ff8cdf1809a308caa624ea59"
       },
       "previous": {
         "content": "They certainly were not. They were of a pearly grey colour, small, round, and almost transparent against the light. \"From their lightness and transparency, I should imagine that they are soluble in water,\" I remarked.",
-        "objectID": "b4417b345afe1e74fce9bab3a1481c89"
+        "objectID": "ee0053aa466a8ba398958decd391fe28"
       }
     },
-    "objectID": "66d450e16b3b443627cbe4191f580f1e",
-    "order": 32,
+    "objectID": "e45f4bec0bf89f8f936163cea2490d54",
+    "order": 42,
     "tagName": "P"
   },
   {
@@ -677,16 +887,16 @@
     "content": "I went downstairs and carried the dog upstair in my arms. It's laboured breathing and glazing eye showed that it was not far from its end. Indeed, its snow-white muzzle proclaimed that it had already exceeded the usual term of canine existence. I placed it upon a cushion on the rug.",
     "context": {
       "next": {
-        "content": "\"I will now cut one of these pills in two,\" said Holmes, and drawing his penknife he suited the action to the word. \"One half we return into the box for future purposes. The other half I will place in this wine glass, in which is a teaspoonful of water. You perceive that our friend, the Doctor, is right, and that it readily dissolves.\"",
-        "objectID": "d815ca53db0f00af581bd1de49ac61c0"
+        "content": "\"I will now cut one of these pills in two,\" said Holmes, and drawing his penknife he suited the action to the word. \"One half we return into the box for future purposes. The other half I will place in this wine glass, in which is a teaspoonful of water. You perceive that our friend, the Doctor, is right, and that it readily dissolves.",
+        "objectID": "64a6ad8956071948048943c3733d4e3f"
       },
       "previous": {
         "content": "\"Precisely so,\" answered Holmes. \"Now would you mind going down and fetching that poor little devil of a terrier which has been bad so long, and which the landlady wanted you to put out of its pain yesterday.\"",
-        "objectID": "66d450e16b3b443627cbe4191f580f1e"
+        "objectID": "e45f4bec0bf89f8f936163cea2490d54"
       }
     },
-    "objectID": "a14fb1a13a1d0fbf477a362820be7d90",
-    "order": 33,
+    "objectID": "b545d418ff8cdf1809a308caa624ea59",
+    "order": 43,
     "tagName": "P"
   },
   {
@@ -695,19 +905,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "\"I will now cut one of these pills in two,\" said Holmes, and drawing his penknife he suited the action to the word. \"One half we return into the box for future purposes. The other half I will place in this wine glass, in which is a teaspoonful of water. You perceive that our friend, the Doctor, is right, and that it readily dissolves.\"",
+    "content": "\"I will now cut one of these pills in two,\" said Holmes, and drawing his penknife he suited the action to the word. \"One half we return into the box for future purposes. The other half I will place in this wine glass, in which is a teaspoonful of water. You perceive that our friend, the Doctor, is right, and that it readily dissolves.",
     "context": {
       "next": {
-        "content": "\"This may be very interesting,\" said Lestrade, in the injured tone of one who suspects that he is being laughed at, \"I cannot see, however, what it has to do with the death of Mr. Joseph Stangerson.\"",
-        "objectID": "36fff3873c51c62ef76aa56c0c3a283d"
+        "content": "\"",
+        "objectID": "d12621d03046da879ae63c73f96d4f5d"
       },
       "previous": {
         "content": "I went downstairs and carried the dog upstair in my arms. It's laboured breathing and glazing eye showed that it was not far from its end. Indeed, its snow-white muzzle proclaimed that it had already exceeded the usual term of canine existence. I placed it upon a cushion on the rug.",
-        "objectID": "a14fb1a13a1d0fbf477a362820be7d90"
+        "objectID": "b545d418ff8cdf1809a308caa624ea59"
       }
     },
-    "objectID": "d815ca53db0f00af581bd1de49ac61c0",
-    "order": 34,
+    "objectID": "64a6ad8956071948048943c3733d4e3f",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"This may be very interesting,\" said Lestrade, in the injured tone of one who suspects that he is being laughed at, \"I cannot see, however, what it has to do with the death of Mr. Joseph Stangerson.\"",
+        "objectID": "d11790c2a7716b5f1fe0892532643a41"
+      },
+      "previous": {
+        "content": "\"I will now cut one of these pills in two,\" said Holmes, and drawing his penknife he suited the action to the word. \"One half we return into the box for future purposes. The other half I will place in this wine glass, in which is a teaspoonful of water. You perceive that our friend, the Doctor, is right, and that it readily dissolves.",
+        "objectID": "64a6ad8956071948048943c3733d4e3f"
+      }
+    },
+    "objectID": "d12621d03046da879ae63c73f96d4f5d",
+    "order": 45,
     "tagName": "P"
   },
   {
@@ -720,15 +951,15 @@
     "context": {
       "next": {
         "content": "\"Patience, my friend, patience! You will find in time that it has everything to do with it. I shall now add a little milk to make the mixture palatable, and on presenting it to the dog we find that he laps it up readily enough.\"",
-        "objectID": "3d2f0af0b1143346a890bd7403306574"
+        "objectID": "c62c18f8dacce329606a34752711b0ff"
       },
       "previous": {
-        "content": "\"I will now cut one of these pills in two,\" said Holmes, and drawing his penknife he suited the action to the word. \"One half we return into the box for future purposes. The other half I will place in this wine glass, in which is a teaspoonful of water. You perceive that our friend, the Doctor, is right, and that it readily dissolves.\"",
-        "objectID": "d815ca53db0f00af581bd1de49ac61c0"
+        "content": "\"",
+        "objectID": "d12621d03046da879ae63c73f96d4f5d"
       }
     },
-    "objectID": "36fff3873c51c62ef76aa56c0c3a283d",
-    "order": 35,
+    "objectID": "d11790c2a7716b5f1fe0892532643a41",
+    "order": 46,
     "tagName": "P"
   },
   {
@@ -740,16 +971,16 @@
     "content": "\"Patience, my friend, patience! You will find in time that it has everything to do with it. I shall now add a little milk to make the mixture palatable, and on presenting it to the dog we find that he laps it up readily enough.\"",
     "context": {
       "next": {
-        "content": "As he spoke he turned the contents of the wine glass into a saucer and placed it in front of the terrier, who speedily licked it dry. Sherlock Holmes' earnest demeanour had so far convinced us that we all sat in silence, watching the animal intently, and expecting some startling effect. None such appeared, however. The dog continued to lie stretched upon tho cushion, breathing in a laboured way, but apparently neither the better nor the worse for its draught.",
-        "objectID": "4025f530e1ca7b9c1c89eedd854efaab"
+        "content": "As he spoke he turned the contents of the wine glass into a saucer and placed it in front of the terrier, who speedily licked it dry. Sherlock Holmes' earnest demeanour had so far convinced us that we all sat in silence, watching the animal intently, and expecting some startling effect. None such appeared, however.",
+        "objectID": "87b013e1596b77bdb56055c56630ee03"
       },
       "previous": {
         "content": "\"This may be very interesting,\" said Lestrade, in the injured tone of one who suspects that he is being laughed at, \"I cannot see, however, what it has to do with the death of Mr. Joseph Stangerson.\"",
-        "objectID": "36fff3873c51c62ef76aa56c0c3a283d"
+        "objectID": "d11790c2a7716b5f1fe0892532643a41"
       }
     },
-    "objectID": "3d2f0af0b1143346a890bd7403306574",
-    "order": 36,
+    "objectID": "c62c18f8dacce329606a34752711b0ff",
+    "order": 47,
     "tagName": "P"
   },
   {
@@ -758,19 +989,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "As he spoke he turned the contents of the wine glass into a saucer and placed it in front of the terrier, who speedily licked it dry. Sherlock Holmes' earnest demeanour had so far convinced us that we all sat in silence, watching the animal intently, and expecting some startling effect. None such appeared, however. The dog continued to lie stretched upon tho cushion, breathing in a laboured way, but apparently neither the better nor the worse for its draught.",
+    "content": "As he spoke he turned the contents of the wine glass into a saucer and placed it in front of the terrier, who speedily licked it dry. Sherlock Holmes' earnest demeanour had so far convinced us that we all sat in silence, watching the animal intently, and expecting some startling effect. None such appeared, however.",
     "context": {
       "next": {
-        "content": "Holmes had taken out his watch, and as minute followed minute without result, an expression of the utmost chagrin and disappointment appeared upon his features. He gnawed his lip, drummed his fingers upon the table, and showed every other symptom of acute impatience. So great was his emotion, that I felt sincerely sorry for him, while the two detectives smiled derisively, by no means displeased at this check which he had met.",
-        "objectID": "f6a16d6ff4ce8c02a44f81e8d1f712fb"
+        "content": "The dog continued to lie stretched upon tho cushion, breathing in a laboured way, but apparently neither the better nor the worse for its draught.",
+        "objectID": "502ab8b7ffb711a6a002385016dad9fc"
       },
       "previous": {
         "content": "\"Patience, my friend, patience! You will find in time that it has everything to do with it. I shall now add a little milk to make the mixture palatable, and on presenting it to the dog we find that he laps it up readily enough.\"",
-        "objectID": "3d2f0af0b1143346a890bd7403306574"
+        "objectID": "c62c18f8dacce329606a34752711b0ff"
       }
     },
-    "objectID": "4025f530e1ca7b9c1c89eedd854efaab",
-    "order": 37,
+    "objectID": "87b013e1596b77bdb56055c56630ee03",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "The dog continued to lie stretched upon tho cushion, breathing in a laboured way, but apparently neither the better nor the worse for its draught.",
+    "context": {
+      "next": {
+        "content": "Holmes had taken out his watch, and as minute followed minute without result, an expression of the utmost chagrin and disappointment appeared upon his features. He gnawed his lip, drummed his fingers upon the table, and showed every other symptom of acute impatience. So great was his emotion, that I felt sincerely sorry for him, while the two detectives smiled derisively, by no means displeased at this check which he had met.",
+        "objectID": "8e833f0ba61a38f430bf24396bc6da63"
+      },
+      "previous": {
+        "content": "As he spoke he turned the contents of the wine glass into a saucer and placed it in front of the terrier, who speedily licked it dry. Sherlock Holmes' earnest demeanour had so far convinced us that we all sat in silence, watching the animal intently, and expecting some startling effect. None such appeared, however.",
+        "objectID": "87b013e1596b77bdb56055c56630ee03"
+      }
+    },
+    "objectID": "502ab8b7ffb711a6a002385016dad9fc",
+    "order": 49,
     "tagName": "P"
   },
   {
@@ -782,16 +1034,16 @@
     "content": "Holmes had taken out his watch, and as minute followed minute without result, an expression of the utmost chagrin and disappointment appeared upon his features. He gnawed his lip, drummed his fingers upon the table, and showed every other symptom of acute impatience. So great was his emotion, that I felt sincerely sorry for him, while the two detectives smiled derisively, by no means displeased at this check which he had met.",
     "context": {
       "next": {
-        "content": "\"It can't be a coincidence,\" he cried, at last springing from his chair and pacing wildly up and down the room; \"it is impossible that it should be a mere coincidence. The very pills which I suspected in the case of Drebber are actually found after the death of Stangerson. And yet they are inert. What can it mean? Surely my whole chain of reasoning cannot have been false. It is impossible! And yet this wretched dog is none the worse. Ah, I have it! I have it!\" With a perfect shriek of delight he rushed to the box, cut the other pill in two, dissolved it, added milk, and presented it to the terrier. The unfortunate creature's tongue seemed hardly to have been moistened in it before it gave a convulsive shiver in every limb, and lay as rigid and lifeless as if it had been struck by lightning.",
-        "objectID": "61a7ee1af4c16fb2dbc1b0403d8021c0"
+        "content": "\"It can't be a coincidence,\" he cried, at last springing from his chair and pacing wildly up and down the room; \"it is impossible that it should be a mere coincidence. The very pills which I suspected in the case of Drebber are actually found after the death of Stangerson. And yet they are inert. What can it mean? Surely my whole chain of reasoning cannot have been false.",
+        "objectID": "622314cded445ab9aa10144e9d9f1f2e"
       },
       "previous": {
-        "content": "As he spoke he turned the contents of the wine glass into a saucer and placed it in front of the terrier, who speedily licked it dry. Sherlock Holmes' earnest demeanour had so far convinced us that we all sat in silence, watching the animal intently, and expecting some startling effect. None such appeared, however. The dog continued to lie stretched upon tho cushion, breathing in a laboured way, but apparently neither the better nor the worse for its draught.",
-        "objectID": "4025f530e1ca7b9c1c89eedd854efaab"
+        "content": "The dog continued to lie stretched upon tho cushion, breathing in a laboured way, but apparently neither the better nor the worse for its draught.",
+        "objectID": "502ab8b7ffb711a6a002385016dad9fc"
       }
     },
-    "objectID": "f6a16d6ff4ce8c02a44f81e8d1f712fb",
-    "order": 38,
+    "objectID": "8e833f0ba61a38f430bf24396bc6da63",
+    "order": 50,
     "tagName": "P"
   },
   {
@@ -800,19 +1052,19 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "\"It can't be a coincidence,\" he cried, at last springing from his chair and pacing wildly up and down the room; \"it is impossible that it should be a mere coincidence. The very pills which I suspected in the case of Drebber are actually found after the death of Stangerson. And yet they are inert. What can it mean? Surely my whole chain of reasoning cannot have been false. It is impossible! And yet this wretched dog is none the worse. Ah, I have it! I have it!\" With a perfect shriek of delight he rushed to the box, cut the other pill in two, dissolved it, added milk, and presented it to the terrier. The unfortunate creature's tongue seemed hardly to have been moistened in it before it gave a convulsive shiver in every limb, and lay as rigid and lifeless as if it had been struck by lightning.",
+    "content": "\"It can't be a coincidence,\" he cried, at last springing from his chair and pacing wildly up and down the room; \"it is impossible that it should be a mere coincidence. The very pills which I suspected in the case of Drebber are actually found after the death of Stangerson. And yet they are inert. What can it mean? Surely my whole chain of reasoning cannot have been false.",
     "context": {
       "next": {
-        "content": "Sherlock Holmes drew a long breath, and wiped the perspiration from his forehead. \"I should have more faith,\" he said; \"I ought to know by this time that when a fact appears to be opposed to a long train of deductions, it invariably proves to be capable of bearing some other interpretation. Of the two pills in that box one was of the most deadly poison, and the other was entirely harmless. I ought to have known that before ever I saw the box at all.\"",
-        "objectID": "0d245f4c5373bb3db0b1425058f828c4"
+        "content": "It is impossible! And yet this wretched dog is none the worse. Ah, I have it! I have it!\" With a perfect shriek of delight he rushed to the box, cut the other pill in two, dissolved it, added milk, and presented it to the terrier. The unfortunate creature's tongue seemed hardly to have been moistened in it before it gave a convulsive shiver in every limb, and lay as rigid and lifeless as if it had been struck by lightning.",
+        "objectID": "52958818d40be86dc714c8150acf6fe5"
       },
       "previous": {
         "content": "Holmes had taken out his watch, and as minute followed minute without result, an expression of the utmost chagrin and disappointment appeared upon his features. He gnawed his lip, drummed his fingers upon the table, and showed every other symptom of acute impatience. So great was his emotion, that I felt sincerely sorry for him, while the two detectives smiled derisively, by no means displeased at this check which he had met.",
-        "objectID": "f6a16d6ff4ce8c02a44f81e8d1f712fb"
+        "objectID": "8e833f0ba61a38f430bf24396bc6da63"
       }
     },
-    "objectID": "61a7ee1af4c16fb2dbc1b0403d8021c0",
-    "order": 39,
+    "objectID": "622314cded445ab9aa10144e9d9f1f2e",
+    "order": 51,
     "tagName": "P"
   },
   {
@@ -821,19 +1073,61 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "Sherlock Holmes drew a long breath, and wiped the perspiration from his forehead. \"I should have more faith,\" he said; \"I ought to know by this time that when a fact appears to be opposed to a long train of deductions, it invariably proves to be capable of bearing some other interpretation. Of the two pills in that box one was of the most deadly poison, and the other was entirely harmless. I ought to have known that before ever I saw the box at all.\"",
+    "content": "It is impossible! And yet this wretched dog is none the worse. Ah, I have it! I have it!\" With a perfect shriek of delight he rushed to the box, cut the other pill in two, dissolved it, added milk, and presented it to the terrier. The unfortunate creature's tongue seemed hardly to have been moistened in it before it gave a convulsive shiver in every limb, and lay as rigid and lifeless as if it had been struck by lightning.",
+    "context": {
+      "next": {
+        "content": "Sherlock Holmes drew a long breath, and wiped the perspiration from his forehead. \"I should have more faith,\" he said; \"I ought to know by this time that when a fact appears to be opposed to a long train of deductions, it invariably proves to be capable of bearing some other interpretation. Of the two pills in that box one was of the most deadly poison, and the other was entirely harmless.",
+        "objectID": "cb5d22dd52cc78258d8b5ecf832fafe6"
+      },
+      "previous": {
+        "content": "\"It can't be a coincidence,\" he cried, at last springing from his chair and pacing wildly up and down the room; \"it is impossible that it should be a mere coincidence. The very pills which I suspected in the case of Drebber are actually found after the death of Stangerson. And yet they are inert. What can it mean? Surely my whole chain of reasoning cannot have been false.",
+        "objectID": "622314cded445ab9aa10144e9d9f1f2e"
+      }
+    },
+    "objectID": "52958818d40be86dc714c8150acf6fe5",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "Sherlock Holmes drew a long breath, and wiped the perspiration from his forehead. \"I should have more faith,\" he said; \"I ought to know by this time that when a fact appears to be opposed to a long train of deductions, it invariably proves to be capable of bearing some other interpretation. Of the two pills in that box one was of the most deadly poison, and the other was entirely harmless.",
+    "context": {
+      "next": {
+        "content": "I ought to have known that before ever I saw the box at all.\"",
+        "objectID": "5d34d8017ba3a04432dd4692dc24f5d7"
+      },
+      "previous": {
+        "content": "It is impossible! And yet this wretched dog is none the worse. Ah, I have it! I have it!\" With a perfect shriek of delight he rushed to the box, cut the other pill in two, dissolved it, added milk, and presented it to the terrier. The unfortunate creature's tongue seemed hardly to have been moistened in it before it gave a convulsive shiver in every limb, and lay as rigid and lifeless as if it had been struck by lightning.",
+        "objectID": "52958818d40be86dc714c8150acf6fe5"
+      }
+    },
+    "objectID": "cb5d22dd52cc78258d8b5ecf832fafe6",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "I ought to have known that before ever I saw the box at all.\"",
     "context": {
       "next": {
         "content": "This last statement appeared to me to be so startling, that I could hardly believe that he was in his sober senses. There was the dead dog, however, to prove that his conjecture had been correct. It seemed to me that the mists in my own mind were gradually clearing away, and I began to have a dim, vague perception of the truth.",
-        "objectID": "4a3aef8befbe12a427369802df9bfb46"
+        "objectID": "3bf377ee251cbc1ba5074bd7cf324ee2"
       },
       "previous": {
-        "content": "\"It can't be a coincidence,\" he cried, at last springing from his chair and pacing wildly up and down the room; \"it is impossible that it should be a mere coincidence. The very pills which I suspected in the case of Drebber are actually found after the death of Stangerson. And yet they are inert. What can it mean? Surely my whole chain of reasoning cannot have been false. It is impossible! And yet this wretched dog is none the worse. Ah, I have it! I have it!\" With a perfect shriek of delight he rushed to the box, cut the other pill in two, dissolved it, added milk, and presented it to the terrier. The unfortunate creature's tongue seemed hardly to have been moistened in it before it gave a convulsive shiver in every limb, and lay as rigid and lifeless as if it had been struck by lightning.",
-        "objectID": "61a7ee1af4c16fb2dbc1b0403d8021c0"
+        "content": "Sherlock Holmes drew a long breath, and wiped the perspiration from his forehead. \"I should have more faith,\" he said; \"I ought to know by this time that when a fact appears to be opposed to a long train of deductions, it invariably proves to be capable of bearing some other interpretation. Of the two pills in that box one was of the most deadly poison, and the other was entirely harmless.",
+        "objectID": "cb5d22dd52cc78258d8b5ecf832fafe6"
       }
     },
-    "objectID": "0d245f4c5373bb3db0b1425058f828c4",
-    "order": 40,
+    "objectID": "5d34d8017ba3a04432dd4692dc24f5d7",
+    "order": 54,
     "tagName": "P"
   },
   {
@@ -845,16 +1139,16 @@
     "content": "This last statement appeared to me to be so startling, that I could hardly believe that he was in his sober senses. There was the dead dog, however, to prove that his conjecture had been correct. It seemed to me that the mists in my own mind were gradually clearing away, and I began to have a dim, vague perception of the truth.",
     "context": {
       "next": {
-        "content": "\"All this seems strange to you,\" continued Holmes, \"because you failed at the beginning of the inquiry to grasp the importance of the single real clue which was presented to you. I had the good fortune to seize upon that, and everything which has occurred since then has served to confirm my original supposition, and, indeed, was the logical sequence of it. Hence things which have perplexed you and made the case more obscure, have served to enlighten me and to strengthen my conclusions. It is a mistake to confound strangeness with mystery. The most commonplace crime is often the most mysterious because it presents no new or special features from which deductions may be drawn. This murder would have been infinitely more difficult to unravel had the body of the victim been simply found lying in the roadway without any of those outr� and sensational accompaniments which have rendered it remarkable. These strange details, far from making the case more difficult, have really had the effect of making it less so.\"",
-        "objectID": "c9ab9bf588e3c2c81415db41b2a46710"
+        "content": "\"All this seems strange to you,\" continued Holmes, \"because you failed at the beginning of the inquiry to grasp the importance of the single real clue which was presented to you. I had the good fortune to seize upon that, and everything which has occurred since then has served to confirm my original supposition, and, indeed, was the logical sequence of it.",
+        "objectID": "e03fac4369dacd9f4d4282273cca9ae2"
       },
       "previous": {
-        "content": "Sherlock Holmes drew a long breath, and wiped the perspiration from his forehead. \"I should have more faith,\" he said; \"I ought to know by this time that when a fact appears to be opposed to a long train of deductions, it invariably proves to be capable of bearing some other interpretation. Of the two pills in that box one was of the most deadly poison, and the other was entirely harmless. I ought to have known that before ever I saw the box at all.\"",
-        "objectID": "0d245f4c5373bb3db0b1425058f828c4"
+        "content": "I ought to have known that before ever I saw the box at all.\"",
+        "objectID": "5d34d8017ba3a04432dd4692dc24f5d7"
       }
     },
-    "objectID": "4a3aef8befbe12a427369802df9bfb46",
-    "order": 41,
+    "objectID": "3bf377ee251cbc1ba5074bd7cf324ee2",
+    "order": 55,
     "tagName": "P"
   },
   {
@@ -863,19 +1157,19 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "\"All this seems strange to you,\" continued Holmes, \"because you failed at the beginning of the inquiry to grasp the importance of the single real clue which was presented to you. I had the good fortune to seize upon that, and everything which has occurred since then has served to confirm my original supposition, and, indeed, was the logical sequence of it. Hence things which have perplexed you and made the case more obscure, have served to enlighten me and to strengthen my conclusions. It is a mistake to confound strangeness with mystery. The most commonplace crime is often the most mysterious because it presents no new or special features from which deductions may be drawn. This murder would have been infinitely more difficult to unravel had the body of the victim been simply found lying in the roadway without any of those outr� and sensational accompaniments which have rendered it remarkable. These strange details, far from making the case more difficult, have really had the effect of making it less so.\"",
+    "content": "\"All this seems strange to you,\" continued Holmes, \"because you failed at the beginning of the inquiry to grasp the importance of the single real clue which was presented to you. I had the good fortune to seize upon that, and everything which has occurred since then has served to confirm my original supposition, and, indeed, was the logical sequence of it.",
     "context": {
       "next": {
-        "content": "Mr. Gregson, who had listened to this address with considerable impatience, could contain himself no longer. \"Look here, Mr. Sherlock Holmes,\" he said, \"we are all ready to acknowledge that you are a smart man, and that you have your own methods of working. We want something more than mere theory and preaching now, though. It is a case of taking the man. I have made my case out, and it seems I was wrong. Young Charpentier could not have been engaged in this second affair. Lestrade went after his man, Stangerson, and it appears that he was wrong too. You have thrown out hints here, and hints there, and seem to know more than we do, but the time has come when we feel that we have a right to ask you straight how much you do know of the business. Can you name the man who did it?\"",
-        "objectID": "eefc2b21bf3a21101eec0e45af3ac746"
+        "content": "Hence things which have perplexed you and made the case more obscure, have served to enlighten me and to strengthen my conclusions. It is a mistake to confound strangeness with mystery. The most commonplace crime is often the most mysterious because it presents no new or special features from which deductions may be drawn.",
+        "objectID": "e40f31e6c6a69953df5200146545f684"
       },
       "previous": {
         "content": "This last statement appeared to me to be so startling, that I could hardly believe that he was in his sober senses. There was the dead dog, however, to prove that his conjecture had been correct. It seemed to me that the mists in my own mind were gradually clearing away, and I began to have a dim, vague perception of the truth.",
-        "objectID": "4a3aef8befbe12a427369802df9bfb46"
+        "objectID": "3bf377ee251cbc1ba5074bd7cf324ee2"
       }
     },
-    "objectID": "c9ab9bf588e3c2c81415db41b2a46710",
-    "order": 42,
+    "objectID": "e03fac4369dacd9f4d4282273cca9ae2",
+    "order": 56,
     "tagName": "P"
   },
   {
@@ -884,19 +1178,124 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "Mr. Gregson, who had listened to this address with considerable impatience, could contain himself no longer. \"Look here, Mr. Sherlock Holmes,\" he said, \"we are all ready to acknowledge that you are a smart man, and that you have your own methods of working. We want something more than mere theory and preaching now, though. It is a case of taking the man. I have made my case out, and it seems I was wrong. Young Charpentier could not have been engaged in this second affair. Lestrade went after his man, Stangerson, and it appears that he was wrong too. You have thrown out hints here, and hints there, and seem to know more than we do, but the time has come when we feel that we have a right to ask you straight how much you do know of the business. Can you name the man who did it?\"",
+    "content": "Hence things which have perplexed you and made the case more obscure, have served to enlighten me and to strengthen my conclusions. It is a mistake to confound strangeness with mystery. The most commonplace crime is often the most mysterious because it presents no new or special features from which deductions may be drawn.",
+    "context": {
+      "next": {
+        "content": "This murder would have been infinitely more difficult to unravel had the body of the victim been simply found lying in the roadway without any of those outr� and sensational accompaniments which have rendered it remarkable. These strange details, far from making the case more difficult, have really had the effect of making it less so.",
+        "objectID": "b4e175cb8e5ca14d44100669ba9bb392"
+      },
+      "previous": {
+        "content": "\"All this seems strange to you,\" continued Holmes, \"because you failed at the beginning of the inquiry to grasp the importance of the single real clue which was presented to you. I had the good fortune to seize upon that, and everything which has occurred since then has served to confirm my original supposition, and, indeed, was the logical sequence of it.",
+        "objectID": "e03fac4369dacd9f4d4282273cca9ae2"
+      }
+    },
+    "objectID": "e40f31e6c6a69953df5200146545f684",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "This murder would have been infinitely more difficult to unravel had the body of the victim been simply found lying in the roadway without any of those outr� and sensational accompaniments which have rendered it remarkable. These strange details, far from making the case more difficult, have really had the effect of making it less so.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "b21bdfacc721e42dabb85cef853395ec"
+      },
+      "previous": {
+        "content": "Hence things which have perplexed you and made the case more obscure, have served to enlighten me and to strengthen my conclusions. It is a mistake to confound strangeness with mystery. The most commonplace crime is often the most mysterious because it presents no new or special features from which deductions may be drawn.",
+        "objectID": "e40f31e6c6a69953df5200146545f684"
+      }
+    },
+    "objectID": "b4e175cb8e5ca14d44100669ba9bb392",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "Mr. Gregson, who had listened to this address with considerable impatience, could contain himself no longer. \"Look here, Mr. Sherlock Holmes,\" he said, \"we are all ready to acknowledge that you are a smart man, and that you have your own methods of working. We want something more than mere theory and preaching now, though.",
+        "objectID": "10f1989aa010fff96b362b7a1ca9a7dc"
+      },
+      "previous": {
+        "content": "This murder would have been infinitely more difficult to unravel had the body of the victim been simply found lying in the roadway without any of those outr� and sensational accompaniments which have rendered it remarkable. These strange details, far from making the case more difficult, have really had the effect of making it less so.",
+        "objectID": "b4e175cb8e5ca14d44100669ba9bb392"
+      }
+    },
+    "objectID": "b21bdfacc721e42dabb85cef853395ec",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "Mr. Gregson, who had listened to this address with considerable impatience, could contain himself no longer. \"Look here, Mr. Sherlock Holmes,\" he said, \"we are all ready to acknowledge that you are a smart man, and that you have your own methods of working. We want something more than mere theory and preaching now, though.",
+    "context": {
+      "next": {
+        "content": "It is a case of taking the man. I have made my case out, and it seems I was wrong. Young Charpentier could not have been engaged in this second affair. Lestrade went after his man, Stangerson, and it appears that he was wrong too. You have thrown out hints here, and hints there, and seem to know more than we do, but the time has come when we feel that we have a right to ask you straight how much you do know of the business.",
+        "objectID": "f9ec0f8f4c92514e49ac76b5ee20dd25"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "b21bdfacc721e42dabb85cef853395ec"
+      }
+    },
+    "objectID": "10f1989aa010fff96b362b7a1ca9a7dc",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "It is a case of taking the man. I have made my case out, and it seems I was wrong. Young Charpentier could not have been engaged in this second affair. Lestrade went after his man, Stangerson, and it appears that he was wrong too. You have thrown out hints here, and hints there, and seem to know more than we do, but the time has come when we feel that we have a right to ask you straight how much you do know of the business.",
+    "context": {
+      "next": {
+        "content": "Can you name the man who did it?\"",
+        "objectID": "8c1c0369ab7b8fb129e16ccf4517e1b5"
+      },
+      "previous": {
+        "content": "Mr. Gregson, who had listened to this address with considerable impatience, could contain himself no longer. \"Look here, Mr. Sherlock Holmes,\" he said, \"we are all ready to acknowledge that you are a smart man, and that you have your own methods of working. We want something more than mere theory and preaching now, though.",
+        "objectID": "10f1989aa010fff96b362b7a1ca9a7dc"
+      }
+    },
+    "objectID": "f9ec0f8f4c92514e49ac76b5ee20dd25",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "Can you name the man who did it?\"",
     "context": {
       "next": {
         "content": "\"I cannot help feeling that Gregson is right, sir,\" remarked Lestrade. \"We have both tried, and we have both failed. You have remarked more than once since I have been in the room that you had all the evidence which you require. Surely you will not withhold it any longer.\"",
-        "objectID": "5297cb2a0bc32ad11ec8b87eeea46dea"
+        "objectID": "5784ab3cd8bcf16278e65a6dacfb2c17"
       },
       "previous": {
-        "content": "\"All this seems strange to you,\" continued Holmes, \"because you failed at the beginning of the inquiry to grasp the importance of the single real clue which was presented to you. I had the good fortune to seize upon that, and everything which has occurred since then has served to confirm my original supposition, and, indeed, was the logical sequence of it. Hence things which have perplexed you and made the case more obscure, have served to enlighten me and to strengthen my conclusions. It is a mistake to confound strangeness with mystery. The most commonplace crime is often the most mysterious because it presents no new or special features from which deductions may be drawn. This murder would have been infinitely more difficult to unravel had the body of the victim been simply found lying in the roadway without any of those outr� and sensational accompaniments which have rendered it remarkable. These strange details, far from making the case more difficult, have really had the effect of making it less so.\"",
-        "objectID": "c9ab9bf588e3c2c81415db41b2a46710"
+        "content": "It is a case of taking the man. I have made my case out, and it seems I was wrong. Young Charpentier could not have been engaged in this second affair. Lestrade went after his man, Stangerson, and it appears that he was wrong too. You have thrown out hints here, and hints there, and seem to know more than we do, but the time has come when we feel that we have a right to ask you straight how much you do know of the business.",
+        "objectID": "f9ec0f8f4c92514e49ac76b5ee20dd25"
       }
     },
-    "objectID": "eefc2b21bf3a21101eec0e45af3ac746",
-    "order": 43,
+    "objectID": "8c1c0369ab7b8fb129e16ccf4517e1b5",
+    "order": 62,
     "tagName": "P"
   },
   {
@@ -909,15 +1308,15 @@
     "context": {
       "next": {
         "content": "\"Any delay in arresting the assassin,\" I observed, \"might give him time to perpetrate some fresh atrocity.\"",
-        "objectID": "0ed2bea6aad16a9bb52f3bc2f1c87015"
+        "objectID": "e9cbf55722a48b808f03e633ac2fc177"
       },
       "previous": {
-        "content": "Mr. Gregson, who had listened to this address with considerable impatience, could contain himself no longer. \"Look here, Mr. Sherlock Holmes,\" he said, \"we are all ready to acknowledge that you are a smart man, and that you have your own methods of working. We want something more than mere theory and preaching now, though. It is a case of taking the man. I have made my case out, and it seems I was wrong. Young Charpentier could not have been engaged in this second affair. Lestrade went after his man, Stangerson, and it appears that he was wrong too. You have thrown out hints here, and hints there, and seem to know more than we do, but the time has come when we feel that we have a right to ask you straight how much you do know of the business. Can you name the man who did it?\"",
-        "objectID": "eefc2b21bf3a21101eec0e45af3ac746"
+        "content": "Can you name the man who did it?\"",
+        "objectID": "8c1c0369ab7b8fb129e16ccf4517e1b5"
       }
     },
-    "objectID": "5297cb2a0bc32ad11ec8b87eeea46dea",
-    "order": 44,
+    "objectID": "5784ab3cd8bcf16278e65a6dacfb2c17",
+    "order": 63,
     "tagName": "P"
   },
   {
@@ -930,15 +1329,15 @@
     "context": {
       "next": {
         "content": "Thus pressed by us all, Holmes showed signs of irresolution. He continued to walk up and down the room with his head sunk on his chest and his brows drawn down, as was his habit when lost in thought.",
-        "objectID": "82d483b4cb95c4d28c0edc78ff5b26cb"
+        "objectID": "62c29bf39ef01bcffdefce7ac8b6ba69"
       },
       "previous": {
         "content": "\"I cannot help feeling that Gregson is right, sir,\" remarked Lestrade. \"We have both tried, and we have both failed. You have remarked more than once since I have been in the room that you had all the evidence which you require. Surely you will not withhold it any longer.\"",
-        "objectID": "5297cb2a0bc32ad11ec8b87eeea46dea"
+        "objectID": "5784ab3cd8bcf16278e65a6dacfb2c17"
       }
     },
-    "objectID": "0ed2bea6aad16a9bb52f3bc2f1c87015",
-    "order": 45,
+    "objectID": "e9cbf55722a48b808f03e633ac2fc177",
+    "order": 64,
     "tagName": "P"
   },
   {
@@ -950,16 +1349,16 @@
     "content": "Thus pressed by us all, Holmes showed signs of irresolution. He continued to walk up and down the room with his head sunk on his chest and his brows drawn down, as was his habit when lost in thought.",
     "context": {
       "next": {
-        "content": "\"There will be no more murders,\" he said at last, stopping abruptly and facing us. \"You can put that consideration out of the question. You have asked me if I know the name of the assassin. I do. The mere knowing of his name is a small thing, however, compared with the power of laying our hands upon him. This I expect very shortly to do. I have good hopes of managing it through my own arrangements; but it is a thing which needs delicate handling, for we have a shrewd and desperate man to deal with, who is supported, as I have had occasion to prove, by another who is as clever as himself. As long as this man has no idea that anyone can have a clue there is some chance of securing him; but if he had the slightest suspicion, he would change his name, and vanish in an instant among the four million inhabitants of this great city. Without meaning to hurt either of your feelings, I am bound to say that I consider these men to be more than a match for the official force, and that is why I have not asked your assistance. If I fail I shall, of course, incur all the blame due to this omission; but that I am prepared for. At present I am ready to promise that the instant that I can communicate with you without endangering my own combinations, I shall do so.\"",
-        "objectID": "ceed289c1cb88c9f07570d05e058bbd1"
+        "content": "\"There will be no more murders,\" he said at last, stopping abruptly and facing us. \"You can put that consideration out of the question. You have asked me if I know the name of the assassin. I do. The mere knowing of his name is a small thing, however, compared with the power of laying our hands upon him.",
+        "objectID": "efd94af7c80f21c1abe93e5869dbdfd2"
       },
       "previous": {
         "content": "\"Any delay in arresting the assassin,\" I observed, \"might give him time to perpetrate some fresh atrocity.\"",
-        "objectID": "0ed2bea6aad16a9bb52f3bc2f1c87015"
+        "objectID": "e9cbf55722a48b808f03e633ac2fc177"
       }
     },
-    "objectID": "82d483b4cb95c4d28c0edc78ff5b26cb",
-    "order": 46,
+    "objectID": "62c29bf39ef01bcffdefce7ac8b6ba69",
+    "order": 65,
     "tagName": "P"
   },
   {
@@ -968,19 +1367,82 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "\"There will be no more murders,\" he said at last, stopping abruptly and facing us. \"You can put that consideration out of the question. You have asked me if I know the name of the assassin. I do. The mere knowing of his name is a small thing, however, compared with the power of laying our hands upon him. This I expect very shortly to do. I have good hopes of managing it through my own arrangements; but it is a thing which needs delicate handling, for we have a shrewd and desperate man to deal with, who is supported, as I have had occasion to prove, by another who is as clever as himself. As long as this man has no idea that anyone can have a clue there is some chance of securing him; but if he had the slightest suspicion, he would change his name, and vanish in an instant among the four million inhabitants of this great city. Without meaning to hurt either of your feelings, I am bound to say that I consider these men to be more than a match for the official force, and that is why I have not asked your assistance. If I fail I shall, of course, incur all the blame due to this omission; but that I am prepared for. At present I am ready to promise that the instant that I can communicate with you without endangering my own combinations, I shall do so.\"",
+    "content": "\"There will be no more murders,\" he said at last, stopping abruptly and facing us. \"You can put that consideration out of the question. You have asked me if I know the name of the assassin. I do. The mere knowing of his name is a small thing, however, compared with the power of laying our hands upon him.",
     "context": {
       "next": {
-        "content": "Gregson and Lestrade seemed to be far from satisfied by this assurance, or by the depreciating allusion to the detective police. The former had flushed up to the roots of his flaxen hair, while the other's beady eyes glistened with curiosity and resentment. Neither of them had time to speak, however, before there was a tap at the door, and the spokesman of the street Arabs, young Wiggins, introduced his insignificant and unsavoury person.",
-        "objectID": "e6bb8f3dc5647faceec2ff8962bc3092"
+        "content": "This I expect very shortly to do. I have good hopes of managing it through my own arrangements; but it is a thing which needs delicate handling, for we have a shrewd and desperate man to deal with, who is supported, as I have had occasion to prove, by another who is as clever as himself. As long as this man has no idea that anyone can have a clue there is some chance of securing him; but if he had the slightest suspicion, he would change his name, and vanish in an instant among the four million inhabitants of this great city.",
+        "objectID": "7d3a23a096fb2a8d18b2d5566c062b93"
       },
       "previous": {
         "content": "Thus pressed by us all, Holmes showed signs of irresolution. He continued to walk up and down the room with his head sunk on his chest and his brows drawn down, as was his habit when lost in thought.",
-        "objectID": "82d483b4cb95c4d28c0edc78ff5b26cb"
+        "objectID": "62c29bf39ef01bcffdefce7ac8b6ba69"
       }
     },
-    "objectID": "ceed289c1cb88c9f07570d05e058bbd1",
-    "order": 47,
+    "objectID": "efd94af7c80f21c1abe93e5869dbdfd2",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "This I expect very shortly to do. I have good hopes of managing it through my own arrangements; but it is a thing which needs delicate handling, for we have a shrewd and desperate man to deal with, who is supported, as I have had occasion to prove, by another who is as clever as himself. As long as this man has no idea that anyone can have a clue there is some chance of securing him; but if he had the slightest suspicion, he would change his name, and vanish in an instant among the four million inhabitants of this great city.",
+    "context": {
+      "next": {
+        "content": "Without meaning to hurt either of your feelings, I am bound to say that I consider these men to be more than a match for the official force, and that is why I have not asked your assistance. If I fail I shall, of course, incur all the blame due to this omission; but that I am prepared for. At present I am ready to promise that the instant that I can communicate with you without endangering my own combinations, I shall do so.",
+        "objectID": "e46741d72dc9e11e08a38ef2f800ccc7"
+      },
+      "previous": {
+        "content": "\"There will be no more murders,\" he said at last, stopping abruptly and facing us. \"You can put that consideration out of the question. You have asked me if I know the name of the assassin. I do. The mere knowing of his name is a small thing, however, compared with the power of laying our hands upon him.",
+        "objectID": "efd94af7c80f21c1abe93e5869dbdfd2"
+      }
+    },
+    "objectID": "7d3a23a096fb2a8d18b2d5566c062b93",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "Without meaning to hurt either of your feelings, I am bound to say that I consider these men to be more than a match for the official force, and that is why I have not asked your assistance. If I fail I shall, of course, incur all the blame due to this omission; but that I am prepared for. At present I am ready to promise that the instant that I can communicate with you without endangering my own combinations, I shall do so.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "d9f4bf1846c46f03a5423179a0c68c7e"
+      },
+      "previous": {
+        "content": "This I expect very shortly to do. I have good hopes of managing it through my own arrangements; but it is a thing which needs delicate handling, for we have a shrewd and desperate man to deal with, who is supported, as I have had occasion to prove, by another who is as clever as himself. As long as this man has no idea that anyone can have a clue there is some chance of securing him; but if he had the slightest suspicion, he would change his name, and vanish in an instant among the four million inhabitants of this great city.",
+        "objectID": "7d3a23a096fb2a8d18b2d5566c062b93"
+      }
+    },
+    "objectID": "e46741d72dc9e11e08a38ef2f800ccc7",
+    "order": 68,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "Gregson and Lestrade seemed to be far from satisfied by this assurance, or by the depreciating allusion to the detective police. The former had flushed up to the roots of his flaxen hair, while the other's beady eyes glistened with curiosity and resentment. Neither of them had time to speak, however, before there was a tap at the door, and the spokesman of the street Arabs, young Wiggins, introduced his insignificant and unsavoury person.",
+        "objectID": "5b1757edd5408ae33aad63c436e8ade6"
+      },
+      "previous": {
+        "content": "Without meaning to hurt either of your feelings, I am bound to say that I consider these men to be more than a match for the official force, and that is why I have not asked your assistance. If I fail I shall, of course, incur all the blame due to this omission; but that I am prepared for. At present I am ready to promise that the instant that I can communicate with you without endangering my own combinations, I shall do so.",
+        "objectID": "e46741d72dc9e11e08a38ef2f800ccc7"
+      }
+    },
+    "objectID": "d9f4bf1846c46f03a5423179a0c68c7e",
+    "order": 69,
     "tagName": "P"
   },
   {
@@ -993,15 +1455,15 @@
     "context": {
       "next": {
         "content": "\"Please, sir,\" he said, touching his forelock, \"I have the cab downstairs.\"",
-        "objectID": "03e83c54daf9b2b9206f573acb84a6a9"
+        "objectID": "d3434eeb45853ccdc6a23a6e3f0c6cd9"
       },
       "previous": {
-        "content": "\"There will be no more murders,\" he said at last, stopping abruptly and facing us. \"You can put that consideration out of the question. You have asked me if I know the name of the assassin. I do. The mere knowing of his name is a small thing, however, compared with the power of laying our hands upon him. This I expect very shortly to do. I have good hopes of managing it through my own arrangements; but it is a thing which needs delicate handling, for we have a shrewd and desperate man to deal with, who is supported, as I have had occasion to prove, by another who is as clever as himself. As long as this man has no idea that anyone can have a clue there is some chance of securing him; but if he had the slightest suspicion, he would change his name, and vanish in an instant among the four million inhabitants of this great city. Without meaning to hurt either of your feelings, I am bound to say that I consider these men to be more than a match for the official force, and that is why I have not asked your assistance. If I fail I shall, of course, incur all the blame due to this omission; but that I am prepared for. At present I am ready to promise that the instant that I can communicate with you without endangering my own combinations, I shall do so.\"",
-        "objectID": "ceed289c1cb88c9f07570d05e058bbd1"
+        "content": "\"",
+        "objectID": "d9f4bf1846c46f03a5423179a0c68c7e"
       }
     },
-    "objectID": "e6bb8f3dc5647faceec2ff8962bc3092",
-    "order": 48,
+    "objectID": "5b1757edd5408ae33aad63c436e8ade6",
+    "order": 70,
     "tagName": "P"
   },
   {
@@ -1014,15 +1476,15 @@
     "context": {
       "next": {
         "content": "\"Good boy,\" said Holmes, blandly. \"Why don't you introduce this pattern at Scotland Yard?\" he continued, taking a pair of steel handcuffs from a drawer. \"See how beautifully the spring works. They fasten in an instant.\"",
-        "objectID": "ffd79e78346a35ca6c72b9a3083fbd7b"
+        "objectID": "2ec67b2f8cc9a08518fef318d23c56b6"
       },
       "previous": {
         "content": "Gregson and Lestrade seemed to be far from satisfied by this assurance, or by the depreciating allusion to the detective police. The former had flushed up to the roots of his flaxen hair, while the other's beady eyes glistened with curiosity and resentment. Neither of them had time to speak, however, before there was a tap at the door, and the spokesman of the street Arabs, young Wiggins, introduced his insignificant and unsavoury person.",
-        "objectID": "e6bb8f3dc5647faceec2ff8962bc3092"
+        "objectID": "5b1757edd5408ae33aad63c436e8ade6"
       }
     },
-    "objectID": "03e83c54daf9b2b9206f573acb84a6a9",
-    "order": 49,
+    "objectID": "d3434eeb45853ccdc6a23a6e3f0c6cd9",
+    "order": 71,
     "tagName": "P"
   },
   {
@@ -1035,15 +1497,15 @@
     "context": {
       "next": {
         "content": "\"The old pattern is good enough,\" remarked Lestrade, \"if we can only find the man to put them on.\"",
-        "objectID": "1c1e2c9beca7721628a94b9dad0e24ee"
+        "objectID": "4cea861f6285ee351ab81f3494a9e11c"
       },
       "previous": {
         "content": "\"Please, sir,\" he said, touching his forelock, \"I have the cab downstairs.\"",
-        "objectID": "03e83c54daf9b2b9206f573acb84a6a9"
+        "objectID": "d3434eeb45853ccdc6a23a6e3f0c6cd9"
       }
     },
-    "objectID": "ffd79e78346a35ca6c72b9a3083fbd7b",
-    "order": 50,
+    "objectID": "2ec67b2f8cc9a08518fef318d23c56b6",
+    "order": 72,
     "tagName": "P"
   },
   {
@@ -1056,15 +1518,15 @@
     "context": {
       "next": {
         "content": "\"Very good, very good,\" said Holmes, smiling. \"The cabman may as well help me with my boxes. Just ask him to step up, Wiggins.\"",
-        "objectID": "d04d7a29acaed8e36b526eab71650dd1"
+        "objectID": "0d4d188c9564b64f6445e80b63be1c0b"
       },
       "previous": {
         "content": "\"Good boy,\" said Holmes, blandly. \"Why don't you introduce this pattern at Scotland Yard?\" he continued, taking a pair of steel handcuffs from a drawer. \"See how beautifully the spring works. They fasten in an instant.\"",
-        "objectID": "ffd79e78346a35ca6c72b9a3083fbd7b"
+        "objectID": "2ec67b2f8cc9a08518fef318d23c56b6"
       }
     },
-    "objectID": "1c1e2c9beca7721628a94b9dad0e24ee",
-    "order": 51,
+    "objectID": "4cea861f6285ee351ab81f3494a9e11c",
+    "order": 73,
     "tagName": "P"
   },
   {
@@ -1077,15 +1539,15 @@
     "context": {
       "next": {
         "content": "I was surprised to find my companion speaking as though he were about to set out on a journey, since he had not said anything to me about it. There was a small portmanteau in the room, and this he pulled out and began to strap. He was busily engaged at it when the cabman entered the room.",
-        "objectID": "cce568252922b293669f881acd997b14"
+        "objectID": "8a0a1f55b28c0c6218a466565bf05f41"
       },
       "previous": {
         "content": "\"The old pattern is good enough,\" remarked Lestrade, \"if we can only find the man to put them on.\"",
-        "objectID": "1c1e2c9beca7721628a94b9dad0e24ee"
+        "objectID": "4cea861f6285ee351ab81f3494a9e11c"
       }
     },
-    "objectID": "d04d7a29acaed8e36b526eab71650dd1",
-    "order": 52,
+    "objectID": "0d4d188c9564b64f6445e80b63be1c0b",
+    "order": 74,
     "tagName": "P"
   },
   {
@@ -1098,15 +1560,15 @@
     "context": {
       "next": {
         "content": "\"Just give me a help with this buckle, cabman,\" he said, kneeling over his task, and never turning his head.",
-        "objectID": "3582de00c91846e96053951815e38057"
+        "objectID": "6e2f49153388b491cfcd69ffbb9bd2ac"
       },
       "previous": {
         "content": "\"Very good, very good,\" said Holmes, smiling. \"The cabman may as well help me with my boxes. Just ask him to step up, Wiggins.\"",
-        "objectID": "d04d7a29acaed8e36b526eab71650dd1"
+        "objectID": "0d4d188c9564b64f6445e80b63be1c0b"
       }
     },
-    "objectID": "cce568252922b293669f881acd997b14",
-    "order": 53,
+    "objectID": "8a0a1f55b28c0c6218a466565bf05f41",
+    "order": 75,
     "tagName": "P"
   },
   {
@@ -1119,15 +1581,15 @@
     "context": {
       "next": {
         "content": "The fellow came forward with a somewhat sullen, defiant air, and put down his hands to assist. At that instant there was a sharp click, the jangling of metal, and Sherlock Holmes sprang to his feet again.",
-        "objectID": "149956376928b04827136d0fdc0fbc66"
+        "objectID": "8b8018b4c78ca040f7dae39211a13f6b"
       },
       "previous": {
         "content": "I was surprised to find my companion speaking as though he were about to set out on a journey, since he had not said anything to me about it. There was a small portmanteau in the room, and this he pulled out and began to strap. He was busily engaged at it when the cabman entered the room.",
-        "objectID": "cce568252922b293669f881acd997b14"
+        "objectID": "8a0a1f55b28c0c6218a466565bf05f41"
       }
     },
-    "objectID": "3582de00c91846e96053951815e38057",
-    "order": 54,
+    "objectID": "6e2f49153388b491cfcd69ffbb9bd2ac",
+    "order": 76,
     "tagName": "P"
   },
   {
@@ -1140,15 +1602,15 @@
     "context": {
       "next": {
         "content": "\"Gentlemen,\" he cried, with flashing eyes, \"let me introduce you to Mr. Jefferson Hope, the murderer of Enoch Drebber and of Joseph Stangerson.\"",
-        "objectID": "f6f2e301056d327287c708a60029dc33"
+        "objectID": "f0d434785f0c9a6e7b75f88cccf649d8"
       },
       "previous": {
         "content": "\"Just give me a help with this buckle, cabman,\" he said, kneeling over his task, and never turning his head.",
-        "objectID": "3582de00c91846e96053951815e38057"
+        "objectID": "6e2f49153388b491cfcd69ffbb9bd2ac"
       }
     },
-    "objectID": "149956376928b04827136d0fdc0fbc66",
-    "order": 55,
+    "objectID": "8b8018b4c78ca040f7dae39211a13f6b",
+    "order": 77,
     "tagName": "P"
   },
   {
@@ -1160,16 +1622,16 @@
     "content": "\"Gentlemen,\" he cried, with flashing eyes, \"let me introduce you to Mr. Jefferson Hope, the murderer of Enoch Drebber and of Joseph Stangerson.\"",
     "context": {
       "next": {
-        "content": "The whole thing occurred in a moment—so quickly that I had no time to realize it. I have a vivid recollection of that instant, of Holmes' triumphant expression and the ring of his voice, of the cabman's dazed, savage face, as he glared at the glittering handcuffs, which had appeared as if by magic upon his wrists. For a second or two we might have been a group of statues. Then, with an inarticulate roar of fury, the prisoner wrenched himself free from Holmes's grasp, and hurled himself through the window. Woodwork and glass gave way before him; but before he got quite through, Gregson, Lestrade, and Holmes sprang upon him like so many staghounds. He was dragged back into the room, and then commenced a terrific conflict. So powerful and so fierce was he, that the four of us were shaken off again and again. He appeared to have the convulsive strength of a man in an epileptic fit. His face and hands were terribly mangled by his passage through the glass, but loss of blood had no effect in diminishing his resistance. It was not until Lestrade succeeded in getting his hand inside his neckcloth and half-strangling him that we made him realize that his struggles were of no avail; and even then we felt no security until we had pinioned his feet as well as his hands. That done, we rose to our feet breathless and panting.",
-        "objectID": "3f6ee0ec87511327377173d8e565b3e9"
+        "content": "The whole thing occurred in a moment—so quickly that I had no time to realize it. I have a vivid recollection of that instant, of Holmes' triumphant expression and the ring of his voice, of the cabman's dazed, savage face, as he glared at the glittering handcuffs, which had appeared as if by magic upon his wrists.",
+        "objectID": "812ab3cabee7afa1404006343df904be"
       },
       "previous": {
         "content": "The fellow came forward with a somewhat sullen, defiant air, and put down his hands to assist. At that instant there was a sharp click, the jangling of metal, and Sherlock Holmes sprang to his feet again.",
-        "objectID": "149956376928b04827136d0fdc0fbc66"
+        "objectID": "8b8018b4c78ca040f7dae39211a13f6b"
       }
     },
-    "objectID": "f6f2e301056d327287c708a60029dc33",
-    "order": 56,
+    "objectID": "f0d434785f0c9a6e7b75f88cccf649d8",
+    "order": 78,
     "tagName": "P"
   },
   {
@@ -1178,19 +1640,19 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "The whole thing occurred in a moment—so quickly that I had no time to realize it. I have a vivid recollection of that instant, of Holmes' triumphant expression and the ring of his voice, of the cabman's dazed, savage face, as he glared at the glittering handcuffs, which had appeared as if by magic upon his wrists. For a second or two we might have been a group of statues. Then, with an inarticulate roar of fury, the prisoner wrenched himself free from Holmes's grasp, and hurled himself through the window. Woodwork and glass gave way before him; but before he got quite through, Gregson, Lestrade, and Holmes sprang upon him like so many staghounds. He was dragged back into the room, and then commenced a terrific conflict. So powerful and so fierce was he, that the four of us were shaken off again and again. He appeared to have the convulsive strength of a man in an epileptic fit. His face and hands were terribly mangled by his passage through the glass, but loss of blood had no effect in diminishing his resistance. It was not until Lestrade succeeded in getting his hand inside his neckcloth and half-strangling him that we made him realize that his struggles were of no avail; and even then we felt no security until we had pinioned his feet as well as his hands. That done, we rose to our feet breathless and panting.",
+    "content": "The whole thing occurred in a moment—so quickly that I had no time to realize it. I have a vivid recollection of that instant, of Holmes' triumphant expression and the ring of his voice, of the cabman's dazed, savage face, as he glared at the glittering handcuffs, which had appeared as if by magic upon his wrists.",
     "context": {
       "next": {
-        "content": "\"We have his cab,\" said Sherlock Holmes. \"It will serve to take him to Scotland Yard. And now, gentlemen,\" he continued, with a pleasant smile, \"we have reached the end of our little mystery. You are very welcome to put any questions that you like to me now, and there is no danger that I will refuse to answer them.\"",
-        "objectID": "ffbd47899dd486e17e69bf7081950144"
+        "content": "For a second or two we might have been a group of statues. Then, with an inarticulate roar of fury, the prisoner wrenched himself free from Holmes's grasp, and hurled himself through the window. Woodwork and glass gave way before him; but before he got quite through, Gregson, Lestrade, and Holmes sprang upon him like so many staghounds.",
+        "objectID": "8f7a74110c2e51ee6a67950a0d69cd60"
       },
       "previous": {
         "content": "\"Gentlemen,\" he cried, with flashing eyes, \"let me introduce you to Mr. Jefferson Hope, the murderer of Enoch Drebber and of Joseph Stangerson.\"",
-        "objectID": "f6f2e301056d327287c708a60029dc33"
+        "objectID": "f0d434785f0c9a6e7b75f88cccf649d8"
       }
     },
-    "objectID": "3f6ee0ec87511327377173d8e565b3e9",
-    "order": 57,
+    "objectID": "812ab3cabee7afa1404006343df904be",
+    "order": 79,
     "tagName": "P"
   },
   {
@@ -1199,16 +1661,100 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
     "chapterOrder": 7,
-    "content": "\"We have his cab,\" said Sherlock Holmes. \"It will serve to take him to Scotland Yard. And now, gentlemen,\" he continued, with a pleasant smile, \"we have reached the end of our little mystery. You are very welcome to put any questions that you like to me now, and there is no danger that I will refuse to answer them.\"",
+    "content": "For a second or two we might have been a group of statues. Then, with an inarticulate roar of fury, the prisoner wrenched himself free from Holmes's grasp, and hurled himself through the window. Woodwork and glass gave way before him; but before he got quite through, Gregson, Lestrade, and Holmes sprang upon him like so many staghounds.",
+    "context": {
+      "next": {
+        "content": "He was dragged back into the room, and then commenced a terrific conflict. So powerful and so fierce was he, that the four of us were shaken off again and again. He appeared to have the convulsive strength of a man in an epileptic fit. His face and hands were terribly mangled by his passage through the glass, but loss of blood had no effect in diminishing his resistance.",
+        "objectID": "31fc02f1bf623cd31f5fa31a160a0e94"
+      },
+      "previous": {
+        "content": "The whole thing occurred in a moment—so quickly that I had no time to realize it. I have a vivid recollection of that instant, of Holmes' triumphant expression and the ring of his voice, of the cabman's dazed, savage face, as he glared at the glittering handcuffs, which had appeared as if by magic upon his wrists.",
+        "objectID": "812ab3cabee7afa1404006343df904be"
+      }
+    },
+    "objectID": "8f7a74110c2e51ee6a67950a0d69cd60",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "He was dragged back into the room, and then commenced a terrific conflict. So powerful and so fierce was he, that the four of us were shaken off again and again. He appeared to have the convulsive strength of a man in an epileptic fit. His face and hands were terribly mangled by his passage through the glass, but loss of blood had no effect in diminishing his resistance.",
+    "context": {
+      "next": {
+        "content": "It was not until Lestrade succeeded in getting his hand inside his neckcloth and half-strangling him that we made him realize that his struggles were of no avail; and even then we felt no security until we had pinioned his feet as well as his hands. That done, we rose to our feet breathless and panting.",
+        "objectID": "6c7737979fb74399361d11900168ccf8"
+      },
+      "previous": {
+        "content": "For a second or two we might have been a group of statues. Then, with an inarticulate roar of fury, the prisoner wrenched himself free from Holmes's grasp, and hurled himself through the window. Woodwork and glass gave way before him; but before he got quite through, Gregson, Lestrade, and Holmes sprang upon him like so many staghounds.",
+        "objectID": "8f7a74110c2e51ee6a67950a0d69cd60"
+      }
+    },
+    "objectID": "31fc02f1bf623cd31f5fa31a160a0e94",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "It was not until Lestrade succeeded in getting his hand inside his neckcloth and half-strangling him that we made him realize that his struggles were of no avail; and even then we felt no security until we had pinioned his feet as well as his hands. That done, we rose to our feet breathless and panting.",
+    "context": {
+      "next": {
+        "content": "\"We have his cab,\" said Sherlock Holmes. \"It will serve to take him to Scotland Yard. And now, gentlemen,\" he continued, with a pleasant smile, \"we have reached the end of our little mystery. You are very welcome to put any questions that you like to me now, and there is no danger that I will refuse to answer them.",
+        "objectID": "5b3a751d43eebb87efbf53a6fb4f448c"
+      },
+      "previous": {
+        "content": "He was dragged back into the room, and then commenced a terrific conflict. So powerful and so fierce was he, that the four of us were shaken off again and again. He appeared to have the convulsive strength of a man in an epileptic fit. His face and hands were terribly mangled by his passage through the glass, but loss of blood had no effect in diminishing his resistance.",
+        "objectID": "31fc02f1bf623cd31f5fa31a160a0e94"
+      }
+    },
+    "objectID": "6c7737979fb74399361d11900168ccf8",
+    "order": 82,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "\"We have his cab,\" said Sherlock Holmes. \"It will serve to take him to Scotland Yard. And now, gentlemen,\" he continued, with a pleasant smile, \"we have reached the end of our little mystery. You are very welcome to put any questions that you like to me now, and there is no danger that I will refuse to answer them.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "b242e817dd6a05f035dbf43971e051a1"
+      },
+      "previous": {
+        "content": "It was not until Lestrade succeeded in getting his hand inside his neckcloth and half-strangling him that we made him realize that his struggles were of no avail; and even then we felt no security until we had pinioned his feet as well as his hands. That done, we rose to our feet breathless and panting.",
+        "objectID": "6c7737979fb74399361d11900168ccf8"
+      }
+    },
+    "objectID": "5b3a751d43eebb87efbf53a6fb4f448c",
+    "order": 83,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER VII. LIGHT IN THE DARKNESS.",
+    "chapterOrder": 7,
+    "content": "\"",
     "context": {
       "next": null,
       "previous": {
-        "content": "The whole thing occurred in a moment—so quickly that I had no time to realize it. I have a vivid recollection of that instant, of Holmes' triumphant expression and the ring of his voice, of the cabman's dazed, savage face, as he glared at the glittering handcuffs, which had appeared as if by magic upon his wrists. For a second or two we might have been a group of statues. Then, with an inarticulate roar of fury, the prisoner wrenched himself free from Holmes's grasp, and hurled himself through the window. Woodwork and glass gave way before him; but before he got quite through, Gregson, Lestrade, and Holmes sprang upon him like so many staghounds. He was dragged back into the room, and then commenced a terrific conflict. So powerful and so fierce was he, that the four of us were shaken off again and again. He appeared to have the convulsive strength of a man in an epileptic fit. His face and hands were terribly mangled by his passage through the glass, but loss of blood had no effect in diminishing his resistance. It was not until Lestrade succeeded in getting his hand inside his neckcloth and half-strangling him that we made him realize that his struggles were of no avail; and even then we felt no security until we had pinioned his feet as well as his hands. That done, we rose to our feet breathless and panting.",
-        "objectID": "3f6ee0ec87511327377173d8e565b3e9"
+        "content": "\"We have his cab,\" said Sherlock Holmes. \"It will serve to take him to Scotland Yard. And now, gentlemen,\" he continued, with a pleasant smile, \"we have reached the end of our little mystery. You are very welcome to put any questions that you like to me now, and there is no danger that I will refuse to answer them.",
+        "objectID": "5b3a751d43eebb87efbf53a6fb4f448c"
       }
     },
-    "objectID": "ffbd47899dd486e17e69bf7081950144",
-    "order": 58,
+    "objectID": "b242e817dd6a05f035dbf43971e051a1",
+    "order": 84,
     "tagName": "P"
   }
 ]

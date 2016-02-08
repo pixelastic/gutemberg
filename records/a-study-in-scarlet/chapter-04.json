@@ -47,8 +47,8 @@
     "content": "\"You amaze me, Holmes,\" said I. \"Surely you are not as sure as you pretend to be of all those particulars which you gave.\"",
     "context": {
       "next": {
-        "content": "\"There's no room for a mistake,\" he answered. \"The very first thing which I observed on arriving there was that a cab had made two ruts with its wheels close to the curb. Now, up to last night, we have had no rain for a week, so that those wheels which left such a deep impression must have been there during the night. There were the marks of the horse's hoofs, too, the outline of one of which was far more clearly cut than that of the other three, showing that that was a new shoe. Since the cab was there after the rain began, and was not there at any time during the morning—I have Gregson's word for that—it follows that it must have been there during the night, and, therefore, that it brought those two individuals to the house.\"",
-        "objectID": "e88afa6664b4122dc452ad68d079a326"
+        "content": "\"There's no room for a mistake,\" he answered. \"The very first thing which I observed on arriving there was that a cab had made two ruts with its wheels close to the curb. Now, up to last night, we have had no rain for a week, so that those wheels which left such a deep impression must have been there during the night.",
+        "objectID": "9f0875fcf313ac5981792430b68aa0c5"
       },
       "previous": {
         "content": "\"There is nothing like first hand evidence,\" he remarked; \"as a matter of fact, my mind is entirely made up upon the case, but still we may as well learn all that is to be learned.\"",
@@ -65,19 +65,61 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "\"There's no room for a mistake,\" he answered. \"The very first thing which I observed on arriving there was that a cab had made two ruts with its wheels close to the curb. Now, up to last night, we have had no rain for a week, so that those wheels which left such a deep impression must have been there during the night. There were the marks of the horse's hoofs, too, the outline of one of which was far more clearly cut than that of the other three, showing that that was a new shoe. Since the cab was there after the rain began, and was not there at any time during the morning—I have Gregson's word for that—it follows that it must have been there during the night, and, therefore, that it brought those two individuals to the house.\"",
+    "content": "\"There's no room for a mistake,\" he answered. \"The very first thing which I observed on arriving there was that a cab had made two ruts with its wheels close to the curb. Now, up to last night, we have had no rain for a week, so that those wheels which left such a deep impression must have been there during the night.",
     "context": {
       "next": {
-        "content": "\"That seems simple enough,\" said I; \"but how about the other man's height?\"",
-        "objectID": "de4bae1559164c5ebad84448129935da"
+        "content": "There were the marks of the horse's hoofs, too, the outline of one of which was far more clearly cut than that of the other three, showing that that was a new shoe. Since the cab was there after the rain began, and was not there at any time during the morning—I have Gregson's word for that—it follows that it must have been there during the night, and, therefore, that it brought those two individuals to the house.",
+        "objectID": "10b79fcd31676cfdedc31411800f7839"
       },
       "previous": {
         "content": "\"You amaze me, Holmes,\" said I. \"Surely you are not as sure as you pretend to be of all those particulars which you gave.\"",
         "objectID": "82f34be9359179e53d85e22bd1213c9f"
       }
     },
-    "objectID": "e88afa6664b4122dc452ad68d079a326",
+    "objectID": "9f0875fcf313ac5981792430b68aa0c5",
     "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "There were the marks of the horse's hoofs, too, the outline of one of which was far more clearly cut than that of the other three, showing that that was a new shoe. Since the cab was there after the rain began, and was not there at any time during the morning—I have Gregson's word for that—it follows that it must have been there during the night, and, therefore, that it brought those two individuals to the house.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "2ccd08e070fc391a3fb89f8e8396004e"
+      },
+      "previous": {
+        "content": "\"There's no room for a mistake,\" he answered. \"The very first thing which I observed on arriving there was that a cab had made two ruts with its wheels close to the curb. Now, up to last night, we have had no rain for a week, so that those wheels which left such a deep impression must have been there during the night.",
+        "objectID": "9f0875fcf313ac5981792430b68aa0c5"
+      }
+    },
+    "objectID": "10b79fcd31676cfdedc31411800f7839",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"That seems simple enough,\" said I; \"but how about the other man's height?\"",
+        "objectID": "339351da433b8d233d59ca8904733f40"
+      },
+      "previous": {
+        "content": "There were the marks of the horse's hoofs, too, the outline of one of which was far more clearly cut than that of the other three, showing that that was a new shoe. Since the cab was there after the rain began, and was not there at any time during the morning—I have Gregson's word for that—it follows that it must have been there during the night, and, therefore, that it brought those two individuals to the house.",
+        "objectID": "10b79fcd31676cfdedc31411800f7839"
+      }
+    },
+    "objectID": "2ccd08e070fc391a3fb89f8e8396004e",
+    "order": 6,
     "tagName": "P"
   },
   {
@@ -89,16 +131,16 @@
     "content": "\"That seems simple enough,\" said I; \"but how about the other man's height?\"",
     "context": {
       "next": {
-        "content": "\"Why, the height of a man, in nine cases out of ten, can be told from the length of his stride. It is a simple calculation enough, though there is no use my boring you with figures. I had this fellow's stride both on the clay outside and on the dust within. Then I had a way of checking my calculation. When a man writes on a wall, his instinct leads him to write about the level of his own eyes. Now that writing was just over six feet from the ground. It was child's play.\"",
-        "objectID": "352a388c96449c9cd8a264a60c61a68d"
+        "content": "\"Why, the height of a man, in nine cases out of ten, can be told from the length of his stride. It is a simple calculation enough, though there is no use my boring you with figures. I had this fellow's stride both on the clay outside and on the dust within. Then I had a way of checking my calculation.",
+        "objectID": "774f810f4d7ee60fafc303eedf74c55e"
       },
       "previous": {
-        "content": "\"There's no room for a mistake,\" he answered. \"The very first thing which I observed on arriving there was that a cab had made two ruts with its wheels close to the curb. Now, up to last night, we have had no rain for a week, so that those wheels which left such a deep impression must have been there during the night. There were the marks of the horse's hoofs, too, the outline of one of which was far more clearly cut than that of the other three, showing that that was a new shoe. Since the cab was there after the rain began, and was not there at any time during the morning—I have Gregson's word for that—it follows that it must have been there during the night, and, therefore, that it brought those two individuals to the house.\"",
-        "objectID": "e88afa6664b4122dc452ad68d079a326"
+        "content": "\"",
+        "objectID": "2ccd08e070fc391a3fb89f8e8396004e"
       }
     },
-    "objectID": "de4bae1559164c5ebad84448129935da",
-    "order": 5,
+    "objectID": "339351da433b8d233d59ca8904733f40",
+    "order": 7,
     "tagName": "P"
   },
   {
@@ -107,19 +149,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "\"Why, the height of a man, in nine cases out of ten, can be told from the length of his stride. It is a simple calculation enough, though there is no use my boring you with figures. I had this fellow's stride both on the clay outside and on the dust within. Then I had a way of checking my calculation. When a man writes on a wall, his instinct leads him to write about the level of his own eyes. Now that writing was just over six feet from the ground. It was child's play.\"",
+    "content": "\"Why, the height of a man, in nine cases out of ten, can be told from the length of his stride. It is a simple calculation enough, though there is no use my boring you with figures. I had this fellow's stride both on the clay outside and on the dust within. Then I had a way of checking my calculation.",
     "context": {
       "next": {
-        "content": "\"And his age?\" I asked.",
-        "objectID": "42462b556943b0aba7d806908238c755"
+        "content": "When a man writes on a wall, his instinct leads him to write about the level of his own eyes. Now that writing was just over six feet from the ground. It was child's play.\"",
+        "objectID": "311d45c60dc5e26b4988680f6b523e2b"
       },
       "previous": {
         "content": "\"That seems simple enough,\" said I; \"but how about the other man's height?\"",
-        "objectID": "de4bae1559164c5ebad84448129935da"
+        "objectID": "339351da433b8d233d59ca8904733f40"
       }
     },
-    "objectID": "352a388c96449c9cd8a264a60c61a68d",
-    "order": 6,
+    "objectID": "774f810f4d7ee60fafc303eedf74c55e",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "When a man writes on a wall, his instinct leads him to write about the level of his own eyes. Now that writing was just over six feet from the ground. It was child's play.\"",
+    "context": {
+      "next": {
+        "content": "\"And his age?\" I asked.",
+        "objectID": "2b68a44de794a0d47f44e62c55fc474f"
+      },
+      "previous": {
+        "content": "\"Why, the height of a man, in nine cases out of ten, can be told from the length of his stride. It is a simple calculation enough, though there is no use my boring you with figures. I had this fellow's stride both on the clay outside and on the dust within. Then I had a way of checking my calculation.",
+        "objectID": "774f810f4d7ee60fafc303eedf74c55e"
+      }
+    },
+    "objectID": "311d45c60dc5e26b4988680f6b523e2b",
+    "order": 9,
     "tagName": "P"
   },
   {
@@ -131,16 +194,16 @@
     "content": "\"And his age?\" I asked.",
     "context": {
       "next": {
-        "content": "\"Well, if a man can stride four and a-half feet without the smallest effort, he can't be quite in the sere and yellow. That was the breadth of a puddle on the garden walk which he had evidently walked across. Patent-leather boots had gone round, and Square-toes had hopped over. There is no mystery about it at all. I am simply applying to ordinary life a few of those precepts of observation and deduction which I advocated in that article. Is there anything else that puzzles you?\"",
-        "objectID": "e70648db1d8948de98cd9110444889fd"
+        "content": "\"Well, if a man can stride four and a-half feet without the smallest effort, he can't be quite in the sere and yellow. That was the breadth of a puddle on the garden walk which he had evidently walked across. Patent-leather boots had gone round, and Square-toes had hopped over. There is no mystery about it at all.",
+        "objectID": "344fc6aebd879fc756776e0d9dd70acd"
       },
       "previous": {
-        "content": "\"Why, the height of a man, in nine cases out of ten, can be told from the length of his stride. It is a simple calculation enough, though there is no use my boring you with figures. I had this fellow's stride both on the clay outside and on the dust within. Then I had a way of checking my calculation. When a man writes on a wall, his instinct leads him to write about the level of his own eyes. Now that writing was just over six feet from the ground. It was child's play.\"",
-        "objectID": "352a388c96449c9cd8a264a60c61a68d"
+        "content": "When a man writes on a wall, his instinct leads him to write about the level of his own eyes. Now that writing was just over six feet from the ground. It was child's play.\"",
+        "objectID": "311d45c60dc5e26b4988680f6b523e2b"
       }
     },
-    "objectID": "42462b556943b0aba7d806908238c755",
-    "order": 7,
+    "objectID": "2b68a44de794a0d47f44e62c55fc474f",
+    "order": 10,
     "tagName": "P"
   },
   {
@@ -149,19 +212,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "\"Well, if a man can stride four and a-half feet without the smallest effort, he can't be quite in the sere and yellow. That was the breadth of a puddle on the garden walk which he had evidently walked across. Patent-leather boots had gone round, and Square-toes had hopped over. There is no mystery about it at all. I am simply applying to ordinary life a few of those precepts of observation and deduction which I advocated in that article. Is there anything else that puzzles you?\"",
+    "content": "\"Well, if a man can stride four and a-half feet without the smallest effort, he can't be quite in the sere and yellow. That was the breadth of a puddle on the garden walk which he had evidently walked across. Patent-leather boots had gone round, and Square-toes had hopped over. There is no mystery about it at all.",
     "context": {
       "next": {
-        "content": "\"The finger nails and the Trichinopoly,\" I suggested.",
-        "objectID": "7f4bbcfa424b8ac04f76b8978935d910"
+        "content": "I am simply applying to ordinary life a few of those precepts of observation and deduction which I advocated in that article. Is there anything else that puzzles you?\"",
+        "objectID": "73935600f3170c4a4dff0131916c65a7"
       },
       "previous": {
         "content": "\"And his age?\" I asked.",
-        "objectID": "42462b556943b0aba7d806908238c755"
+        "objectID": "2b68a44de794a0d47f44e62c55fc474f"
       }
     },
-    "objectID": "e70648db1d8948de98cd9110444889fd",
-    "order": 8,
+    "objectID": "344fc6aebd879fc756776e0d9dd70acd",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "I am simply applying to ordinary life a few of those precepts of observation and deduction which I advocated in that article. Is there anything else that puzzles you?\"",
+    "context": {
+      "next": {
+        "content": "\"The finger nails and the Trichinopoly,\" I suggested.",
+        "objectID": "b462f89a7855270ea54bab11e2000f4b"
+      },
+      "previous": {
+        "content": "\"Well, if a man can stride four and a-half feet without the smallest effort, he can't be quite in the sere and yellow. That was the breadth of a puddle on the garden walk which he had evidently walked across. Patent-leather boots had gone round, and Square-toes had hopped over. There is no mystery about it at all.",
+        "objectID": "344fc6aebd879fc756776e0d9dd70acd"
+      }
+    },
+    "objectID": "73935600f3170c4a4dff0131916c65a7",
+    "order": 12,
     "tagName": "P"
   },
   {
@@ -173,16 +257,16 @@
     "content": "\"The finger nails and the Trichinopoly,\" I suggested.",
     "context": {
       "next": {
-        "content": "\"The writing on the wall was done with a man's forefinger dipped in blood. My glass allowed me to observe that the plaster was slightly scratched in doing it, which would not have been the case if the man's nail had been trimmed. I gathered up some scattered ash from the floor. It was dark in colour and flakey—such an ash as is only made by a Trichinopoly. I have made a special study of cigar ashes—in fact, I have written a monograph upon the subject. I flatter myself that I can distinguish at a glance the ash of any known brand, either of cigar or of tobacco. It is just in such details that the skilled detective differs from the Gregson and Lestrade type.\"",
-        "objectID": "88d877976f922f65d62e42d2a0f38ca3"
+        "content": "\"The writing on the wall was done with a man's forefinger dipped in blood. My glass allowed me to observe that the plaster was slightly scratched in doing it, which would not have been the case if the man's nail had been trimmed. I gathered up some scattered ash from the floor. It was dark in colour and flakey—such an ash as is only made by a Trichinopoly.",
+        "objectID": "7a97a9df049ac33933064b09fbf4d3bb"
       },
       "previous": {
-        "content": "\"Well, if a man can stride four and a-half feet without the smallest effort, he can't be quite in the sere and yellow. That was the breadth of a puddle on the garden walk which he had evidently walked across. Patent-leather boots had gone round, and Square-toes had hopped over. There is no mystery about it at all. I am simply applying to ordinary life a few of those precepts of observation and deduction which I advocated in that article. Is there anything else that puzzles you?\"",
-        "objectID": "e70648db1d8948de98cd9110444889fd"
+        "content": "I am simply applying to ordinary life a few of those precepts of observation and deduction which I advocated in that article. Is there anything else that puzzles you?\"",
+        "objectID": "73935600f3170c4a4dff0131916c65a7"
       }
     },
-    "objectID": "7f4bbcfa424b8ac04f76b8978935d910",
-    "order": 9,
+    "objectID": "b462f89a7855270ea54bab11e2000f4b",
+    "order": 13,
     "tagName": "P"
   },
   {
@@ -191,19 +275,61 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "\"The writing on the wall was done with a man's forefinger dipped in blood. My glass allowed me to observe that the plaster was slightly scratched in doing it, which would not have been the case if the man's nail had been trimmed. I gathered up some scattered ash from the floor. It was dark in colour and flakey—such an ash as is only made by a Trichinopoly. I have made a special study of cigar ashes—in fact, I have written a monograph upon the subject. I flatter myself that I can distinguish at a glance the ash of any known brand, either of cigar or of tobacco. It is just in such details that the skilled detective differs from the Gregson and Lestrade type.\"",
+    "content": "\"The writing on the wall was done with a man's forefinger dipped in blood. My glass allowed me to observe that the plaster was slightly scratched in doing it, which would not have been the case if the man's nail had been trimmed. I gathered up some scattered ash from the floor. It was dark in colour and flakey—such an ash as is only made by a Trichinopoly.",
     "context": {
       "next": {
-        "content": "\"And the florid face?\" I asked.",
-        "objectID": "1f6223ca0f88823a5da27d188c72fcea"
+        "content": "I have made a special study of cigar ashes—in fact, I have written a monograph upon the subject. I flatter myself that I can distinguish at a glance the ash of any known brand, either of cigar or of tobacco. It is just in such details that the skilled detective differs from the Gregson and Lestrade type.",
+        "objectID": "2c85850752d84196c47d0b29c83a1819"
       },
       "previous": {
         "content": "\"The finger nails and the Trichinopoly,\" I suggested.",
-        "objectID": "7f4bbcfa424b8ac04f76b8978935d910"
+        "objectID": "b462f89a7855270ea54bab11e2000f4b"
       }
     },
-    "objectID": "88d877976f922f65d62e42d2a0f38ca3",
-    "order": 10,
+    "objectID": "7a97a9df049ac33933064b09fbf4d3bb",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "I have made a special study of cigar ashes—in fact, I have written a monograph upon the subject. I flatter myself that I can distinguish at a glance the ash of any known brand, either of cigar or of tobacco. It is just in such details that the skilled detective differs from the Gregson and Lestrade type.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "4bf64f8e2ba485c42acf8e7a27f58542"
+      },
+      "previous": {
+        "content": "\"The writing on the wall was done with a man's forefinger dipped in blood. My glass allowed me to observe that the plaster was slightly scratched in doing it, which would not have been the case if the man's nail had been trimmed. I gathered up some scattered ash from the floor. It was dark in colour and flakey—such an ash as is only made by a Trichinopoly.",
+        "objectID": "7a97a9df049ac33933064b09fbf4d3bb"
+      }
+    },
+    "objectID": "2c85850752d84196c47d0b29c83a1819",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"And the florid face?\" I asked.",
+        "objectID": "b27d9e2e01c4f725367e1d79a6d4babb"
+      },
+      "previous": {
+        "content": "I have made a special study of cigar ashes—in fact, I have written a monograph upon the subject. I flatter myself that I can distinguish at a glance the ash of any known brand, either of cigar or of tobacco. It is just in such details that the skilled detective differs from the Gregson and Lestrade type.",
+        "objectID": "2c85850752d84196c47d0b29c83a1819"
+      }
+    },
+    "objectID": "4bf64f8e2ba485c42acf8e7a27f58542",
+    "order": 16,
     "tagName": "P"
   },
   {
@@ -216,15 +342,15 @@
     "context": {
       "next": {
         "content": "\"Ah, that was a more daring shot, though I have no doubt that I was right. You must not ask me that at the present state of the affair.\"",
-        "objectID": "b652964c8ee5f698b59a0d1c52a8d1d7"
+        "objectID": "e2b4b1f9bfe78a76329e99a1fd69efa4"
       },
       "previous": {
-        "content": "\"The writing on the wall was done with a man's forefinger dipped in blood. My glass allowed me to observe that the plaster was slightly scratched in doing it, which would not have been the case if the man's nail had been trimmed. I gathered up some scattered ash from the floor. It was dark in colour and flakey—such an ash as is only made by a Trichinopoly. I have made a special study of cigar ashes—in fact, I have written a monograph upon the subject. I flatter myself that I can distinguish at a glance the ash of any known brand, either of cigar or of tobacco. It is just in such details that the skilled detective differs from the Gregson and Lestrade type.\"",
-        "objectID": "88d877976f922f65d62e42d2a0f38ca3"
+        "content": "\"",
+        "objectID": "4bf64f8e2ba485c42acf8e7a27f58542"
       }
     },
-    "objectID": "1f6223ca0f88823a5da27d188c72fcea",
-    "order": 11,
+    "objectID": "b27d9e2e01c4f725367e1d79a6d4babb",
+    "order": 17,
     "tagName": "P"
   },
   {
@@ -236,16 +362,16 @@
     "content": "\"Ah, that was a more daring shot, though I have no doubt that I was right. You must not ask me that at the present state of the affair.\"",
     "context": {
       "next": {
-        "content": "I passed my hand over my brow. \"My head is in a whirl,\" I remarked; \"the more one thinks of it the more mysterious it grows. How came these two men—if there were two men—into an empty house? What has become of the cabman who drove them? How could one man compel another to take poison? Where did the blood come from? What was the object of the murderer, since robbery had no part in it? How came the woman's ring there? Above all, why should the second man write up the German word RACHE before decamping? I confess that I cannot see any possible way of reconciling all these facts.\"",
-        "objectID": "c116aa59fd1f822f31253ce8314d7cda"
+        "content": "I passed my hand over my brow. \"My head is in a whirl,\" I remarked; \"the more one thinks of it the more mysterious it grows. How came these two men—if there were two men—into an empty house? What has become of the cabman who drove them? How could one man compel another to take poison? Where did the blood come from? What was the object of the murderer, since robbery had no part in it? How came the woman's ring there? Above all, why should the second man write up the German word RACHE before decamping? I confess that I cannot see any possible way of reconciling all these facts.",
+        "objectID": "4036421e348c341ce3a06de40651b4ac"
       },
       "previous": {
         "content": "\"And the florid face?\" I asked.",
-        "objectID": "1f6223ca0f88823a5da27d188c72fcea"
+        "objectID": "b27d9e2e01c4f725367e1d79a6d4babb"
       }
     },
-    "objectID": "b652964c8ee5f698b59a0d1c52a8d1d7",
-    "order": 12,
+    "objectID": "e2b4b1f9bfe78a76329e99a1fd69efa4",
+    "order": 18,
     "tagName": "P"
   },
   {
@@ -254,19 +380,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "I passed my hand over my brow. \"My head is in a whirl,\" I remarked; \"the more one thinks of it the more mysterious it grows. How came these two men—if there were two men—into an empty house? What has become of the cabman who drove them? How could one man compel another to take poison? Where did the blood come from? What was the object of the murderer, since robbery had no part in it? How came the woman's ring there? Above all, why should the second man write up the German word RACHE before decamping? I confess that I cannot see any possible way of reconciling all these facts.\"",
+    "content": "I passed my hand over my brow. \"My head is in a whirl,\" I remarked; \"the more one thinks of it the more mysterious it grows. How came these two men—if there were two men—into an empty house? What has become of the cabman who drove them? How could one man compel another to take poison? Where did the blood come from? What was the object of the murderer, since robbery had no part in it? How came the woman's ring there? Above all, why should the second man write up the German word RACHE before decamping? I confess that I cannot see any possible way of reconciling all these facts.",
     "context": {
       "next": {
-        "content": "My companion smiled approvingly.",
-        "objectID": "f859c25eb76b9a34419d1ebc0c0b5b08"
+        "content": "\"",
+        "objectID": "ff1f8612b7d07b39a6bced2d7a5e7797"
       },
       "previous": {
         "content": "\"Ah, that was a more daring shot, though I have no doubt that I was right. You must not ask me that at the present state of the affair.\"",
-        "objectID": "b652964c8ee5f698b59a0d1c52a8d1d7"
+        "objectID": "e2b4b1f9bfe78a76329e99a1fd69efa4"
       }
     },
-    "objectID": "c116aa59fd1f822f31253ce8314d7cda",
-    "order": 13,
+    "objectID": "4036421e348c341ce3a06de40651b4ac",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "My companion smiled approvingly.",
+        "objectID": "111fead59be9b5d4f466b561687a1305"
+      },
+      "previous": {
+        "content": "I passed my hand over my brow. \"My head is in a whirl,\" I remarked; \"the more one thinks of it the more mysterious it grows. How came these two men—if there were two men—into an empty house? What has become of the cabman who drove them? How could one man compel another to take poison? Where did the blood come from? What was the object of the murderer, since robbery had no part in it? How came the woman's ring there? Above all, why should the second man write up the German word RACHE before decamping? I confess that I cannot see any possible way of reconciling all these facts.",
+        "objectID": "4036421e348c341ce3a06de40651b4ac"
+      }
+    },
+    "objectID": "ff1f8612b7d07b39a6bced2d7a5e7797",
+    "order": 20,
     "tagName": "P"
   },
   {
@@ -278,16 +425,16 @@
     "content": "My companion smiled approvingly.",
     "context": {
       "next": {
-        "content": "\"You sum up the difficulties of the situation succinctly and well,\" he said. \"There is much that is still obscure, though I have quite made up my mind on the main facts. As to poor Lestrade's discovery it was simply a blind intended to put the police upon a wrong track, by suggesting Socialism and secret societies. It was not done by a German. The A, if you noticed, was printed somewhat after the German fashion. Now, a real German invariably prints in the Latin character, so that we may safely say that this was not written by one, but by a clumsy imitator who overdid his part. It was simply a ruse to divert inquiry into a wrong channel. I'm not going to tell you much more of the case, Doctor. You know a conjuror gets no credit when once he has explained his trick, and if I show you too much of my method of working, you will come to the conclusion that I am a very ordinary individual after all.\"",
-        "objectID": "0dcc92da50433ad2875c0c7c88edfac3"
+        "content": "\"You sum up the difficulties of the situation succinctly and well,\" he said. \"There is much that is still obscure, though I have quite made up my mind on the main facts. As to poor Lestrade's discovery it was simply a blind intended to put the police upon a wrong track, by suggesting Socialism and secret societies.",
+        "objectID": "7738ef9ad2c5435d271332acb64461bc"
       },
       "previous": {
-        "content": "I passed my hand over my brow. \"My head is in a whirl,\" I remarked; \"the more one thinks of it the more mysterious it grows. How came these two men—if there were two men—into an empty house? What has become of the cabman who drove them? How could one man compel another to take poison? Where did the blood come from? What was the object of the murderer, since robbery had no part in it? How came the woman's ring there? Above all, why should the second man write up the German word RACHE before decamping? I confess that I cannot see any possible way of reconciling all these facts.\"",
-        "objectID": "c116aa59fd1f822f31253ce8314d7cda"
+        "content": "\"",
+        "objectID": "ff1f8612b7d07b39a6bced2d7a5e7797"
       }
     },
-    "objectID": "f859c25eb76b9a34419d1ebc0c0b5b08",
-    "order": 14,
+    "objectID": "111fead59be9b5d4f466b561687a1305",
+    "order": 21,
     "tagName": "P"
   },
   {
@@ -296,19 +443,61 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "\"You sum up the difficulties of the situation succinctly and well,\" he said. \"There is much that is still obscure, though I have quite made up my mind on the main facts. As to poor Lestrade's discovery it was simply a blind intended to put the police upon a wrong track, by suggesting Socialism and secret societies. It was not done by a German. The A, if you noticed, was printed somewhat after the German fashion. Now, a real German invariably prints in the Latin character, so that we may safely say that this was not written by one, but by a clumsy imitator who overdid his part. It was simply a ruse to divert inquiry into a wrong channel. I'm not going to tell you much more of the case, Doctor. You know a conjuror gets no credit when once he has explained his trick, and if I show you too much of my method of working, you will come to the conclusion that I am a very ordinary individual after all.\"",
+    "content": "\"You sum up the difficulties of the situation succinctly and well,\" he said. \"There is much that is still obscure, though I have quite made up my mind on the main facts. As to poor Lestrade's discovery it was simply a blind intended to put the police upon a wrong track, by suggesting Socialism and secret societies.",
     "context": {
       "next": {
-        "content": "\"I shall never do that,\" I answered; \"you have brought detection as near an exact science as it ever will be brought in this world.\"",
-        "objectID": "edd7fb1763b1aa9f21c9fdaaf0281a3d"
+        "content": "It was not done by a German. The A, if you noticed, was printed somewhat after the German fashion. Now, a real German invariably prints in the Latin character, so that we may safely say that this was not written by one, but by a clumsy imitator who overdid his part. It was simply a ruse to divert inquiry into a wrong channel.",
+        "objectID": "74253210ed42ffb5481b746c9e966e2a"
       },
       "previous": {
         "content": "My companion smiled approvingly.",
-        "objectID": "f859c25eb76b9a34419d1ebc0c0b5b08"
+        "objectID": "111fead59be9b5d4f466b561687a1305"
       }
     },
-    "objectID": "0dcc92da50433ad2875c0c7c88edfac3",
-    "order": 15,
+    "objectID": "7738ef9ad2c5435d271332acb64461bc",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "It was not done by a German. The A, if you noticed, was printed somewhat after the German fashion. Now, a real German invariably prints in the Latin character, so that we may safely say that this was not written by one, but by a clumsy imitator who overdid his part. It was simply a ruse to divert inquiry into a wrong channel.",
+    "context": {
+      "next": {
+        "content": "I'm not going to tell you much more of the case, Doctor. You know a conjuror gets no credit when once he has explained his trick, and if I show you too much of my method of working, you will come to the conclusion that I am a very ordinary individual after all.\"",
+        "objectID": "4490348b6d3ebe915eb4e2ef344cb86c"
+      },
+      "previous": {
+        "content": "\"You sum up the difficulties of the situation succinctly and well,\" he said. \"There is much that is still obscure, though I have quite made up my mind on the main facts. As to poor Lestrade's discovery it was simply a blind intended to put the police upon a wrong track, by suggesting Socialism and secret societies.",
+        "objectID": "7738ef9ad2c5435d271332acb64461bc"
+      }
+    },
+    "objectID": "74253210ed42ffb5481b746c9e966e2a",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "I'm not going to tell you much more of the case, Doctor. You know a conjuror gets no credit when once he has explained his trick, and if I show you too much of my method of working, you will come to the conclusion that I am a very ordinary individual after all.\"",
+    "context": {
+      "next": {
+        "content": "\"I shall never do that,\" I answered; \"you have brought detection as near an exact science as it ever will be brought in this world.\"",
+        "objectID": "35659b212a19cfa3fe9e866543309e0b"
+      },
+      "previous": {
+        "content": "It was not done by a German. The A, if you noticed, was printed somewhat after the German fashion. Now, a real German invariably prints in the Latin character, so that we may safely say that this was not written by one, but by a clumsy imitator who overdid his part. It was simply a ruse to divert inquiry into a wrong channel.",
+        "objectID": "74253210ed42ffb5481b746c9e966e2a"
+      }
+    },
+    "objectID": "4490348b6d3ebe915eb4e2ef344cb86c",
+    "order": 24,
     "tagName": "P"
   },
   {
@@ -321,15 +510,15 @@
     "context": {
       "next": {
         "content": "My companion flushed up with pleasure at my words, and the earnest way in which I uttered them. I had already observed that he was as sensitive to flattery on the score of his art as any girl could be of her beauty.",
-        "objectID": "0278bb8fbef1de0a795f30784e345fae"
+        "objectID": "a6ff2f564aa37ed9840d70dd1e35f239"
       },
       "previous": {
-        "content": "\"You sum up the difficulties of the situation succinctly and well,\" he said. \"There is much that is still obscure, though I have quite made up my mind on the main facts. As to poor Lestrade's discovery it was simply a blind intended to put the police upon a wrong track, by suggesting Socialism and secret societies. It was not done by a German. The A, if you noticed, was printed somewhat after the German fashion. Now, a real German invariably prints in the Latin character, so that we may safely say that this was not written by one, but by a clumsy imitator who overdid his part. It was simply a ruse to divert inquiry into a wrong channel. I'm not going to tell you much more of the case, Doctor. You know a conjuror gets no credit when once he has explained his trick, and if I show you too much of my method of working, you will come to the conclusion that I am a very ordinary individual after all.\"",
-        "objectID": "0dcc92da50433ad2875c0c7c88edfac3"
+        "content": "I'm not going to tell you much more of the case, Doctor. You know a conjuror gets no credit when once he has explained his trick, and if I show you too much of my method of working, you will come to the conclusion that I am a very ordinary individual after all.\"",
+        "objectID": "4490348b6d3ebe915eb4e2ef344cb86c"
       }
     },
-    "objectID": "edd7fb1763b1aa9f21c9fdaaf0281a3d",
-    "order": 16,
+    "objectID": "35659b212a19cfa3fe9e866543309e0b",
+    "order": 25,
     "tagName": "P"
   },
   {
@@ -341,16 +530,16 @@
     "content": "My companion flushed up with pleasure at my words, and the earnest way in which I uttered them. I had already observed that he was as sensitive to flattery on the score of his art as any girl could be of her beauty.",
     "context": {
       "next": {
-        "content": "\"I'll tell you one other thing,\" he said. \"Patent leathers and Square-toes came in the same cab, and they walked down the pathway together as friendly as possible—arm-in-arm, in all probability. When they got inside they walked up and down the room—or rather, Patent-leathers stood still while Square-toes walked up and down. I could read all that in the dust; and I could read that as he walked he grew more and more excited. That is shown by the increased length of his strides. He was talking all the while, and working himself up, no doubt, into a fury. Then the tragedy occurred. I've told you all I know myself now, for the rest is mere surmise and conjecture. We have a good working basis, however, on which to start. We must hurry up, for I want to go to Halle's concert to hear Norman Neruda this afternoon.\"",
-        "objectID": "a850238ab159a3cab8bd3839dd5397be"
+        "content": "\"I'll tell you one other thing,\" he said. \"Patent leathers and Square-toes came in the same cab, and they walked down the pathway together as friendly as possible—arm-in-arm, in all probability. When they got inside they walked up and down the room—or rather, Patent-leathers stood still while Square-toes walked up and down.",
+        "objectID": "bcd817e18dedd8c82021b0f8b677d9e1"
       },
       "previous": {
         "content": "\"I shall never do that,\" I answered; \"you have brought detection as near an exact science as it ever will be brought in this world.\"",
-        "objectID": "edd7fb1763b1aa9f21c9fdaaf0281a3d"
+        "objectID": "35659b212a19cfa3fe9e866543309e0b"
       }
     },
-    "objectID": "0278bb8fbef1de0a795f30784e345fae",
-    "order": 17,
+    "objectID": "a6ff2f564aa37ed9840d70dd1e35f239",
+    "order": 26,
     "tagName": "P"
   },
   {
@@ -359,19 +548,19 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "\"I'll tell you one other thing,\" he said. \"Patent leathers and Square-toes came in the same cab, and they walked down the pathway together as friendly as possible—arm-in-arm, in all probability. When they got inside they walked up and down the room—or rather, Patent-leathers stood still while Square-toes walked up and down. I could read all that in the dust; and I could read that as he walked he grew more and more excited. That is shown by the increased length of his strides. He was talking all the while, and working himself up, no doubt, into a fury. Then the tragedy occurred. I've told you all I know myself now, for the rest is mere surmise and conjecture. We have a good working basis, however, on which to start. We must hurry up, for I want to go to Halle's concert to hear Norman Neruda this afternoon.\"",
+    "content": "\"I'll tell you one other thing,\" he said. \"Patent leathers and Square-toes came in the same cab, and they walked down the pathway together as friendly as possible—arm-in-arm, in all probability. When they got inside they walked up and down the room—or rather, Patent-leathers stood still while Square-toes walked up and down.",
     "context": {
       "next": {
-        "content": "This conversation had occurred while our cab had been threading its way through a long succession of dingy streets and dreary by-ways. In the dingiest and dreariest of them our driver suddenly came to a stand. \"That's Audley Court in there,\" he said, pointing to a narrow slit in the line of dead-coloured brick. \"You'll find me here when you come back.\"",
-        "objectID": "5bb1a30ffab160bcd1c736891684e0f8"
+        "content": "I could read all that in the dust; and I could read that as he walked he grew more and more excited. That is shown by the increased length of his strides. He was talking all the while, and working himself up, no doubt, into a fury. Then the tragedy occurred. I've told you all I know myself now, for the rest is mere surmise and conjecture.",
+        "objectID": "52bb30273af49c16eaba69077bd6d16c"
       },
       "previous": {
         "content": "My companion flushed up with pleasure at my words, and the earnest way in which I uttered them. I had already observed that he was as sensitive to flattery on the score of his art as any girl could be of her beauty.",
-        "objectID": "0278bb8fbef1de0a795f30784e345fae"
+        "objectID": "a6ff2f564aa37ed9840d70dd1e35f239"
       }
     },
-    "objectID": "a850238ab159a3cab8bd3839dd5397be",
-    "order": 18,
+    "objectID": "bcd817e18dedd8c82021b0f8b677d9e1",
+    "order": 27,
     "tagName": "P"
   },
   {
@@ -380,19 +569,19 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "This conversation had occurred while our cab had been threading its way through a long succession of dingy streets and dreary by-ways. In the dingiest and dreariest of them our driver suddenly came to a stand. \"That's Audley Court in there,\" he said, pointing to a narrow slit in the line of dead-coloured brick. \"You'll find me here when you come back.\"",
+    "content": "I could read all that in the dust; and I could read that as he walked he grew more and more excited. That is shown by the increased length of his strides. He was talking all the while, and working himself up, no doubt, into a fury. Then the tragedy occurred. I've told you all I know myself now, for the rest is mere surmise and conjecture.",
     "context": {
       "next": {
-        "content": "Audley Court was not an attractive locality. The narrow passage led us into a quadrangle paved with flags and lined by sordid dwellings. We picked our way among groups of dirty children, and through lines of discoloured linen, until we came to Number 46, the door of which was decorated with a small slip of brass on which the name Rance was engraved. On enquiry we found that the constable was in bed, and we were shown into a little front parlour to await his coming.",
-        "objectID": "e769be2c265a43ea05f58b8f46b3d030"
+        "content": "We have a good working basis, however, on which to start. We must hurry up, for I want to go to Halle's concert to hear Norman Neruda this afternoon.\"",
+        "objectID": "e2aae32b30a937e86a05f191370f958b"
       },
       "previous": {
-        "content": "\"I'll tell you one other thing,\" he said. \"Patent leathers and Square-toes came in the same cab, and they walked down the pathway together as friendly as possible—arm-in-arm, in all probability. When they got inside they walked up and down the room—or rather, Patent-leathers stood still while Square-toes walked up and down. I could read all that in the dust; and I could read that as he walked he grew more and more excited. That is shown by the increased length of his strides. He was talking all the while, and working himself up, no doubt, into a fury. Then the tragedy occurred. I've told you all I know myself now, for the rest is mere surmise and conjecture. We have a good working basis, however, on which to start. We must hurry up, for I want to go to Halle's concert to hear Norman Neruda this afternoon.\"",
-        "objectID": "a850238ab159a3cab8bd3839dd5397be"
+        "content": "\"I'll tell you one other thing,\" he said. \"Patent leathers and Square-toes came in the same cab, and they walked down the pathway together as friendly as possible—arm-in-arm, in all probability. When they got inside they walked up and down the room—or rather, Patent-leathers stood still while Square-toes walked up and down.",
+        "objectID": "bcd817e18dedd8c82021b0f8b677d9e1"
       }
     },
-    "objectID": "5bb1a30ffab160bcd1c736891684e0f8",
-    "order": 19,
+    "objectID": "52bb30273af49c16eaba69077bd6d16c",
+    "order": 28,
     "tagName": "P"
   },
   {
@@ -401,19 +590,103 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "Audley Court was not an attractive locality. The narrow passage led us into a quadrangle paved with flags and lined by sordid dwellings. We picked our way among groups of dirty children, and through lines of discoloured linen, until we came to Number 46, the door of which was decorated with a small slip of brass on which the name Rance was engraved. On enquiry we found that the constable was in bed, and we were shown into a little front parlour to await his coming.",
+    "content": "We have a good working basis, however, on which to start. We must hurry up, for I want to go to Halle's concert to hear Norman Neruda this afternoon.\"",
+    "context": {
+      "next": {
+        "content": "This conversation had occurred while our cab had been threading its way through a long succession of dingy streets and dreary by-ways. In the dingiest and dreariest of them our driver suddenly came to a stand. \"That's Audley Court in there,\" he said, pointing to a narrow slit in the line of dead-coloured brick.",
+        "objectID": "be1a7d7b43d286511d5a71443e3bbaf4"
+      },
+      "previous": {
+        "content": "I could read all that in the dust; and I could read that as he walked he grew more and more excited. That is shown by the increased length of his strides. He was talking all the while, and working himself up, no doubt, into a fury. Then the tragedy occurred. I've told you all I know myself now, for the rest is mere surmise and conjecture.",
+        "objectID": "52bb30273af49c16eaba69077bd6d16c"
+      }
+    },
+    "objectID": "e2aae32b30a937e86a05f191370f958b",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "This conversation had occurred while our cab had been threading its way through a long succession of dingy streets and dreary by-ways. In the dingiest and dreariest of them our driver suddenly came to a stand. \"That's Audley Court in there,\" he said, pointing to a narrow slit in the line of dead-coloured brick.",
+    "context": {
+      "next": {
+        "content": "\"You'll find me here when you come back.\"",
+        "objectID": "1e9f3a36e0db97f6881005b2aef20086"
+      },
+      "previous": {
+        "content": "We have a good working basis, however, on which to start. We must hurry up, for I want to go to Halle's concert to hear Norman Neruda this afternoon.\"",
+        "objectID": "e2aae32b30a937e86a05f191370f958b"
+      }
+    },
+    "objectID": "be1a7d7b43d286511d5a71443e3bbaf4",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "\"You'll find me here when you come back.\"",
+    "context": {
+      "next": {
+        "content": "Audley Court was not an attractive locality. The narrow passage led us into a quadrangle paved with flags and lined by sordid dwellings. We picked our way among groups of dirty children, and through lines of discoloured linen, until we came to Number 46, the door of which was decorated with a small slip of brass on which the name Rance was engraved.",
+        "objectID": "51d2105df2a9707702a7accd6fcef4c0"
+      },
+      "previous": {
+        "content": "This conversation had occurred while our cab had been threading its way through a long succession of dingy streets and dreary by-ways. In the dingiest and dreariest of them our driver suddenly came to a stand. \"That's Audley Court in there,\" he said, pointing to a narrow slit in the line of dead-coloured brick.",
+        "objectID": "be1a7d7b43d286511d5a71443e3bbaf4"
+      }
+    },
+    "objectID": "1e9f3a36e0db97f6881005b2aef20086",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "Audley Court was not an attractive locality. The narrow passage led us into a quadrangle paved with flags and lined by sordid dwellings. We picked our way among groups of dirty children, and through lines of discoloured linen, until we came to Number 46, the door of which was decorated with a small slip of brass on which the name Rance was engraved.",
+    "context": {
+      "next": {
+        "content": "On enquiry we found that the constable was in bed, and we were shown into a little front parlour to await his coming.",
+        "objectID": "aabf0fcbd76f86d2bffb60e09ec06dbc"
+      },
+      "previous": {
+        "content": "\"You'll find me here when you come back.\"",
+        "objectID": "1e9f3a36e0db97f6881005b2aef20086"
+      }
+    },
+    "objectID": "51d2105df2a9707702a7accd6fcef4c0",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "On enquiry we found that the constable was in bed, and we were shown into a little front parlour to await his coming.",
     "context": {
       "next": {
         "content": "He appeared presently, looking a little irritable at being disturbed in his slumbers. \"I made my report at the office,\" he said.",
-        "objectID": "687ca83ab82bc32b206401c1e1f03d7a"
+        "objectID": "88189f0b5765a3ff42a44244e323a829"
       },
       "previous": {
-        "content": "This conversation had occurred while our cab had been threading its way through a long succession of dingy streets and dreary by-ways. In the dingiest and dreariest of them our driver suddenly came to a stand. \"That's Audley Court in there,\" he said, pointing to a narrow slit in the line of dead-coloured brick. \"You'll find me here when you come back.\"",
-        "objectID": "5bb1a30ffab160bcd1c736891684e0f8"
+        "content": "Audley Court was not an attractive locality. The narrow passage led us into a quadrangle paved with flags and lined by sordid dwellings. We picked our way among groups of dirty children, and through lines of discoloured linen, until we came to Number 46, the door of which was decorated with a small slip of brass on which the name Rance was engraved.",
+        "objectID": "51d2105df2a9707702a7accd6fcef4c0"
       }
     },
-    "objectID": "e769be2c265a43ea05f58b8f46b3d030",
-    "order": 20,
+    "objectID": "aabf0fcbd76f86d2bffb60e09ec06dbc",
+    "order": 33,
     "tagName": "P"
   },
   {
@@ -426,15 +699,15 @@
     "context": {
       "next": {
         "content": "Holmes took a half-sovereign from his pocket and played with it pensively. \"We thought that we should like to hear it all from your own lips,\" he said.",
-        "objectID": "dd94a7203a080fbaff5e9a12e630d26f"
+        "objectID": "39a3101cee8b0da4c6c34a75ea92c075"
       },
       "previous": {
-        "content": "Audley Court was not an attractive locality. The narrow passage led us into a quadrangle paved with flags and lined by sordid dwellings. We picked our way among groups of dirty children, and through lines of discoloured linen, until we came to Number 46, the door of which was decorated with a small slip of brass on which the name Rance was engraved. On enquiry we found that the constable was in bed, and we were shown into a little front parlour to await his coming.",
-        "objectID": "e769be2c265a43ea05f58b8f46b3d030"
+        "content": "On enquiry we found that the constable was in bed, and we were shown into a little front parlour to await his coming.",
+        "objectID": "aabf0fcbd76f86d2bffb60e09ec06dbc"
       }
     },
-    "objectID": "687ca83ab82bc32b206401c1e1f03d7a",
-    "order": 21,
+    "objectID": "88189f0b5765a3ff42a44244e323a829",
+    "order": 34,
     "tagName": "P"
   },
   {
@@ -447,15 +720,15 @@
     "context": {
       "next": {
         "content": "\"I shall be most happy to tell you anything I can,\" the constable answered with his eyes upon the little golden disk.",
-        "objectID": "c7d3531fb7cd97e75374399002040b66"
+        "objectID": "f6441b05b864d40f8ea3eaa4037032fa"
       },
       "previous": {
         "content": "He appeared presently, looking a little irritable at being disturbed in his slumbers. \"I made my report at the office,\" he said.",
-        "objectID": "687ca83ab82bc32b206401c1e1f03d7a"
+        "objectID": "88189f0b5765a3ff42a44244e323a829"
       }
     },
-    "objectID": "dd94a7203a080fbaff5e9a12e630d26f",
-    "order": 22,
+    "objectID": "39a3101cee8b0da4c6c34a75ea92c075",
+    "order": 35,
     "tagName": "P"
   },
   {
@@ -468,15 +741,15 @@
     "context": {
       "next": {
         "content": "\"Just let us hear it all in your own way as it occurred.\"",
-        "objectID": "a656621b68a6d73e38aa23c1288bebaa"
+        "objectID": "bcdae007b96725c5865ece62fbbc3a02"
       },
       "previous": {
         "content": "Holmes took a half-sovereign from his pocket and played with it pensively. \"We thought that we should like to hear it all from your own lips,\" he said.",
-        "objectID": "dd94a7203a080fbaff5e9a12e630d26f"
+        "objectID": "39a3101cee8b0da4c6c34a75ea92c075"
       }
     },
-    "objectID": "c7d3531fb7cd97e75374399002040b66",
-    "order": 23,
+    "objectID": "f6441b05b864d40f8ea3eaa4037032fa",
+    "order": 36,
     "tagName": "P"
   },
   {
@@ -489,15 +762,15 @@
     "context": {
       "next": {
         "content": "Rance sat down on the horsehair sofa, and knitted his brows as though determined not to omit anything in his narrative.",
-        "objectID": "8320343120a372a5d565f4e59cd004d6"
+        "objectID": "30ea566f403b503db01f78ac3263ce6c"
       },
       "previous": {
         "content": "\"I shall be most happy to tell you anything I can,\" the constable answered with his eyes upon the little golden disk.",
-        "objectID": "c7d3531fb7cd97e75374399002040b66"
+        "objectID": "f6441b05b864d40f8ea3eaa4037032fa"
       }
     },
-    "objectID": "a656621b68a6d73e38aa23c1288bebaa",
-    "order": 24,
+    "objectID": "bcdae007b96725c5865ece62fbbc3a02",
+    "order": 37,
     "tagName": "P"
   },
   {
@@ -509,16 +782,16 @@
     "content": "Rance sat down on the horsehair sofa, and knitted his brows as though determined not to omit anything in his narrative.",
     "context": {
       "next": {
-        "content": "\"I'll tell it ye from the beginning,\" he said. \"My time is from ten at night to six in the morning. At eleven there was a fight at the 'White Hart'; but bar that all was quiet enough on the beat. At one o'clock it began to rain, and I met Harry Murcher—him who has the Holland Grove beat—and we stood together at the corner of Henrietta Street a-talkin'. Presently—maybe about two or a little after—I thought I would take a look round and see that all was right down the Brixton Road. It was precious dirty and lonely. Not a soul did I meet all the way down, though a cab or two went past me. I was a strollin' down, thinkin' between ourselves how uncommon handy a four of gin hot would be, when suddenly the glint of a light caught my eye in the window of that same house. Now, I knew that them two houses in Lauriston Gardens was empty on account of him that owns them who won't have the drains seen to, though the very last tenant what lived in one of them died o' typhoid fever. I was knocked all in a heap therefore at seeing a light in the window, and I suspected as something was wrong. When I got to the door——\"",
-        "objectID": "5a0b0d843ddd16fd5f7bc505660e9aa8"
+        "content": "\"I'll tell it ye from the beginning,\" he said. \"My time is from ten at night to six in the morning. At eleven there was a fight at the 'White Hart'; but bar that all was quiet enough on the beat. At one o'clock it began to rain, and I met Harry Murcher—him who has the Holland Grove beat—and we stood together at the corner of Henrietta Street a-talkin'.",
+        "objectID": "133ef50a587df98a6900c34214361680"
       },
       "previous": {
         "content": "\"Just let us hear it all in your own way as it occurred.\"",
-        "objectID": "a656621b68a6d73e38aa23c1288bebaa"
+        "objectID": "bcdae007b96725c5865ece62fbbc3a02"
       }
     },
-    "objectID": "8320343120a372a5d565f4e59cd004d6",
-    "order": 25,
+    "objectID": "30ea566f403b503db01f78ac3263ce6c",
+    "order": 38,
     "tagName": "P"
   },
   {
@@ -527,19 +800,82 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "\"I'll tell it ye from the beginning,\" he said. \"My time is from ten at night to six in the morning. At eleven there was a fight at the 'White Hart'; but bar that all was quiet enough on the beat. At one o'clock it began to rain, and I met Harry Murcher—him who has the Holland Grove beat—and we stood together at the corner of Henrietta Street a-talkin'. Presently—maybe about two or a little after—I thought I would take a look round and see that all was right down the Brixton Road. It was precious dirty and lonely. Not a soul did I meet all the way down, though a cab or two went past me. I was a strollin' down, thinkin' between ourselves how uncommon handy a four of gin hot would be, when suddenly the glint of a light caught my eye in the window of that same house. Now, I knew that them two houses in Lauriston Gardens was empty on account of him that owns them who won't have the drains seen to, though the very last tenant what lived in one of them died o' typhoid fever. I was knocked all in a heap therefore at seeing a light in the window, and I suspected as something was wrong. When I got to the door——\"",
+    "content": "\"I'll tell it ye from the beginning,\" he said. \"My time is from ten at night to six in the morning. At eleven there was a fight at the 'White Hart'; but bar that all was quiet enough on the beat. At one o'clock it began to rain, and I met Harry Murcher—him who has the Holland Grove beat—and we stood together at the corner of Henrietta Street a-talkin'.",
     "context": {
       "next": {
-        "content": "\"You stopped, and then walked back to the garden gate,\" my companion interrupted. \"What did you do that for?\"",
-        "objectID": "b6a05cef0462e3b4b24483212055e702"
+        "content": "Presently—maybe about two or a little after—I thought I would take a look round and see that all was right down the Brixton Road. It was precious dirty and lonely. Not a soul did I meet all the way down, though a cab or two went past me. I was a strollin' down, thinkin' between ourselves how uncommon handy a four of gin hot would be, when suddenly the glint of a light caught my eye in the window of that same house.",
+        "objectID": "7a32db60f7d02e4cd0c47910f0b2eaef"
       },
       "previous": {
         "content": "Rance sat down on the horsehair sofa, and knitted his brows as though determined not to omit anything in his narrative.",
-        "objectID": "8320343120a372a5d565f4e59cd004d6"
+        "objectID": "30ea566f403b503db01f78ac3263ce6c"
       }
     },
-    "objectID": "5a0b0d843ddd16fd5f7bc505660e9aa8",
-    "order": 26,
+    "objectID": "133ef50a587df98a6900c34214361680",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "Presently—maybe about two or a little after—I thought I would take a look round and see that all was right down the Brixton Road. It was precious dirty and lonely. Not a soul did I meet all the way down, though a cab or two went past me. I was a strollin' down, thinkin' between ourselves how uncommon handy a four of gin hot would be, when suddenly the glint of a light caught my eye in the window of that same house.",
+    "context": {
+      "next": {
+        "content": "Now, I knew that them two houses in Lauriston Gardens was empty on account of him that owns them who won't have the drains seen to, though the very last tenant what lived in one of them died o' typhoid fever. I was knocked all in a heap therefore at seeing a light in the window, and I suspected as something was wrong.",
+        "objectID": "b51dfcc7fc9dc51555005b4963889994"
+      },
+      "previous": {
+        "content": "\"I'll tell it ye from the beginning,\" he said. \"My time is from ten at night to six in the morning. At eleven there was a fight at the 'White Hart'; but bar that all was quiet enough on the beat. At one o'clock it began to rain, and I met Harry Murcher—him who has the Holland Grove beat—and we stood together at the corner of Henrietta Street a-talkin'.",
+        "objectID": "133ef50a587df98a6900c34214361680"
+      }
+    },
+    "objectID": "7a32db60f7d02e4cd0c47910f0b2eaef",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "Now, I knew that them two houses in Lauriston Gardens was empty on account of him that owns them who won't have the drains seen to, though the very last tenant what lived in one of them died o' typhoid fever. I was knocked all in a heap therefore at seeing a light in the window, and I suspected as something was wrong.",
+    "context": {
+      "next": {
+        "content": "When I got to the door——\"",
+        "objectID": "a90be3a5116ae0e82af22653f5429404"
+      },
+      "previous": {
+        "content": "Presently—maybe about two or a little after—I thought I would take a look round and see that all was right down the Brixton Road. It was precious dirty and lonely. Not a soul did I meet all the way down, though a cab or two went past me. I was a strollin' down, thinkin' between ourselves how uncommon handy a four of gin hot would be, when suddenly the glint of a light caught my eye in the window of that same house.",
+        "objectID": "7a32db60f7d02e4cd0c47910f0b2eaef"
+      }
+    },
+    "objectID": "b51dfcc7fc9dc51555005b4963889994",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "When I got to the door——\"",
+    "context": {
+      "next": {
+        "content": "\"You stopped, and then walked back to the garden gate,\" my companion interrupted. \"What did you do that for?\"",
+        "objectID": "bd3b25b879953be58d706413b48ab2ff"
+      },
+      "previous": {
+        "content": "Now, I knew that them two houses in Lauriston Gardens was empty on account of him that owns them who won't have the drains seen to, though the very last tenant what lived in one of them died o' typhoid fever. I was knocked all in a heap therefore at seeing a light in the window, and I suspected as something was wrong.",
+        "objectID": "b51dfcc7fc9dc51555005b4963889994"
+      }
+    },
+    "objectID": "a90be3a5116ae0e82af22653f5429404",
+    "order": 42,
     "tagName": "P"
   },
   {
@@ -552,15 +888,15 @@
     "context": {
       "next": {
         "content": "Rance gave a violent jump, and stared at Sherlock Holmes with the utmost amazement upon his features.",
-        "objectID": "c102d37419806a49de1f18587b52af00"
+        "objectID": "61704e955d9e4699120102897c7e5f12"
       },
       "previous": {
-        "content": "\"I'll tell it ye from the beginning,\" he said. \"My time is from ten at night to six in the morning. At eleven there was a fight at the 'White Hart'; but bar that all was quiet enough on the beat. At one o'clock it began to rain, and I met Harry Murcher—him who has the Holland Grove beat—and we stood together at the corner of Henrietta Street a-talkin'. Presently—maybe about two or a little after—I thought I would take a look round and see that all was right down the Brixton Road. It was precious dirty and lonely. Not a soul did I meet all the way down, though a cab or two went past me. I was a strollin' down, thinkin' between ourselves how uncommon handy a four of gin hot would be, when suddenly the glint of a light caught my eye in the window of that same house. Now, I knew that them two houses in Lauriston Gardens was empty on account of him that owns them who won't have the drains seen to, though the very last tenant what lived in one of them died o' typhoid fever. I was knocked all in a heap therefore at seeing a light in the window, and I suspected as something was wrong. When I got to the door——\"",
-        "objectID": "5a0b0d843ddd16fd5f7bc505660e9aa8"
+        "content": "When I got to the door——\"",
+        "objectID": "a90be3a5116ae0e82af22653f5429404"
       }
     },
-    "objectID": "b6a05cef0462e3b4b24483212055e702",
-    "order": 27,
+    "objectID": "bd3b25b879953be58d706413b48ab2ff",
+    "order": 43,
     "tagName": "P"
   },
   {
@@ -572,16 +908,16 @@
     "content": "Rance gave a violent jump, and stared at Sherlock Holmes with the utmost amazement upon his features.",
     "context": {
       "next": {
-        "content": "\"Why, that's true, sir,\" he said; \"though how you come to know it, Heaven only knows. Ye see, when I got up to the door it was so still and so lonesome, that I thought I'd be none the worse for some one with me. I ain't afeared of anything on this side o' the grave; but I thought that maybe it was him that died o' the typhoid inspecting the drains what killed him. The thought gave me a kind o' turn, and I walked back to the gate to see if I could see Murcher's lantern, but there wasn't no sign of him nor of anyone else.\"",
-        "objectID": "2fede584e81a5f94cf3c07effeb1b6c8"
+        "content": "\"Why, that's true, sir,\" he said; \"though how you come to know it, Heaven only knows. Ye see, when I got up to the door it was so still and so lonesome, that I thought I'd be none the worse for some one with me. I ain't afeared of anything on this side o' the grave; but I thought that maybe it was him that died o' the typhoid inspecting the drains what killed him.",
+        "objectID": "fb871273d2246f365c9033ee5ee50d07"
       },
       "previous": {
         "content": "\"You stopped, and then walked back to the garden gate,\" my companion interrupted. \"What did you do that for?\"",
-        "objectID": "b6a05cef0462e3b4b24483212055e702"
+        "objectID": "bd3b25b879953be58d706413b48ab2ff"
       }
     },
-    "objectID": "c102d37419806a49de1f18587b52af00",
-    "order": 28,
+    "objectID": "61704e955d9e4699120102897c7e5f12",
+    "order": 44,
     "tagName": "P"
   },
   {
@@ -590,19 +926,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "\"Why, that's true, sir,\" he said; \"though how you come to know it, Heaven only knows. Ye see, when I got up to the door it was so still and so lonesome, that I thought I'd be none the worse for some one with me. I ain't afeared of anything on this side o' the grave; but I thought that maybe it was him that died o' the typhoid inspecting the drains what killed him. The thought gave me a kind o' turn, and I walked back to the gate to see if I could see Murcher's lantern, but there wasn't no sign of him nor of anyone else.\"",
+    "content": "\"Why, that's true, sir,\" he said; \"though how you come to know it, Heaven only knows. Ye see, when I got up to the door it was so still and so lonesome, that I thought I'd be none the worse for some one with me. I ain't afeared of anything on this side o' the grave; but I thought that maybe it was him that died o' the typhoid inspecting the drains what killed him.",
     "context": {
       "next": {
-        "content": "\"There was no one in the street?\"",
-        "objectID": "2f63bbd6c7e1e14cd08a52c10aa32ab7"
+        "content": "The thought gave me a kind o' turn, and I walked back to the gate to see if I could see Murcher's lantern, but there wasn't no sign of him nor of anyone else.\"",
+        "objectID": "a80f50aa993883d95970754009392114"
       },
       "previous": {
         "content": "Rance gave a violent jump, and stared at Sherlock Holmes with the utmost amazement upon his features.",
-        "objectID": "c102d37419806a49de1f18587b52af00"
+        "objectID": "61704e955d9e4699120102897c7e5f12"
       }
     },
-    "objectID": "2fede584e81a5f94cf3c07effeb1b6c8",
-    "order": 29,
+    "objectID": "fb871273d2246f365c9033ee5ee50d07",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "The thought gave me a kind o' turn, and I walked back to the gate to see if I could see Murcher's lantern, but there wasn't no sign of him nor of anyone else.\"",
+    "context": {
+      "next": {
+        "content": "\"There was no one in the street?\"",
+        "objectID": "6411fc4881d6e35b69b77062b50a19ab"
+      },
+      "previous": {
+        "content": "\"Why, that's true, sir,\" he said; \"though how you come to know it, Heaven only knows. Ye see, when I got up to the door it was so still and so lonesome, that I thought I'd be none the worse for some one with me. I ain't afeared of anything on this side o' the grave; but I thought that maybe it was him that died o' the typhoid inspecting the drains what killed him.",
+        "objectID": "fb871273d2246f365c9033ee5ee50d07"
+      }
+    },
+    "objectID": "a80f50aa993883d95970754009392114",
+    "order": 46,
     "tagName": "P"
   },
   {
@@ -615,15 +972,15 @@
     "context": {
       "next": {
         "content": "\"Not a livin' soul, sir, nor as much as a dog. Then I pulled myself together and went back and pushed the door open. All was quiet inside, so I went into the room where the light was a-burnin'. There was a candle flickerin' on the mantelpiece—a red wax one—and by its light I saw——\"",
-        "objectID": "bb6fc6d14564f0c904bba304515daa8c"
+        "objectID": "555eed180ff7a6cacaa28e33d1910d86"
       },
       "previous": {
-        "content": "\"Why, that's true, sir,\" he said; \"though how you come to know it, Heaven only knows. Ye see, when I got up to the door it was so still and so lonesome, that I thought I'd be none the worse for some one with me. I ain't afeared of anything on this side o' the grave; but I thought that maybe it was him that died o' the typhoid inspecting the drains what killed him. The thought gave me a kind o' turn, and I walked back to the gate to see if I could see Murcher's lantern, but there wasn't no sign of him nor of anyone else.\"",
-        "objectID": "2fede584e81a5f94cf3c07effeb1b6c8"
+        "content": "The thought gave me a kind o' turn, and I walked back to the gate to see if I could see Murcher's lantern, but there wasn't no sign of him nor of anyone else.\"",
+        "objectID": "a80f50aa993883d95970754009392114"
       }
     },
-    "objectID": "2f63bbd6c7e1e14cd08a52c10aa32ab7",
-    "order": 30,
+    "objectID": "6411fc4881d6e35b69b77062b50a19ab",
+    "order": 47,
     "tagName": "P"
   },
   {
@@ -636,15 +993,15 @@
     "context": {
       "next": {
         "content": "\"Yes, I know all that you saw. You walked round the room several times, and you knelt down by the body, and then you walked through and tried the kitchen door, and then——\"",
-        "objectID": "661f9d4d3b47a1a73367812fa9f48191"
+        "objectID": "7d2e9771def74d5106e587d072ef2176"
       },
       "previous": {
         "content": "\"There was no one in the street?\"",
-        "objectID": "2f63bbd6c7e1e14cd08a52c10aa32ab7"
+        "objectID": "6411fc4881d6e35b69b77062b50a19ab"
       }
     },
-    "objectID": "bb6fc6d14564f0c904bba304515daa8c",
-    "order": 31,
+    "objectID": "555eed180ff7a6cacaa28e33d1910d86",
+    "order": 48,
     "tagName": "P"
   },
   {
@@ -657,15 +1014,15 @@
     "context": {
       "next": {
         "content": "John Rance sprang to his feet with a frightened face and suspicion in his eyes. \"Where was you hid to see all that?\" he cried. \"It seems to me that you knows a deal more than you should.\"",
-        "objectID": "3a4725a0843015db7ae1256e6d15197c"
+        "objectID": "0b5daf8abbbddb920f2c4104b1f3d879"
       },
       "previous": {
         "content": "\"Not a livin' soul, sir, nor as much as a dog. Then I pulled myself together and went back and pushed the door open. All was quiet inside, so I went into the room where the light was a-burnin'. There was a candle flickerin' on the mantelpiece—a red wax one—and by its light I saw——\"",
-        "objectID": "bb6fc6d14564f0c904bba304515daa8c"
+        "objectID": "555eed180ff7a6cacaa28e33d1910d86"
       }
     },
-    "objectID": "661f9d4d3b47a1a73367812fa9f48191",
-    "order": 32,
+    "objectID": "7d2e9771def74d5106e587d072ef2176",
+    "order": 49,
     "tagName": "P"
   },
   {
@@ -678,15 +1035,15 @@
     "context": {
       "next": {
         "content": "Holmes laughed and threw his card across the table to the constable. \"Don't get arresting me for the murder,\" he said. \"I am one of the hounds and not the wolf; Mr. Gregson or Mr. Lestrade will answer for that. Go on, though. What did you do next?\"",
-        "objectID": "bc9f0fdbc359e5a89900d99ae9a2ba65"
+        "objectID": "6a6cb171be7ae54b3fb2596d5e22be08"
       },
       "previous": {
         "content": "\"Yes, I know all that you saw. You walked round the room several times, and you knelt down by the body, and then you walked through and tried the kitchen door, and then——\"",
-        "objectID": "661f9d4d3b47a1a73367812fa9f48191"
+        "objectID": "7d2e9771def74d5106e587d072ef2176"
       }
     },
-    "objectID": "3a4725a0843015db7ae1256e6d15197c",
-    "order": 33,
+    "objectID": "0b5daf8abbbddb920f2c4104b1f3d879",
+    "order": 50,
     "tagName": "P"
   },
   {
@@ -699,15 +1056,15 @@
     "context": {
       "next": {
         "content": "Rance resumed his seat, without however losing his mystified expression. \"I went back to the gate and sounded my whistle. That brought Murcher and two more to the spot.\"",
-        "objectID": "8e4fd08b6501e1f64420adbdda8e2cc8"
+        "objectID": "1965ea983e73d9f304ddfc525e5b1ba1"
       },
       "previous": {
         "content": "John Rance sprang to his feet with a frightened face and suspicion in his eyes. \"Where was you hid to see all that?\" he cried. \"It seems to me that you knows a deal more than you should.\"",
-        "objectID": "3a4725a0843015db7ae1256e6d15197c"
+        "objectID": "0b5daf8abbbddb920f2c4104b1f3d879"
       }
     },
-    "objectID": "bc9f0fdbc359e5a89900d99ae9a2ba65",
-    "order": 34,
+    "objectID": "6a6cb171be7ae54b3fb2596d5e22be08",
+    "order": 51,
     "tagName": "P"
   },
   {
@@ -720,15 +1077,15 @@
     "context": {
       "next": {
         "content": "\"Was the street empty then?\"",
-        "objectID": "a664b93c6c54279d865ccd7ce307fab4"
+        "objectID": "bc501a90684286791da5d784e547cdeb"
       },
       "previous": {
         "content": "Holmes laughed and threw his card across the table to the constable. \"Don't get arresting me for the murder,\" he said. \"I am one of the hounds and not the wolf; Mr. Gregson or Mr. Lestrade will answer for that. Go on, though. What did you do next?\"",
-        "objectID": "bc9f0fdbc359e5a89900d99ae9a2ba65"
+        "objectID": "6a6cb171be7ae54b3fb2596d5e22be08"
       }
     },
-    "objectID": "8e4fd08b6501e1f64420adbdda8e2cc8",
-    "order": 35,
+    "objectID": "1965ea983e73d9f304ddfc525e5b1ba1",
+    "order": 52,
     "tagName": "P"
   },
   {
@@ -741,15 +1098,15 @@
     "context": {
       "next": {
         "content": "\"Well, it was, as far as anybody that could be of any good goes.\"",
-        "objectID": "39f262ecdb3b0c7cc35cf90516756024"
+        "objectID": "f11e54cf4226b304221516d2fa0e1e3e"
       },
       "previous": {
         "content": "Rance resumed his seat, without however losing his mystified expression. \"I went back to the gate and sounded my whistle. That brought Murcher and two more to the spot.\"",
-        "objectID": "8e4fd08b6501e1f64420adbdda8e2cc8"
+        "objectID": "1965ea983e73d9f304ddfc525e5b1ba1"
       }
     },
-    "objectID": "a664b93c6c54279d865ccd7ce307fab4",
-    "order": 36,
+    "objectID": "bc501a90684286791da5d784e547cdeb",
+    "order": 53,
     "tagName": "P"
   },
   {
@@ -762,15 +1119,15 @@
     "context": {
       "next": {
         "content": "\"What do you mean?\"",
-        "objectID": "c911676712af0e12a6de8945e4103b2f"
+        "objectID": "bedebeb29c04a633b96f04e599d02cf6"
       },
       "previous": {
         "content": "\"Was the street empty then?\"",
-        "objectID": "a664b93c6c54279d865ccd7ce307fab4"
+        "objectID": "bc501a90684286791da5d784e547cdeb"
       }
     },
-    "objectID": "39f262ecdb3b0c7cc35cf90516756024",
-    "order": 37,
+    "objectID": "f11e54cf4226b304221516d2fa0e1e3e",
+    "order": 54,
     "tagName": "P"
   },
   {
@@ -782,16 +1139,16 @@
     "content": "\"What do you mean?\"",
     "context": {
       "next": {
-        "content": "The constable's features broadened into a grin. \"I've seen many a drunk chap in my time,\" he said, \"but never anyone so cryin' drunk as that cove. He was at the gate when I came out, a-leanin' up agin the railings, and a-singin' at the pitch o' his lungs about Columbine's New-fangled Banner, or some such stuff. He couldn't stand, far less help.\"",
-        "objectID": "7ea1ceac830c65808ca3863eb9d936ab"
+        "content": "The constable's features broadened into a grin. \"I've seen many a drunk chap in my time,\" he said, \"but never anyone so cryin' drunk as that cove. He was at the gate when I came out, a-leanin' up agin the railings, and a-singin' at the pitch o' his lungs about Columbine's New-fangled Banner, or some such stuff.",
+        "objectID": "39237660b81f13038d52ed81d86decfc"
       },
       "previous": {
         "content": "\"Well, it was, as far as anybody that could be of any good goes.\"",
-        "objectID": "39f262ecdb3b0c7cc35cf90516756024"
+        "objectID": "f11e54cf4226b304221516d2fa0e1e3e"
       }
     },
-    "objectID": "c911676712af0e12a6de8945e4103b2f",
-    "order": 38,
+    "objectID": "bedebeb29c04a633b96f04e599d02cf6",
+    "order": 55,
     "tagName": "P"
   },
   {
@@ -800,19 +1157,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "The constable's features broadened into a grin. \"I've seen many a drunk chap in my time,\" he said, \"but never anyone so cryin' drunk as that cove. He was at the gate when I came out, a-leanin' up agin the railings, and a-singin' at the pitch o' his lungs about Columbine's New-fangled Banner, or some such stuff. He couldn't stand, far less help.\"",
+    "content": "The constable's features broadened into a grin. \"I've seen many a drunk chap in my time,\" he said, \"but never anyone so cryin' drunk as that cove. He was at the gate when I came out, a-leanin' up agin the railings, and a-singin' at the pitch o' his lungs about Columbine's New-fangled Banner, or some such stuff.",
     "context": {
       "next": {
-        "content": "\"What sort of a man was he?\" asked Sherlock Holmes.",
-        "objectID": "a090100c41acd49805c28f8cc29bcf31"
+        "content": "He couldn't stand, far less help.\"",
+        "objectID": "6a194a0f67e19b5b354e72d49cba692d"
       },
       "previous": {
         "content": "\"What do you mean?\"",
-        "objectID": "c911676712af0e12a6de8945e4103b2f"
+        "objectID": "bedebeb29c04a633b96f04e599d02cf6"
       }
     },
-    "objectID": "7ea1ceac830c65808ca3863eb9d936ab",
-    "order": 39,
+    "objectID": "39237660b81f13038d52ed81d86decfc",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "He couldn't stand, far less help.\"",
+    "context": {
+      "next": {
+        "content": "\"What sort of a man was he?\" asked Sherlock Holmes.",
+        "objectID": "926a695c63fb03564ce2d28202a59a0f"
+      },
+      "previous": {
+        "content": "The constable's features broadened into a grin. \"I've seen many a drunk chap in my time,\" he said, \"but never anyone so cryin' drunk as that cove. He was at the gate when I came out, a-leanin' up agin the railings, and a-singin' at the pitch o' his lungs about Columbine's New-fangled Banner, or some such stuff.",
+        "objectID": "39237660b81f13038d52ed81d86decfc"
+      }
+    },
+    "objectID": "6a194a0f67e19b5b354e72d49cba692d",
+    "order": 57,
     "tagName": "P"
   },
   {
@@ -825,15 +1203,15 @@
     "context": {
       "next": {
         "content": "John Rance appeared to be somewhat irritated at this digression. \"He was an uncommon drunk sort o' man,\" he said. \"He'd ha' found hisself in the station if we hadn't been so took up.\"",
-        "objectID": "68d42a747e4a25647e66885a6a9f8367"
+        "objectID": "3593f5d54006d6d93122fea36824369f"
       },
       "previous": {
-        "content": "The constable's features broadened into a grin. \"I've seen many a drunk chap in my time,\" he said, \"but never anyone so cryin' drunk as that cove. He was at the gate when I came out, a-leanin' up agin the railings, and a-singin' at the pitch o' his lungs about Columbine's New-fangled Banner, or some such stuff. He couldn't stand, far less help.\"",
-        "objectID": "7ea1ceac830c65808ca3863eb9d936ab"
+        "content": "He couldn't stand, far less help.\"",
+        "objectID": "6a194a0f67e19b5b354e72d49cba692d"
       }
     },
-    "objectID": "a090100c41acd49805c28f8cc29bcf31",
-    "order": 40,
+    "objectID": "926a695c63fb03564ce2d28202a59a0f",
+    "order": 58,
     "tagName": "P"
   },
   {
@@ -846,15 +1224,15 @@
     "context": {
       "next": {
         "content": "\"His face—his dress—didn't you notice them?\" Holmes broke in impatiently.",
-        "objectID": "c13e66f14e8ebd5a6172a336b243ceec"
+        "objectID": "3a71f6a3c87fc2bee0eacf6df3f5749d"
       },
       "previous": {
         "content": "\"What sort of a man was he?\" asked Sherlock Holmes.",
-        "objectID": "a090100c41acd49805c28f8cc29bcf31"
+        "objectID": "926a695c63fb03564ce2d28202a59a0f"
       }
     },
-    "objectID": "68d42a747e4a25647e66885a6a9f8367",
-    "order": 41,
+    "objectID": "3593f5d54006d6d93122fea36824369f",
+    "order": 59,
     "tagName": "P"
   },
   {
@@ -867,15 +1245,15 @@
     "context": {
       "next": {
         "content": "\"I should think I did notice them, seeing that I had to prop him up—me and Murcher between us. He was a long chap, with a red face, the lower part muffled round——\"",
-        "objectID": "945291b3711956976c3133d6406bc8f5"
+        "objectID": "feed5e096cde7e8940c05a9ec1a29e80"
       },
       "previous": {
         "content": "John Rance appeared to be somewhat irritated at this digression. \"He was an uncommon drunk sort o' man,\" he said. \"He'd ha' found hisself in the station if we hadn't been so took up.\"",
-        "objectID": "68d42a747e4a25647e66885a6a9f8367"
+        "objectID": "3593f5d54006d6d93122fea36824369f"
       }
     },
-    "objectID": "c13e66f14e8ebd5a6172a336b243ceec",
-    "order": 42,
+    "objectID": "3a71f6a3c87fc2bee0eacf6df3f5749d",
+    "order": 60,
     "tagName": "P"
   },
   {
@@ -888,15 +1266,15 @@
     "context": {
       "next": {
         "content": "\"That will do,\" cried Holmes. \"What became of him?\"",
-        "objectID": "f50a10bceec6e5f4a8b5e6eb0a7934a9"
+        "objectID": "4703c249525125329928cd038f4f6a36"
       },
       "previous": {
         "content": "\"His face—his dress—didn't you notice them?\" Holmes broke in impatiently.",
-        "objectID": "c13e66f14e8ebd5a6172a336b243ceec"
+        "objectID": "3a71f6a3c87fc2bee0eacf6df3f5749d"
       }
     },
-    "objectID": "945291b3711956976c3133d6406bc8f5",
-    "order": 43,
+    "objectID": "feed5e096cde7e8940c05a9ec1a29e80",
+    "order": 61,
     "tagName": "P"
   },
   {
@@ -909,15 +1287,15 @@
     "context": {
       "next": {
         "content": "\"We'd enough to do without lookin' after him,\" the policeman said, in an aggrieved voice. \"I'll wager he found his way home all right.\"",
-        "objectID": "579c51ea1d425a3e1c032477e8b98812"
+        "objectID": "b378a7d6a126e3a8cdbf45e0b686e6a4"
       },
       "previous": {
         "content": "\"I should think I did notice them, seeing that I had to prop him up—me and Murcher between us. He was a long chap, with a red face, the lower part muffled round——\"",
-        "objectID": "945291b3711956976c3133d6406bc8f5"
+        "objectID": "feed5e096cde7e8940c05a9ec1a29e80"
       }
     },
-    "objectID": "f50a10bceec6e5f4a8b5e6eb0a7934a9",
-    "order": 44,
+    "objectID": "4703c249525125329928cd038f4f6a36",
+    "order": 62,
     "tagName": "P"
   },
   {
@@ -930,15 +1308,15 @@
     "context": {
       "next": {
         "content": "\"How was he dressed?\"",
-        "objectID": "fede821a3e0953340a12824100526013"
+        "objectID": "e4fe2bbf2de17aad990e38a14746f4ad"
       },
       "previous": {
         "content": "\"That will do,\" cried Holmes. \"What became of him?\"",
-        "objectID": "f50a10bceec6e5f4a8b5e6eb0a7934a9"
+        "objectID": "4703c249525125329928cd038f4f6a36"
       }
     },
-    "objectID": "579c51ea1d425a3e1c032477e8b98812",
-    "order": 45,
+    "objectID": "b378a7d6a126e3a8cdbf45e0b686e6a4",
+    "order": 63,
     "tagName": "P"
   },
   {
@@ -951,15 +1329,15 @@
     "context": {
       "next": {
         "content": "\"A brown overcoat.\"",
-        "objectID": "3fb9d0d12c0f2d6ba17a5e0c06df70ef"
+        "objectID": "5375056c9329b0b730d132631ca39158"
       },
       "previous": {
         "content": "\"We'd enough to do without lookin' after him,\" the policeman said, in an aggrieved voice. \"I'll wager he found his way home all right.\"",
-        "objectID": "579c51ea1d425a3e1c032477e8b98812"
+        "objectID": "b378a7d6a126e3a8cdbf45e0b686e6a4"
       }
     },
-    "objectID": "fede821a3e0953340a12824100526013",
-    "order": 46,
+    "objectID": "e4fe2bbf2de17aad990e38a14746f4ad",
+    "order": 64,
     "tagName": "P"
   },
   {
@@ -972,15 +1350,15 @@
     "context": {
       "next": {
         "content": "\"Had he a whip in his hand?\"",
-        "objectID": "6729163f2e1ac2a3d5c34392b3564263"
+        "objectID": "f0f36bebf861c8fff3484446a0a15087"
       },
       "previous": {
         "content": "\"How was he dressed?\"",
-        "objectID": "fede821a3e0953340a12824100526013"
+        "objectID": "e4fe2bbf2de17aad990e38a14746f4ad"
       }
     },
-    "objectID": "3fb9d0d12c0f2d6ba17a5e0c06df70ef",
-    "order": 47,
+    "objectID": "5375056c9329b0b730d132631ca39158",
+    "order": 65,
     "tagName": "P"
   },
   {
@@ -993,15 +1371,15 @@
     "context": {
       "next": {
         "content": "\"A whip—no.\"",
-        "objectID": "cafadf4afc8648c03e0e9e5676372d6a"
+        "objectID": "7b52faa1c95a437b13a60c517ed0f1eb"
       },
       "previous": {
         "content": "\"A brown overcoat.\"",
-        "objectID": "3fb9d0d12c0f2d6ba17a5e0c06df70ef"
+        "objectID": "5375056c9329b0b730d132631ca39158"
       }
     },
-    "objectID": "6729163f2e1ac2a3d5c34392b3564263",
-    "order": 48,
+    "objectID": "f0f36bebf861c8fff3484446a0a15087",
+    "order": 66,
     "tagName": "P"
   },
   {
@@ -1014,15 +1392,15 @@
     "context": {
       "next": {
         "content": "\"He must have left it behind,\" muttered my companion. \"You didn't happen to see or hear a cab after that?\"",
-        "objectID": "d36d6e8d79843ce99b08a8946d6fb077"
+        "objectID": "f697e1c26b40da3f633e260c0f4a0cd9"
       },
       "previous": {
         "content": "\"Had he a whip in his hand?\"",
-        "objectID": "6729163f2e1ac2a3d5c34392b3564263"
+        "objectID": "f0f36bebf861c8fff3484446a0a15087"
       }
     },
-    "objectID": "cafadf4afc8648c03e0e9e5676372d6a",
-    "order": 49,
+    "objectID": "7b52faa1c95a437b13a60c517ed0f1eb",
+    "order": 67,
     "tagName": "P"
   },
   {
@@ -1035,15 +1413,15 @@
     "context": {
       "next": {
         "content": "\"No.\"",
-        "objectID": "1abef45e3a89ba1e3b4c67f2ff60e16b"
+        "objectID": "3da3327b86eef4f5e26059bef2045917"
       },
       "previous": {
         "content": "\"A whip—no.\"",
-        "objectID": "cafadf4afc8648c03e0e9e5676372d6a"
+        "objectID": "7b52faa1c95a437b13a60c517ed0f1eb"
       }
     },
-    "objectID": "d36d6e8d79843ce99b08a8946d6fb077",
-    "order": 50,
+    "objectID": "f697e1c26b40da3f633e260c0f4a0cd9",
+    "order": 68,
     "tagName": "P"
   },
   {
@@ -1055,16 +1433,16 @@
     "content": "\"No.\"",
     "context": {
       "next": {
-        "content": "\"There's a half-sovereign for you,\" my companion said, standing up and taking his hat. \"I am afraid, Rance, that you will never rise in the force. That head of yours should be for use as well as ornament. You might have gained your sergeant's stripes last night. The man whom you held in your hands is the man who holds the clue of this mystery, and whom we are seeking. There is no use of arguing about it now; I tell you that it is so. Come along, Doctor.\"",
-        "objectID": "cbf08bf9c913271e2e6bf32df29ba4cd"
+        "content": "\"There's a half-sovereign for you,\" my companion said, standing up and taking his hat. \"I am afraid, Rance, that you will never rise in the force. That head of yours should be for use as well as ornament. You might have gained your sergeant's stripes last night. The man whom you held in your hands is the man who holds the clue of this mystery, and whom we are seeking.",
+        "objectID": "073f92996e897e704a05c6f4f1897591"
       },
       "previous": {
         "content": "\"He must have left it behind,\" muttered my companion. \"You didn't happen to see or hear a cab after that?\"",
-        "objectID": "d36d6e8d79843ce99b08a8946d6fb077"
+        "objectID": "f697e1c26b40da3f633e260c0f4a0cd9"
       }
     },
-    "objectID": "1abef45e3a89ba1e3b4c67f2ff60e16b",
-    "order": 51,
+    "objectID": "3da3327b86eef4f5e26059bef2045917",
+    "order": 69,
     "tagName": "P"
   },
   {
@@ -1073,19 +1451,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "\"There's a half-sovereign for you,\" my companion said, standing up and taking his hat. \"I am afraid, Rance, that you will never rise in the force. That head of yours should be for use as well as ornament. You might have gained your sergeant's stripes last night. The man whom you held in your hands is the man who holds the clue of this mystery, and whom we are seeking. There is no use of arguing about it now; I tell you that it is so. Come along, Doctor.\"",
+    "content": "\"There's a half-sovereign for you,\" my companion said, standing up and taking his hat. \"I am afraid, Rance, that you will never rise in the force. That head of yours should be for use as well as ornament. You might have gained your sergeant's stripes last night. The man whom you held in your hands is the man who holds the clue of this mystery, and whom we are seeking.",
     "context": {
       "next": {
-        "content": "We started off for the cab together, leaving our informant incredulous, but obviously uncomfortable.",
-        "objectID": "8de3f6449b6c3662b608da4d1f919f68"
+        "content": "There is no use of arguing about it now; I tell you that it is so. Come along, Doctor.\"",
+        "objectID": "a41daeff5c5db7011eb71505540569de"
       },
       "previous": {
         "content": "\"No.\"",
-        "objectID": "1abef45e3a89ba1e3b4c67f2ff60e16b"
+        "objectID": "3da3327b86eef4f5e26059bef2045917"
       }
     },
-    "objectID": "cbf08bf9c913271e2e6bf32df29ba4cd",
-    "order": 52,
+    "objectID": "073f92996e897e704a05c6f4f1897591",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "There is no use of arguing about it now; I tell you that it is so. Come along, Doctor.\"",
+    "context": {
+      "next": {
+        "content": "We started off for the cab together, leaving our informant incredulous, but obviously uncomfortable.",
+        "objectID": "044695d91cd9969be914814081f1821e"
+      },
+      "previous": {
+        "content": "\"There's a half-sovereign for you,\" my companion said, standing up and taking his hat. \"I am afraid, Rance, that you will never rise in the force. That head of yours should be for use as well as ornament. You might have gained your sergeant's stripes last night. The man whom you held in your hands is the man who holds the clue of this mystery, and whom we are seeking.",
+        "objectID": "073f92996e897e704a05c6f4f1897591"
+      }
+    },
+    "objectID": "a41daeff5c5db7011eb71505540569de",
+    "order": 71,
     "tagName": "P"
   },
   {
@@ -1098,15 +1497,15 @@
     "context": {
       "next": {
         "content": "\"The blundering fool,\" Holmes said, bitterly, as we drove back to our lodgings. \"Just to think of his having such an incomparable bit of good luck, and not taking advantage of it.\"",
-        "objectID": "df15b41537f7827e93e3e2aec71cb41f"
+        "objectID": "c95f7ea2ff2f4a20c2295c152d6d5c77"
       },
       "previous": {
-        "content": "\"There's a half-sovereign for you,\" my companion said, standing up and taking his hat. \"I am afraid, Rance, that you will never rise in the force. That head of yours should be for use as well as ornament. You might have gained your sergeant's stripes last night. The man whom you held in your hands is the man who holds the clue of this mystery, and whom we are seeking. There is no use of arguing about it now; I tell you that it is so. Come along, Doctor.\"",
-        "objectID": "cbf08bf9c913271e2e6bf32df29ba4cd"
+        "content": "There is no use of arguing about it now; I tell you that it is so. Come along, Doctor.\"",
+        "objectID": "a41daeff5c5db7011eb71505540569de"
       }
     },
-    "objectID": "8de3f6449b6c3662b608da4d1f919f68",
-    "order": 53,
+    "objectID": "044695d91cd9969be914814081f1821e",
+    "order": 72,
     "tagName": "P"
   },
   {
@@ -1119,15 +1518,15 @@
     "context": {
       "next": {
         "content": "\"I am rather in the dark still. It is true that the description of this man tallies with your idea of the second party in this mystery. But why should he come back to the house after leaving it? That is not the way of criminals.\"",
-        "objectID": "140e7fe675c25ffb0cde2a066a6a958d"
+        "objectID": "8adfd73cd26b9218f532d3b1a24a16c2"
       },
       "previous": {
         "content": "We started off for the cab together, leaving our informant incredulous, but obviously uncomfortable.",
-        "objectID": "8de3f6449b6c3662b608da4d1f919f68"
+        "objectID": "044695d91cd9969be914814081f1821e"
       }
     },
-    "objectID": "df15b41537f7827e93e3e2aec71cb41f",
-    "order": 54,
+    "objectID": "c95f7ea2ff2f4a20c2295c152d6d5c77",
+    "order": 73,
     "tagName": "P"
   },
   {
@@ -1139,16 +1538,16 @@
     "content": "\"I am rather in the dark still. It is true that the description of this man tallies with your idea of the second party in this mystery. But why should he come back to the house after leaving it? That is not the way of criminals.\"",
     "context": {
       "next": {
-        "content": "\"The ring, man, the ring: that was what he came back for. If we have no other way of catching him, we can always bait our line with the ring. I shall have him, Doctor—I'll lay you two to one that I have him. I must thank you for it all. I might not have gone but for you, and so have missed the finest study I ever came across: a study in scarlet, eh? Why shouldn't we use a little art jargon. There's the scarlet thread of murder running through the colourless skein of life, and our duty is to unravel it, and isolate it, and expose every inch of it. And now for lunch, and then for Norman Neruda. Her attack and her bowing are splendid. What's that little thing of Chopin's she plays so magnificently: Tra-la-la-lira-lira-lay.\"",
-        "objectID": "f3d67a475d3a2d991980200aa946d9e3"
+        "content": "\"The ring, man, the ring: that was what he came back for. If we have no other way of catching him, we can always bait our line with the ring. I shall have him, Doctor—I'll lay you two to one that I have him. I must thank you for it all. I might not have gone but for you, and so have missed the finest study I ever came across: a study in scarlet, eh? Why shouldn't we use a little art jargon.",
+        "objectID": "5766f2672160cede4207fbb1f1f5f02d"
       },
       "previous": {
         "content": "\"The blundering fool,\" Holmes said, bitterly, as we drove back to our lodgings. \"Just to think of his having such an incomparable bit of good luck, and not taking advantage of it.\"",
-        "objectID": "df15b41537f7827e93e3e2aec71cb41f"
+        "objectID": "c95f7ea2ff2f4a20c2295c152d6d5c77"
       }
     },
-    "objectID": "140e7fe675c25ffb0cde2a066a6a958d",
-    "order": 55,
+    "objectID": "8adfd73cd26b9218f532d3b1a24a16c2",
+    "order": 74,
     "tagName": "P"
   },
   {
@@ -1157,19 +1556,61 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
     "chapterOrder": 4,
-    "content": "\"The ring, man, the ring: that was what he came back for. If we have no other way of catching him, we can always bait our line with the ring. I shall have him, Doctor—I'll lay you two to one that I have him. I must thank you for it all. I might not have gone but for you, and so have missed the finest study I ever came across: a study in scarlet, eh? Why shouldn't we use a little art jargon. There's the scarlet thread of murder running through the colourless skein of life, and our duty is to unravel it, and isolate it, and expose every inch of it. And now for lunch, and then for Norman Neruda. Her attack and her bowing are splendid. What's that little thing of Chopin's she plays so magnificently: Tra-la-la-lira-lira-lay.\"",
+    "content": "\"The ring, man, the ring: that was what he came back for. If we have no other way of catching him, we can always bait our line with the ring. I shall have him, Doctor—I'll lay you two to one that I have him. I must thank you for it all. I might not have gone but for you, and so have missed the finest study I ever came across: a study in scarlet, eh? Why shouldn't we use a little art jargon.",
     "context": {
       "next": {
-        "content": "Leaning back in the cab, this amateur bloodhound carolled away like a lark while I meditated upon the many-sidedness of the human mind.",
-        "objectID": "0d6f2e70c18803d1b5ed231196664fa7"
+        "content": "There's the scarlet thread of murder running through the colourless skein of life, and our duty is to unravel it, and isolate it, and expose every inch of it. And now for lunch, and then for Norman Neruda. Her attack and her bowing are splendid. What's that little thing of Chopin's she plays so magnificently: Tra-la-la-lira-lira-lay.",
+        "objectID": "c034e0d92a4084bca41ea1883913fd0b"
       },
       "previous": {
         "content": "\"I am rather in the dark still. It is true that the description of this man tallies with your idea of the second party in this mystery. But why should he come back to the house after leaving it? That is not the way of criminals.\"",
-        "objectID": "140e7fe675c25ffb0cde2a066a6a958d"
+        "objectID": "8adfd73cd26b9218f532d3b1a24a16c2"
       }
     },
-    "objectID": "f3d67a475d3a2d991980200aa946d9e3",
-    "order": 56,
+    "objectID": "5766f2672160cede4207fbb1f1f5f02d",
+    "order": 75,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "There's the scarlet thread of murder running through the colourless skein of life, and our duty is to unravel it, and isolate it, and expose every inch of it. And now for lunch, and then for Norman Neruda. Her attack and her bowing are splendid. What's that little thing of Chopin's she plays so magnificently: Tra-la-la-lira-lira-lay.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "42ffc64161802bc940bffa0a491d1ae7"
+      },
+      "previous": {
+        "content": "\"The ring, man, the ring: that was what he came back for. If we have no other way of catching him, we can always bait our line with the ring. I shall have him, Doctor—I'll lay you two to one that I have him. I must thank you for it all. I might not have gone but for you, and so have missed the finest study I ever came across: a study in scarlet, eh? Why shouldn't we use a little art jargon.",
+        "objectID": "5766f2672160cede4207fbb1f1f5f02d"
+      }
+    },
+    "objectID": "c034e0d92a4084bca41ea1883913fd0b",
+    "order": 76,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
+    "chapterOrder": 4,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "Leaning back in the cab, this amateur bloodhound carolled away like a lark while I meditated upon the many-sidedness of the human mind.",
+        "objectID": "65d284bf3df4cadfb4b3949241cf2973"
+      },
+      "previous": {
+        "content": "There's the scarlet thread of murder running through the colourless skein of life, and our duty is to unravel it, and isolate it, and expose every inch of it. And now for lunch, and then for Norman Neruda. Her attack and her bowing are splendid. What's that little thing of Chopin's she plays so magnificently: Tra-la-la-lira-lira-lay.",
+        "objectID": "c034e0d92a4084bca41ea1883913fd0b"
+      }
+    },
+    "objectID": "42ffc64161802bc940bffa0a491d1ae7",
+    "order": 77,
     "tagName": "P"
   },
   {
@@ -1182,12 +1623,12 @@
     "context": {
       "next": null,
       "previous": {
-        "content": "\"The ring, man, the ring: that was what he came back for. If we have no other way of catching him, we can always bait our line with the ring. I shall have him, Doctor—I'll lay you two to one that I have him. I must thank you for it all. I might not have gone but for you, and so have missed the finest study I ever came across: a study in scarlet, eh? Why shouldn't we use a little art jargon. There's the scarlet thread of murder running through the colourless skein of life, and our duty is to unravel it, and isolate it, and expose every inch of it. And now for lunch, and then for Norman Neruda. Her attack and her bowing are splendid. What's that little thing of Chopin's she plays so magnificently: Tra-la-la-lira-lira-lay.\"",
-        "objectID": "f3d67a475d3a2d991980200aa946d9e3"
+        "content": "\"",
+        "objectID": "42ffc64161802bc940bffa0a491d1ae7"
       }
     },
-    "objectID": "0d6f2e70c18803d1b5ed231196664fa7",
-    "order": 57,
+    "objectID": "65d284bf3df4cadfb4b3949241cf2973",
+    "order": 78,
     "tagName": "P"
   }
 ]

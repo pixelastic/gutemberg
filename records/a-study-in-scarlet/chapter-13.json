@@ -5,16 +5,37 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "OUR prisoner's furious resistance did not apparently indicate any ferocity in his disposition towards ourselves, for on finding himself powerless, he smiled in an affable manner, and expressed his hopes that he had not hurt any of us in the scuffle. \"I guess you're going to take me to the police-station,\" he remarked to Sherlock Holmes. \"My cab's at the door. If you'll loose my legs I'll walk down to it. I'm not so light to lift as I used to be.\"",
+    "content": "OUR prisoner's furious resistance did not apparently indicate any ferocity in his disposition towards ourselves, for on finding himself powerless, he smiled in an affable manner, and expressed his hopes that he had not hurt any of us in the scuffle. \"I guess you're going to take me to the police-station,\" he remarked to Sherlock Holmes.",
     "context": {
       "next": {
-        "content": "Gregson and Lestrade exchanged glances as if they thought this proposition rather a bold one; but Holmes at once took the prisoner at his word, and loosened the towel which we had bound round his ancles. He rose and stretched his legs, as though to assure himself that they were free once more. I remember that I thought to myself, as I eyed him, that I had seldom seen a more powerfully built man; and his dark sunburned face bore an expression of determination and energy which was as formidable as his personal strength.",
-        "objectID": "5a7654b163bfbb9935f3b9f5be940f4a"
+        "content": "\"My cab's at the door. If you'll loose my legs I'll walk down to it. I'm not so light to lift as I used to be.\"",
+        "objectID": "d3fbc6d39321cad4fbf9f5456620187d"
       },
       "previous": null
     },
-    "objectID": "c31d571fd549c396f4cf6ea8af99d4f0",
+    "objectID": "411f2908ed7031d1c582fd6fd6dda64c",
     "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"My cab's at the door. If you'll loose my legs I'll walk down to it. I'm not so light to lift as I used to be.\"",
+    "context": {
+      "next": {
+        "content": "Gregson and Lestrade exchanged glances as if they thought this proposition rather a bold one; but Holmes at once took the prisoner at his word, and loosened the towel which we had bound round his ancles. He rose and stretched his legs, as though to assure himself that they were free once more. I remember that I thought to myself, as I eyed him, that I had seldom seen a more powerfully built man; and his dark sunburned face bore an expression of determination and energy which was as formidable as his personal strength.",
+        "objectID": "535340044e9513048a53445d9ce60981"
+      },
+      "previous": {
+        "content": "OUR prisoner's furious resistance did not apparently indicate any ferocity in his disposition towards ourselves, for on finding himself powerless, he smiled in an affable manner, and expressed his hopes that he had not hurt any of us in the scuffle. \"I guess you're going to take me to the police-station,\" he remarked to Sherlock Holmes.",
+        "objectID": "411f2908ed7031d1c582fd6fd6dda64c"
+      }
+    },
+    "objectID": "d3fbc6d39321cad4fbf9f5456620187d",
+    "order": 2,
     "tagName": "P"
   },
   {
@@ -27,15 +48,15 @@
     "context": {
       "next": {
         "content": "\"If there's a vacant place for a chief of the police, I reckon you are the man for it,\" he said, gazing with undisguised admiration at my fellow-lodger. \"The way you kept on my trail was a caution.\"",
-        "objectID": "c19234c7659176dcc6f05c92490abf3a"
+        "objectID": "479f1a78de1939a245fdc58f86fcebd0"
       },
       "previous": {
-        "content": "OUR prisoner's furious resistance did not apparently indicate any ferocity in his disposition towards ourselves, for on finding himself powerless, he smiled in an affable manner, and expressed his hopes that he had not hurt any of us in the scuffle. \"I guess you're going to take me to the police-station,\" he remarked to Sherlock Holmes. \"My cab's at the door. If you'll loose my legs I'll walk down to it. I'm not so light to lift as I used to be.\"",
-        "objectID": "c31d571fd549c396f4cf6ea8af99d4f0"
+        "content": "\"My cab's at the door. If you'll loose my legs I'll walk down to it. I'm not so light to lift as I used to be.\"",
+        "objectID": "d3fbc6d39321cad4fbf9f5456620187d"
       }
     },
-    "objectID": "5a7654b163bfbb9935f3b9f5be940f4a",
-    "order": 2,
+    "objectID": "535340044e9513048a53445d9ce60981",
+    "order": 3,
     "tagName": "P"
   },
   {
@@ -48,15 +69,15 @@
     "context": {
       "next": {
         "content": "\"You had better come with me,\" said Holmes to the two detectives.",
-        "objectID": "42c06532efb039393505644f3a1c4976"
+        "objectID": "51524802eeea4ba48e5e2c8c119864af"
       },
       "previous": {
         "content": "Gregson and Lestrade exchanged glances as if they thought this proposition rather a bold one; but Holmes at once took the prisoner at his word, and loosened the towel which we had bound round his ancles. He rose and stretched his legs, as though to assure himself that they were free once more. I remember that I thought to myself, as I eyed him, that I had seldom seen a more powerfully built man; and his dark sunburned face bore an expression of determination and energy which was as formidable as his personal strength.",
-        "objectID": "5a7654b163bfbb9935f3b9f5be940f4a"
+        "objectID": "535340044e9513048a53445d9ce60981"
       }
     },
-    "objectID": "c19234c7659176dcc6f05c92490abf3a",
-    "order": 3,
+    "objectID": "479f1a78de1939a245fdc58f86fcebd0",
+    "order": 4,
     "tagName": "P"
   },
   {
@@ -69,15 +90,15 @@
     "context": {
       "next": {
         "content": "\"I can drive you,\" said Lestrade.",
-        "objectID": "58e077650f8929a812440b33a5d86b3c"
+        "objectID": "5df1807666da174fe2d468cbcc0d7d3f"
       },
       "previous": {
         "content": "\"If there's a vacant place for a chief of the police, I reckon you are the man for it,\" he said, gazing with undisguised admiration at my fellow-lodger. \"The way you kept on my trail was a caution.\"",
-        "objectID": "c19234c7659176dcc6f05c92490abf3a"
+        "objectID": "479f1a78de1939a245fdc58f86fcebd0"
       }
     },
-    "objectID": "42c06532efb039393505644f3a1c4976",
-    "order": 4,
+    "objectID": "51524802eeea4ba48e5e2c8c119864af",
+    "order": 5,
     "tagName": "P"
   },
   {
@@ -90,15 +111,15 @@
     "context": {
       "next": {
         "content": "\"Good! and Gregson can come inside with me. You too, Doctor, you have taken an interest in the case and may as well stick to us.\"",
-        "objectID": "7167cbdb8e306a9a21d372e007fed5d8"
+        "objectID": "c433205e36397d2a78496ecfc8e3ae65"
       },
       "previous": {
         "content": "\"You had better come with me,\" said Holmes to the two detectives.",
-        "objectID": "42c06532efb039393505644f3a1c4976"
+        "objectID": "51524802eeea4ba48e5e2c8c119864af"
       }
     },
-    "objectID": "58e077650f8929a812440b33a5d86b3c",
-    "order": 5,
+    "objectID": "5df1807666da174fe2d468cbcc0d7d3f",
+    "order": 6,
     "tagName": "P"
   },
   {
@@ -110,16 +131,16 @@
     "content": "\"Good! and Gregson can come inside with me. You too, Doctor, you have taken an interest in the case and may as well stick to us.\"",
     "context": {
       "next": {
-        "content": "I assented gladly, and we all descended together. Our prisoner made no attempt at escape, but stepped calmly into the cab which had been his, and we followed him. Lestrade mounted the box, whipped up the horse, and brought us in a very short time to our destination. We were ushered into a small chamber where a police Inspector noted down our prisoner's name and the names of the men with whose murder he had been charged. The official was a white-faced unemotional man, who went through his duties in a dull mechanical way. \"The prisoner will be put before the magistrates in the course of the week,\" he said; \"in the mean time, Mr. Jefferson Hope, have you anything that you wish to say? I must warn you that your words will be taken down, and may be used against you.\"",
-        "objectID": "99cc82ea93e18097c5a7a3652d242a44"
+        "content": "I assented gladly, and we all descended together. Our prisoner made no attempt at escape, but stepped calmly into the cab which had been his, and we followed him. Lestrade mounted the box, whipped up the horse, and brought us in a very short time to our destination. We were ushered into a small chamber where a police Inspector noted down our prisoner's name and the names of the men with whose murder he had been charged.",
+        "objectID": "ba9c4160e4ba304bf9e7a3179c987c44"
       },
       "previous": {
         "content": "\"I can drive you,\" said Lestrade.",
-        "objectID": "58e077650f8929a812440b33a5d86b3c"
+        "objectID": "5df1807666da174fe2d468cbcc0d7d3f"
       }
     },
-    "objectID": "7167cbdb8e306a9a21d372e007fed5d8",
-    "order": 6,
+    "objectID": "c433205e36397d2a78496ecfc8e3ae65",
+    "order": 7,
     "tagName": "P"
   },
   {
@@ -128,19 +149,61 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "I assented gladly, and we all descended together. Our prisoner made no attempt at escape, but stepped calmly into the cab which had been his, and we followed him. Lestrade mounted the box, whipped up the horse, and brought us in a very short time to our destination. We were ushered into a small chamber where a police Inspector noted down our prisoner's name and the names of the men with whose murder he had been charged. The official was a white-faced unemotional man, who went through his duties in a dull mechanical way. \"The prisoner will be put before the magistrates in the course of the week,\" he said; \"in the mean time, Mr. Jefferson Hope, have you anything that you wish to say? I must warn you that your words will be taken down, and may be used against you.\"",
+    "content": "I assented gladly, and we all descended together. Our prisoner made no attempt at escape, but stepped calmly into the cab which had been his, and we followed him. Lestrade mounted the box, whipped up the horse, and brought us in a very short time to our destination. We were ushered into a small chamber where a police Inspector noted down our prisoner's name and the names of the men with whose murder he had been charged.",
     "context": {
       "next": {
-        "content": "\"I've got a good deal to say,\" our prisoner said slowly. \"I want to tell you gentlemen all about it.\"",
-        "objectID": "9f93665dfd264db24d8c7cb4f4b41d3c"
+        "content": "The official was a white-faced unemotional man, who went through his duties in a dull mechanical way. \"The prisoner will be put before the magistrates in the course of the week,\" he said; \"in the mean time, Mr. Jefferson Hope, have you anything that you wish to say? I must warn you that your words will be taken down, and may be used against you.",
+        "objectID": "85a9410583e648a18154d90707b5f1b3"
       },
       "previous": {
         "content": "\"Good! and Gregson can come inside with me. You too, Doctor, you have taken an interest in the case and may as well stick to us.\"",
-        "objectID": "7167cbdb8e306a9a21d372e007fed5d8"
+        "objectID": "c433205e36397d2a78496ecfc8e3ae65"
       }
     },
-    "objectID": "99cc82ea93e18097c5a7a3652d242a44",
-    "order": 7,
+    "objectID": "ba9c4160e4ba304bf9e7a3179c987c44",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "The official was a white-faced unemotional man, who went through his duties in a dull mechanical way. \"The prisoner will be put before the magistrates in the course of the week,\" he said; \"in the mean time, Mr. Jefferson Hope, have you anything that you wish to say? I must warn you that your words will be taken down, and may be used against you.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "cefa27234f44b987f8c54d9676ef96ca"
+      },
+      "previous": {
+        "content": "I assented gladly, and we all descended together. Our prisoner made no attempt at escape, but stepped calmly into the cab which had been his, and we followed him. Lestrade mounted the box, whipped up the horse, and brought us in a very short time to our destination. We were ushered into a small chamber where a police Inspector noted down our prisoner's name and the names of the men with whose murder he had been charged.",
+        "objectID": "ba9c4160e4ba304bf9e7a3179c987c44"
+      }
+    },
+    "objectID": "85a9410583e648a18154d90707b5f1b3",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"I've got a good deal to say,\" our prisoner said slowly. \"I want to tell you gentlemen all about it.\"",
+        "objectID": "466ea17bac5d243383142395985cab3d"
+      },
+      "previous": {
+        "content": "The official was a white-faced unemotional man, who went through his duties in a dull mechanical way. \"The prisoner will be put before the magistrates in the course of the week,\" he said; \"in the mean time, Mr. Jefferson Hope, have you anything that you wish to say? I must warn you that your words will be taken down, and may be used against you.",
+        "objectID": "85a9410583e648a18154d90707b5f1b3"
+      }
+    },
+    "objectID": "cefa27234f44b987f8c54d9676ef96ca",
+    "order": 10,
     "tagName": "P"
   },
   {
@@ -153,15 +216,15 @@
     "context": {
       "next": {
         "content": "\"Hadn't you better reserve that for your trial?\" asked the Inspector.",
-        "objectID": "9fec36b7fa1a64ae59f20c4319ae8028"
+        "objectID": "fdcd6bd21b0c49a51b230d705cb6f7bc"
       },
       "previous": {
-        "content": "I assented gladly, and we all descended together. Our prisoner made no attempt at escape, but stepped calmly into the cab which had been his, and we followed him. Lestrade mounted the box, whipped up the horse, and brought us in a very short time to our destination. We were ushered into a small chamber where a police Inspector noted down our prisoner's name and the names of the men with whose murder he had been charged. The official was a white-faced unemotional man, who went through his duties in a dull mechanical way. \"The prisoner will be put before the magistrates in the course of the week,\" he said; \"in the mean time, Mr. Jefferson Hope, have you anything that you wish to say? I must warn you that your words will be taken down, and may be used against you.\"",
-        "objectID": "99cc82ea93e18097c5a7a3652d242a44"
+        "content": "\"",
+        "objectID": "cefa27234f44b987f8c54d9676ef96ca"
       }
     },
-    "objectID": "9f93665dfd264db24d8c7cb4f4b41d3c",
-    "order": 8,
+    "objectID": "466ea17bac5d243383142395985cab3d",
+    "order": 11,
     "tagName": "P"
   },
   {
@@ -174,15 +237,15 @@
     "context": {
       "next": {
         "content": "\"I may never be tried,\" he answered. \"You needn't look startled. It isn't suicide I am thinking of. Are you a Doctor?\" He turned his fierce dark eyes upon me as he asked this last question.",
-        "objectID": "7bb7517e923c56323c8d49482623f8f7"
+        "objectID": "6f103459701bdcf2d0e27eed853ec0df"
       },
       "previous": {
         "content": "\"I've got a good deal to say,\" our prisoner said slowly. \"I want to tell you gentlemen all about it.\"",
-        "objectID": "9f93665dfd264db24d8c7cb4f4b41d3c"
+        "objectID": "466ea17bac5d243383142395985cab3d"
       }
     },
-    "objectID": "9fec36b7fa1a64ae59f20c4319ae8028",
-    "order": 9,
+    "objectID": "fdcd6bd21b0c49a51b230d705cb6f7bc",
+    "order": 12,
     "tagName": "P"
   },
   {
@@ -195,15 +258,15 @@
     "context": {
       "next": {
         "content": "\"Yes; I am,\" I answered.",
-        "objectID": "e5df6a977fc8f21821e1a002b002571d"
+        "objectID": "796c37215c3676941b5b653c183433e3"
       },
       "previous": {
         "content": "\"Hadn't you better reserve that for your trial?\" asked the Inspector.",
-        "objectID": "9fec36b7fa1a64ae59f20c4319ae8028"
+        "objectID": "fdcd6bd21b0c49a51b230d705cb6f7bc"
       }
     },
-    "objectID": "7bb7517e923c56323c8d49482623f8f7",
-    "order": 10,
+    "objectID": "6f103459701bdcf2d0e27eed853ec0df",
+    "order": 13,
     "tagName": "P"
   },
   {
@@ -216,15 +279,15 @@
     "context": {
       "next": {
         "content": "\"Then put your hand here,\" he said, with a smile, motioning with his manacled wrists towards his chest.",
-        "objectID": "700fa67d6598bff7d6f04a45d17ba6f4"
+        "objectID": "79bfa55be00c26f321b7b4877fb0c8f2"
       },
       "previous": {
         "content": "\"I may never be tried,\" he answered. \"You needn't look startled. It isn't suicide I am thinking of. Are you a Doctor?\" He turned his fierce dark eyes upon me as he asked this last question.",
-        "objectID": "7bb7517e923c56323c8d49482623f8f7"
+        "objectID": "6f103459701bdcf2d0e27eed853ec0df"
       }
     },
-    "objectID": "e5df6a977fc8f21821e1a002b002571d",
-    "order": 11,
+    "objectID": "796c37215c3676941b5b653c183433e3",
+    "order": 14,
     "tagName": "P"
   },
   {
@@ -237,15 +300,15 @@
     "context": {
       "next": {
         "content": "I did so; and became at once conscious of an extraordinary throbbing and commotion which was going on inside. The walls of his chest seemed to thrill and quiver as a frail building would do inside when some powerful engine was at work. In the silence of the room I could hear a dull humming and buzzing noise which proceeded from the same source.",
-        "objectID": "7a63bb8951ee6ad788a0e9aefdee9567"
+        "objectID": "2a382bb3f5c05f13610dd090d89f1e22"
       },
       "previous": {
         "content": "\"Yes; I am,\" I answered.",
-        "objectID": "e5df6a977fc8f21821e1a002b002571d"
+        "objectID": "796c37215c3676941b5b653c183433e3"
       }
     },
-    "objectID": "700fa67d6598bff7d6f04a45d17ba6f4",
-    "order": 12,
+    "objectID": "79bfa55be00c26f321b7b4877fb0c8f2",
+    "order": 15,
     "tagName": "P"
   },
   {
@@ -258,15 +321,15 @@
     "context": {
       "next": {
         "content": "\"Why,\" I cried, \"you have an aortic aneurism!\"",
-        "objectID": "885fe2ee74b35f6c9e2816285e81e82b"
+        "objectID": "38cca41db8aba2847d17110afc84bec5"
       },
       "previous": {
         "content": "\"Then put your hand here,\" he said, with a smile, motioning with his manacled wrists towards his chest.",
-        "objectID": "700fa67d6598bff7d6f04a45d17ba6f4"
+        "objectID": "79bfa55be00c26f321b7b4877fb0c8f2"
       }
     },
-    "objectID": "7a63bb8951ee6ad788a0e9aefdee9567",
-    "order": 13,
+    "objectID": "2a382bb3f5c05f13610dd090d89f1e22",
+    "order": 16,
     "tagName": "P"
   },
   {
@@ -278,16 +341,16 @@
     "content": "\"Why,\" I cried, \"you have an aortic aneurism!\"",
     "context": {
       "next": {
-        "content": "\"That's what they call it,\" he said, placidly. \"I went to a Doctor last week about it, and he told me that it is bound to burst before many days passed. It has been getting worse for years. I got it from over-exposure and under-feeding among the Salt Lake Mountains. I've done my work now, and I don't care how soon I go, but I should like to leave some account of the business behind me. I don't want to be remembered as a common cut-throat.\"",
-        "objectID": "088f2fb661eba884b8540c9590e43f03"
+        "content": "\"That's what they call it,\" he said, placidly. \"I went to a Doctor last week about it, and he told me that it is bound to burst before many days passed. It has been getting worse for years. I got it from over-exposure and under-feeding among the Salt Lake Mountains. I've done my work now, and I don't care how soon I go, but I should like to leave some account of the business behind me.",
+        "objectID": "3f8aba6d358e46e985343a4b2c75b958"
       },
       "previous": {
         "content": "I did so; and became at once conscious of an extraordinary throbbing and commotion which was going on inside. The walls of his chest seemed to thrill and quiver as a frail building would do inside when some powerful engine was at work. In the silence of the room I could hear a dull humming and buzzing noise which proceeded from the same source.",
-        "objectID": "7a63bb8951ee6ad788a0e9aefdee9567"
+        "objectID": "2a382bb3f5c05f13610dd090d89f1e22"
       }
     },
-    "objectID": "885fe2ee74b35f6c9e2816285e81e82b",
-    "order": 14,
+    "objectID": "38cca41db8aba2847d17110afc84bec5",
+    "order": 17,
     "tagName": "P"
   },
   {
@@ -296,19 +359,40 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"That's what they call it,\" he said, placidly. \"I went to a Doctor last week about it, and he told me that it is bound to burst before many days passed. It has been getting worse for years. I got it from over-exposure and under-feeding among the Salt Lake Mountains. I've done my work now, and I don't care how soon I go, but I should like to leave some account of the business behind me. I don't want to be remembered as a common cut-throat.\"",
+    "content": "\"That's what they call it,\" he said, placidly. \"I went to a Doctor last week about it, and he told me that it is bound to burst before many days passed. It has been getting worse for years. I got it from over-exposure and under-feeding among the Salt Lake Mountains. I've done my work now, and I don't care how soon I go, but I should like to leave some account of the business behind me.",
     "context": {
       "next": {
-        "content": "The Inspector and the two detectives had a hurried discussion as to the advisability of allowing him to tell his story.",
-        "objectID": "9cf2debd928efa321ca314615f73f76e"
+        "content": "I don't want to be remembered as a common cut-throat.\"",
+        "objectID": "58e8d1e19c1f549ef4c0589cd336998f"
       },
       "previous": {
         "content": "\"Why,\" I cried, \"you have an aortic aneurism!\"",
-        "objectID": "885fe2ee74b35f6c9e2816285e81e82b"
+        "objectID": "38cca41db8aba2847d17110afc84bec5"
       }
     },
-    "objectID": "088f2fb661eba884b8540c9590e43f03",
-    "order": 15,
+    "objectID": "3f8aba6d358e46e985343a4b2c75b958",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I don't want to be remembered as a common cut-throat.\"",
+    "context": {
+      "next": {
+        "content": "The Inspector and the two detectives had a hurried discussion as to the advisability of allowing him to tell his story.",
+        "objectID": "c3ac85f23f11ccccdfa9363fcb8487b0"
+      },
+      "previous": {
+        "content": "\"That's what they call it,\" he said, placidly. \"I went to a Doctor last week about it, and he told me that it is bound to burst before many days passed. It has been getting worse for years. I got it from over-exposure and under-feeding among the Salt Lake Mountains. I've done my work now, and I don't care how soon I go, but I should like to leave some account of the business behind me.",
+        "objectID": "3f8aba6d358e46e985343a4b2c75b958"
+      }
+    },
+    "objectID": "58e8d1e19c1f549ef4c0589cd336998f",
+    "order": 19,
     "tagName": "P"
   },
   {
@@ -321,15 +405,15 @@
     "context": {
       "next": {
         "content": "\"Do you consider, Doctor, that there is immediate danger?\" the former asked,",
-        "objectID": "ec22b13fdd986883bf8901c1df821489"
+        "objectID": "656c3fd7f42158fe41b3b9fc7547b0c3"
       },
       "previous": {
-        "content": "\"That's what they call it,\" he said, placidly. \"I went to a Doctor last week about it, and he told me that it is bound to burst before many days passed. It has been getting worse for years. I got it from over-exposure and under-feeding among the Salt Lake Mountains. I've done my work now, and I don't care how soon I go, but I should like to leave some account of the business behind me. I don't want to be remembered as a common cut-throat.\"",
-        "objectID": "088f2fb661eba884b8540c9590e43f03"
+        "content": "I don't want to be remembered as a common cut-throat.\"",
+        "objectID": "58e8d1e19c1f549ef4c0589cd336998f"
       }
     },
-    "objectID": "9cf2debd928efa321ca314615f73f76e",
-    "order": 16,
+    "objectID": "c3ac85f23f11ccccdfa9363fcb8487b0",
+    "order": 20,
     "tagName": "P"
   },
   {
@@ -342,15 +426,15 @@
     "context": {
       "next": {
         "content": "\"Most certainly there is,\" I answered.",
-        "objectID": "310d6dacb5faeb2959653512c7c077ad"
+        "objectID": "44643ba7b910f5854051277bd60b01b4"
       },
       "previous": {
         "content": "The Inspector and the two detectives had a hurried discussion as to the advisability of allowing him to tell his story.",
-        "objectID": "9cf2debd928efa321ca314615f73f76e"
+        "objectID": "c3ac85f23f11ccccdfa9363fcb8487b0"
       }
     },
-    "objectID": "ec22b13fdd986883bf8901c1df821489",
-    "order": 17,
+    "objectID": "656c3fd7f42158fe41b3b9fc7547b0c3",
+    "order": 21,
     "tagName": "P"
   },
   {
@@ -363,15 +447,15 @@
     "context": {
       "next": {
         "content": "\"In that case it is clearly our duty, in the interests of justice, to take his statement,\" said the Inspector. \"You are at liberty, sir, to give your account, which I again warn you will be taken down.\"",
-        "objectID": "01d78849b36e322368640b581cd5622d"
+        "objectID": "63b0b394f1525c952a5fbd7e52ed880c"
       },
       "previous": {
         "content": "\"Do you consider, Doctor, that there is immediate danger?\" the former asked,",
-        "objectID": "ec22b13fdd986883bf8901c1df821489"
+        "objectID": "656c3fd7f42158fe41b3b9fc7547b0c3"
       }
     },
-    "objectID": "310d6dacb5faeb2959653512c7c077ad",
-    "order": 18,
+    "objectID": "44643ba7b910f5854051277bd60b01b4",
+    "order": 22,
     "tagName": "P"
   },
   {
@@ -383,16 +467,16 @@
     "content": "\"In that case it is clearly our duty, in the interests of justice, to take his statement,\" said the Inspector. \"You are at liberty, sir, to give your account, which I again warn you will be taken down.\"",
     "context": {
       "next": {
-        "content": "\"I'll sit down, with your leave,\" the prisoner said, suiting the action to the word. \"This aneurism of mine makes me easily tired, and the tussle we had half an hour ago has not mended matters. I'm on the brink of the grave, and I am not likely to lie to you. Every word I say is the absolute truth, and how you use it is a matter of no consequence to me.\"",
-        "objectID": "e6638cbddbb15cbb5e3d9b99fb662c7e"
+        "content": "\"I'll sit down, with your leave,\" the prisoner said, suiting the action to the word. \"This aneurism of mine makes me easily tired, and the tussle we had half an hour ago has not mended matters. I'm on the brink of the grave, and I am not likely to lie to you. Every word I say is the absolute truth, and how you use it is a matter of no consequence to me.",
+        "objectID": "1659fc5491c5d4c8ede3df566af61b9b"
       },
       "previous": {
         "content": "\"Most certainly there is,\" I answered.",
-        "objectID": "310d6dacb5faeb2959653512c7c077ad"
+        "objectID": "44643ba7b910f5854051277bd60b01b4"
       }
     },
-    "objectID": "01d78849b36e322368640b581cd5622d",
-    "order": 19,
+    "objectID": "63b0b394f1525c952a5fbd7e52ed880c",
+    "order": 23,
     "tagName": "P"
   },
   {
@@ -401,19 +485,40 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"I'll sit down, with your leave,\" the prisoner said, suiting the action to the word. \"This aneurism of mine makes me easily tired, and the tussle we had half an hour ago has not mended matters. I'm on the brink of the grave, and I am not likely to lie to you. Every word I say is the absolute truth, and how you use it is a matter of no consequence to me.\"",
+    "content": "\"I'll sit down, with your leave,\" the prisoner said, suiting the action to the word. \"This aneurism of mine makes me easily tired, and the tussle we had half an hour ago has not mended matters. I'm on the brink of the grave, and I am not likely to lie to you. Every word I say is the absolute truth, and how you use it is a matter of no consequence to me.",
     "context": {
       "next": {
-        "content": "With these words, Jefferson Hope leaned back in his chair and began the following remarkable statement. He spoke in a calm and methodical manner, as though the events which he narrated were commonplace enough. I can vouch for the accuracy of the subjoined account, for I have had access to Lestrade's note-book, in which the prisoner's words were taken down exactly as they were uttered.",
-        "objectID": "a14ddfbbf44765ebd373079e58d920b2"
+        "content": "\"",
+        "objectID": "44d04737ba5c5d635729a796311a47e5"
       },
       "previous": {
         "content": "\"In that case it is clearly our duty, in the interests of justice, to take his statement,\" said the Inspector. \"You are at liberty, sir, to give your account, which I again warn you will be taken down.\"",
-        "objectID": "01d78849b36e322368640b581cd5622d"
+        "objectID": "63b0b394f1525c952a5fbd7e52ed880c"
       }
     },
-    "objectID": "e6638cbddbb15cbb5e3d9b99fb662c7e",
-    "order": 20,
+    "objectID": "1659fc5491c5d4c8ede3df566af61b9b",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "With these words, Jefferson Hope leaned back in his chair and began the following remarkable statement. He spoke in a calm and methodical manner, as though the events which he narrated were commonplace enough. I can vouch for the accuracy of the subjoined account, for I have had access to Lestrade's note-book, in which the prisoner's words were taken down exactly as they were uttered.",
+        "objectID": "f257310ae733ce427ebf28768175a893"
+      },
+      "previous": {
+        "content": "\"I'll sit down, with your leave,\" the prisoner said, suiting the action to the word. \"This aneurism of mine makes me easily tired, and the tussle we had half an hour ago has not mended matters. I'm on the brink of the grave, and I am not likely to lie to you. Every word I say is the absolute truth, and how you use it is a matter of no consequence to me.",
+        "objectID": "1659fc5491c5d4c8ede3df566af61b9b"
+      }
+    },
+    "objectID": "44d04737ba5c5d635729a796311a47e5",
+    "order": 25,
     "tagName": "P"
   },
   {
@@ -425,120 +530,15 @@
     "content": "With these words, Jefferson Hope leaned back in his chair and began the following remarkable statement. He spoke in a calm and methodical manner, as though the events which he narrated were commonplace enough. I can vouch for the accuracy of the subjoined account, for I have had access to Lestrade's note-book, in which the prisoner's words were taken down exactly as they were uttered.",
     "context": {
       "next": {
-        "content": "\"It don't much matter to you why I hated these men,\" he said; \"it's enough that they were guilty of the death of two human beings—a father and a daughter—and that they had, therefore, forfeited their own lives. After the lapse of time that has passed since their crime, it was impossible for me to secure a conviction against them in any court. I knew of their guilt though, and I determined that I should be judge, jury, and executioner all rolled into one. You'd have done the same, if you have any manhood in you, if you had been in my place.",
-        "objectID": "f4011c34cdc164d32c6a2267fe375bca"
+        "content": "\"It don't much matter to you why I hated these men,\" he said; \"it's enough that they were guilty of the death of two human beings—a father and a daughter—and that they had, therefore, forfeited their own lives. After the lapse of time that has passed since their crime, it was impossible for me to secure a conviction against them in any court.",
+        "objectID": "4db15e67e4aed47103613cd2b519d754"
       },
       "previous": {
-        "content": "\"I'll sit down, with your leave,\" the prisoner said, suiting the action to the word. \"This aneurism of mine makes me easily tired, and the tussle we had half an hour ago has not mended matters. I'm on the brink of the grave, and I am not likely to lie to you. Every word I say is the absolute truth, and how you use it is a matter of no consequence to me.\"",
-        "objectID": "e6638cbddbb15cbb5e3d9b99fb662c7e"
+        "content": "\"",
+        "objectID": "44d04737ba5c5d635729a796311a47e5"
       }
     },
-    "objectID": "a14ddfbbf44765ebd373079e58d920b2",
-    "order": 21,
-    "tagName": "P"
-  },
-  {
-    "author": "A. Conan Doyle",
-    "book": "A Study in Scarlet.",
-    "bookOrder": 1,
-    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
-    "chapterOrder": 13,
-    "content": "\"It don't much matter to you why I hated these men,\" he said; \"it's enough that they were guilty of the death of two human beings—a father and a daughter—and that they had, therefore, forfeited their own lives. After the lapse of time that has passed since their crime, it was impossible for me to secure a conviction against them in any court. I knew of their guilt though, and I determined that I should be judge, jury, and executioner all rolled into one. You'd have done the same, if you have any manhood in you, if you had been in my place.",
-    "context": {
-      "next": {
-        "content": "\"That girl that I spoke of was to have married me twenty years ago. She was forced into marrying that same Drebber, and broke her heart over it. I took the marriage ring from her dead finger, and I vowed that his dying eyes should rest upon that very ring, and that his last thoughts should be of the crime for which he was punished. I have carried it about with me, and have followed him and his accomplice over two continents until I caught them. They thought to tire me out, but they could not do it. If I die to-morrow, as is likely enough, I die knowing that my work in this world is done, and well done. They have perished, and by my hand. There is nothing left for me to hope for, or to desire.",
-        "objectID": "02bf308176fe8c071a255b91e6f62c35"
-      },
-      "previous": {
-        "content": "With these words, Jefferson Hope leaned back in his chair and began the following remarkable statement. He spoke in a calm and methodical manner, as though the events which he narrated were commonplace enough. I can vouch for the accuracy of the subjoined account, for I have had access to Lestrade's note-book, in which the prisoner's words were taken down exactly as they were uttered.",
-        "objectID": "a14ddfbbf44765ebd373079e58d920b2"
-      }
-    },
-    "objectID": "f4011c34cdc164d32c6a2267fe375bca",
-    "order": 22,
-    "tagName": "P"
-  },
-  {
-    "author": "A. Conan Doyle",
-    "book": "A Study in Scarlet.",
-    "bookOrder": 1,
-    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
-    "chapterOrder": 13,
-    "content": "\"That girl that I spoke of was to have married me twenty years ago. She was forced into marrying that same Drebber, and broke her heart over it. I took the marriage ring from her dead finger, and I vowed that his dying eyes should rest upon that very ring, and that his last thoughts should be of the crime for which he was punished. I have carried it about with me, and have followed him and his accomplice over two continents until I caught them. They thought to tire me out, but they could not do it. If I die to-morrow, as is likely enough, I die knowing that my work in this world is done, and well done. They have perished, and by my hand. There is nothing left for me to hope for, or to desire.",
-    "context": {
-      "next": {
-        "content": "\"They were rich and I was poor, so that it was no easy matter for me to follow them. When I got to London my pocket was about empty, and I found that I must turn my hand to something for my living. Driving and riding are as natural to me as walking, so I applied at a cabowner's office, and soon got employment. I was to bring a certain sum a week to the owner, and whatever was over that I might keep for myself. There was seldom much over, but I managed to scrape along somehow. The hardest job was to learn my way about, for I reckon that of all the mazes that ever were contrived, this city is the most confusing. I had a map beside me though, and when once I had spotted the principal hotels and stations, I got on pretty well.",
-        "objectID": "0c5d3a2807ce55e01feba9ff58f27f8c"
-      },
-      "previous": {
-        "content": "\"It don't much matter to you why I hated these men,\" he said; \"it's enough that they were guilty of the death of two human beings—a father and a daughter—and that they had, therefore, forfeited their own lives. After the lapse of time that has passed since their crime, it was impossible for me to secure a conviction against them in any court. I knew of their guilt though, and I determined that I should be judge, jury, and executioner all rolled into one. You'd have done the same, if you have any manhood in you, if you had been in my place.",
-        "objectID": "f4011c34cdc164d32c6a2267fe375bca"
-      }
-    },
-    "objectID": "02bf308176fe8c071a255b91e6f62c35",
-    "order": 23,
-    "tagName": "P"
-  },
-  {
-    "author": "A. Conan Doyle",
-    "book": "A Study in Scarlet.",
-    "bookOrder": 1,
-    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
-    "chapterOrder": 13,
-    "content": "\"They were rich and I was poor, so that it was no easy matter for me to follow them. When I got to London my pocket was about empty, and I found that I must turn my hand to something for my living. Driving and riding are as natural to me as walking, so I applied at a cabowner's office, and soon got employment. I was to bring a certain sum a week to the owner, and whatever was over that I might keep for myself. There was seldom much over, but I managed to scrape along somehow. The hardest job was to learn my way about, for I reckon that of all the mazes that ever were contrived, this city is the most confusing. I had a map beside me though, and when once I had spotted the principal hotels and stations, I got on pretty well.",
-    "context": {
-      "next": {
-        "content": "\"It was some time before I found out where my two gentlemen were living; but I inquired and inquired until at last I dropped across them. They were at a boarding-house at Camberwell, over on the other side of the river. When once I found them out I knew that I had them at my mercy. I had grown my beard, and there was no chance of their recognizing me. I would dog them and follow them until I saw my opportunity. I was determined that they should not escape me again.",
-        "objectID": "70f605b00d5fcc6cd49bce6e8fbe7b38"
-      },
-      "previous": {
-        "content": "\"That girl that I spoke of was to have married me twenty years ago. She was forced into marrying that same Drebber, and broke her heart over it. I took the marriage ring from her dead finger, and I vowed that his dying eyes should rest upon that very ring, and that his last thoughts should be of the crime for which he was punished. I have carried it about with me, and have followed him and his accomplice over two continents until I caught them. They thought to tire me out, but they could not do it. If I die to-morrow, as is likely enough, I die knowing that my work in this world is done, and well done. They have perished, and by my hand. There is nothing left for me to hope for, or to desire.",
-        "objectID": "02bf308176fe8c071a255b91e6f62c35"
-      }
-    },
-    "objectID": "0c5d3a2807ce55e01feba9ff58f27f8c",
-    "order": 24,
-    "tagName": "P"
-  },
-  {
-    "author": "A. Conan Doyle",
-    "book": "A Study in Scarlet.",
-    "bookOrder": 1,
-    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
-    "chapterOrder": 13,
-    "content": "\"It was some time before I found out where my two gentlemen were living; but I inquired and inquired until at last I dropped across them. They were at a boarding-house at Camberwell, over on the other side of the river. When once I found them out I knew that I had them at my mercy. I had grown my beard, and there was no chance of their recognizing me. I would dog them and follow them until I saw my opportunity. I was determined that they should not escape me again.",
-    "context": {
-      "next": {
-        "content": "\"They were very near doing it for all that. Go where they would about London, I was always at their heels. Sometimes I followed them on my cab, and sometimes on foot, but the former was the best, for then they could not get away from me. It was only early in the morning or late at night that I could earn anything, so that I began to get behind hand with my employer. I did not mind that, however, as long as I could lay my hand upon the men I wanted.",
-        "objectID": "0ebd1ed3b2ee241a7dab687166acdfc9"
-      },
-      "previous": {
-        "content": "\"They were rich and I was poor, so that it was no easy matter for me to follow them. When I got to London my pocket was about empty, and I found that I must turn my hand to something for my living. Driving and riding are as natural to me as walking, so I applied at a cabowner's office, and soon got employment. I was to bring a certain sum a week to the owner, and whatever was over that I might keep for myself. There was seldom much over, but I managed to scrape along somehow. The hardest job was to learn my way about, for I reckon that of all the mazes that ever were contrived, this city is the most confusing. I had a map beside me though, and when once I had spotted the principal hotels and stations, I got on pretty well.",
-        "objectID": "0c5d3a2807ce55e01feba9ff58f27f8c"
-      }
-    },
-    "objectID": "70f605b00d5fcc6cd49bce6e8fbe7b38",
-    "order": 25,
-    "tagName": "P"
-  },
-  {
-    "author": "A. Conan Doyle",
-    "book": "A Study in Scarlet.",
-    "bookOrder": 1,
-    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
-    "chapterOrder": 13,
-    "content": "\"They were very near doing it for all that. Go where they would about London, I was always at their heels. Sometimes I followed them on my cab, and sometimes on foot, but the former was the best, for then they could not get away from me. It was only early in the morning or late at night that I could earn anything, so that I began to get behind hand with my employer. I did not mind that, however, as long as I could lay my hand upon the men I wanted.",
-    "context": {
-      "next": {
-        "content": "\"They were very cunning, though. They must have thought that there was some chance of their being followed, for they would never go out alone, and never after nightfall. During two weeks I drove behind them every day, and never once saw them separate. Drebber himself was drunk half the time, but Stangerson was not to be caught napping. I watched them late and early, but never saw the ghost of a chance; but I was not discouraged, for something told me that the hour had almost come. My only fear was that this thing in my chest might burst a little too soon and leave my work undone.",
-        "objectID": "00297f8e777a02ad8e6331f74af5057c"
-      },
-      "previous": {
-        "content": "\"It was some time before I found out where my two gentlemen were living; but I inquired and inquired until at last I dropped across them. They were at a boarding-house at Camberwell, over on the other side of the river. When once I found them out I knew that I had them at my mercy. I had grown my beard, and there was no chance of their recognizing me. I would dog them and follow them until I saw my opportunity. I was determined that they should not escape me again.",
-        "objectID": "70f605b00d5fcc6cd49bce6e8fbe7b38"
-      }
-    },
-    "objectID": "0ebd1ed3b2ee241a7dab687166acdfc9",
+    "objectID": "f257310ae733ce427ebf28768175a893",
     "order": 26,
     "tagName": "P"
   },
@@ -548,18 +548,18 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"They were very cunning, though. They must have thought that there was some chance of their being followed, for they would never go out alone, and never after nightfall. During two weeks I drove behind them every day, and never once saw them separate. Drebber himself was drunk half the time, but Stangerson was not to be caught napping. I watched them late and early, but never saw the ghost of a chance; but I was not discouraged, for something told me that the hour had almost come. My only fear was that this thing in my chest might burst a little too soon and leave my work undone.",
+    "content": "\"It don't much matter to you why I hated these men,\" he said; \"it's enough that they were guilty of the death of two human beings—a father and a daughter—and that they had, therefore, forfeited their own lives. After the lapse of time that has passed since their crime, it was impossible for me to secure a conviction against them in any court.",
     "context": {
       "next": {
-        "content": "\"At last, one evening I was driving up and down Torquay Terrace, as the street was called in which they boarded, when I saw a cab drive up to their door. Presently some luggage was brought out, and after a time Drebber and Stangerson followed it, and drove off. I whipped up my horse and kept within sight of them, feeling very ill at ease, for I feared that they were going to shift their quarters. At Euston Station they got out, and I left a boy to hold my horse, and followed them on to the platform. I heard them ask for the Liverpool train, and the guard answer that one had just gone and there would not be another for some hours. Stangerson seemed to be put out at that, but Drebber was rather pleased than otherwise. I got so close to them in the bustle that I could hear every word that passed between them. Drebber said that he had a little business of his own to do, and that if the other would wait for him he would soon rejoin him. His companion remonstrated with him, and reminded him that they had resolved to stick together. Drebber answered that the matter was a delicate one, and that he must go alone. I could not catch what Stangerson said to that, but the other burst out swearing, and reminded him that he was nothing more than his paid servant, and that he must not presume to dictate to him. On that the Secretary gave it up as a bad job, and simply bargained with him that if he missed the last train he should rejoin him at Halliday's Private Hotel; to which Drebber answered that he would be back on the platform before eleven, and made his way out of the station.",
-        "objectID": "559e02f04c327f0b8a0459a73d2c83e7"
+        "content": "I knew of their guilt though, and I determined that I should be judge, jury, and executioner all rolled into one. You'd have done the same, if you have any manhood in you, if you had been in my place.",
+        "objectID": "618eb5fa3cac957462ce2b62c55369b6"
       },
       "previous": {
-        "content": "\"They were very near doing it for all that. Go where they would about London, I was always at their heels. Sometimes I followed them on my cab, and sometimes on foot, but the former was the best, for then they could not get away from me. It was only early in the morning or late at night that I could earn anything, so that I began to get behind hand with my employer. I did not mind that, however, as long as I could lay my hand upon the men I wanted.",
-        "objectID": "0ebd1ed3b2ee241a7dab687166acdfc9"
+        "content": "With these words, Jefferson Hope leaned back in his chair and began the following remarkable statement. He spoke in a calm and methodical manner, as though the events which he narrated were commonplace enough. I can vouch for the accuracy of the subjoined account, for I have had access to Lestrade's note-book, in which the prisoner's words were taken down exactly as they were uttered.",
+        "objectID": "f257310ae733ce427ebf28768175a893"
       }
     },
-    "objectID": "00297f8e777a02ad8e6331f74af5057c",
+    "objectID": "4db15e67e4aed47103613cd2b519d754",
     "order": 27,
     "tagName": "P"
   },
@@ -569,18 +569,18 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"At last, one evening I was driving up and down Torquay Terrace, as the street was called in which they boarded, when I saw a cab drive up to their door. Presently some luggage was brought out, and after a time Drebber and Stangerson followed it, and drove off. I whipped up my horse and kept within sight of them, feeling very ill at ease, for I feared that they were going to shift their quarters. At Euston Station they got out, and I left a boy to hold my horse, and followed them on to the platform. I heard them ask for the Liverpool train, and the guard answer that one had just gone and there would not be another for some hours. Stangerson seemed to be put out at that, but Drebber was rather pleased than otherwise. I got so close to them in the bustle that I could hear every word that passed between them. Drebber said that he had a little business of his own to do, and that if the other would wait for him he would soon rejoin him. His companion remonstrated with him, and reminded him that they had resolved to stick together. Drebber answered that the matter was a delicate one, and that he must go alone. I could not catch what Stangerson said to that, but the other burst out swearing, and reminded him that he was nothing more than his paid servant, and that he must not presume to dictate to him. On that the Secretary gave it up as a bad job, and simply bargained with him that if he missed the last train he should rejoin him at Halliday's Private Hotel; to which Drebber answered that he would be back on the platform before eleven, and made his way out of the station.",
+    "content": "I knew of their guilt though, and I determined that I should be judge, jury, and executioner all rolled into one. You'd have done the same, if you have any manhood in you, if you had been in my place.",
     "context": {
       "next": {
-        "content": "\"The moment for which I had waited so long had at last come. I had my enemies within my power. Together they could protect each other, but singly they were at my mercy. I did not act, however, with undue precipitation. My plans were already formed. There is no satisfaction in vengeance unless the offender has time to realize who it is that strikes him, and why retribution has come upon him. I had my plans arranged by which I should have the opportunity of making the man who had wronged me understand that his old sin had found him out. It chanced that some days before a gentleman who had been engaged in looking over some houses in the Brixton Road had dropped the key of one of them in my carriage. It was claimed that same evening, and returned; but in the interval I had taken a moulding of it, and had a duplicate constructed. By means of this I had access to at least one spot in this great city where I could rely upon being free from interruption. How to get Drebber to that house was the difficult problem which I had now to solve.",
-        "objectID": "7153ec113c762e5f0173b56a268b9523"
+        "content": "\"That girl that I spoke of was to have married me twenty years ago. She was forced into marrying that same Drebber, and broke her heart over it. I took the marriage ring from her dead finger, and I vowed that his dying eyes should rest upon that very ring, and that his last thoughts should be of the crime for which he was punished.",
+        "objectID": "948083274d2d46adb8f66e102bea3fa6"
       },
       "previous": {
-        "content": "\"They were very cunning, though. They must have thought that there was some chance of their being followed, for they would never go out alone, and never after nightfall. During two weeks I drove behind them every day, and never once saw them separate. Drebber himself was drunk half the time, but Stangerson was not to be caught napping. I watched them late and early, but never saw the ghost of a chance; but I was not discouraged, for something told me that the hour had almost come. My only fear was that this thing in my chest might burst a little too soon and leave my work undone.",
-        "objectID": "00297f8e777a02ad8e6331f74af5057c"
+        "content": "\"It don't much matter to you why I hated these men,\" he said; \"it's enough that they were guilty of the death of two human beings—a father and a daughter—and that they had, therefore, forfeited their own lives. After the lapse of time that has passed since their crime, it was impossible for me to secure a conviction against them in any court.",
+        "objectID": "4db15e67e4aed47103613cd2b519d754"
       }
     },
-    "objectID": "559e02f04c327f0b8a0459a73d2c83e7",
+    "objectID": "618eb5fa3cac957462ce2b62c55369b6",
     "order": 28,
     "tagName": "P"
   },
@@ -590,18 +590,18 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"The moment for which I had waited so long had at last come. I had my enemies within my power. Together they could protect each other, but singly they were at my mercy. I did not act, however, with undue precipitation. My plans were already formed. There is no satisfaction in vengeance unless the offender has time to realize who it is that strikes him, and why retribution has come upon him. I had my plans arranged by which I should have the opportunity of making the man who had wronged me understand that his old sin had found him out. It chanced that some days before a gentleman who had been engaged in looking over some houses in the Brixton Road had dropped the key of one of them in my carriage. It was claimed that same evening, and returned; but in the interval I had taken a moulding of it, and had a duplicate constructed. By means of this I had access to at least one spot in this great city where I could rely upon being free from interruption. How to get Drebber to that house was the difficult problem which I had now to solve.",
+    "content": "\"That girl that I spoke of was to have married me twenty years ago. She was forced into marrying that same Drebber, and broke her heart over it. I took the marriage ring from her dead finger, and I vowed that his dying eyes should rest upon that very ring, and that his last thoughts should be of the crime for which he was punished.",
     "context": {
       "next": {
-        "content": "\"He walked down the road and went into one or two liquor shops, staying for nearly half-an-hour in the last of them. When he came out he staggered in his walk, and was evidently pretty well on. There was a hansom just in front of me, and he hailed it. I followed it so close that the nose of my horse was within a yard of his driver the whole way. We rattled across Waterloo Bridge and through miles of streets, until, to my astonishment, we found ourselves back in the Terrace in which he had boarded. I could not imagine what his intention was in returning there; but I went on and pulled up my cab a hundred yards or so from the house. He entered it, and his hansom drove away. Give me a glass of water, if you please. My mouth gets dry with the talking.\"",
-        "objectID": "2edb42507aacd94b4e61fa06f1be8c12"
+        "content": "I have carried it about with me, and have followed him and his accomplice over two continents until I caught them. They thought to tire me out, but they could not do it. If I die to-morrow, as is likely enough, I die knowing that my work in this world is done, and well done. They have perished, and by my hand.",
+        "objectID": "c1bc602807149c35f08d409a59df7714"
       },
       "previous": {
-        "content": "\"At last, one evening I was driving up and down Torquay Terrace, as the street was called in which they boarded, when I saw a cab drive up to their door. Presently some luggage was brought out, and after a time Drebber and Stangerson followed it, and drove off. I whipped up my horse and kept within sight of them, feeling very ill at ease, for I feared that they were going to shift their quarters. At Euston Station they got out, and I left a boy to hold my horse, and followed them on to the platform. I heard them ask for the Liverpool train, and the guard answer that one had just gone and there would not be another for some hours. Stangerson seemed to be put out at that, but Drebber was rather pleased than otherwise. I got so close to them in the bustle that I could hear every word that passed between them. Drebber said that he had a little business of his own to do, and that if the other would wait for him he would soon rejoin him. His companion remonstrated with him, and reminded him that they had resolved to stick together. Drebber answered that the matter was a delicate one, and that he must go alone. I could not catch what Stangerson said to that, but the other burst out swearing, and reminded him that he was nothing more than his paid servant, and that he must not presume to dictate to him. On that the Secretary gave it up as a bad job, and simply bargained with him that if he missed the last train he should rejoin him at Halliday's Private Hotel; to which Drebber answered that he would be back on the platform before eleven, and made his way out of the station.",
-        "objectID": "559e02f04c327f0b8a0459a73d2c83e7"
+        "content": "I knew of their guilt though, and I determined that I should be judge, jury, and executioner all rolled into one. You'd have done the same, if you have any manhood in you, if you had been in my place.",
+        "objectID": "618eb5fa3cac957462ce2b62c55369b6"
       }
     },
-    "objectID": "7153ec113c762e5f0173b56a268b9523",
+    "objectID": "948083274d2d46adb8f66e102bea3fa6",
     "order": 29,
     "tagName": "P"
   },
@@ -611,19 +611,439 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"He walked down the road and went into one or two liquor shops, staying for nearly half-an-hour in the last of them. When he came out he staggered in his walk, and was evidently pretty well on. There was a hansom just in front of me, and he hailed it. I followed it so close that the nose of my horse was within a yard of his driver the whole way. We rattled across Waterloo Bridge and through miles of streets, until, to my astonishment, we found ourselves back in the Terrace in which he had boarded. I could not imagine what his intention was in returning there; but I went on and pulled up my cab a hundred yards or so from the house. He entered it, and his hansom drove away. Give me a glass of water, if you please. My mouth gets dry with the talking.\"",
+    "content": "I have carried it about with me, and have followed him and his accomplice over two continents until I caught them. They thought to tire me out, but they could not do it. If I die to-morrow, as is likely enough, I die knowing that my work in this world is done, and well done. They have perished, and by my hand.",
+    "context": {
+      "next": {
+        "content": "There is nothing left for me to hope for, or to desire.",
+        "objectID": "3e88119956f526734d609d56e3e503c5"
+      },
+      "previous": {
+        "content": "\"That girl that I spoke of was to have married me twenty years ago. She was forced into marrying that same Drebber, and broke her heart over it. I took the marriage ring from her dead finger, and I vowed that his dying eyes should rest upon that very ring, and that his last thoughts should be of the crime for which he was punished.",
+        "objectID": "948083274d2d46adb8f66e102bea3fa6"
+      }
+    },
+    "objectID": "c1bc602807149c35f08d409a59df7714",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "There is nothing left for me to hope for, or to desire.",
+    "context": {
+      "next": {
+        "content": "\"They were rich and I was poor, so that it was no easy matter for me to follow them. When I got to London my pocket was about empty, and I found that I must turn my hand to something for my living. Driving and riding are as natural to me as walking, so I applied at a cabowner's office, and soon got employment.",
+        "objectID": "e53c4bba4ad79bcfbdb92494f8b68728"
+      },
+      "previous": {
+        "content": "I have carried it about with me, and have followed him and his accomplice over two continents until I caught them. They thought to tire me out, but they could not do it. If I die to-morrow, as is likely enough, I die knowing that my work in this world is done, and well done. They have perished, and by my hand.",
+        "objectID": "c1bc602807149c35f08d409a59df7714"
+      }
+    },
+    "objectID": "3e88119956f526734d609d56e3e503c5",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"They were rich and I was poor, so that it was no easy matter for me to follow them. When I got to London my pocket was about empty, and I found that I must turn my hand to something for my living. Driving and riding are as natural to me as walking, so I applied at a cabowner's office, and soon got employment.",
+    "context": {
+      "next": {
+        "content": "I was to bring a certain sum a week to the owner, and whatever was over that I might keep for myself. There was seldom much over, but I managed to scrape along somehow. The hardest job was to learn my way about, for I reckon that of all the mazes that ever were contrived, this city is the most confusing.",
+        "objectID": "45c0588ca8fff962e4650ed8e7716eb0"
+      },
+      "previous": {
+        "content": "There is nothing left for me to hope for, or to desire.",
+        "objectID": "3e88119956f526734d609d56e3e503c5"
+      }
+    },
+    "objectID": "e53c4bba4ad79bcfbdb92494f8b68728",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I was to bring a certain sum a week to the owner, and whatever was over that I might keep for myself. There was seldom much over, but I managed to scrape along somehow. The hardest job was to learn my way about, for I reckon that of all the mazes that ever were contrived, this city is the most confusing.",
+    "context": {
+      "next": {
+        "content": "I had a map beside me though, and when once I had spotted the principal hotels and stations, I got on pretty well.",
+        "objectID": "01efa70c2a8b397719e0e5692554b11a"
+      },
+      "previous": {
+        "content": "\"They were rich and I was poor, so that it was no easy matter for me to follow them. When I got to London my pocket was about empty, and I found that I must turn my hand to something for my living. Driving and riding are as natural to me as walking, so I applied at a cabowner's office, and soon got employment.",
+        "objectID": "e53c4bba4ad79bcfbdb92494f8b68728"
+      }
+    },
+    "objectID": "45c0588ca8fff962e4650ed8e7716eb0",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I had a map beside me though, and when once I had spotted the principal hotels and stations, I got on pretty well.",
+    "context": {
+      "next": {
+        "content": "\"It was some time before I found out where my two gentlemen were living; but I inquired and inquired until at last I dropped across them. They were at a boarding-house at Camberwell, over on the other side of the river. When once I found them out I knew that I had them at my mercy. I had grown my beard, and there was no chance of their recognizing me.",
+        "objectID": "59e806611402873a70d492bf5f1b1862"
+      },
+      "previous": {
+        "content": "I was to bring a certain sum a week to the owner, and whatever was over that I might keep for myself. There was seldom much over, but I managed to scrape along somehow. The hardest job was to learn my way about, for I reckon that of all the mazes that ever were contrived, this city is the most confusing.",
+        "objectID": "45c0588ca8fff962e4650ed8e7716eb0"
+      }
+    },
+    "objectID": "01efa70c2a8b397719e0e5692554b11a",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"It was some time before I found out where my two gentlemen were living; but I inquired and inquired until at last I dropped across them. They were at a boarding-house at Camberwell, over on the other side of the river. When once I found them out I knew that I had them at my mercy. I had grown my beard, and there was no chance of their recognizing me.",
+    "context": {
+      "next": {
+        "content": "I would dog them and follow them until I saw my opportunity. I was determined that they should not escape me again.",
+        "objectID": "d52890c6ee1a4e5cf4090851107959b7"
+      },
+      "previous": {
+        "content": "I had a map beside me though, and when once I had spotted the principal hotels and stations, I got on pretty well.",
+        "objectID": "01efa70c2a8b397719e0e5692554b11a"
+      }
+    },
+    "objectID": "59e806611402873a70d492bf5f1b1862",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I would dog them and follow them until I saw my opportunity. I was determined that they should not escape me again.",
+    "context": {
+      "next": {
+        "content": "\"They were very near doing it for all that. Go where they would about London, I was always at their heels. Sometimes I followed them on my cab, and sometimes on foot, but the former was the best, for then they could not get away from me. It was only early in the morning or late at night that I could earn anything, so that I began to get behind hand with my employer.",
+        "objectID": "37f6b7265711100f27caf1f1e6998145"
+      },
+      "previous": {
+        "content": "\"It was some time before I found out where my two gentlemen were living; but I inquired and inquired until at last I dropped across them. They were at a boarding-house at Camberwell, over on the other side of the river. When once I found them out I knew that I had them at my mercy. I had grown my beard, and there was no chance of their recognizing me.",
+        "objectID": "59e806611402873a70d492bf5f1b1862"
+      }
+    },
+    "objectID": "d52890c6ee1a4e5cf4090851107959b7",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"They were very near doing it for all that. Go where they would about London, I was always at their heels. Sometimes I followed them on my cab, and sometimes on foot, but the former was the best, for then they could not get away from me. It was only early in the morning or late at night that I could earn anything, so that I began to get behind hand with my employer.",
+    "context": {
+      "next": {
+        "content": "I did not mind that, however, as long as I could lay my hand upon the men I wanted.",
+        "objectID": "be146c8e381f12286ca5119151c828fe"
+      },
+      "previous": {
+        "content": "I would dog them and follow them until I saw my opportunity. I was determined that they should not escape me again.",
+        "objectID": "d52890c6ee1a4e5cf4090851107959b7"
+      }
+    },
+    "objectID": "37f6b7265711100f27caf1f1e6998145",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I did not mind that, however, as long as I could lay my hand upon the men I wanted.",
+    "context": {
+      "next": {
+        "content": "\"They were very cunning, though. They must have thought that there was some chance of their being followed, for they would never go out alone, and never after nightfall. During two weeks I drove behind them every day, and never once saw them separate. Drebber himself was drunk half the time, but Stangerson was not to be caught napping.",
+        "objectID": "759443aacabd644a68fe049602b2e58d"
+      },
+      "previous": {
+        "content": "\"They were very near doing it for all that. Go where they would about London, I was always at their heels. Sometimes I followed them on my cab, and sometimes on foot, but the former was the best, for then they could not get away from me. It was only early in the morning or late at night that I could earn anything, so that I began to get behind hand with my employer.",
+        "objectID": "37f6b7265711100f27caf1f1e6998145"
+      }
+    },
+    "objectID": "be146c8e381f12286ca5119151c828fe",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"They were very cunning, though. They must have thought that there was some chance of their being followed, for they would never go out alone, and never after nightfall. During two weeks I drove behind them every day, and never once saw them separate. Drebber himself was drunk half the time, but Stangerson was not to be caught napping.",
+    "context": {
+      "next": {
+        "content": "I watched them late and early, but never saw the ghost of a chance; but I was not discouraged, for something told me that the hour had almost come. My only fear was that this thing in my chest might burst a little too soon and leave my work undone.",
+        "objectID": "256c13c74b42f2c3d5c9e3aafc9cb235"
+      },
+      "previous": {
+        "content": "I did not mind that, however, as long as I could lay my hand upon the men I wanted.",
+        "objectID": "be146c8e381f12286ca5119151c828fe"
+      }
+    },
+    "objectID": "759443aacabd644a68fe049602b2e58d",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I watched them late and early, but never saw the ghost of a chance; but I was not discouraged, for something told me that the hour had almost come. My only fear was that this thing in my chest might burst a little too soon and leave my work undone.",
+    "context": {
+      "next": {
+        "content": "\"At last, one evening I was driving up and down Torquay Terrace, as the street was called in which they boarded, when I saw a cab drive up to their door. Presently some luggage was brought out, and after a time Drebber and Stangerson followed it, and drove off. I whipped up my horse and kept within sight of them, feeling very ill at ease, for I feared that they were going to shift their quarters.",
+        "objectID": "1823283bfe77110c08181e1ff06c755d"
+      },
+      "previous": {
+        "content": "\"They were very cunning, though. They must have thought that there was some chance of their being followed, for they would never go out alone, and never after nightfall. During two weeks I drove behind them every day, and never once saw them separate. Drebber himself was drunk half the time, but Stangerson was not to be caught napping.",
+        "objectID": "759443aacabd644a68fe049602b2e58d"
+      }
+    },
+    "objectID": "256c13c74b42f2c3d5c9e3aafc9cb235",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"At last, one evening I was driving up and down Torquay Terrace, as the street was called in which they boarded, when I saw a cab drive up to their door. Presently some luggage was brought out, and after a time Drebber and Stangerson followed it, and drove off. I whipped up my horse and kept within sight of them, feeling very ill at ease, for I feared that they were going to shift their quarters.",
+    "context": {
+      "next": {
+        "content": "At Euston Station they got out, and I left a boy to hold my horse, and followed them on to the platform. I heard them ask for the Liverpool train, and the guard answer that one had just gone and there would not be another for some hours. Stangerson seemed to be put out at that, but Drebber was rather pleased than otherwise.",
+        "objectID": "6c729beb2f6a441a033f2e93ed5db5b6"
+      },
+      "previous": {
+        "content": "I watched them late and early, but never saw the ghost of a chance; but I was not discouraged, for something told me that the hour had almost come. My only fear was that this thing in my chest might burst a little too soon and leave my work undone.",
+        "objectID": "256c13c74b42f2c3d5c9e3aafc9cb235"
+      }
+    },
+    "objectID": "1823283bfe77110c08181e1ff06c755d",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "At Euston Station they got out, and I left a boy to hold my horse, and followed them on to the platform. I heard them ask for the Liverpool train, and the guard answer that one had just gone and there would not be another for some hours. Stangerson seemed to be put out at that, but Drebber was rather pleased than otherwise.",
+    "context": {
+      "next": {
+        "content": "I got so close to them in the bustle that I could hear every word that passed between them. Drebber said that he had a little business of his own to do, and that if the other would wait for him he would soon rejoin him. His companion remonstrated with him, and reminded him that they had resolved to stick together.",
+        "objectID": "96849441965ce6589b481ea1b05fd7d9"
+      },
+      "previous": {
+        "content": "\"At last, one evening I was driving up and down Torquay Terrace, as the street was called in which they boarded, when I saw a cab drive up to their door. Presently some luggage was brought out, and after a time Drebber and Stangerson followed it, and drove off. I whipped up my horse and kept within sight of them, feeling very ill at ease, for I feared that they were going to shift their quarters.",
+        "objectID": "1823283bfe77110c08181e1ff06c755d"
+      }
+    },
+    "objectID": "6c729beb2f6a441a033f2e93ed5db5b6",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I got so close to them in the bustle that I could hear every word that passed between them. Drebber said that he had a little business of his own to do, and that if the other would wait for him he would soon rejoin him. His companion remonstrated with him, and reminded him that they had resolved to stick together.",
+    "context": {
+      "next": {
+        "content": "Drebber answered that the matter was a delicate one, and that he must go alone. I could not catch what Stangerson said to that, but the other burst out swearing, and reminded him that he was nothing more than his paid servant, and that he must not presume to dictate to him. On that the Secretary gave it up as a bad job, and simply bargained with him that if he missed the last train he should rejoin him at Halliday's Private Hotel; to which Drebber answered that he would be back on the platform before eleven, and made his way out of the station.",
+        "objectID": "55cf7ca39a3d33d30380c708577c2fca"
+      },
+      "previous": {
+        "content": "At Euston Station they got out, and I left a boy to hold my horse, and followed them on to the platform. I heard them ask for the Liverpool train, and the guard answer that one had just gone and there would not be another for some hours. Stangerson seemed to be put out at that, but Drebber was rather pleased than otherwise.",
+        "objectID": "6c729beb2f6a441a033f2e93ed5db5b6"
+      }
+    },
+    "objectID": "96849441965ce6589b481ea1b05fd7d9",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "Drebber answered that the matter was a delicate one, and that he must go alone. I could not catch what Stangerson said to that, but the other burst out swearing, and reminded him that he was nothing more than his paid servant, and that he must not presume to dictate to him. On that the Secretary gave it up as a bad job, and simply bargained with him that if he missed the last train he should rejoin him at Halliday's Private Hotel; to which Drebber answered that he would be back on the platform before eleven, and made his way out of the station.",
+    "context": {
+      "next": {
+        "content": "\"The moment for which I had waited so long had at last come. I had my enemies within my power. Together they could protect each other, but singly they were at my mercy. I did not act, however, with undue precipitation. My plans were already formed. There is no satisfaction in vengeance unless the offender has time to realize who it is that strikes him, and why retribution has come upon him.",
+        "objectID": "7113d6b8976d7b25578ade86b6b7c9ea"
+      },
+      "previous": {
+        "content": "I got so close to them in the bustle that I could hear every word that passed between them. Drebber said that he had a little business of his own to do, and that if the other would wait for him he would soon rejoin him. His companion remonstrated with him, and reminded him that they had resolved to stick together.",
+        "objectID": "96849441965ce6589b481ea1b05fd7d9"
+      }
+    },
+    "objectID": "55cf7ca39a3d33d30380c708577c2fca",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"The moment for which I had waited so long had at last come. I had my enemies within my power. Together they could protect each other, but singly they were at my mercy. I did not act, however, with undue precipitation. My plans were already formed. There is no satisfaction in vengeance unless the offender has time to realize who it is that strikes him, and why retribution has come upon him.",
+    "context": {
+      "next": {
+        "content": "I had my plans arranged by which I should have the opportunity of making the man who had wronged me understand that his old sin had found him out. It chanced that some days before a gentleman who had been engaged in looking over some houses in the Brixton Road had dropped the key of one of them in my carriage.",
+        "objectID": "7b86b6015ef4d6c5da690cd74cf8e8d0"
+      },
+      "previous": {
+        "content": "Drebber answered that the matter was a delicate one, and that he must go alone. I could not catch what Stangerson said to that, but the other burst out swearing, and reminded him that he was nothing more than his paid servant, and that he must not presume to dictate to him. On that the Secretary gave it up as a bad job, and simply bargained with him that if he missed the last train he should rejoin him at Halliday's Private Hotel; to which Drebber answered that he would be back on the platform before eleven, and made his way out of the station.",
+        "objectID": "55cf7ca39a3d33d30380c708577c2fca"
+      }
+    },
+    "objectID": "7113d6b8976d7b25578ade86b6b7c9ea",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I had my plans arranged by which I should have the opportunity of making the man who had wronged me understand that his old sin had found him out. It chanced that some days before a gentleman who had been engaged in looking over some houses in the Brixton Road had dropped the key of one of them in my carriage.",
+    "context": {
+      "next": {
+        "content": "It was claimed that same evening, and returned; but in the interval I had taken a moulding of it, and had a duplicate constructed. By means of this I had access to at least one spot in this great city where I could rely upon being free from interruption. How to get Drebber to that house was the difficult problem which I had now to solve.",
+        "objectID": "b556ad4be223af53c0b0171fc870d058"
+      },
+      "previous": {
+        "content": "\"The moment for which I had waited so long had at last come. I had my enemies within my power. Together they could protect each other, but singly they were at my mercy. I did not act, however, with undue precipitation. My plans were already formed. There is no satisfaction in vengeance unless the offender has time to realize who it is that strikes him, and why retribution has come upon him.",
+        "objectID": "7113d6b8976d7b25578ade86b6b7c9ea"
+      }
+    },
+    "objectID": "7b86b6015ef4d6c5da690cd74cf8e8d0",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "It was claimed that same evening, and returned; but in the interval I had taken a moulding of it, and had a duplicate constructed. By means of this I had access to at least one spot in this great city where I could rely upon being free from interruption. How to get Drebber to that house was the difficult problem which I had now to solve.",
+    "context": {
+      "next": {
+        "content": "\"He walked down the road and went into one or two liquor shops, staying for nearly half-an-hour in the last of them. When he came out he staggered in his walk, and was evidently pretty well on. There was a hansom just in front of me, and he hailed it. I followed it so close that the nose of my horse was within a yard of his driver the whole way.",
+        "objectID": "a2630da58f9a9d2f8f7f714747c64ef1"
+      },
+      "previous": {
+        "content": "I had my plans arranged by which I should have the opportunity of making the man who had wronged me understand that his old sin had found him out. It chanced that some days before a gentleman who had been engaged in looking over some houses in the Brixton Road had dropped the key of one of them in my carriage.",
+        "objectID": "7b86b6015ef4d6c5da690cd74cf8e8d0"
+      }
+    },
+    "objectID": "b556ad4be223af53c0b0171fc870d058",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"He walked down the road and went into one or two liquor shops, staying for nearly half-an-hour in the last of them. When he came out he staggered in his walk, and was evidently pretty well on. There was a hansom just in front of me, and he hailed it. I followed it so close that the nose of my horse was within a yard of his driver the whole way.",
+    "context": {
+      "next": {
+        "content": "We rattled across Waterloo Bridge and through miles of streets, until, to my astonishment, we found ourselves back in the Terrace in which he had boarded. I could not imagine what his intention was in returning there; but I went on and pulled up my cab a hundred yards or so from the house. He entered it, and his hansom drove away.",
+        "objectID": "b60ad24bf89c7cf304c98c3ea8cf497b"
+      },
+      "previous": {
+        "content": "It was claimed that same evening, and returned; but in the interval I had taken a moulding of it, and had a duplicate constructed. By means of this I had access to at least one spot in this great city where I could rely upon being free from interruption. How to get Drebber to that house was the difficult problem which I had now to solve.",
+        "objectID": "b556ad4be223af53c0b0171fc870d058"
+      }
+    },
+    "objectID": "a2630da58f9a9d2f8f7f714747c64ef1",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "We rattled across Waterloo Bridge and through miles of streets, until, to my astonishment, we found ourselves back in the Terrace in which he had boarded. I could not imagine what his intention was in returning there; but I went on and pulled up my cab a hundred yards or so from the house. He entered it, and his hansom drove away.",
+    "context": {
+      "next": {
+        "content": "Give me a glass of water, if you please. My mouth gets dry with the talking.\"",
+        "objectID": "987345a448d7da6a075c7a28d44595f5"
+      },
+      "previous": {
+        "content": "\"He walked down the road and went into one or two liquor shops, staying for nearly half-an-hour in the last of them. When he came out he staggered in his walk, and was evidently pretty well on. There was a hansom just in front of me, and he hailed it. I followed it so close that the nose of my horse was within a yard of his driver the whole way.",
+        "objectID": "a2630da58f9a9d2f8f7f714747c64ef1"
+      }
+    },
+    "objectID": "b60ad24bf89c7cf304c98c3ea8cf497b",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "Give me a glass of water, if you please. My mouth gets dry with the talking.\"",
     "context": {
       "next": {
         "content": "I handed him the glass, and he drank it down.",
-        "objectID": "4596b7184dc44c20a0c0c9cc2996d95c"
+        "objectID": "dc5821af74ab6967b28252e7e9e31a9a"
       },
       "previous": {
-        "content": "\"The moment for which I had waited so long had at last come. I had my enemies within my power. Together they could protect each other, but singly they were at my mercy. I did not act, however, with undue precipitation. My plans were already formed. There is no satisfaction in vengeance unless the offender has time to realize who it is that strikes him, and why retribution has come upon him. I had my plans arranged by which I should have the opportunity of making the man who had wronged me understand that his old sin had found him out. It chanced that some days before a gentleman who had been engaged in looking over some houses in the Brixton Road had dropped the key of one of them in my carriage. It was claimed that same evening, and returned; but in the interval I had taken a moulding of it, and had a duplicate constructed. By means of this I had access to at least one spot in this great city where I could rely upon being free from interruption. How to get Drebber to that house was the difficult problem which I had now to solve.",
-        "objectID": "7153ec113c762e5f0173b56a268b9523"
+        "content": "We rattled across Waterloo Bridge and through miles of streets, until, to my astonishment, we found ourselves back in the Terrace in which he had boarded. I could not imagine what his intention was in returning there; but I went on and pulled up my cab a hundred yards or so from the house. He entered it, and his hansom drove away.",
+        "objectID": "b60ad24bf89c7cf304c98c3ea8cf497b"
       }
     },
-    "objectID": "2edb42507aacd94b4e61fa06f1be8c12",
-    "order": 30,
+    "objectID": "987345a448d7da6a075c7a28d44595f5",
+    "order": 50,
     "tagName": "P"
   },
   {
@@ -635,16 +1055,16 @@
     "content": "I handed him the glass, and he drank it down.",
     "context": {
       "next": {
-        "content": "\"That's better,\" he said. \"Well, I waited for a quarter of an hour, or more, when suddenly there came a noise like people struggling inside the house. Next moment the door was flung open and two men appeared, one of whom was Drebber, and the other was a young chap whom I had never seen before. This fellow had Drebber by the collar, and when they came to the head of the steps he gave him a shove and a kick which sent him half across the road. 'You hound,' he cried, shaking his stick at him; 'I'll teach you to insult an honest girl!' He was so hot that I think he would have thrashed Drebber with his cudgel, only that the cur staggered away down the road as fast as his legs would carry him. He ran as far as the corner, and then, seeing my cab, he hailed me and jumped in. 'Drive me to Halliday's Private Hotel,' said he.",
-        "objectID": "c2f8075cdc9694139f5dec04d8628aa8"
+        "content": "\"That's better,\" he said. \"Well, I waited for a quarter of an hour, or more, when suddenly there came a noise like people struggling inside the house. Next moment the door was flung open and two men appeared, one of whom was Drebber, and the other was a young chap whom I had never seen before. This fellow had Drebber by the collar, and when they came to the head of the steps he gave him a shove and a kick which sent him half across the road.",
+        "objectID": "937ba5cc6b49ae67660a3b62c76d6dbc"
       },
       "previous": {
-        "content": "\"He walked down the road and went into one or two liquor shops, staying for nearly half-an-hour in the last of them. When he came out he staggered in his walk, and was evidently pretty well on. There was a hansom just in front of me, and he hailed it. I followed it so close that the nose of my horse was within a yard of his driver the whole way. We rattled across Waterloo Bridge and through miles of streets, until, to my astonishment, we found ourselves back in the Terrace in which he had boarded. I could not imagine what his intention was in returning there; but I went on and pulled up my cab a hundred yards or so from the house. He entered it, and his hansom drove away. Give me a glass of water, if you please. My mouth gets dry with the talking.\"",
-        "objectID": "2edb42507aacd94b4e61fa06f1be8c12"
+        "content": "Give me a glass of water, if you please. My mouth gets dry with the talking.\"",
+        "objectID": "987345a448d7da6a075c7a28d44595f5"
       }
     },
-    "objectID": "4596b7184dc44c20a0c0c9cc2996d95c",
-    "order": 31,
+    "objectID": "dc5821af74ab6967b28252e7e9e31a9a",
+    "order": 51,
     "tagName": "P"
   },
   {
@@ -653,19 +1073,19 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"That's better,\" he said. \"Well, I waited for a quarter of an hour, or more, when suddenly there came a noise like people struggling inside the house. Next moment the door was flung open and two men appeared, one of whom was Drebber, and the other was a young chap whom I had never seen before. This fellow had Drebber by the collar, and when they came to the head of the steps he gave him a shove and a kick which sent him half across the road. 'You hound,' he cried, shaking his stick at him; 'I'll teach you to insult an honest girl!' He was so hot that I think he would have thrashed Drebber with his cudgel, only that the cur staggered away down the road as fast as his legs would carry him. He ran as far as the corner, and then, seeing my cab, he hailed me and jumped in. 'Drive me to Halliday's Private Hotel,' said he.",
+    "content": "\"That's better,\" he said. \"Well, I waited for a quarter of an hour, or more, when suddenly there came a noise like people struggling inside the house. Next moment the door was flung open and two men appeared, one of whom was Drebber, and the other was a young chap whom I had never seen before. This fellow had Drebber by the collar, and when they came to the head of the steps he gave him a shove and a kick which sent him half across the road.",
     "context": {
       "next": {
-        "content": "\"When I had him fairly inside my cab, my heart jumped so with joy that I feared lest at this last moment my aneurism might go wrong. I drove along slowly, weighing in my own mind what it was best to do. I might take him right out into the country, and there in some deserted lane have my last interview with him. I had almost decided upon this, when he solved the problem for me. The craze for drink had seized him again, and he ordered me to pull up outside a gin palace. He went in, leaving word that I should wait for him. There he remained until closing time, and when he came out he was so far gone that I knew the game was in my own hands.",
-        "objectID": "e7459f66e735cc46661ef05648c20344"
+        "content": "'You hound,' he cried, shaking his stick at him; 'I'll teach you to insult an honest girl!' He was so hot that I think he would have thrashed Drebber with his cudgel, only that the cur staggered away down the road as fast as his legs would carry him. He ran as far as the corner, and then, seeing my cab, he hailed me and jumped in.",
+        "objectID": "3c0571de933f52adbebda3461019974e"
       },
       "previous": {
         "content": "I handed him the glass, and he drank it down.",
-        "objectID": "4596b7184dc44c20a0c0c9cc2996d95c"
+        "objectID": "dc5821af74ab6967b28252e7e9e31a9a"
       }
     },
-    "objectID": "c2f8075cdc9694139f5dec04d8628aa8",
-    "order": 32,
+    "objectID": "937ba5cc6b49ae67660a3b62c76d6dbc",
+    "order": 52,
     "tagName": "P"
   },
   {
@@ -674,19 +1094,19 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"When I had him fairly inside my cab, my heart jumped so with joy that I feared lest at this last moment my aneurism might go wrong. I drove along slowly, weighing in my own mind what it was best to do. I might take him right out into the country, and there in some deserted lane have my last interview with him. I had almost decided upon this, when he solved the problem for me. The craze for drink had seized him again, and he ordered me to pull up outside a gin palace. He went in, leaving word that I should wait for him. There he remained until closing time, and when he came out he was so far gone that I knew the game was in my own hands.",
+    "content": "'You hound,' he cried, shaking his stick at him; 'I'll teach you to insult an honest girl!' He was so hot that I think he would have thrashed Drebber with his cudgel, only that the cur staggered away down the road as fast as his legs would carry him. He ran as far as the corner, and then, seeing my cab, he hailed me and jumped in.",
     "context": {
       "next": {
-        "content": "\"Don't imagine that I intended to kill him in cold blood. It would only have been rigid justice if I had done so, but I could not bring myself to do it. I had long determined that he should have a show for his life if he chose to take advantage of it. Among the many billets which I have filled in America during my wandering life, I was once janitor and sweeper out of the laboratory at York College. One day the professor was lecturing on poisions, and he showed his students some alkaloid, as he called it, which he had extracted from some South American arrow poison, and which was so powerful that the least grain meant instant death. I spotted the bottle in which this preparation was kept, and when they were all gone, I helped myself to a little of it. I was a fairly good dispenser, so I worked this alkaloid into small, soluble pills, and each pill I put in a box with a similar pill made without the poison. I determined at the time that when I had my chance, my gentlemen should each have a draw out of one of these boxes, while I ate the pill that remained. It would be quite as deadly, and a good deal less noisy than firing across a handkerchief. From that day I had always my pill boxes about with me, and the time had now come when I was to use them.",
-        "objectID": "fe4fe75f02b63e1723c5d83070ee96bf"
+        "content": "'Drive me to Halliday's Private Hotel,' said he.",
+        "objectID": "00cb6a24a2350627ebef6e7170db242d"
       },
       "previous": {
-        "content": "\"That's better,\" he said. \"Well, I waited for a quarter of an hour, or more, when suddenly there came a noise like people struggling inside the house. Next moment the door was flung open and two men appeared, one of whom was Drebber, and the other was a young chap whom I had never seen before. This fellow had Drebber by the collar, and when they came to the head of the steps he gave him a shove and a kick which sent him half across the road. 'You hound,' he cried, shaking his stick at him; 'I'll teach you to insult an honest girl!' He was so hot that I think he would have thrashed Drebber with his cudgel, only that the cur staggered away down the road as fast as his legs would carry him. He ran as far as the corner, and then, seeing my cab, he hailed me and jumped in. 'Drive me to Halliday's Private Hotel,' said he.",
-        "objectID": "c2f8075cdc9694139f5dec04d8628aa8"
+        "content": "\"That's better,\" he said. \"Well, I waited for a quarter of an hour, or more, when suddenly there came a noise like people struggling inside the house. Next moment the door was flung open and two men appeared, one of whom was Drebber, and the other was a young chap whom I had never seen before. This fellow had Drebber by the collar, and when they came to the head of the steps he gave him a shove and a kick which sent him half across the road.",
+        "objectID": "937ba5cc6b49ae67660a3b62c76d6dbc"
       }
     },
-    "objectID": "e7459f66e735cc46661ef05648c20344",
-    "order": 33,
+    "objectID": "3c0571de933f52adbebda3461019974e",
+    "order": 53,
     "tagName": "P"
   },
   {
@@ -695,19 +1115,19 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"Don't imagine that I intended to kill him in cold blood. It would only have been rigid justice if I had done so, but I could not bring myself to do it. I had long determined that he should have a show for his life if he chose to take advantage of it. Among the many billets which I have filled in America during my wandering life, I was once janitor and sweeper out of the laboratory at York College. One day the professor was lecturing on poisions, and he showed his students some alkaloid, as he called it, which he had extracted from some South American arrow poison, and which was so powerful that the least grain meant instant death. I spotted the bottle in which this preparation was kept, and when they were all gone, I helped myself to a little of it. I was a fairly good dispenser, so I worked this alkaloid into small, soluble pills, and each pill I put in a box with a similar pill made without the poison. I determined at the time that when I had my chance, my gentlemen should each have a draw out of one of these boxes, while I ate the pill that remained. It would be quite as deadly, and a good deal less noisy than firing across a handkerchief. From that day I had always my pill boxes about with me, and the time had now come when I was to use them.",
+    "content": "'Drive me to Halliday's Private Hotel,' said he.",
     "context": {
       "next": {
-        "content": "\"It was nearer one than twelve, and a wild, bleak night, blowing hard and raining in torrents. Dismal as it was outside, I was glad within—so glad that I could have shouted out from pure exultation. If any of you gentlemen have ever pined for a thing, and longed for it during twenty long years, and then suddenly found it within your reach, you would understand my feelings. I lit a cigar, and puffed at it to steady my nerves, but my hands were trembling, and my temples throbbing with excitement. As I drove, I could see old John Ferrier and sweet Lucy looking at me out of the darkness and smiling at me, just as plain as I see you all in this room. All the way they were ahead of me, one on each side of the horse until I pulled up at the house in the Brixton Road.",
-        "objectID": "6ce9194a66b4e98648966aefcfe403d6"
+        "content": "\"When I had him fairly inside my cab, my heart jumped so with joy that I feared lest at this last moment my aneurism might go wrong. I drove along slowly, weighing in my own mind what it was best to do. I might take him right out into the country, and there in some deserted lane have my last interview with him.",
+        "objectID": "d23d7e39c8f19134de27a6d713e758df"
       },
       "previous": {
-        "content": "\"When I had him fairly inside my cab, my heart jumped so with joy that I feared lest at this last moment my aneurism might go wrong. I drove along slowly, weighing in my own mind what it was best to do. I might take him right out into the country, and there in some deserted lane have my last interview with him. I had almost decided upon this, when he solved the problem for me. The craze for drink had seized him again, and he ordered me to pull up outside a gin palace. He went in, leaving word that I should wait for him. There he remained until closing time, and when he came out he was so far gone that I knew the game was in my own hands.",
-        "objectID": "e7459f66e735cc46661ef05648c20344"
+        "content": "'You hound,' he cried, shaking his stick at him; 'I'll teach you to insult an honest girl!' He was so hot that I think he would have thrashed Drebber with his cudgel, only that the cur staggered away down the road as fast as his legs would carry him. He ran as far as the corner, and then, seeing my cab, he hailed me and jumped in.",
+        "objectID": "3c0571de933f52adbebda3461019974e"
       }
     },
-    "objectID": "fe4fe75f02b63e1723c5d83070ee96bf",
-    "order": 34,
+    "objectID": "00cb6a24a2350627ebef6e7170db242d",
+    "order": 54,
     "tagName": "P"
   },
   {
@@ -716,19 +1136,166 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"It was nearer one than twelve, and a wild, bleak night, blowing hard and raining in torrents. Dismal as it was outside, I was glad within—so glad that I could have shouted out from pure exultation. If any of you gentlemen have ever pined for a thing, and longed for it during twenty long years, and then suddenly found it within your reach, you would understand my feelings. I lit a cigar, and puffed at it to steady my nerves, but my hands were trembling, and my temples throbbing with excitement. As I drove, I could see old John Ferrier and sweet Lucy looking at me out of the darkness and smiling at me, just as plain as I see you all in this room. All the way they were ahead of me, one on each side of the horse until I pulled up at the house in the Brixton Road.",
+    "content": "\"When I had him fairly inside my cab, my heart jumped so with joy that I feared lest at this last moment my aneurism might go wrong. I drove along slowly, weighing in my own mind what it was best to do. I might take him right out into the country, and there in some deserted lane have my last interview with him.",
+    "context": {
+      "next": {
+        "content": "I had almost decided upon this, when he solved the problem for me. The craze for drink had seized him again, and he ordered me to pull up outside a gin palace. He went in, leaving word that I should wait for him. There he remained until closing time, and when he came out he was so far gone that I knew the game was in my own hands.",
+        "objectID": "1fa4be511e094e604f95ddc55a41732e"
+      },
+      "previous": {
+        "content": "'Drive me to Halliday's Private Hotel,' said he.",
+        "objectID": "00cb6a24a2350627ebef6e7170db242d"
+      }
+    },
+    "objectID": "d23d7e39c8f19134de27a6d713e758df",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I had almost decided upon this, when he solved the problem for me. The craze for drink had seized him again, and he ordered me to pull up outside a gin palace. He went in, leaving word that I should wait for him. There he remained until closing time, and when he came out he was so far gone that I knew the game was in my own hands.",
+    "context": {
+      "next": {
+        "content": "\"Don't imagine that I intended to kill him in cold blood. It would only have been rigid justice if I had done so, but I could not bring myself to do it. I had long determined that he should have a show for his life if he chose to take advantage of it. Among the many billets which I have filled in America during my wandering life, I was once janitor and sweeper out of the laboratory at York College.",
+        "objectID": "118dd6813aec34155b20e6e5bdfc7736"
+      },
+      "previous": {
+        "content": "\"When I had him fairly inside my cab, my heart jumped so with joy that I feared lest at this last moment my aneurism might go wrong. I drove along slowly, weighing in my own mind what it was best to do. I might take him right out into the country, and there in some deserted lane have my last interview with him.",
+        "objectID": "d23d7e39c8f19134de27a6d713e758df"
+      }
+    },
+    "objectID": "1fa4be511e094e604f95ddc55a41732e",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"Don't imagine that I intended to kill him in cold blood. It would only have been rigid justice if I had done so, but I could not bring myself to do it. I had long determined that he should have a show for his life if he chose to take advantage of it. Among the many billets which I have filled in America during my wandering life, I was once janitor and sweeper out of the laboratory at York College.",
+    "context": {
+      "next": {
+        "content": "One day the professor was lecturing on poisions, and he showed his students some alkaloid, as he called it, which he had extracted from some South American arrow poison, and which was so powerful that the least grain meant instant death. I spotted the bottle in which this preparation was kept, and when they were all gone, I helped myself to a little of it.",
+        "objectID": "80695f4fa04c2a57eb333b543cee3bdf"
+      },
+      "previous": {
+        "content": "I had almost decided upon this, when he solved the problem for me. The craze for drink had seized him again, and he ordered me to pull up outside a gin palace. He went in, leaving word that I should wait for him. There he remained until closing time, and when he came out he was so far gone that I knew the game was in my own hands.",
+        "objectID": "1fa4be511e094e604f95ddc55a41732e"
+      }
+    },
+    "objectID": "118dd6813aec34155b20e6e5bdfc7736",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "One day the professor was lecturing on poisions, and he showed his students some alkaloid, as he called it, which he had extracted from some South American arrow poison, and which was so powerful that the least grain meant instant death. I spotted the bottle in which this preparation was kept, and when they were all gone, I helped myself to a little of it.",
+    "context": {
+      "next": {
+        "content": "I was a fairly good dispenser, so I worked this alkaloid into small, soluble pills, and each pill I put in a box with a similar pill made without the poison. I determined at the time that when I had my chance, my gentlemen should each have a draw out of one of these boxes, while I ate the pill that remained.",
+        "objectID": "1cb962542d15533f8d22e6380aa69a19"
+      },
+      "previous": {
+        "content": "\"Don't imagine that I intended to kill him in cold blood. It would only have been rigid justice if I had done so, but I could not bring myself to do it. I had long determined that he should have a show for his life if he chose to take advantage of it. Among the many billets which I have filled in America during my wandering life, I was once janitor and sweeper out of the laboratory at York College.",
+        "objectID": "118dd6813aec34155b20e6e5bdfc7736"
+      }
+    },
+    "objectID": "80695f4fa04c2a57eb333b543cee3bdf",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I was a fairly good dispenser, so I worked this alkaloid into small, soluble pills, and each pill I put in a box with a similar pill made without the poison. I determined at the time that when I had my chance, my gentlemen should each have a draw out of one of these boxes, while I ate the pill that remained.",
+    "context": {
+      "next": {
+        "content": "It would be quite as deadly, and a good deal less noisy than firing across a handkerchief. From that day I had always my pill boxes about with me, and the time had now come when I was to use them.",
+        "objectID": "ee7e2a5646c9faee71f0458f34615eab"
+      },
+      "previous": {
+        "content": "One day the professor was lecturing on poisions, and he showed his students some alkaloid, as he called it, which he had extracted from some South American arrow poison, and which was so powerful that the least grain meant instant death. I spotted the bottle in which this preparation was kept, and when they were all gone, I helped myself to a little of it.",
+        "objectID": "80695f4fa04c2a57eb333b543cee3bdf"
+      }
+    },
+    "objectID": "1cb962542d15533f8d22e6380aa69a19",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "It would be quite as deadly, and a good deal less noisy than firing across a handkerchief. From that day I had always my pill boxes about with me, and the time had now come when I was to use them.",
+    "context": {
+      "next": {
+        "content": "\"It was nearer one than twelve, and a wild, bleak night, blowing hard and raining in torrents. Dismal as it was outside, I was glad within—so glad that I could have shouted out from pure exultation. If any of you gentlemen have ever pined for a thing, and longed for it during twenty long years, and then suddenly found it within your reach, you would understand my feelings.",
+        "objectID": "e835ea3eca0298c6b27fa862787c57b1"
+      },
+      "previous": {
+        "content": "I was a fairly good dispenser, so I worked this alkaloid into small, soluble pills, and each pill I put in a box with a similar pill made without the poison. I determined at the time that when I had my chance, my gentlemen should each have a draw out of one of these boxes, while I ate the pill that remained.",
+        "objectID": "1cb962542d15533f8d22e6380aa69a19"
+      }
+    },
+    "objectID": "ee7e2a5646c9faee71f0458f34615eab",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"It was nearer one than twelve, and a wild, bleak night, blowing hard and raining in torrents. Dismal as it was outside, I was glad within—so glad that I could have shouted out from pure exultation. If any of you gentlemen have ever pined for a thing, and longed for it during twenty long years, and then suddenly found it within your reach, you would understand my feelings.",
+    "context": {
+      "next": {
+        "content": "I lit a cigar, and puffed at it to steady my nerves, but my hands were trembling, and my temples throbbing with excitement. As I drove, I could see old John Ferrier and sweet Lucy looking at me out of the darkness and smiling at me, just as plain as I see you all in this room. All the way they were ahead of me, one on each side of the horse until I pulled up at the house in the Brixton Road.",
+        "objectID": "c3b0c48733622662ae6f840cbbebf014"
+      },
+      "previous": {
+        "content": "It would be quite as deadly, and a good deal less noisy than firing across a handkerchief. From that day I had always my pill boxes about with me, and the time had now come when I was to use them.",
+        "objectID": "ee7e2a5646c9faee71f0458f34615eab"
+      }
+    },
+    "objectID": "e835ea3eca0298c6b27fa862787c57b1",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I lit a cigar, and puffed at it to steady my nerves, but my hands were trembling, and my temples throbbing with excitement. As I drove, I could see old John Ferrier and sweet Lucy looking at me out of the darkness and smiling at me, just as plain as I see you all in this room. All the way they were ahead of me, one on each side of the horse until I pulled up at the house in the Brixton Road.",
     "context": {
       "next": {
         "content": "\"There was not a soul to be seen, nor a sound to be heard, except the dripping of the rain. When I looked in at the window, I found Drebber all huddled together in a drunken sleep. I shook him by the arm, 'It's time to get out,' I said.",
-        "objectID": "3abc31c604f51da220222508563e0f82"
+        "objectID": "84f1b50929d98dbae38e6222a1201047"
       },
       "previous": {
-        "content": "\"Don't imagine that I intended to kill him in cold blood. It would only have been rigid justice if I had done so, but I could not bring myself to do it. I had long determined that he should have a show for his life if he chose to take advantage of it. Among the many billets which I have filled in America during my wandering life, I was once janitor and sweeper out of the laboratory at York College. One day the professor was lecturing on poisions, and he showed his students some alkaloid, as he called it, which he had extracted from some South American arrow poison, and which was so powerful that the least grain meant instant death. I spotted the bottle in which this preparation was kept, and when they were all gone, I helped myself to a little of it. I was a fairly good dispenser, so I worked this alkaloid into small, soluble pills, and each pill I put in a box with a similar pill made without the poison. I determined at the time that when I had my chance, my gentlemen should each have a draw out of one of these boxes, while I ate the pill that remained. It would be quite as deadly, and a good deal less noisy than firing across a handkerchief. From that day I had always my pill boxes about with me, and the time had now come when I was to use them.",
-        "objectID": "fe4fe75f02b63e1723c5d83070ee96bf"
+        "content": "\"It was nearer one than twelve, and a wild, bleak night, blowing hard and raining in torrents. Dismal as it was outside, I was glad within—so glad that I could have shouted out from pure exultation. If any of you gentlemen have ever pined for a thing, and longed for it during twenty long years, and then suddenly found it within your reach, you would understand my feelings.",
+        "objectID": "e835ea3eca0298c6b27fa862787c57b1"
       }
     },
-    "objectID": "6ce9194a66b4e98648966aefcfe403d6",
-    "order": 35,
+    "objectID": "c3b0c48733622662ae6f840cbbebf014",
+    "order": 62,
     "tagName": "P"
   },
   {
@@ -741,15 +1308,15 @@
     "context": {
       "next": {
         "content": "\"'All right, cabby,' said he.",
-        "objectID": "f94e0c48182ff459f91a88b3e75a3c77"
+        "objectID": "e501d8e5c2ef40c93be9d1c8cd31e438"
       },
       "previous": {
-        "content": "\"It was nearer one than twelve, and a wild, bleak night, blowing hard and raining in torrents. Dismal as it was outside, I was glad within—so glad that I could have shouted out from pure exultation. If any of you gentlemen have ever pined for a thing, and longed for it during twenty long years, and then suddenly found it within your reach, you would understand my feelings. I lit a cigar, and puffed at it to steady my nerves, but my hands were trembling, and my temples throbbing with excitement. As I drove, I could see old John Ferrier and sweet Lucy looking at me out of the darkness and smiling at me, just as plain as I see you all in this room. All the way they were ahead of me, one on each side of the horse until I pulled up at the house in the Brixton Road.",
-        "objectID": "6ce9194a66b4e98648966aefcfe403d6"
+        "content": "I lit a cigar, and puffed at it to steady my nerves, but my hands were trembling, and my temples throbbing with excitement. As I drove, I could see old John Ferrier and sweet Lucy looking at me out of the darkness and smiling at me, just as plain as I see you all in this room. All the way they were ahead of me, one on each side of the horse until I pulled up at the house in the Brixton Road.",
+        "objectID": "c3b0c48733622662ae6f840cbbebf014"
       }
     },
-    "objectID": "3abc31c604f51da220222508563e0f82",
-    "order": 36,
+    "objectID": "84f1b50929d98dbae38e6222a1201047",
+    "order": 63,
     "tagName": "P"
   },
   {
@@ -762,15 +1329,15 @@
     "context": {
       "next": {
         "content": "\"I suppose he thought we had come to the hotel that he had mentioned, for he got out without another word, and followed me down the garden. I had to walk beside him to keep him steady, for he was still a little top-heavy. When we came to the door, I opened it, and led him into the front room. I give you my word that all the way, the father and the daughter were walking in front of us.",
-        "objectID": "66095216c5fc783bbe956621a9a85a9c"
+        "objectID": "6cb525faf00d462ad29254f4cbe4ff76"
       },
       "previous": {
         "content": "\"There was not a soul to be seen, nor a sound to be heard, except the dripping of the rain. When I looked in at the window, I found Drebber all huddled together in a drunken sleep. I shook him by the arm, 'It's time to get out,' I said.",
-        "objectID": "3abc31c604f51da220222508563e0f82"
+        "objectID": "84f1b50929d98dbae38e6222a1201047"
       }
     },
-    "objectID": "f94e0c48182ff459f91a88b3e75a3c77",
-    "order": 37,
+    "objectID": "e501d8e5c2ef40c93be9d1c8cd31e438",
+    "order": 64,
     "tagName": "P"
   },
   {
@@ -783,15 +1350,15 @@
     "context": {
       "next": {
         "content": "\"'It's infernally dark,' said he, stamping about.",
-        "objectID": "f00cacd8a2ef92dfc88aae401aec80a6"
+        "objectID": "c9552c86584dc4da18b718c1dca47dcc"
       },
       "previous": {
         "content": "\"'All right, cabby,' said he.",
-        "objectID": "f94e0c48182ff459f91a88b3e75a3c77"
+        "objectID": "e501d8e5c2ef40c93be9d1c8cd31e438"
       }
     },
-    "objectID": "66095216c5fc783bbe956621a9a85a9c",
-    "order": 38,
+    "objectID": "6cb525faf00d462ad29254f4cbe4ff76",
+    "order": 65,
     "tagName": "P"
   },
   {
@@ -804,15 +1371,15 @@
     "context": {
       "next": {
         "content": "\"'We'll soon have a light,' I said, striking a match and putting it to a wax candle which I had brought with me. 'Now, Enoch Drebber,' I continued, turning to him, and holding the light to my own face, 'who am I?'",
-        "objectID": "3d8e73b1aec51edbdc0cc21c44494242"
+        "objectID": "248e7ad206a54a0defcb0083801cb026"
       },
       "previous": {
         "content": "\"I suppose he thought we had come to the hotel that he had mentioned, for he got out without another word, and followed me down the garden. I had to walk beside him to keep him steady, for he was still a little top-heavy. When we came to the door, I opened it, and led him into the front room. I give you my word that all the way, the father and the daughter were walking in front of us.",
-        "objectID": "66095216c5fc783bbe956621a9a85a9c"
+        "objectID": "6cb525faf00d462ad29254f4cbe4ff76"
       }
     },
-    "objectID": "f00cacd8a2ef92dfc88aae401aec80a6",
-    "order": 39,
+    "objectID": "c9552c86584dc4da18b718c1dca47dcc",
+    "order": 66,
     "tagName": "P"
   },
   {
@@ -824,16 +1391,16 @@
     "content": "\"'We'll soon have a light,' I said, striking a match and putting it to a wax candle which I had brought with me. 'Now, Enoch Drebber,' I continued, turning to him, and holding the light to my own face, 'who am I?'",
     "context": {
       "next": {
-        "content": "\"He gazed at me with bleared, drunken eyes for a moment, and then I saw a horror spring up in them, and convulse his whole features, which showed me that he knew me. He staggered back with a livid face, and I saw the perspiration break out upon his brow, while his teeth chattered in his head. At the sight, I leaned my back against the door and laughed loud and long. I had always known that vengeance would be sweet, but I had never hoped for the contentment of soul which now possessed me.",
-        "objectID": "d984a87057c7f0dd751dd7c78338cc27"
+        "content": "\"He gazed at me with bleared, drunken eyes for a moment, and then I saw a horror spring up in them, and convulse his whole features, which showed me that he knew me. He staggered back with a livid face, and I saw the perspiration break out upon his brow, while his teeth chattered in his head. At the sight, I leaned my back against the door and laughed loud and long.",
+        "objectID": "0a276a6bf49d65f11f03336ce02e38c6"
       },
       "previous": {
         "content": "\"'It's infernally dark,' said he, stamping about.",
-        "objectID": "f00cacd8a2ef92dfc88aae401aec80a6"
+        "objectID": "c9552c86584dc4da18b718c1dca47dcc"
       }
     },
-    "objectID": "3d8e73b1aec51edbdc0cc21c44494242",
-    "order": 40,
+    "objectID": "248e7ad206a54a0defcb0083801cb026",
+    "order": 67,
     "tagName": "P"
   },
   {
@@ -842,19 +1409,19 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"He gazed at me with bleared, drunken eyes for a moment, and then I saw a horror spring up in them, and convulse his whole features, which showed me that he knew me. He staggered back with a livid face, and I saw the perspiration break out upon his brow, while his teeth chattered in his head. At the sight, I leaned my back against the door and laughed loud and long. I had always known that vengeance would be sweet, but I had never hoped for the contentment of soul which now possessed me.",
+    "content": "\"He gazed at me with bleared, drunken eyes for a moment, and then I saw a horror spring up in them, and convulse his whole features, which showed me that he knew me. He staggered back with a livid face, and I saw the perspiration break out upon his brow, while his teeth chattered in his head. At the sight, I leaned my back against the door and laughed loud and long.",
     "context": {
       "next": {
-        "content": "\"'You dog!' I said; 'I have hunted you from Salt Lake City to St. Petersburg, and you have always escaped me. Now, at last your wanderings have come to an end, for either you or I shall never see to-morrow's sun rise.' He shrunk still further away as I spoke, and I could see on his face that he thought I was mad. So I was for the time. The pulses in my temples beat like sledge-hammers, and I believe I would have had a fit of some sort if the blood had not gushed from my nose and relieved me.",
-        "objectID": "98a707c7e8b4e8cc88cfe748b08681cc"
+        "content": "I had always known that vengeance would be sweet, but I had never hoped for the contentment of soul which now possessed me.",
+        "objectID": "f42b1655452c72bab2da3eb568e74c53"
       },
       "previous": {
         "content": "\"'We'll soon have a light,' I said, striking a match and putting it to a wax candle which I had brought with me. 'Now, Enoch Drebber,' I continued, turning to him, and holding the light to my own face, 'who am I?'",
-        "objectID": "3d8e73b1aec51edbdc0cc21c44494242"
+        "objectID": "248e7ad206a54a0defcb0083801cb026"
       }
     },
-    "objectID": "d984a87057c7f0dd751dd7c78338cc27",
-    "order": 41,
+    "objectID": "0a276a6bf49d65f11f03336ce02e38c6",
+    "order": 68,
     "tagName": "P"
   },
   {
@@ -863,19 +1430,61 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"'You dog!' I said; 'I have hunted you from Salt Lake City to St. Petersburg, and you have always escaped me. Now, at last your wanderings have come to an end, for either you or I shall never see to-morrow's sun rise.' He shrunk still further away as I spoke, and I could see on his face that he thought I was mad. So I was for the time. The pulses in my temples beat like sledge-hammers, and I believe I would have had a fit of some sort if the blood had not gushed from my nose and relieved me.",
+    "content": "I had always known that vengeance would be sweet, but I had never hoped for the contentment of soul which now possessed me.",
+    "context": {
+      "next": {
+        "content": "\"'You dog!' I said; 'I have hunted you from Salt Lake City to St. Petersburg, and you have always escaped me. Now, at last your wanderings have come to an end, for either you or I shall never see to-morrow's sun rise.' He shrunk still further away as I spoke, and I could see on his face that he thought I was mad.",
+        "objectID": "d9165f9977cf0b311130205eda9cdde1"
+      },
+      "previous": {
+        "content": "\"He gazed at me with bleared, drunken eyes for a moment, and then I saw a horror spring up in them, and convulse his whole features, which showed me that he knew me. He staggered back with a livid face, and I saw the perspiration break out upon his brow, while his teeth chattered in his head. At the sight, I leaned my back against the door and laughed loud and long.",
+        "objectID": "0a276a6bf49d65f11f03336ce02e38c6"
+      }
+    },
+    "objectID": "f42b1655452c72bab2da3eb568e74c53",
+    "order": 69,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"'You dog!' I said; 'I have hunted you from Salt Lake City to St. Petersburg, and you have always escaped me. Now, at last your wanderings have come to an end, for either you or I shall never see to-morrow's sun rise.' He shrunk still further away as I spoke, and I could see on his face that he thought I was mad.",
+    "context": {
+      "next": {
+        "content": "So I was for the time. The pulses in my temples beat like sledge-hammers, and I believe I would have had a fit of some sort if the blood had not gushed from my nose and relieved me.",
+        "objectID": "e8e8d58d65aecd5577cb162eaf8ba3ee"
+      },
+      "previous": {
+        "content": "I had always known that vengeance would be sweet, but I had never hoped for the contentment of soul which now possessed me.",
+        "objectID": "f42b1655452c72bab2da3eb568e74c53"
+      }
+    },
+    "objectID": "d9165f9977cf0b311130205eda9cdde1",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "So I was for the time. The pulses in my temples beat like sledge-hammers, and I believe I would have had a fit of some sort if the blood had not gushed from my nose and relieved me.",
     "context": {
       "next": {
         "content": "\"'What do you think of Lucy Ferrier now?' I cried, locking the door, and shaking the key in his face. 'Punishment has been slow in coming, but it has overtaken you at last.' I saw his coward lips tremble as I spoke. He would have begged for his life, but he knew well that it was useless.",
-        "objectID": "66258f91618564e9ccb0ac4bf71d3730"
+        "objectID": "b50abde3fc5aa59bfbe8841687ee3c0d"
       },
       "previous": {
-        "content": "\"He gazed at me with bleared, drunken eyes for a moment, and then I saw a horror spring up in them, and convulse his whole features, which showed me that he knew me. He staggered back with a livid face, and I saw the perspiration break out upon his brow, while his teeth chattered in his head. At the sight, I leaned my back against the door and laughed loud and long. I had always known that vengeance would be sweet, but I had never hoped for the contentment of soul which now possessed me.",
-        "objectID": "d984a87057c7f0dd751dd7c78338cc27"
+        "content": "\"'You dog!' I said; 'I have hunted you from Salt Lake City to St. Petersburg, and you have always escaped me. Now, at last your wanderings have come to an end, for either you or I shall never see to-morrow's sun rise.' He shrunk still further away as I spoke, and I could see on his face that he thought I was mad.",
+        "objectID": "d9165f9977cf0b311130205eda9cdde1"
       }
     },
-    "objectID": "98a707c7e8b4e8cc88cfe748b08681cc",
-    "order": 42,
+    "objectID": "e8e8d58d65aecd5577cb162eaf8ba3ee",
+    "order": 71,
     "tagName": "P"
   },
   {
@@ -888,15 +1497,15 @@
     "context": {
       "next": {
         "content": "\"'Would you murder me?' he stammered.",
-        "objectID": "ec3a0aba7d62cbb30b9f2e46fd3fa2cb"
+        "objectID": "db087310c94bb6ce8b6aeea5d4a60b6e"
       },
       "previous": {
-        "content": "\"'You dog!' I said; 'I have hunted you from Salt Lake City to St. Petersburg, and you have always escaped me. Now, at last your wanderings have come to an end, for either you or I shall never see to-morrow's sun rise.' He shrunk still further away as I spoke, and I could see on his face that he thought I was mad. So I was for the time. The pulses in my temples beat like sledge-hammers, and I believe I would have had a fit of some sort if the blood had not gushed from my nose and relieved me.",
-        "objectID": "98a707c7e8b4e8cc88cfe748b08681cc"
+        "content": "So I was for the time. The pulses in my temples beat like sledge-hammers, and I believe I would have had a fit of some sort if the blood had not gushed from my nose and relieved me.",
+        "objectID": "e8e8d58d65aecd5577cb162eaf8ba3ee"
       }
     },
-    "objectID": "66258f91618564e9ccb0ac4bf71d3730",
-    "order": 43,
+    "objectID": "b50abde3fc5aa59bfbe8841687ee3c0d",
+    "order": 72,
     "tagName": "P"
   },
   {
@@ -909,15 +1518,15 @@
     "context": {
       "next": {
         "content": "\"'There is no murder,' I answered. 'Who talks of murdering a mad dog? What mercy had you upon my poor darling, when you dragged her from her slaughtered father, and bore her away to your accursed and shameless harem.'",
-        "objectID": "a5c4b3fd5ad4dafa1ad47d3f7ef3234a"
+        "objectID": "9ae89e44a9907cf94fbf884719521e4a"
       },
       "previous": {
         "content": "\"'What do you think of Lucy Ferrier now?' I cried, locking the door, and shaking the key in his face. 'Punishment has been slow in coming, but it has overtaken you at last.' I saw his coward lips tremble as I spoke. He would have begged for his life, but he knew well that it was useless.",
-        "objectID": "66258f91618564e9ccb0ac4bf71d3730"
+        "objectID": "b50abde3fc5aa59bfbe8841687ee3c0d"
       }
     },
-    "objectID": "ec3a0aba7d62cbb30b9f2e46fd3fa2cb",
-    "order": 44,
+    "objectID": "db087310c94bb6ce8b6aeea5d4a60b6e",
+    "order": 73,
     "tagName": "P"
   },
   {
@@ -930,15 +1539,15 @@
     "context": {
       "next": {
         "content": "\"'It was not I who killed her father,' he cried.",
-        "objectID": "8b5b6890008c0cde34f540c866e3d9cd"
+        "objectID": "4dc3340fa4c88515c378d8dcbc46a5eb"
       },
       "previous": {
         "content": "\"'Would you murder me?' he stammered.",
-        "objectID": "ec3a0aba7d62cbb30b9f2e46fd3fa2cb"
+        "objectID": "db087310c94bb6ce8b6aeea5d4a60b6e"
       }
     },
-    "objectID": "a5c4b3fd5ad4dafa1ad47d3f7ef3234a",
-    "order": 45,
+    "objectID": "9ae89e44a9907cf94fbf884719521e4a",
+    "order": 74,
     "tagName": "P"
   },
   {
@@ -951,15 +1560,15 @@
     "context": {
       "next": {
         "content": "\"'But it was you who broke her innocent heart,' I shrieked, thrusting the box before him. 'Let the high God judge between us. Choose and eat. There is death in one and life in the other. I shall take what you leave. Let us see if there is justice upon the earth, or if we are ruled by chance.'",
-        "objectID": "325f3ac3cf27490ce016dcd27eece3f7"
+        "objectID": "9ae7d269bef98e3b11521ccac6660710"
       },
       "previous": {
         "content": "\"'There is no murder,' I answered. 'Who talks of murdering a mad dog? What mercy had you upon my poor darling, when you dragged her from her slaughtered father, and bore her away to your accursed and shameless harem.'",
-        "objectID": "a5c4b3fd5ad4dafa1ad47d3f7ef3234a"
+        "objectID": "9ae89e44a9907cf94fbf884719521e4a"
       }
     },
-    "objectID": "8b5b6890008c0cde34f540c866e3d9cd",
-    "order": 46,
+    "objectID": "4dc3340fa4c88515c378d8dcbc46a5eb",
+    "order": 75,
     "tagName": "P"
   },
   {
@@ -971,16 +1580,16 @@
     "content": "\"'But it was you who broke her innocent heart,' I shrieked, thrusting the box before him. 'Let the high God judge between us. Choose and eat. There is death in one and life in the other. I shall take what you leave. Let us see if there is justice upon the earth, or if we are ruled by chance.'",
     "context": {
       "next": {
-        "content": "\"He cowered away with wild cries and prayers for mercy, but I drew my knife and held it to his throat until he had obeyed me. Then I swallowed the other, and we stood facing one another in silence for a minute or more, waiting to see which was to live and which was to die. Shall I ever forget the look which came over his face when the first warning pangs told him that the poison was in his system? I laughed as I saw it, and held Lucy's marriage ring in front of his eyes. It was but for a moment, for the action of the alkaloid is rapid. A spasm of pain contorted his features; he threw his hands out in front of him, staggered, and then, with a hoarse cry, fell heavily upon the floor. I turned him over with my foot, and placed my hand upon his heart. There was no movement. He was dead!",
-        "objectID": "b388136a481f0a060d8a17f4e6c64a87"
+        "content": "\"He cowered away with wild cries and prayers for mercy, but I drew my knife and held it to his throat until he had obeyed me. Then I swallowed the other, and we stood facing one another in silence for a minute or more, waiting to see which was to live and which was to die. Shall I ever forget the look which came over his face when the first warning pangs told him that the poison was in his system? I laughed as I saw it, and held Lucy's marriage ring in front of his eyes.",
+        "objectID": "d2f616611a588045dcc6f614650bf536"
       },
       "previous": {
         "content": "\"'It was not I who killed her father,' he cried.",
-        "objectID": "8b5b6890008c0cde34f540c866e3d9cd"
+        "objectID": "4dc3340fa4c88515c378d8dcbc46a5eb"
       }
     },
-    "objectID": "325f3ac3cf27490ce016dcd27eece3f7",
-    "order": 47,
+    "objectID": "9ae7d269bef98e3b11521ccac6660710",
+    "order": 76,
     "tagName": "P"
   },
   {
@@ -989,19 +1598,19 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"He cowered away with wild cries and prayers for mercy, but I drew my knife and held it to his throat until he had obeyed me. Then I swallowed the other, and we stood facing one another in silence for a minute or more, waiting to see which was to live and which was to die. Shall I ever forget the look which came over his face when the first warning pangs told him that the poison was in his system? I laughed as I saw it, and held Lucy's marriage ring in front of his eyes. It was but for a moment, for the action of the alkaloid is rapid. A spasm of pain contorted his features; he threw his hands out in front of him, staggered, and then, with a hoarse cry, fell heavily upon the floor. I turned him over with my foot, and placed my hand upon his heart. There was no movement. He was dead!",
+    "content": "\"He cowered away with wild cries and prayers for mercy, but I drew my knife and held it to his throat until he had obeyed me. Then I swallowed the other, and we stood facing one another in silence for a minute or more, waiting to see which was to live and which was to die. Shall I ever forget the look which came over his face when the first warning pangs told him that the poison was in his system? I laughed as I saw it, and held Lucy's marriage ring in front of his eyes.",
     "context": {
       "next": {
-        "content": "\"The blood had been streaming from my nose, but I had taken no notice of it. I don't know what it was that put it into my head to write upon the wall with it. Perhaps it was some mischievous idea of setting the police upon a wrong track, for I felt light-hearted and cheerful. I remembered a German being found in New York with RACHE written up above him, and it was argued at the time in the newspapers that the secret societies must have done it. I guessed that what puzzled the New Yorkers would puzzle the Londoners, so I dipped my finger in my own blood and printed it on a convenient place on the wall. Then I walked down to my cab and found that there was nobody about, and that the night was still very wild. I had driven some distance when I put my hand into the pocket in which I usually kept Lucy's ring, and found that it was not there. I was thunderstruck at this, for it was the only memento that I had of her. Thinking that I might have dropped it when I stooped over Drebber's body, I drove back, and leaving my cab in a side street, I went boldly up to the house—for I was ready to dare anything rather than lose the ring. When I arrived there, I walked right into the arms of a police-officer who was coming out, and only managed to disarm his suspicions by pretending to be hopelessly drunk.",
-        "objectID": "5e79b34965cc51aad20fdf559fd2abb3"
+        "content": "It was but for a moment, for the action of the alkaloid is rapid. A spasm of pain contorted his features; he threw his hands out in front of him, staggered, and then, with a hoarse cry, fell heavily upon the floor. I turned him over with my foot, and placed my hand upon his heart. There was no movement.",
+        "objectID": "057f101a74815317476cc71edaa817be"
       },
       "previous": {
         "content": "\"'But it was you who broke her innocent heart,' I shrieked, thrusting the box before him. 'Let the high God judge between us. Choose and eat. There is death in one and life in the other. I shall take what you leave. Let us see if there is justice upon the earth, or if we are ruled by chance.'",
-        "objectID": "325f3ac3cf27490ce016dcd27eece3f7"
+        "objectID": "9ae7d269bef98e3b11521ccac6660710"
       }
     },
-    "objectID": "b388136a481f0a060d8a17f4e6c64a87",
-    "order": 48,
+    "objectID": "d2f616611a588045dcc6f614650bf536",
+    "order": 77,
     "tagName": "P"
   },
   {
@@ -1010,19 +1619,19 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"The blood had been streaming from my nose, but I had taken no notice of it. I don't know what it was that put it into my head to write upon the wall with it. Perhaps it was some mischievous idea of setting the police upon a wrong track, for I felt light-hearted and cheerful. I remembered a German being found in New York with RACHE written up above him, and it was argued at the time in the newspapers that the secret societies must have done it. I guessed that what puzzled the New Yorkers would puzzle the Londoners, so I dipped my finger in my own blood and printed it on a convenient place on the wall. Then I walked down to my cab and found that there was nobody about, and that the night was still very wild. I had driven some distance when I put my hand into the pocket in which I usually kept Lucy's ring, and found that it was not there. I was thunderstruck at this, for it was the only memento that I had of her. Thinking that I might have dropped it when I stooped over Drebber's body, I drove back, and leaving my cab in a side street, I went boldly up to the house—for I was ready to dare anything rather than lose the ring. When I arrived there, I walked right into the arms of a police-officer who was coming out, and only managed to disarm his suspicions by pretending to be hopelessly drunk.",
+    "content": "It was but for a moment, for the action of the alkaloid is rapid. A spasm of pain contorted his features; he threw his hands out in front of him, staggered, and then, with a hoarse cry, fell heavily upon the floor. I turned him over with my foot, and placed my hand upon his heart. There was no movement.",
     "context": {
       "next": {
-        "content": "\"That was how Enoch Drebber came to his end. All I had to do then was to do as much for Stangerson, and so pay off John Ferrier's debt. I knew that he was staying at Halliday's Private Hotel, and I hung about all day, but he never came out. fancy that he suspected something when Drebber failed to put in an appearance. He was cunning, was Stangerson, and always on his guard. If he thought he could keep me off by staying indoors he was very much mistaken. I soon found out which was the window of his bedroom, and early next morning I took advantage of some ladders which were lying in the lane behind the hotel, and so made my way into his room in the grey of the dawn. I woke him up and told him that the hour had come when he was to answer for the life he had taken so long before. I described Drebber's death to him, and I gave him the same choice of the poisoned pills. Instead of grasping at the chance of safety which that offered him, he sprang from his bed and flew at my throat. In self-defence I stabbed him to the heart. It would have been the same in any case, for Providence would never have allowed his guilty hand to pick out anything but the poison.",
-        "objectID": "9a064b6f140813bb618491fe7aa45e4a"
+        "content": "He was dead!",
+        "objectID": "7f01e4d54e87f01923f6960c1bf715f5"
       },
       "previous": {
-        "content": "\"He cowered away with wild cries and prayers for mercy, but I drew my knife and held it to his throat until he had obeyed me. Then I swallowed the other, and we stood facing one another in silence for a minute or more, waiting to see which was to live and which was to die. Shall I ever forget the look which came over his face when the first warning pangs told him that the poison was in his system? I laughed as I saw it, and held Lucy's marriage ring in front of his eyes. It was but for a moment, for the action of the alkaloid is rapid. A spasm of pain contorted his features; he threw his hands out in front of him, staggered, and then, with a hoarse cry, fell heavily upon the floor. I turned him over with my foot, and placed my hand upon his heart. There was no movement. He was dead!",
-        "objectID": "b388136a481f0a060d8a17f4e6c64a87"
+        "content": "\"He cowered away with wild cries and prayers for mercy, but I drew my knife and held it to his throat until he had obeyed me. Then I swallowed the other, and we stood facing one another in silence for a minute or more, waiting to see which was to live and which was to die. Shall I ever forget the look which came over his face when the first warning pangs told him that the poison was in his system? I laughed as I saw it, and held Lucy's marriage ring in front of his eyes.",
+        "objectID": "d2f616611a588045dcc6f614650bf536"
       }
     },
-    "objectID": "5e79b34965cc51aad20fdf559fd2abb3",
-    "order": 49,
+    "objectID": "057f101a74815317476cc71edaa817be",
+    "order": 78,
     "tagName": "P"
   },
   {
@@ -1031,19 +1640,19 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"That was how Enoch Drebber came to his end. All I had to do then was to do as much for Stangerson, and so pay off John Ferrier's debt. I knew that he was staying at Halliday's Private Hotel, and I hung about all day, but he never came out. fancy that he suspected something when Drebber failed to put in an appearance. He was cunning, was Stangerson, and always on his guard. If he thought he could keep me off by staying indoors he was very much mistaken. I soon found out which was the window of his bedroom, and early next morning I took advantage of some ladders which were lying in the lane behind the hotel, and so made my way into his room in the grey of the dawn. I woke him up and told him that the hour had come when he was to answer for the life he had taken so long before. I described Drebber's death to him, and I gave him the same choice of the poisoned pills. Instead of grasping at the chance of safety which that offered him, he sprang from his bed and flew at my throat. In self-defence I stabbed him to the heart. It would have been the same in any case, for Providence would never have allowed his guilty hand to pick out anything but the poison.",
+    "content": "He was dead!",
     "context": {
       "next": {
-        "content": "\"I have little more to say, and it's as well, for I am about done up. I went on cabbing it for a day or so, intending to keep at it until I could save enough to take me back to America. I was standing in the yard when a ragged youngster asked if there was a cabby there called Jefferson Hope, and said that his cab was wanted by a gentleman at 221B, Baker Street. I went round, suspecting no harm, and the next thing I knew, this young man here had the bracelets on my wrists, and as neatly snackled as ever I saw in my life. That's the whole of my story, gentlemen. You may consider me to be a murderer; but I hold that I am just as much an officer of justice as you are.\"",
-        "objectID": "307602059fb1f448b5260d334d953e20"
+        "content": "\"The blood had been streaming from my nose, but I had taken no notice of it. I don't know what it was that put it into my head to write upon the wall with it. Perhaps it was some mischievous idea of setting the police upon a wrong track, for I felt light-hearted and cheerful. I remembered a German being found in New York with RACHE written up above him, and it was argued at the time in the newspapers that the secret societies must have done it.",
+        "objectID": "d26933efde427343b2617dd523ebf978"
       },
       "previous": {
-        "content": "\"The blood had been streaming from my nose, but I had taken no notice of it. I don't know what it was that put it into my head to write upon the wall with it. Perhaps it was some mischievous idea of setting the police upon a wrong track, for I felt light-hearted and cheerful. I remembered a German being found in New York with RACHE written up above him, and it was argued at the time in the newspapers that the secret societies must have done it. I guessed that what puzzled the New Yorkers would puzzle the Londoners, so I dipped my finger in my own blood and printed it on a convenient place on the wall. Then I walked down to my cab and found that there was nobody about, and that the night was still very wild. I had driven some distance when I put my hand into the pocket in which I usually kept Lucy's ring, and found that it was not there. I was thunderstruck at this, for it was the only memento that I had of her. Thinking that I might have dropped it when I stooped over Drebber's body, I drove back, and leaving my cab in a side street, I went boldly up to the house—for I was ready to dare anything rather than lose the ring. When I arrived there, I walked right into the arms of a police-officer who was coming out, and only managed to disarm his suspicions by pretending to be hopelessly drunk.",
-        "objectID": "5e79b34965cc51aad20fdf559fd2abb3"
+        "content": "It was but for a moment, for the action of the alkaloid is rapid. A spasm of pain contorted his features; he threw his hands out in front of him, staggered, and then, with a hoarse cry, fell heavily upon the floor. I turned him over with my foot, and placed my hand upon his heart. There was no movement.",
+        "objectID": "057f101a74815317476cc71edaa817be"
       }
     },
-    "objectID": "9a064b6f140813bb618491fe7aa45e4a",
-    "order": 50,
+    "objectID": "7f01e4d54e87f01923f6960c1bf715f5",
+    "order": 79,
     "tagName": "P"
   },
   {
@@ -1052,19 +1661,208 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "\"I have little more to say, and it's as well, for I am about done up. I went on cabbing it for a day or so, intending to keep at it until I could save enough to take me back to America. I was standing in the yard when a ragged youngster asked if there was a cabby there called Jefferson Hope, and said that his cab was wanted by a gentleman at 221B, Baker Street. I went round, suspecting no harm, and the next thing I knew, this young man here had the bracelets on my wrists, and as neatly snackled as ever I saw in my life. That's the whole of my story, gentlemen. You may consider me to be a murderer; but I hold that I am just as much an officer of justice as you are.\"",
+    "content": "\"The blood had been streaming from my nose, but I had taken no notice of it. I don't know what it was that put it into my head to write upon the wall with it. Perhaps it was some mischievous idea of setting the police upon a wrong track, for I felt light-hearted and cheerful. I remembered a German being found in New York with RACHE written up above him, and it was argued at the time in the newspapers that the secret societies must have done it.",
+    "context": {
+      "next": {
+        "content": "I guessed that what puzzled the New Yorkers would puzzle the Londoners, so I dipped my finger in my own blood and printed it on a convenient place on the wall. Then I walked down to my cab and found that there was nobody about, and that the night was still very wild. I had driven some distance when I put my hand into the pocket in which I usually kept Lucy's ring, and found that it was not there.",
+        "objectID": "b07fee85fb443b8c9dc7cbef704831a8"
+      },
+      "previous": {
+        "content": "He was dead!",
+        "objectID": "7f01e4d54e87f01923f6960c1bf715f5"
+      }
+    },
+    "objectID": "d26933efde427343b2617dd523ebf978",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I guessed that what puzzled the New Yorkers would puzzle the Londoners, so I dipped my finger in my own blood and printed it on a convenient place on the wall. Then I walked down to my cab and found that there was nobody about, and that the night was still very wild. I had driven some distance when I put my hand into the pocket in which I usually kept Lucy's ring, and found that it was not there.",
+    "context": {
+      "next": {
+        "content": "I was thunderstruck at this, for it was the only memento that I had of her. Thinking that I might have dropped it when I stooped over Drebber's body, I drove back, and leaving my cab in a side street, I went boldly up to the house—for I was ready to dare anything rather than lose the ring. When I arrived there, I walked right into the arms of a police-officer who was coming out, and only managed to disarm his suspicions by pretending to be hopelessly drunk.",
+        "objectID": "6965359a0997e6be3d3ebb4c48f00ee8"
+      },
+      "previous": {
+        "content": "\"The blood had been streaming from my nose, but I had taken no notice of it. I don't know what it was that put it into my head to write upon the wall with it. Perhaps it was some mischievous idea of setting the police upon a wrong track, for I felt light-hearted and cheerful. I remembered a German being found in New York with RACHE written up above him, and it was argued at the time in the newspapers that the secret societies must have done it.",
+        "objectID": "d26933efde427343b2617dd523ebf978"
+      }
+    },
+    "objectID": "b07fee85fb443b8c9dc7cbef704831a8",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I was thunderstruck at this, for it was the only memento that I had of her. Thinking that I might have dropped it when I stooped over Drebber's body, I drove back, and leaving my cab in a side street, I went boldly up to the house—for I was ready to dare anything rather than lose the ring. When I arrived there, I walked right into the arms of a police-officer who was coming out, and only managed to disarm his suspicions by pretending to be hopelessly drunk.",
+    "context": {
+      "next": {
+        "content": "\"That was how Enoch Drebber came to his end. All I had to do then was to do as much for Stangerson, and so pay off John Ferrier's debt. I knew that he was staying at Halliday's Private Hotel, and I hung about all day, but he never came out. fancy that he suspected something when Drebber failed to put in an appearance.",
+        "objectID": "ce49da1fe1c0f2f83b11ca5372c0c575"
+      },
+      "previous": {
+        "content": "I guessed that what puzzled the New Yorkers would puzzle the Londoners, so I dipped my finger in my own blood and printed it on a convenient place on the wall. Then I walked down to my cab and found that there was nobody about, and that the night was still very wild. I had driven some distance when I put my hand into the pocket in which I usually kept Lucy's ring, and found that it was not there.",
+        "objectID": "b07fee85fb443b8c9dc7cbef704831a8"
+      }
+    },
+    "objectID": "6965359a0997e6be3d3ebb4c48f00ee8",
+    "order": 82,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"That was how Enoch Drebber came to his end. All I had to do then was to do as much for Stangerson, and so pay off John Ferrier's debt. I knew that he was staying at Halliday's Private Hotel, and I hung about all day, but he never came out. fancy that he suspected something when Drebber failed to put in an appearance.",
+    "context": {
+      "next": {
+        "content": "He was cunning, was Stangerson, and always on his guard. If he thought he could keep me off by staying indoors he was very much mistaken. I soon found out which was the window of his bedroom, and early next morning I took advantage of some ladders which were lying in the lane behind the hotel, and so made my way into his room in the grey of the dawn.",
+        "objectID": "fdfeaf15605c8bf88af5ca54ee1e12e2"
+      },
+      "previous": {
+        "content": "I was thunderstruck at this, for it was the only memento that I had of her. Thinking that I might have dropped it when I stooped over Drebber's body, I drove back, and leaving my cab in a side street, I went boldly up to the house—for I was ready to dare anything rather than lose the ring. When I arrived there, I walked right into the arms of a police-officer who was coming out, and only managed to disarm his suspicions by pretending to be hopelessly drunk.",
+        "objectID": "6965359a0997e6be3d3ebb4c48f00ee8"
+      }
+    },
+    "objectID": "ce49da1fe1c0f2f83b11ca5372c0c575",
+    "order": 83,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "He was cunning, was Stangerson, and always on his guard. If he thought he could keep me off by staying indoors he was very much mistaken. I soon found out which was the window of his bedroom, and early next morning I took advantage of some ladders which were lying in the lane behind the hotel, and so made my way into his room in the grey of the dawn.",
+    "context": {
+      "next": {
+        "content": "I woke him up and told him that the hour had come when he was to answer for the life he had taken so long before. I described Drebber's death to him, and I gave him the same choice of the poisoned pills. Instead of grasping at the chance of safety which that offered him, he sprang from his bed and flew at my throat.",
+        "objectID": "b725a86d3a3f80587221cee74caf8361"
+      },
+      "previous": {
+        "content": "\"That was how Enoch Drebber came to his end. All I had to do then was to do as much for Stangerson, and so pay off John Ferrier's debt. I knew that he was staying at Halliday's Private Hotel, and I hung about all day, but he never came out. fancy that he suspected something when Drebber failed to put in an appearance.",
+        "objectID": "ce49da1fe1c0f2f83b11ca5372c0c575"
+      }
+    },
+    "objectID": "fdfeaf15605c8bf88af5ca54ee1e12e2",
+    "order": 84,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I woke him up and told him that the hour had come when he was to answer for the life he had taken so long before. I described Drebber's death to him, and I gave him the same choice of the poisoned pills. Instead of grasping at the chance of safety which that offered him, he sprang from his bed and flew at my throat.",
+    "context": {
+      "next": {
+        "content": "In self-defence I stabbed him to the heart. It would have been the same in any case, for Providence would never have allowed his guilty hand to pick out anything but the poison.",
+        "objectID": "46713c15d6e8e28123ffa95ebbc545a5"
+      },
+      "previous": {
+        "content": "He was cunning, was Stangerson, and always on his guard. If he thought he could keep me off by staying indoors he was very much mistaken. I soon found out which was the window of his bedroom, and early next morning I took advantage of some ladders which were lying in the lane behind the hotel, and so made my way into his room in the grey of the dawn.",
+        "objectID": "fdfeaf15605c8bf88af5ca54ee1e12e2"
+      }
+    },
+    "objectID": "b725a86d3a3f80587221cee74caf8361",
+    "order": 85,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "In self-defence I stabbed him to the heart. It would have been the same in any case, for Providence would never have allowed his guilty hand to pick out anything but the poison.",
+    "context": {
+      "next": {
+        "content": "\"I have little more to say, and it's as well, for I am about done up. I went on cabbing it for a day or so, intending to keep at it until I could save enough to take me back to America. I was standing in the yard when a ragged youngster asked if there was a cabby there called Jefferson Hope, and said that his cab was wanted by a gentleman at 221B, Baker Street.",
+        "objectID": "419f7503618d33e82441d48e32959c41"
+      },
+      "previous": {
+        "content": "I woke him up and told him that the hour had come when he was to answer for the life he had taken so long before. I described Drebber's death to him, and I gave him the same choice of the poisoned pills. Instead of grasping at the chance of safety which that offered him, he sprang from his bed and flew at my throat.",
+        "objectID": "b725a86d3a3f80587221cee74caf8361"
+      }
+    },
+    "objectID": "46713c15d6e8e28123ffa95ebbc545a5",
+    "order": 86,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"I have little more to say, and it's as well, for I am about done up. I went on cabbing it for a day or so, intending to keep at it until I could save enough to take me back to America. I was standing in the yard when a ragged youngster asked if there was a cabby there called Jefferson Hope, and said that his cab was wanted by a gentleman at 221B, Baker Street.",
+    "context": {
+      "next": {
+        "content": "I went round, suspecting no harm, and the next thing I knew, this young man here had the bracelets on my wrists, and as neatly snackled as ever I saw in my life. That's the whole of my story, gentlemen. You may consider me to be a murderer; but I hold that I am just as much an officer of justice as you are.",
+        "objectID": "b2a9ba2d086d352ecf74ed98fee896b2"
+      },
+      "previous": {
+        "content": "In self-defence I stabbed him to the heart. It would have been the same in any case, for Providence would never have allowed his guilty hand to pick out anything but the poison.",
+        "objectID": "46713c15d6e8e28123ffa95ebbc545a5"
+      }
+    },
+    "objectID": "419f7503618d33e82441d48e32959c41",
+    "order": 87,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "I went round, suspecting no harm, and the next thing I knew, this young man here had the bracelets on my wrists, and as neatly snackled as ever I saw in my life. That's the whole of my story, gentlemen. You may consider me to be a murderer; but I hold that I am just as much an officer of justice as you are.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "6690bffc3cbe898cfdedf09a3b918aa9"
+      },
+      "previous": {
+        "content": "\"I have little more to say, and it's as well, for I am about done up. I went on cabbing it for a day or so, intending to keep at it until I could save enough to take me back to America. I was standing in the yard when a ragged youngster asked if there was a cabby there called Jefferson Hope, and said that his cab was wanted by a gentleman at 221B, Baker Street.",
+        "objectID": "419f7503618d33e82441d48e32959c41"
+      }
+    },
+    "objectID": "b2a9ba2d086d352ecf74ed98fee896b2",
+    "order": 88,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"",
     "context": {
       "next": {
         "content": "So thrilling had the man's narrative been, and his manner was so impressive that we had sat silent and absorbed. Even the professional detectives, blas� as they were in every detail of crime, appeared to be keenly interested in the man's story. When he finished we sat for some minutes in a stillness which was only broken by the scratching of Lestrade's pencil as he gave the finishing touches to his shorthand account.",
-        "objectID": "afe1b35a15485ebe85a4eb9edba0c2af"
+        "objectID": "abb52906cbb0916243a80b90822e1d9c"
       },
       "previous": {
-        "content": "\"That was how Enoch Drebber came to his end. All I had to do then was to do as much for Stangerson, and so pay off John Ferrier's debt. I knew that he was staying at Halliday's Private Hotel, and I hung about all day, but he never came out. fancy that he suspected something when Drebber failed to put in an appearance. He was cunning, was Stangerson, and always on his guard. If he thought he could keep me off by staying indoors he was very much mistaken. I soon found out which was the window of his bedroom, and early next morning I took advantage of some ladders which were lying in the lane behind the hotel, and so made my way into his room in the grey of the dawn. I woke him up and told him that the hour had come when he was to answer for the life he had taken so long before. I described Drebber's death to him, and I gave him the same choice of the poisoned pills. Instead of grasping at the chance of safety which that offered him, he sprang from his bed and flew at my throat. In self-defence I stabbed him to the heart. It would have been the same in any case, for Providence would never have allowed his guilty hand to pick out anything but the poison.",
-        "objectID": "9a064b6f140813bb618491fe7aa45e4a"
+        "content": "I went round, suspecting no harm, and the next thing I knew, this young man here had the bracelets on my wrists, and as neatly snackled as ever I saw in my life. That's the whole of my story, gentlemen. You may consider me to be a murderer; but I hold that I am just as much an officer of justice as you are.",
+        "objectID": "b2a9ba2d086d352ecf74ed98fee896b2"
       }
     },
-    "objectID": "307602059fb1f448b5260d334d953e20",
-    "order": 51,
+    "objectID": "6690bffc3cbe898cfdedf09a3b918aa9",
+    "order": 89,
     "tagName": "P"
   },
   {
@@ -1077,15 +1875,15 @@
     "context": {
       "next": {
         "content": "\"There is only one point on which I should like a little more information,\" Sherlock Holmes said at last. \"Who was your accomplice who came for the ring which I advertised?\"",
-        "objectID": "f80088954dd1d6c4a191714c1af98e10"
+        "objectID": "162f31dbbe4bd8e9d817d64a658dacb7"
       },
       "previous": {
-        "content": "\"I have little more to say, and it's as well, for I am about done up. I went on cabbing it for a day or so, intending to keep at it until I could save enough to take me back to America. I was standing in the yard when a ragged youngster asked if there was a cabby there called Jefferson Hope, and said that his cab was wanted by a gentleman at 221B, Baker Street. I went round, suspecting no harm, and the next thing I knew, this young man here had the bracelets on my wrists, and as neatly snackled as ever I saw in my life. That's the whole of my story, gentlemen. You may consider me to be a murderer; but I hold that I am just as much an officer of justice as you are.\"",
-        "objectID": "307602059fb1f448b5260d334d953e20"
+        "content": "\"",
+        "objectID": "6690bffc3cbe898cfdedf09a3b918aa9"
       }
     },
-    "objectID": "afe1b35a15485ebe85a4eb9edba0c2af",
-    "order": 52,
+    "objectID": "abb52906cbb0916243a80b90822e1d9c",
+    "order": 90,
     "tagName": "P"
   },
   {
@@ -1097,16 +1895,16 @@
     "content": "\"There is only one point on which I should like a little more information,\" Sherlock Holmes said at last. \"Who was your accomplice who came for the ring which I advertised?\"",
     "context": {
       "next": {
-        "content": "The prisoner winked at my friend jocosely. \"I can tell my own secrets,\" he said, \"but I don't get other people into trouble. I saw your advertisement, and I thought it might be a plant, or it might be the ring which I wanted. My friend volunteered to go and see. I think you'll own he did it smartly.\"",
-        "objectID": "098c690e59fd92ce3d1df0e2a69771af"
+        "content": "The prisoner winked at my friend jocosely. \"I can tell my own secrets,\" he said, \"but I don't get other people into trouble. I saw your advertisement, and I thought it might be a plant, or it might be the ring which I wanted. My friend volunteered to go and see. I think you'll own he did it smartly.",
+        "objectID": "47dd467e99ebeec2fcb7fb109d8d530d"
       },
       "previous": {
         "content": "So thrilling had the man's narrative been, and his manner was so impressive that we had sat silent and absorbed. Even the professional detectives, blas� as they were in every detail of crime, appeared to be keenly interested in the man's story. When he finished we sat for some minutes in a stillness which was only broken by the scratching of Lestrade's pencil as he gave the finishing touches to his shorthand account.",
-        "objectID": "afe1b35a15485ebe85a4eb9edba0c2af"
+        "objectID": "abb52906cbb0916243a80b90822e1d9c"
       }
     },
-    "objectID": "f80088954dd1d6c4a191714c1af98e10",
-    "order": 53,
+    "objectID": "162f31dbbe4bd8e9d817d64a658dacb7",
+    "order": 91,
     "tagName": "P"
   },
   {
@@ -1115,19 +1913,40 @@
     "bookOrder": 1,
     "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
     "chapterOrder": 13,
-    "content": "The prisoner winked at my friend jocosely. \"I can tell my own secrets,\" he said, \"but I don't get other people into trouble. I saw your advertisement, and I thought it might be a plant, or it might be the ring which I wanted. My friend volunteered to go and see. I think you'll own he did it smartly.\"",
+    "content": "The prisoner winked at my friend jocosely. \"I can tell my own secrets,\" he said, \"but I don't get other people into trouble. I saw your advertisement, and I thought it might be a plant, or it might be the ring which I wanted. My friend volunteered to go and see. I think you'll own he did it smartly.",
     "context": {
       "next": {
-        "content": "\"Not a doubt of that,\" said Holmes heartily.",
-        "objectID": "2c28e7b69cf3ad2c962f176fb384596d"
+        "content": "\"",
+        "objectID": "483768848c9e8a8adaf24bcb14af34ef"
       },
       "previous": {
         "content": "\"There is only one point on which I should like a little more information,\" Sherlock Holmes said at last. \"Who was your accomplice who came for the ring which I advertised?\"",
-        "objectID": "f80088954dd1d6c4a191714c1af98e10"
+        "objectID": "162f31dbbe4bd8e9d817d64a658dacb7"
       }
     },
-    "objectID": "098c690e59fd92ce3d1df0e2a69771af",
-    "order": 54,
+    "objectID": "47dd467e99ebeec2fcb7fb109d8d530d",
+    "order": 92,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
+    "chapterOrder": 13,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Not a doubt of that,\" said Holmes heartily.",
+        "objectID": "38777a29c7f3b13214201426dd0dc38d"
+      },
+      "previous": {
+        "content": "The prisoner winked at my friend jocosely. \"I can tell my own secrets,\" he said, \"but I don't get other people into trouble. I saw your advertisement, and I thought it might be a plant, or it might be the ring which I wanted. My friend volunteered to go and see. I think you'll own he did it smartly.",
+        "objectID": "47dd467e99ebeec2fcb7fb109d8d530d"
+      }
+    },
+    "objectID": "483768848c9e8a8adaf24bcb14af34ef",
+    "order": 93,
     "tagName": "P"
   },
   {
@@ -1140,15 +1959,15 @@
     "context": {
       "next": {
         "content": "\"Now, gentlemen,\" the Inspector remarked gravely, \"the forms of the law must be complied with. On Thursday the prisoner will be brought before the magistrates, and your attendance will be required. Until then I will be responsible for him.\" He rang the bell as he spoke, and Jefferson Hope was led off by a couple of warders, while my friend and I made our way out of the Station and took a cab back to Baker Street.",
-        "objectID": "d0d3508bfb654d3432a0ba0b13b8343f"
+        "objectID": "6050cacee3eaef8230a9db604eeefa90"
       },
       "previous": {
-        "content": "The prisoner winked at my friend jocosely. \"I can tell my own secrets,\" he said, \"but I don't get other people into trouble. I saw your advertisement, and I thought it might be a plant, or it might be the ring which I wanted. My friend volunteered to go and see. I think you'll own he did it smartly.\"",
-        "objectID": "098c690e59fd92ce3d1df0e2a69771af"
+        "content": "\"",
+        "objectID": "483768848c9e8a8adaf24bcb14af34ef"
       }
     },
-    "objectID": "2c28e7b69cf3ad2c962f176fb384596d",
-    "order": 55,
+    "objectID": "38777a29c7f3b13214201426dd0dc38d",
+    "order": 94,
     "tagName": "P"
   },
   {
@@ -1162,11 +1981,11 @@
       "next": null,
       "previous": {
         "content": "\"Not a doubt of that,\" said Holmes heartily.",
-        "objectID": "2c28e7b69cf3ad2c962f176fb384596d"
+        "objectID": "38777a29c7f3b13214201426dd0dc38d"
       }
     },
-    "objectID": "d0d3508bfb654d3432a0ba0b13b8343f",
-    "order": 56,
+    "objectID": "6050cacee3eaef8230a9db604eeefa90",
+    "order": 95,
     "tagName": "P"
   }
 ]

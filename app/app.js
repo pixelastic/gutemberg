@@ -3,10 +3,10 @@ let Sherlock = {
     this.search = instantsearch({
       appId: 'O3F8QXYK6R',
       apiKey: '315734cd612e89d2c548256293799f0c',
-      indexName: 'gutenberg',
-      searchParameters: {
-        distinct: 2
-      }
+      indexName: 'gutenberg'
+      // searchParameters: {
+      //   distinct: 2
+      // }
     });
 
     this.addSearchBoxWidget();

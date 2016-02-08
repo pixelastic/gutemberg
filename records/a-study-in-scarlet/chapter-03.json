@@ -5,16 +5,37 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "I CONFESS that I was considerably startled by this fresh proof of the practical nature of my companion's theories. My respect for his powers of analysis increased wondrously. There still remained some lurking suspicion in my mind, however, that the whole thing was a pre-arranged episode, intended to dazzle me, though what earthly object he could have in taking me in was past my comprehension. When I looked at him he had finished reading the note, and his eyes had assumed the vacant, lack-lustre expression which showed mental abstraction.",
+    "content": "I CONFESS that I was considerably startled by this fresh proof of the practical nature of my companion's theories. My respect for his powers of analysis increased wondrously. There still remained some lurking suspicion in my mind, however, that the whole thing was a pre-arranged episode, intended to dazzle me, though what earthly object he could have in taking me in was past my comprehension.",
     "context": {
       "next": {
-        "content": "\"How in the world did you deduce that?\" I asked.",
-        "objectID": "3d70b62673f88c93798e3ef46d7ff7b5"
+        "content": "When I looked at him he had finished reading the note, and his eyes had assumed the vacant, lack-lustre expression which showed mental abstraction.",
+        "objectID": "441e082682ffb6ce224cf1bd3639bdbd"
       },
       "previous": null
     },
-    "objectID": "5afc788bae1f930684049b462c357d74",
+    "objectID": "33c1c3eda36074d7b66ee815f073da79",
     "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "When I looked at him he had finished reading the note, and his eyes had assumed the vacant, lack-lustre expression which showed mental abstraction.",
+    "context": {
+      "next": {
+        "content": "\"How in the world did you deduce that?\" I asked.",
+        "objectID": "c0bd07b740768073872fb8590d5d46fa"
+      },
+      "previous": {
+        "content": "I CONFESS that I was considerably startled by this fresh proof of the practical nature of my companion's theories. My respect for his powers of analysis increased wondrously. There still remained some lurking suspicion in my mind, however, that the whole thing was a pre-arranged episode, intended to dazzle me, though what earthly object he could have in taking me in was past my comprehension.",
+        "objectID": "33c1c3eda36074d7b66ee815f073da79"
+      }
+    },
+    "objectID": "441e082682ffb6ce224cf1bd3639bdbd",
+    "order": 2,
     "tagName": "P"
   },
   {
@@ -27,15 +48,15 @@
     "context": {
       "next": {
         "content": "\"Deduce what?\" said he, petulantly.",
-        "objectID": "6c329a87bf9830fbacefdd11d689b726"
+        "objectID": "3ae1ec49e6a10cff9e9b69f49448b5e9"
       },
       "previous": {
-        "content": "I CONFESS that I was considerably startled by this fresh proof of the practical nature of my companion's theories. My respect for his powers of analysis increased wondrously. There still remained some lurking suspicion in my mind, however, that the whole thing was a pre-arranged episode, intended to dazzle me, though what earthly object he could have in taking me in was past my comprehension. When I looked at him he had finished reading the note, and his eyes had assumed the vacant, lack-lustre expression which showed mental abstraction.",
-        "objectID": "5afc788bae1f930684049b462c357d74"
+        "content": "When I looked at him he had finished reading the note, and his eyes had assumed the vacant, lack-lustre expression which showed mental abstraction.",
+        "objectID": "441e082682ffb6ce224cf1bd3639bdbd"
       }
     },
-    "objectID": "3d70b62673f88c93798e3ef46d7ff7b5",
-    "order": 2,
+    "objectID": "c0bd07b740768073872fb8590d5d46fa",
+    "order": 3,
     "tagName": "P"
   },
   {
@@ -48,15 +69,15 @@
     "context": {
       "next": {
         "content": "\"Why, that he was a retired sergeant of Marines.\"",
-        "objectID": "fed0bccf375bbd1a8b137442d70961ce"
+        "objectID": "ba1de3b8f34721273290a5c9eef3a68b"
       },
       "previous": {
         "content": "\"How in the world did you deduce that?\" I asked.",
-        "objectID": "3d70b62673f88c93798e3ef46d7ff7b5"
+        "objectID": "c0bd07b740768073872fb8590d5d46fa"
       }
     },
-    "objectID": "6c329a87bf9830fbacefdd11d689b726",
-    "order": 3,
+    "objectID": "3ae1ec49e6a10cff9e9b69f49448b5e9",
+    "order": 4,
     "tagName": "P"
   },
   {
@@ -69,15 +90,15 @@
     "context": {
       "next": {
         "content": "\"I have no time for trifles,\" he answered, brusquely; then with a smile, \"Excuse my rudeness. You broke the thread of my thoughts; but perhaps it is as well. So you actually were not able to see that that man was a sergeant of Marines?\"",
-        "objectID": "5f2a68ee077c053f872002ec77a29ae6"
+        "objectID": "d99d681afd48420cd5f0a1fca8437d8e"
       },
       "previous": {
         "content": "\"Deduce what?\" said he, petulantly.",
-        "objectID": "6c329a87bf9830fbacefdd11d689b726"
+        "objectID": "3ae1ec49e6a10cff9e9b69f49448b5e9"
       }
     },
-    "objectID": "fed0bccf375bbd1a8b137442d70961ce",
-    "order": 4,
+    "objectID": "ba1de3b8f34721273290a5c9eef3a68b",
+    "order": 5,
     "tagName": "P"
   },
   {
@@ -90,15 +111,15 @@
     "context": {
       "next": {
         "content": "\"No, indeed.\"",
-        "objectID": "c29dd1ebdc6f8fdc3699187b94366178"
+        "objectID": "d1fe4bfd8ea28cbf0c8695c070d6d416"
       },
       "previous": {
         "content": "\"Why, that he was a retired sergeant of Marines.\"",
-        "objectID": "fed0bccf375bbd1a8b137442d70961ce"
+        "objectID": "ba1de3b8f34721273290a5c9eef3a68b"
       }
     },
-    "objectID": "5f2a68ee077c053f872002ec77a29ae6",
-    "order": 5,
+    "objectID": "d99d681afd48420cd5f0a1fca8437d8e",
+    "order": 6,
     "tagName": "P"
   },
   {
@@ -110,16 +131,16 @@
     "content": "\"No, indeed.\"",
     "context": {
       "next": {
-        "content": "\"It was easier to know it than to explain why I knew it. If you were asked to prove that two and two made four, you might find some difficulty, and yet you are quite sure of the fact. Even across the street I could see a great blue anchor tattooed on the back of the fellow's hand. That smacked of the sea. He had a military carriage, however, and regulation side whiskers. There we have the marine. He was a man with some amount of self-importance and a certain air of command. You must have observed the way in which he held his head and swung his cane. A steady, respectable, middle-aged man, too, on the face of him—all facts which led me to believe that he had been a sergeant.\"",
-        "objectID": "b5aa3821bc7d73a219b5c210bc5c0ffe"
+        "content": "\"It was easier to know it than to explain why I knew it. If you were asked to prove that two and two made four, you might find some difficulty, and yet you are quite sure of the fact. Even across the street I could see a great blue anchor tattooed on the back of the fellow's hand. That smacked of the sea.",
+        "objectID": "127e1735ecb0012c877df29c0a4c3510"
       },
       "previous": {
         "content": "\"I have no time for trifles,\" he answered, brusquely; then with a smile, \"Excuse my rudeness. You broke the thread of my thoughts; but perhaps it is as well. So you actually were not able to see that that man was a sergeant of Marines?\"",
-        "objectID": "5f2a68ee077c053f872002ec77a29ae6"
+        "objectID": "d99d681afd48420cd5f0a1fca8437d8e"
       }
     },
-    "objectID": "c29dd1ebdc6f8fdc3699187b94366178",
-    "order": 6,
+    "objectID": "d1fe4bfd8ea28cbf0c8695c070d6d416",
+    "order": 7,
     "tagName": "P"
   },
   {
@@ -128,19 +149,61 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "\"It was easier to know it than to explain why I knew it. If you were asked to prove that two and two made four, you might find some difficulty, and yet you are quite sure of the fact. Even across the street I could see a great blue anchor tattooed on the back of the fellow's hand. That smacked of the sea. He had a military carriage, however, and regulation side whiskers. There we have the marine. He was a man with some amount of self-importance and a certain air of command. You must have observed the way in which he held his head and swung his cane. A steady, respectable, middle-aged man, too, on the face of him—all facts which led me to believe that he had been a sergeant.\"",
+    "content": "\"It was easier to know it than to explain why I knew it. If you were asked to prove that two and two made four, you might find some difficulty, and yet you are quite sure of the fact. Even across the street I could see a great blue anchor tattooed on the back of the fellow's hand. That smacked of the sea.",
     "context": {
       "next": {
-        "content": "\"Wonderful!\" I ejaculated.",
-        "objectID": "e68a4492df0946e28653b83cfa500c49"
+        "content": "He had a military carriage, however, and regulation side whiskers. There we have the marine. He was a man with some amount of self-importance and a certain air of command. You must have observed the way in which he held his head and swung his cane. A steady, respectable, middle-aged man, too, on the face of him—all facts which led me to believe that he had been a sergeant.",
+        "objectID": "14d491a6114e9a93afb68f33eaa91e9d"
       },
       "previous": {
         "content": "\"No, indeed.\"",
-        "objectID": "c29dd1ebdc6f8fdc3699187b94366178"
+        "objectID": "d1fe4bfd8ea28cbf0c8695c070d6d416"
       }
     },
-    "objectID": "b5aa3821bc7d73a219b5c210bc5c0ffe",
-    "order": 7,
+    "objectID": "127e1735ecb0012c877df29c0a4c3510",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "He had a military carriage, however, and regulation side whiskers. There we have the marine. He was a man with some amount of self-importance and a certain air of command. You must have observed the way in which he held his head and swung his cane. A steady, respectable, middle-aged man, too, on the face of him—all facts which led me to believe that he had been a sergeant.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "aa5a10d747d55035d7c4d9c98fc72f21"
+      },
+      "previous": {
+        "content": "\"It was easier to know it than to explain why I knew it. If you were asked to prove that two and two made four, you might find some difficulty, and yet you are quite sure of the fact. Even across the street I could see a great blue anchor tattooed on the back of the fellow's hand. That smacked of the sea.",
+        "objectID": "127e1735ecb0012c877df29c0a4c3510"
+      }
+    },
+    "objectID": "14d491a6114e9a93afb68f33eaa91e9d",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Wonderful!\" I ejaculated.",
+        "objectID": "d36fea03d254b98bdd6bc6ac50387d9c"
+      },
+      "previous": {
+        "content": "He had a military carriage, however, and regulation side whiskers. There we have the marine. He was a man with some amount of self-importance and a certain air of command. You must have observed the way in which he held his head and swung his cane. A steady, respectable, middle-aged man, too, on the face of him—all facts which led me to believe that he had been a sergeant.",
+        "objectID": "14d491a6114e9a93afb68f33eaa91e9d"
+      }
+    },
+    "objectID": "aa5a10d747d55035d7c4d9c98fc72f21",
+    "order": 10,
     "tagName": "P"
   },
   {
@@ -153,15 +216,15 @@
     "context": {
       "next": {
         "content": "\"Commonplace,\" said Holmes, though I thought from his expression that he was pleased at my evident surprise and admiration. \"I said just now that there were no criminals. It appears that I am wrong—look at this!\" He threw me over the note which the commissionaire had brought.",
-        "objectID": "83abf7b1a65ff6d679ac11ca51f081e3"
+        "objectID": "a849a61e8423601bf7962ed439a1896d"
       },
       "previous": {
-        "content": "\"It was easier to know it than to explain why I knew it. If you were asked to prove that two and two made four, you might find some difficulty, and yet you are quite sure of the fact. Even across the street I could see a great blue anchor tattooed on the back of the fellow's hand. That smacked of the sea. He had a military carriage, however, and regulation side whiskers. There we have the marine. He was a man with some amount of self-importance and a certain air of command. You must have observed the way in which he held his head and swung his cane. A steady, respectable, middle-aged man, too, on the face of him—all facts which led me to believe that he had been a sergeant.\"",
-        "objectID": "b5aa3821bc7d73a219b5c210bc5c0ffe"
+        "content": "\"",
+        "objectID": "aa5a10d747d55035d7c4d9c98fc72f21"
       }
     },
-    "objectID": "e68a4492df0946e28653b83cfa500c49",
-    "order": 8,
+    "objectID": "d36fea03d254b98bdd6bc6ac50387d9c",
+    "order": 11,
     "tagName": "P"
   },
   {
@@ -174,15 +237,15 @@
     "context": {
       "next": {
         "content": "\"Why,\" I cried, as I cast my eye over it, \"this is terrible!\"",
-        "objectID": "36053454d7309d37c36ab6e56cc529d9"
+        "objectID": "ebba908274e96efb52bf93007675749b"
       },
       "previous": {
         "content": "\"Wonderful!\" I ejaculated.",
-        "objectID": "e68a4492df0946e28653b83cfa500c49"
+        "objectID": "d36fea03d254b98bdd6bc6ac50387d9c"
       }
     },
-    "objectID": "83abf7b1a65ff6d679ac11ca51f081e3",
-    "order": 9,
+    "objectID": "a849a61e8423601bf7962ed439a1896d",
+    "order": 12,
     "tagName": "P"
   },
   {
@@ -195,15 +258,15 @@
     "context": {
       "next": {
         "content": "\"It does seem to be a little out of the common,\" he remarked, calmly. \"Would you mind reading it to me aloud?\"",
-        "objectID": "c7b9e80c4800506b450b33cbcf551706"
+        "objectID": "89fd06dec944b03ad8367825f732a3d4"
       },
       "previous": {
         "content": "\"Commonplace,\" said Holmes, though I thought from his expression that he was pleased at my evident surprise and admiration. \"I said just now that there were no criminals. It appears that I am wrong—look at this!\" He threw me over the note which the commissionaire had brought.",
-        "objectID": "83abf7b1a65ff6d679ac11ca51f081e3"
+        "objectID": "a849a61e8423601bf7962ed439a1896d"
       }
     },
-    "objectID": "36053454d7309d37c36ab6e56cc529d9",
-    "order": 10,
+    "objectID": "ebba908274e96efb52bf93007675749b",
+    "order": 13,
     "tagName": "P"
   },
   {
@@ -216,15 +279,15 @@
     "context": {
       "next": {
         "content": "This is the letter which I read to him——",
-        "objectID": "86b7b253687fc5e11a8b7c8c41679067"
+        "objectID": "0234896106065f2c51dc33b905728124"
       },
       "previous": {
         "content": "\"Why,\" I cried, as I cast my eye over it, \"this is terrible!\"",
-        "objectID": "36053454d7309d37c36ab6e56cc529d9"
+        "objectID": "ebba908274e96efb52bf93007675749b"
       }
     },
-    "objectID": "c7b9e80c4800506b450b33cbcf551706",
-    "order": 11,
+    "objectID": "89fd06dec944b03ad8367825f732a3d4",
+    "order": 14,
     "tagName": "P"
   },
   {
@@ -237,15 +300,15 @@
     "context": {
       "next": {
         "content": "\"MY DEAR MR. SHERLOCK HOLMES,—",
-        "objectID": "68c33c6d88cab04316ad1892cf321ea0"
+        "objectID": "170205f65158cb67899a765617e8b4ff"
       },
       "previous": {
         "content": "\"It does seem to be a little out of the common,\" he remarked, calmly. \"Would you mind reading it to me aloud?\"",
-        "objectID": "c7b9e80c4800506b450b33cbcf551706"
+        "objectID": "89fd06dec944b03ad8367825f732a3d4"
       }
     },
-    "objectID": "86b7b253687fc5e11a8b7c8c41679067",
-    "order": 12,
+    "objectID": "0234896106065f2c51dc33b905728124",
+    "order": 15,
     "tagName": "P"
   },
   {
@@ -257,16 +320,16 @@
     "content": "\"MY DEAR MR. SHERLOCK HOLMES,—",
     "context": {
       "next": {
-        "content": "\"There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss. He found the door open, and in the front room, which is bare of furniture, discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of 'Enoch J. Drebber, Cleveland, Ohio, U.S.A.' There had been no robbery, nor is there any evidence as to how the man met his death. There are marks of blood in the room, but there is no wound upon his person. We are at a loss as to how he came into the empty house; indeed, the whole affair is a puzzler. If you can come round to the house any time before twelve, you will find me there. I have left everything in statu quo until I hear from you. If you are unable to come I shall give you fuller details, and would esteem it a great kindness if you would favour me with your opinion. Yours faithfully,",
-        "objectID": "05c8a0c441b0b25858d4afcb418d22ad"
+        "content": "\"There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss. He found the door open, and in the front room, which is bare of furniture, discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of 'Enoch J.",
+        "objectID": "58e8dcf2af95440b4602878046233fa0"
       },
       "previous": {
         "content": "This is the letter which I read to him——",
-        "objectID": "86b7b253687fc5e11a8b7c8c41679067"
+        "objectID": "0234896106065f2c51dc33b905728124"
       }
     },
-    "objectID": "68c33c6d88cab04316ad1892cf321ea0",
-    "order": 13,
+    "objectID": "170205f65158cb67899a765617e8b4ff",
+    "order": 16,
     "tagName": "P"
   },
   {
@@ -275,19 +338,61 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "\"There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss. He found the door open, and in the front room, which is bare of furniture, discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of 'Enoch J. Drebber, Cleveland, Ohio, U.S.A.' There had been no robbery, nor is there any evidence as to how the man met his death. There are marks of blood in the room, but there is no wound upon his person. We are at a loss as to how he came into the empty house; indeed, the whole affair is a puzzler. If you can come round to the house any time before twelve, you will find me there. I have left everything in statu quo until I hear from you. If you are unable to come I shall give you fuller details, and would esteem it a great kindness if you would favour me with your opinion. Yours faithfully,",
+    "content": "\"There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss. He found the door open, and in the front room, which is bare of furniture, discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of 'Enoch J.",
     "context": {
       "next": {
-        "content": "\"TOBIAS GREGSON.\"",
-        "objectID": "c930d36f5b99fde013f2ec2d5ffc15d9"
+        "content": "Drebber, Cleveland, Ohio, U.S.A.' There had been no robbery, nor is there any evidence as to how the man met his death. There are marks of blood in the room, but there is no wound upon his person. We are at a loss as to how he came into the empty house; indeed, the whole affair is a puzzler. If you can come round to the house any time before twelve, you will find me there.",
+        "objectID": "8bfac6155bf0d51eee895e795a060c17"
       },
       "previous": {
         "content": "\"MY DEAR MR. SHERLOCK HOLMES,—",
-        "objectID": "68c33c6d88cab04316ad1892cf321ea0"
+        "objectID": "170205f65158cb67899a765617e8b4ff"
       }
     },
-    "objectID": "05c8a0c441b0b25858d4afcb418d22ad",
-    "order": 14,
+    "objectID": "58e8dcf2af95440b4602878046233fa0",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "Drebber, Cleveland, Ohio, U.S.A.' There had been no robbery, nor is there any evidence as to how the man met his death. There are marks of blood in the room, but there is no wound upon his person. We are at a loss as to how he came into the empty house; indeed, the whole affair is a puzzler. If you can come round to the house any time before twelve, you will find me there.",
+    "context": {
+      "next": {
+        "content": "I have left everything in statu quo until I hear from you. If you are unable to come I shall give you fuller details, and would esteem it a great kindness if you would favour me with your opinion. Yours faithfully,",
+        "objectID": "5887b3f87760abc60ace1cbf1b1a2dd2"
+      },
+      "previous": {
+        "content": "\"There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss. He found the door open, and in the front room, which is bare of furniture, discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of 'Enoch J.",
+        "objectID": "58e8dcf2af95440b4602878046233fa0"
+      }
+    },
+    "objectID": "8bfac6155bf0d51eee895e795a060c17",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "I have left everything in statu quo until I hear from you. If you are unable to come I shall give you fuller details, and would esteem it a great kindness if you would favour me with your opinion. Yours faithfully,",
+    "context": {
+      "next": {
+        "content": "\"TOBIAS GREGSON.\"",
+        "objectID": "c5b3fe52344816c1c57ea6c3f1bea67e"
+      },
+      "previous": {
+        "content": "Drebber, Cleveland, Ohio, U.S.A.' There had been no robbery, nor is there any evidence as to how the man met his death. There are marks of blood in the room, but there is no wound upon his person. We are at a loss as to how he came into the empty house; indeed, the whole affair is a puzzler. If you can come round to the house any time before twelve, you will find me there.",
+        "objectID": "8bfac6155bf0d51eee895e795a060c17"
+      }
+    },
+    "objectID": "5887b3f87760abc60ace1cbf1b1a2dd2",
+    "order": 19,
     "tagName": "P"
   },
   {
@@ -299,16 +404,16 @@
     "content": "\"TOBIAS GREGSON.\"",
     "context": {
       "next": {
-        "content": "\"Gregson is the smartest of the Scotland Yarders,\" my friend remarked; \"he and Lestrade are the pick of a bad lot. They are both quick and energetic, but conventional—shockingly so. They have their knives into one another, too. They are as jealous as a pair of professional beauties. There will be some fun over this case if they are both put upon the scent.\"",
-        "objectID": "9b1d8b3fce8fff426c1eaaf1fd7acf92"
+        "content": "\"Gregson is the smartest of the Scotland Yarders,\" my friend remarked; \"he and Lestrade are the pick of a bad lot. They are both quick and energetic, but conventional—shockingly so. They have their knives into one another, too. They are as jealous as a pair of professional beauties. There will be some fun over this case if they are both put upon the scent.",
+        "objectID": "3fd5a29b2793a483f3eda1ee560c2dce"
       },
       "previous": {
-        "content": "\"There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road. Our man on the beat saw a light there about two in the morning, and as the house was an empty one, suspected that something was amiss. He found the door open, and in the front room, which is bare of furniture, discovered the body of a gentleman, well dressed, and having cards in his pocket bearing the name of 'Enoch J. Drebber, Cleveland, Ohio, U.S.A.' There had been no robbery, nor is there any evidence as to how the man met his death. There are marks of blood in the room, but there is no wound upon his person. We are at a loss as to how he came into the empty house; indeed, the whole affair is a puzzler. If you can come round to the house any time before twelve, you will find me there. I have left everything in statu quo until I hear from you. If you are unable to come I shall give you fuller details, and would esteem it a great kindness if you would favour me with your opinion. Yours faithfully,",
-        "objectID": "05c8a0c441b0b25858d4afcb418d22ad"
+        "content": "I have left everything in statu quo until I hear from you. If you are unable to come I shall give you fuller details, and would esteem it a great kindness if you would favour me with your opinion. Yours faithfully,",
+        "objectID": "5887b3f87760abc60ace1cbf1b1a2dd2"
       }
     },
-    "objectID": "c930d36f5b99fde013f2ec2d5ffc15d9",
-    "order": 15,
+    "objectID": "c5b3fe52344816c1c57ea6c3f1bea67e",
+    "order": 20,
     "tagName": "P"
   },
   {
@@ -317,19 +422,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "\"Gregson is the smartest of the Scotland Yarders,\" my friend remarked; \"he and Lestrade are the pick of a bad lot. They are both quick and energetic, but conventional—shockingly so. They have their knives into one another, too. They are as jealous as a pair of professional beauties. There will be some fun over this case if they are both put upon the scent.\"",
+    "content": "\"Gregson is the smartest of the Scotland Yarders,\" my friend remarked; \"he and Lestrade are the pick of a bad lot. They are both quick and energetic, but conventional—shockingly so. They have their knives into one another, too. They are as jealous as a pair of professional beauties. There will be some fun over this case if they are both put upon the scent.",
     "context": {
       "next": {
-        "content": "I was amazed at the calm way in which he rippled on. \"Surely there is not a moment to be lost,\" I cried, \"shall I go and order you a cab?\"",
-        "objectID": "6673fffd9935ab702f3d4f2ae2cf9f9f"
+        "content": "\"",
+        "objectID": "6b8ba5d6ad81cbde60671226dcf078a8"
       },
       "previous": {
         "content": "\"TOBIAS GREGSON.\"",
-        "objectID": "c930d36f5b99fde013f2ec2d5ffc15d9"
+        "objectID": "c5b3fe52344816c1c57ea6c3f1bea67e"
       }
     },
-    "objectID": "9b1d8b3fce8fff426c1eaaf1fd7acf92",
-    "order": 16,
+    "objectID": "3fd5a29b2793a483f3eda1ee560c2dce",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "I was amazed at the calm way in which he rippled on. \"Surely there is not a moment to be lost,\" I cried, \"shall I go and order you a cab?\"",
+        "objectID": "0c4da576b58c56a756b6f024eb0fa69d"
+      },
+      "previous": {
+        "content": "\"Gregson is the smartest of the Scotland Yarders,\" my friend remarked; \"he and Lestrade are the pick of a bad lot. They are both quick and energetic, but conventional—shockingly so. They have their knives into one another, too. They are as jealous as a pair of professional beauties. There will be some fun over this case if they are both put upon the scent.",
+        "objectID": "3fd5a29b2793a483f3eda1ee560c2dce"
+      }
+    },
+    "objectID": "6b8ba5d6ad81cbde60671226dcf078a8",
+    "order": 22,
     "tagName": "P"
   },
   {
@@ -342,15 +468,15 @@
     "context": {
       "next": {
         "content": "\"I'm not sure about whether I shall go. I am the most incurably lazy devil that ever stood in shoe leather—that is, when the fit is on me, for I can be spry enough at times.\"",
-        "objectID": "58775d2a17ccc1832a57ecd853010f77"
+        "objectID": "975173954ecfae57f7cf07145f25ff9b"
       },
       "previous": {
-        "content": "\"Gregson is the smartest of the Scotland Yarders,\" my friend remarked; \"he and Lestrade are the pick of a bad lot. They are both quick and energetic, but conventional—shockingly so. They have their knives into one another, too. They are as jealous as a pair of professional beauties. There will be some fun over this case if they are both put upon the scent.\"",
-        "objectID": "9b1d8b3fce8fff426c1eaaf1fd7acf92"
+        "content": "\"",
+        "objectID": "6b8ba5d6ad81cbde60671226dcf078a8"
       }
     },
-    "objectID": "6673fffd9935ab702f3d4f2ae2cf9f9f",
-    "order": 17,
+    "objectID": "0c4da576b58c56a756b6f024eb0fa69d",
+    "order": 23,
     "tagName": "P"
   },
   {
@@ -363,15 +489,15 @@
     "context": {
       "next": {
         "content": "\"Why, it is just such a chance as you have been longing for.\"",
-        "objectID": "ae335f6c007633e697aa1e1b6959615e"
+        "objectID": "cc3c4a7c9920c87f9dcd60e712ecd6a3"
       },
       "previous": {
         "content": "I was amazed at the calm way in which he rippled on. \"Surely there is not a moment to be lost,\" I cried, \"shall I go and order you a cab?\"",
-        "objectID": "6673fffd9935ab702f3d4f2ae2cf9f9f"
+        "objectID": "0c4da576b58c56a756b6f024eb0fa69d"
       }
     },
-    "objectID": "58775d2a17ccc1832a57ecd853010f77",
-    "order": 18,
+    "objectID": "975173954ecfae57f7cf07145f25ff9b",
+    "order": 24,
     "tagName": "P"
   },
   {
@@ -384,15 +510,15 @@
     "context": {
       "next": {
         "content": "\"My dear fellow, what does it matter to me. Supposing I unravel the whole matter, you may be sure that Gregson, Lestrade, and Co. will pocket all the credit. That comes of being an unofficial personage.\"",
-        "objectID": "4010bfabe725ee2cb8b9508b15fe1557"
+        "objectID": "c0066f57d6e3292b1219dc156188a96f"
       },
       "previous": {
         "content": "\"I'm not sure about whether I shall go. I am the most incurably lazy devil that ever stood in shoe leather—that is, when the fit is on me, for I can be spry enough at times.\"",
-        "objectID": "58775d2a17ccc1832a57ecd853010f77"
+        "objectID": "975173954ecfae57f7cf07145f25ff9b"
       }
     },
-    "objectID": "ae335f6c007633e697aa1e1b6959615e",
-    "order": 19,
+    "objectID": "cc3c4a7c9920c87f9dcd60e712ecd6a3",
+    "order": 25,
     "tagName": "P"
   },
   {
@@ -405,15 +531,15 @@
     "context": {
       "next": {
         "content": "\"But he begs you to help him.\"",
-        "objectID": "7d8cbaeb7230114a93a6fe892117f065"
+        "objectID": "bca049839c630ea7c8b82babcd1a2ad5"
       },
       "previous": {
         "content": "\"Why, it is just such a chance as you have been longing for.\"",
-        "objectID": "ae335f6c007633e697aa1e1b6959615e"
+        "objectID": "cc3c4a7c9920c87f9dcd60e712ecd6a3"
       }
     },
-    "objectID": "4010bfabe725ee2cb8b9508b15fe1557",
-    "order": 20,
+    "objectID": "c0066f57d6e3292b1219dc156188a96f",
+    "order": 26,
     "tagName": "P"
   },
   {
@@ -426,15 +552,15 @@
     "context": {
       "next": {
         "content": "\"Yes. He knows that I am his superior, and acknowledges it to me; but he would cut his tongue out before he would own it to any third person. However, we may as well go and have a look. I shall work it out on my own hook. I may have a laugh at them if I have nothing else. Come on!\"",
-        "objectID": "d9ff137d82f4f9ba3d62e7ac1150bd91"
+        "objectID": "37bff88a0b1987cf47ee7da6975ac965"
       },
       "previous": {
         "content": "\"My dear fellow, what does it matter to me. Supposing I unravel the whole matter, you may be sure that Gregson, Lestrade, and Co. will pocket all the credit. That comes of being an unofficial personage.\"",
-        "objectID": "4010bfabe725ee2cb8b9508b15fe1557"
+        "objectID": "c0066f57d6e3292b1219dc156188a96f"
       }
     },
-    "objectID": "7d8cbaeb7230114a93a6fe892117f065",
-    "order": 21,
+    "objectID": "bca049839c630ea7c8b82babcd1a2ad5",
+    "order": 27,
     "tagName": "P"
   },
   {
@@ -447,15 +573,15 @@
     "context": {
       "next": {
         "content": "He hustled on his overcoat, and bustled about in a way that showed that an energetic fit had superseded the apathetic one.",
-        "objectID": "3f6a97d50ed2dea701956c73413bcdfd"
+        "objectID": "6ba69f495cfd4384c8b721304ec35bcb"
       },
       "previous": {
         "content": "\"But he begs you to help him.\"",
-        "objectID": "7d8cbaeb7230114a93a6fe892117f065"
+        "objectID": "bca049839c630ea7c8b82babcd1a2ad5"
       }
     },
-    "objectID": "d9ff137d82f4f9ba3d62e7ac1150bd91",
-    "order": 22,
+    "objectID": "37bff88a0b1987cf47ee7da6975ac965",
+    "order": 28,
     "tagName": "P"
   },
   {
@@ -468,15 +594,15 @@
     "context": {
       "next": {
         "content": "\"Get your hat,\" he said.",
-        "objectID": "2c9fb9ac06c126659cdfbf957be3e2db"
+        "objectID": "0b920ecc2cfd234fd01d7c3fd52a0732"
       },
       "previous": {
         "content": "\"Yes. He knows that I am his superior, and acknowledges it to me; but he would cut his tongue out before he would own it to any third person. However, we may as well go and have a look. I shall work it out on my own hook. I may have a laugh at them if I have nothing else. Come on!\"",
-        "objectID": "d9ff137d82f4f9ba3d62e7ac1150bd91"
+        "objectID": "37bff88a0b1987cf47ee7da6975ac965"
       }
     },
-    "objectID": "3f6a97d50ed2dea701956c73413bcdfd",
-    "order": 23,
+    "objectID": "6ba69f495cfd4384c8b721304ec35bcb",
+    "order": 29,
     "tagName": "P"
   },
   {
@@ -489,15 +615,15 @@
     "context": {
       "next": {
         "content": "\"You wish me to come?\"",
-        "objectID": "225a8aa708e449ef823f924c6d96f88b"
+        "objectID": "c3838da062168abca995c12f4e3a27b7"
       },
       "previous": {
         "content": "He hustled on his overcoat, and bustled about in a way that showed that an energetic fit had superseded the apathetic one.",
-        "objectID": "3f6a97d50ed2dea701956c73413bcdfd"
+        "objectID": "6ba69f495cfd4384c8b721304ec35bcb"
       }
     },
-    "objectID": "2c9fb9ac06c126659cdfbf957be3e2db",
-    "order": 24,
+    "objectID": "0b920ecc2cfd234fd01d7c3fd52a0732",
+    "order": 30,
     "tagName": "P"
   },
   {
@@ -510,15 +636,15 @@
     "context": {
       "next": {
         "content": "\"Yes, if you have nothing better to do.\" A minute later we were both in a hansom, driving furiously for the Brixton Road.",
-        "objectID": "f9c7815a6766ba3876d7796e2e3151b2"
+        "objectID": "eba31c18078e5a4d488c9ea8d28debb9"
       },
       "previous": {
         "content": "\"Get your hat,\" he said.",
-        "objectID": "2c9fb9ac06c126659cdfbf957be3e2db"
+        "objectID": "0b920ecc2cfd234fd01d7c3fd52a0732"
       }
     },
-    "objectID": "225a8aa708e449ef823f924c6d96f88b",
-    "order": 25,
+    "objectID": "c3838da062168abca995c12f4e3a27b7",
+    "order": 31,
     "tagName": "P"
   },
   {
@@ -531,15 +657,15 @@
     "context": {
       "next": {
         "content": "It was a foggy, cloudy morning, and a dun-coloured veil hung over the house-tops, looking like the reflection of the mud-coloured streets beneath. My companion was in the best of spirits, and prattled away about Cremona fiddles, and the difference between a Stradivarius and an Amati. As for myself, I was silent, for the dull weather and the melancholy business upon which we were engaged, depressed my spirits.",
-        "objectID": "19560dd5d1297ec3810c48493c89068d"
+        "objectID": "eab69b13ed8f9c8629db9d648ab472e4"
       },
       "previous": {
         "content": "\"You wish me to come?\"",
-        "objectID": "225a8aa708e449ef823f924c6d96f88b"
+        "objectID": "c3838da062168abca995c12f4e3a27b7"
       }
     },
-    "objectID": "f9c7815a6766ba3876d7796e2e3151b2",
-    "order": 26,
+    "objectID": "eba31c18078e5a4d488c9ea8d28debb9",
+    "order": 32,
     "tagName": "P"
   },
   {
@@ -552,15 +678,15 @@
     "context": {
       "next": {
         "content": "\"You don't seem to give much thought to the matter in hand,\" I said at last, interrupting Holmes' musical disquisition.",
-        "objectID": "4521fc27da8939cfbdafebd4317a689d"
+        "objectID": "e5f18c738105dd871cadfe053c4f1dee"
       },
       "previous": {
         "content": "\"Yes, if you have nothing better to do.\" A minute later we were both in a hansom, driving furiously for the Brixton Road.",
-        "objectID": "f9c7815a6766ba3876d7796e2e3151b2"
+        "objectID": "eba31c18078e5a4d488c9ea8d28debb9"
       }
     },
-    "objectID": "19560dd5d1297ec3810c48493c89068d",
-    "order": 27,
+    "objectID": "eab69b13ed8f9c8629db9d648ab472e4",
+    "order": 33,
     "tagName": "P"
   },
   {
@@ -573,15 +699,15 @@
     "context": {
       "next": {
         "content": "\"No data yet,\" he answered. \"It is a capital mistake to theorize before you have all the evidence. It biases the judgment.\"",
-        "objectID": "d70d834f1bafcd867eea90874c0bb057"
+        "objectID": "fbb9f3dc170f6b4b73586cfc8d76c112"
       },
       "previous": {
         "content": "It was a foggy, cloudy morning, and a dun-coloured veil hung over the house-tops, looking like the reflection of the mud-coloured streets beneath. My companion was in the best of spirits, and prattled away about Cremona fiddles, and the difference between a Stradivarius and an Amati. As for myself, I was silent, for the dull weather and the melancholy business upon which we were engaged, depressed my spirits.",
-        "objectID": "19560dd5d1297ec3810c48493c89068d"
+        "objectID": "eab69b13ed8f9c8629db9d648ab472e4"
       }
     },
-    "objectID": "4521fc27da8939cfbdafebd4317a689d",
-    "order": 28,
+    "objectID": "e5f18c738105dd871cadfe053c4f1dee",
+    "order": 34,
     "tagName": "P"
   },
   {
@@ -594,15 +720,15 @@
     "context": {
       "next": {
         "content": "\"You will have your data soon,\" I remarked, pointing with my finger; \"this is the Brixton Road, and that is the house, if I am not very much mistaken.\"",
-        "objectID": "035fc20d8b53111c81aea148e19488b9"
+        "objectID": "8588c022f411e5df559ba92e96892acb"
       },
       "previous": {
         "content": "\"You don't seem to give much thought to the matter in hand,\" I said at last, interrupting Holmes' musical disquisition.",
-        "objectID": "4521fc27da8939cfbdafebd4317a689d"
+        "objectID": "e5f18c738105dd871cadfe053c4f1dee"
       }
     },
-    "objectID": "d70d834f1bafcd867eea90874c0bb057",
-    "order": 29,
+    "objectID": "fbb9f3dc170f6b4b73586cfc8d76c112",
+    "order": 35,
     "tagName": "P"
   },
   {
@@ -615,15 +741,15 @@
     "context": {
       "next": {
         "content": "\"So it is. Stop, driver, stop!\" We were still a hundred yards or so from it, but he insisted upon our alighting, and we finished our journey upon foot.",
-        "objectID": "39859cdc0f04d67e46f0015090e9993a"
+        "objectID": "2fc176ce381bd814b737c2d4114820d9"
       },
       "previous": {
         "content": "\"No data yet,\" he answered. \"It is a capital mistake to theorize before you have all the evidence. It biases the judgment.\"",
-        "objectID": "d70d834f1bafcd867eea90874c0bb057"
+        "objectID": "fbb9f3dc170f6b4b73586cfc8d76c112"
       }
     },
-    "objectID": "035fc20d8b53111c81aea148e19488b9",
-    "order": 30,
+    "objectID": "8588c022f411e5df559ba92e96892acb",
+    "order": 36,
     "tagName": "P"
   },
   {
@@ -635,16 +761,16 @@
     "content": "\"So it is. Stop, driver, stop!\" We were still a hundred yards or so from it, but he insisted upon our alighting, and we finished our journey upon foot.",
     "context": {
       "next": {
-        "content": "Number 3, Lauriston Gardens wore an ill-omened and minatory look. It was one of four which stood back some little way from the street, two being occupied and two empty. The latter looked out with three tiers of vacant melancholy windows, which were blank and dreary, save that here and there a \"To Let\" card had developed like a cataract upon the bleared panes. A small garden sprinkled over with a scattered eruption of sickly plants separated each of these houses from the street, and was traversed by a narrow pathway, yellowish in colour, and consisting apparently of a mixture of clay and of gravel. The whole place was very sloppy from the rain which had fallen through the night. The garden was bounded by a three-foot brick wall with a fringe of wood rails upon the top, and against this wall was leaning a stalwart police constable, surrounded by a small knot of loafers, who craned their necks and strained their eyes in the vain hope of catching some glimpse of the proceedings within.",
-        "objectID": "f8f4505d31e8641ee9adf541440b1526"
+        "content": "Number 3, Lauriston Gardens wore an ill-omened and minatory look. It was one of four which stood back some little way from the street, two being occupied and two empty. The latter looked out with three tiers of vacant melancholy windows, which were blank and dreary, save that here and there a \"To Let\" card had developed like a cataract upon the bleared panes.",
+        "objectID": "2617deef695ce8f4a54962c01578a31e"
       },
       "previous": {
         "content": "\"You will have your data soon,\" I remarked, pointing with my finger; \"this is the Brixton Road, and that is the house, if I am not very much mistaken.\"",
-        "objectID": "035fc20d8b53111c81aea148e19488b9"
+        "objectID": "8588c022f411e5df559ba92e96892acb"
       }
     },
-    "objectID": "39859cdc0f04d67e46f0015090e9993a",
-    "order": 31,
+    "objectID": "2fc176ce381bd814b737c2d4114820d9",
+    "order": 37,
     "tagName": "P"
   },
   {
@@ -653,19 +779,19 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "Number 3, Lauriston Gardens wore an ill-omened and minatory look. It was one of four which stood back some little way from the street, two being occupied and two empty. The latter looked out with three tiers of vacant melancholy windows, which were blank and dreary, save that here and there a \"To Let\" card had developed like a cataract upon the bleared panes. A small garden sprinkled over with a scattered eruption of sickly plants separated each of these houses from the street, and was traversed by a narrow pathway, yellowish in colour, and consisting apparently of a mixture of clay and of gravel. The whole place was very sloppy from the rain which had fallen through the night. The garden was bounded by a three-foot brick wall with a fringe of wood rails upon the top, and against this wall was leaning a stalwart police constable, surrounded by a small knot of loafers, who craned their necks and strained their eyes in the vain hope of catching some glimpse of the proceedings within.",
+    "content": "Number 3, Lauriston Gardens wore an ill-omened and minatory look. It was one of four which stood back some little way from the street, two being occupied and two empty. The latter looked out with three tiers of vacant melancholy windows, which were blank and dreary, save that here and there a \"To Let\" card had developed like a cataract upon the bleared panes.",
     "context": {
       "next": {
-        "content": "I had imagined that Sherlock Holmes would at once have hurried into the house and plunged into a study of the mystery. Nothing appeared to be further from his intention. With an air of nonchalance which, under the circumstances, seemed to me to border upon affectation, he lounged up and down the pavement, and gazed vacantly at the ground, the sky, the opposite houses and the line of railings. Having finished his scrutiny, he proceeded slowly down the path, or rather down the fringe of grass which flanked the path, keeping his eyes riveted upon the ground. Twice he stopped, and once I saw him smile, and heard him utter an exclamation of satisfaction. There were many marks of footsteps upon the wet clayey soil, but since the police had been coming and going over it, I was unable to see how my companion could hope to learn anything from it. Still I had had such extraordinary evidence of the quickness of his perceptive faculties, that I had no doubt that he could see a great deal which was hidden from me.",
-        "objectID": "0ccb8054521ba597fec3f2f0c588e70c"
+        "content": "A small garden sprinkled over with a scattered eruption of sickly plants separated each of these houses from the street, and was traversed by a narrow pathway, yellowish in colour, and consisting apparently of a mixture of clay and of gravel. The whole place was very sloppy from the rain which had fallen through the night.",
+        "objectID": "15f34214a1298aa09ba01e1961f427c5"
       },
       "previous": {
         "content": "\"So it is. Stop, driver, stop!\" We were still a hundred yards or so from it, but he insisted upon our alighting, and we finished our journey upon foot.",
-        "objectID": "39859cdc0f04d67e46f0015090e9993a"
+        "objectID": "2fc176ce381bd814b737c2d4114820d9"
       }
     },
-    "objectID": "f8f4505d31e8641ee9adf541440b1526",
-    "order": 32,
+    "objectID": "2617deef695ce8f4a54962c01578a31e",
+    "order": 38,
     "tagName": "P"
   },
   {
@@ -674,19 +800,103 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "I had imagined that Sherlock Holmes would at once have hurried into the house and plunged into a study of the mystery. Nothing appeared to be further from his intention. With an air of nonchalance which, under the circumstances, seemed to me to border upon affectation, he lounged up and down the pavement, and gazed vacantly at the ground, the sky, the opposite houses and the line of railings. Having finished his scrutiny, he proceeded slowly down the path, or rather down the fringe of grass which flanked the path, keeping his eyes riveted upon the ground. Twice he stopped, and once I saw him smile, and heard him utter an exclamation of satisfaction. There were many marks of footsteps upon the wet clayey soil, but since the police had been coming and going over it, I was unable to see how my companion could hope to learn anything from it. Still I had had such extraordinary evidence of the quickness of his perceptive faculties, that I had no doubt that he could see a great deal which was hidden from me.",
+    "content": "A small garden sprinkled over with a scattered eruption of sickly plants separated each of these houses from the street, and was traversed by a narrow pathway, yellowish in colour, and consisting apparently of a mixture of clay and of gravel. The whole place was very sloppy from the rain which had fallen through the night.",
+    "context": {
+      "next": {
+        "content": "The garden was bounded by a three-foot brick wall with a fringe of wood rails upon the top, and against this wall was leaning a stalwart police constable, surrounded by a small knot of loafers, who craned their necks and strained their eyes in the vain hope of catching some glimpse of the proceedings within.",
+        "objectID": "962f151e1eafd6959a98fad05f24b5b7"
+      },
+      "previous": {
+        "content": "Number 3, Lauriston Gardens wore an ill-omened and minatory look. It was one of four which stood back some little way from the street, two being occupied and two empty. The latter looked out with three tiers of vacant melancholy windows, which were blank and dreary, save that here and there a \"To Let\" card had developed like a cataract upon the bleared panes.",
+        "objectID": "2617deef695ce8f4a54962c01578a31e"
+      }
+    },
+    "objectID": "15f34214a1298aa09ba01e1961f427c5",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "The garden was bounded by a three-foot brick wall with a fringe of wood rails upon the top, and against this wall was leaning a stalwart police constable, surrounded by a small knot of loafers, who craned their necks and strained their eyes in the vain hope of catching some glimpse of the proceedings within.",
+    "context": {
+      "next": {
+        "content": "I had imagined that Sherlock Holmes would at once have hurried into the house and plunged into a study of the mystery. Nothing appeared to be further from his intention. With an air of nonchalance which, under the circumstances, seemed to me to border upon affectation, he lounged up and down the pavement, and gazed vacantly at the ground, the sky, the opposite houses and the line of railings.",
+        "objectID": "cd094478c7e1689a5437a865003c5643"
+      },
+      "previous": {
+        "content": "A small garden sprinkled over with a scattered eruption of sickly plants separated each of these houses from the street, and was traversed by a narrow pathway, yellowish in colour, and consisting apparently of a mixture of clay and of gravel. The whole place was very sloppy from the rain which had fallen through the night.",
+        "objectID": "15f34214a1298aa09ba01e1961f427c5"
+      }
+    },
+    "objectID": "962f151e1eafd6959a98fad05f24b5b7",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "I had imagined that Sherlock Holmes would at once have hurried into the house and plunged into a study of the mystery. Nothing appeared to be further from his intention. With an air of nonchalance which, under the circumstances, seemed to me to border upon affectation, he lounged up and down the pavement, and gazed vacantly at the ground, the sky, the opposite houses and the line of railings.",
+    "context": {
+      "next": {
+        "content": "Having finished his scrutiny, he proceeded slowly down the path, or rather down the fringe of grass which flanked the path, keeping his eyes riveted upon the ground. Twice he stopped, and once I saw him smile, and heard him utter an exclamation of satisfaction. There were many marks of footsteps upon the wet clayey soil, but since the police had been coming and going over it, I was unable to see how my companion could hope to learn anything from it.",
+        "objectID": "c5def89cbaa9028b8af86092acbeb995"
+      },
+      "previous": {
+        "content": "The garden was bounded by a three-foot brick wall with a fringe of wood rails upon the top, and against this wall was leaning a stalwart police constable, surrounded by a small knot of loafers, who craned their necks and strained their eyes in the vain hope of catching some glimpse of the proceedings within.",
+        "objectID": "962f151e1eafd6959a98fad05f24b5b7"
+      }
+    },
+    "objectID": "cd094478c7e1689a5437a865003c5643",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "Having finished his scrutiny, he proceeded slowly down the path, or rather down the fringe of grass which flanked the path, keeping his eyes riveted upon the ground. Twice he stopped, and once I saw him smile, and heard him utter an exclamation of satisfaction. There were many marks of footsteps upon the wet clayey soil, but since the police had been coming and going over it, I was unable to see how my companion could hope to learn anything from it.",
+    "context": {
+      "next": {
+        "content": "Still I had had such extraordinary evidence of the quickness of his perceptive faculties, that I had no doubt that he could see a great deal which was hidden from me.",
+        "objectID": "2cefc3a65512e25a932a3c738d8fee89"
+      },
+      "previous": {
+        "content": "I had imagined that Sherlock Holmes would at once have hurried into the house and plunged into a study of the mystery. Nothing appeared to be further from his intention. With an air of nonchalance which, under the circumstances, seemed to me to border upon affectation, he lounged up and down the pavement, and gazed vacantly at the ground, the sky, the opposite houses and the line of railings.",
+        "objectID": "cd094478c7e1689a5437a865003c5643"
+      }
+    },
+    "objectID": "c5def89cbaa9028b8af86092acbeb995",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "Still I had had such extraordinary evidence of the quickness of his perceptive faculties, that I had no doubt that he could see a great deal which was hidden from me.",
     "context": {
       "next": {
         "content": "At the door of the house we were met by a tall, white-faced, flaxen-haired man, with a notebook in his hand, who rushed forward and wrung my companion's hand with effusion. \"It is indeed kind of you to come,\" he said, \"I have had everything left untouched.\"",
-        "objectID": "5a8ffb4da2375a0c6e173b82a75b8557"
+        "objectID": "e81a0ecb21742e85dc94b6fbb584d5ea"
       },
       "previous": {
-        "content": "Number 3, Lauriston Gardens wore an ill-omened and minatory look. It was one of four which stood back some little way from the street, two being occupied and two empty. The latter looked out with three tiers of vacant melancholy windows, which were blank and dreary, save that here and there a \"To Let\" card had developed like a cataract upon the bleared panes. A small garden sprinkled over with a scattered eruption of sickly plants separated each of these houses from the street, and was traversed by a narrow pathway, yellowish in colour, and consisting apparently of a mixture of clay and of gravel. The whole place was very sloppy from the rain which had fallen through the night. The garden was bounded by a three-foot brick wall with a fringe of wood rails upon the top, and against this wall was leaning a stalwart police constable, surrounded by a small knot of loafers, who craned their necks and strained their eyes in the vain hope of catching some glimpse of the proceedings within.",
-        "objectID": "f8f4505d31e8641ee9adf541440b1526"
+        "content": "Having finished his scrutiny, he proceeded slowly down the path, or rather down the fringe of grass which flanked the path, keeping his eyes riveted upon the ground. Twice he stopped, and once I saw him smile, and heard him utter an exclamation of satisfaction. There were many marks of footsteps upon the wet clayey soil, but since the police had been coming and going over it, I was unable to see how my companion could hope to learn anything from it.",
+        "objectID": "c5def89cbaa9028b8af86092acbeb995"
       }
     },
-    "objectID": "0ccb8054521ba597fec3f2f0c588e70c",
-    "order": 33,
+    "objectID": "2cefc3a65512e25a932a3c738d8fee89",
+    "order": 43,
     "tagName": "P"
   },
   {
@@ -699,15 +909,15 @@
     "context": {
       "next": {
         "content": "\"Except that!\" my friend answered, pointing at the pathway. \"If a herd of buffaloes had passed along there could not be a greater mess. No doubt, however, you had drawn your own conclusions, Gregson, before you permitted this.\"",
-        "objectID": "be053ccc5d0c9c10a8d9f5e5ea949599"
+        "objectID": "55fed5412598880cc80068a59a394d46"
       },
       "previous": {
-        "content": "I had imagined that Sherlock Holmes would at once have hurried into the house and plunged into a study of the mystery. Nothing appeared to be further from his intention. With an air of nonchalance which, under the circumstances, seemed to me to border upon affectation, he lounged up and down the pavement, and gazed vacantly at the ground, the sky, the opposite houses and the line of railings. Having finished his scrutiny, he proceeded slowly down the path, or rather down the fringe of grass which flanked the path, keeping his eyes riveted upon the ground. Twice he stopped, and once I saw him smile, and heard him utter an exclamation of satisfaction. There were many marks of footsteps upon the wet clayey soil, but since the police had been coming and going over it, I was unable to see how my companion could hope to learn anything from it. Still I had had such extraordinary evidence of the quickness of his perceptive faculties, that I had no doubt that he could see a great deal which was hidden from me.",
-        "objectID": "0ccb8054521ba597fec3f2f0c588e70c"
+        "content": "Still I had had such extraordinary evidence of the quickness of his perceptive faculties, that I had no doubt that he could see a great deal which was hidden from me.",
+        "objectID": "2cefc3a65512e25a932a3c738d8fee89"
       }
     },
-    "objectID": "5a8ffb4da2375a0c6e173b82a75b8557",
-    "order": 34,
+    "objectID": "e81a0ecb21742e85dc94b6fbb584d5ea",
+    "order": 44,
     "tagName": "P"
   },
   {
@@ -720,15 +930,15 @@
     "context": {
       "next": {
         "content": "\"I have had so much to do inside the house,\" the detective said evasively. \"My colleague, Mr. Lestrade, is here. I had relied upon him to look after this.\"",
-        "objectID": "634fe3de7410f6a8134947c561a74243"
+        "objectID": "357135c92fb6ffb8907d4caf20d38885"
       },
       "previous": {
         "content": "At the door of the house we were met by a tall, white-faced, flaxen-haired man, with a notebook in his hand, who rushed forward and wrung my companion's hand with effusion. \"It is indeed kind of you to come,\" he said, \"I have had everything left untouched.\"",
-        "objectID": "5a8ffb4da2375a0c6e173b82a75b8557"
+        "objectID": "e81a0ecb21742e85dc94b6fbb584d5ea"
       }
     },
-    "objectID": "be053ccc5d0c9c10a8d9f5e5ea949599",
-    "order": 35,
+    "objectID": "55fed5412598880cc80068a59a394d46",
+    "order": 45,
     "tagName": "P"
   },
   {
@@ -741,15 +951,15 @@
     "context": {
       "next": {
         "content": "Holmes glanced at me and raised his eyebrows sardonically. \"With two such men as yourself and Lestrade upon the ground, there will not be much for a third party to find out,\" he said.",
-        "objectID": "66a0d253b342be4f2564c3c081a1d41a"
+        "objectID": "aa2459d81fa181430c07d2df1c0cd3d7"
       },
       "previous": {
         "content": "\"Except that!\" my friend answered, pointing at the pathway. \"If a herd of buffaloes had passed along there could not be a greater mess. No doubt, however, you had drawn your own conclusions, Gregson, before you permitted this.\"",
-        "objectID": "be053ccc5d0c9c10a8d9f5e5ea949599"
+        "objectID": "55fed5412598880cc80068a59a394d46"
       }
     },
-    "objectID": "634fe3de7410f6a8134947c561a74243",
-    "order": 36,
+    "objectID": "357135c92fb6ffb8907d4caf20d38885",
+    "order": 46,
     "tagName": "P"
   },
   {
@@ -762,15 +972,15 @@
     "context": {
       "next": {
         "content": "Gregson rubbed his hands in a self-satisfied way. \"I think we have done all that can be done,\" he answered; \"it's a queer case though, and I knew your taste for such things.\"",
-        "objectID": "bcae317b7bbb9bb20e6cf31f4448a2fc"
+        "objectID": "b585d4530bc4526b2fc2eb984bf0895d"
       },
       "previous": {
         "content": "\"I have had so much to do inside the house,\" the detective said evasively. \"My colleague, Mr. Lestrade, is here. I had relied upon him to look after this.\"",
-        "objectID": "634fe3de7410f6a8134947c561a74243"
+        "objectID": "357135c92fb6ffb8907d4caf20d38885"
       }
     },
-    "objectID": "66a0d253b342be4f2564c3c081a1d41a",
-    "order": 37,
+    "objectID": "aa2459d81fa181430c07d2df1c0cd3d7",
+    "order": 47,
     "tagName": "P"
   },
   {
@@ -783,15 +993,15 @@
     "context": {
       "next": {
         "content": "\"You did not come here in a cab?\" asked Sherlock Holmes.",
-        "objectID": "c5610cdcce993dda8c6a8e266a904aaf"
+        "objectID": "a635a6610f571745d845e39a4af1fded"
       },
       "previous": {
         "content": "Holmes glanced at me and raised his eyebrows sardonically. \"With two such men as yourself and Lestrade upon the ground, there will not be much for a third party to find out,\" he said.",
-        "objectID": "66a0d253b342be4f2564c3c081a1d41a"
+        "objectID": "aa2459d81fa181430c07d2df1c0cd3d7"
       }
     },
-    "objectID": "bcae317b7bbb9bb20e6cf31f4448a2fc",
-    "order": 38,
+    "objectID": "b585d4530bc4526b2fc2eb984bf0895d",
+    "order": 48,
     "tagName": "P"
   },
   {
@@ -804,15 +1014,15 @@
     "context": {
       "next": {
         "content": "\"No, sir.\"",
-        "objectID": "b5b67e7f8fed2d92d4bd1593f66c553b"
+        "objectID": "514a23951ccdf3476b992e1c64953664"
       },
       "previous": {
         "content": "Gregson rubbed his hands in a self-satisfied way. \"I think we have done all that can be done,\" he answered; \"it's a queer case though, and I knew your taste for such things.\"",
-        "objectID": "bcae317b7bbb9bb20e6cf31f4448a2fc"
+        "objectID": "b585d4530bc4526b2fc2eb984bf0895d"
       }
     },
-    "objectID": "c5610cdcce993dda8c6a8e266a904aaf",
-    "order": 39,
+    "objectID": "a635a6610f571745d845e39a4af1fded",
+    "order": 49,
     "tagName": "P"
   },
   {
@@ -825,15 +1035,15 @@
     "context": {
       "next": {
         "content": "\"Nor Lestrade?\"",
-        "objectID": "39f19b006dbf3102d934bb3027973c81"
+        "objectID": "1b6dbffff4b465b9db0d0aaa496d9269"
       },
       "previous": {
         "content": "\"You did not come here in a cab?\" asked Sherlock Holmes.",
-        "objectID": "c5610cdcce993dda8c6a8e266a904aaf"
+        "objectID": "a635a6610f571745d845e39a4af1fded"
       }
     },
-    "objectID": "b5b67e7f8fed2d92d4bd1593f66c553b",
-    "order": 40,
+    "objectID": "514a23951ccdf3476b992e1c64953664",
+    "order": 50,
     "tagName": "P"
   },
   {
@@ -846,15 +1056,15 @@
     "context": {
       "next": {
         "content": "\"No, sir.\"",
-        "objectID": "d7582f2dff693718d2d799f71678176d"
+        "objectID": "afd6d9ec2d87dee3199588665bcdce08"
       },
       "previous": {
         "content": "\"No, sir.\"",
-        "objectID": "b5b67e7f8fed2d92d4bd1593f66c553b"
+        "objectID": "514a23951ccdf3476b992e1c64953664"
       }
     },
-    "objectID": "39f19b006dbf3102d934bb3027973c81",
-    "order": 41,
+    "objectID": "1b6dbffff4b465b9db0d0aaa496d9269",
+    "order": 51,
     "tagName": "P"
   },
   {
@@ -867,15 +1077,15 @@
     "context": {
       "next": {
         "content": "\"Then let us go and look at the room.\" With which inconsequent remark he strode on into the house, followed by Gregson, whose features expressed his astonishment.",
-        "objectID": "c30c15008dde22906d4189f42fd8d23b"
+        "objectID": "9e86c832d1d0378ef8cc52537b225d8e"
       },
       "previous": {
         "content": "\"Nor Lestrade?\"",
-        "objectID": "39f19b006dbf3102d934bb3027973c81"
+        "objectID": "1b6dbffff4b465b9db0d0aaa496d9269"
       }
     },
-    "objectID": "d7582f2dff693718d2d799f71678176d",
-    "order": 42,
+    "objectID": "afd6d9ec2d87dee3199588665bcdce08",
+    "order": 52,
     "tagName": "P"
   },
   {
@@ -888,15 +1098,15 @@
     "context": {
       "next": {
         "content": "A short passage, bare planked and dusty, led to the kitchen and offices. Two doors opened out of it to the left and to the right. One of these had obviously been closed for many weeks. The other belonged to the dining-room, which was the apartment in which the mysterious affair had occurred. Holmes walked in, and I followed him with that subdued feeling at my heart which the presence of death inspires.",
-        "objectID": "e2bbc906fd291155bd6b7d68483a4811"
+        "objectID": "9a4f5b33398948d2ec923d2b06ec5202"
       },
       "previous": {
         "content": "\"No, sir.\"",
-        "objectID": "d7582f2dff693718d2d799f71678176d"
+        "objectID": "afd6d9ec2d87dee3199588665bcdce08"
       }
     },
-    "objectID": "c30c15008dde22906d4189f42fd8d23b",
-    "order": 43,
+    "objectID": "9e86c832d1d0378ef8cc52537b225d8e",
+    "order": 53,
     "tagName": "P"
   },
   {
@@ -908,16 +1118,16 @@
     "content": "A short passage, bare planked and dusty, led to the kitchen and offices. Two doors opened out of it to the left and to the right. One of these had obviously been closed for many weeks. The other belonged to the dining-room, which was the apartment in which the mysterious affair had occurred. Holmes walked in, and I followed him with that subdued feeling at my heart which the presence of death inspires.",
     "context": {
       "next": {
-        "content": "It was a large square room, looking all the larger from the absence of all furniture. A vulgar flaring paper adorned the walls, but it was blotched in places with mildew, and here and there great strips had become detached and hung down, exposing the yellow plaster beneath. Opposite the door was a showy fireplace, surmounted by a mantelpiece of imitation white marble. On one corner of this was stuck the stump of a red wax candle. The solitary window was so dirty that the light was hazy and uncertain, giving a dull grey tinge to everything, which was intensified by the thick layer of dust which coated the whole apartment.",
-        "objectID": "049ce4c9243f3006ee3dbc0edefca81c"
+        "content": "It was a large square room, looking all the larger from the absence of all furniture. A vulgar flaring paper adorned the walls, but it was blotched in places with mildew, and here and there great strips had become detached and hung down, exposing the yellow plaster beneath. Opposite the door was a showy fireplace, surmounted by a mantelpiece of imitation white marble.",
+        "objectID": "f5b53e10eb6d456b859cd2f70274a911"
       },
       "previous": {
         "content": "\"Then let us go and look at the room.\" With which inconsequent remark he strode on into the house, followed by Gregson, whose features expressed his astonishment.",
-        "objectID": "c30c15008dde22906d4189f42fd8d23b"
+        "objectID": "9e86c832d1d0378ef8cc52537b225d8e"
       }
     },
-    "objectID": "e2bbc906fd291155bd6b7d68483a4811",
-    "order": 44,
+    "objectID": "9a4f5b33398948d2ec923d2b06ec5202",
+    "order": 54,
     "tagName": "P"
   },
   {
@@ -926,19 +1136,19 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "It was a large square room, looking all the larger from the absence of all furniture. A vulgar flaring paper adorned the walls, but it was blotched in places with mildew, and here and there great strips had become detached and hung down, exposing the yellow plaster beneath. Opposite the door was a showy fireplace, surmounted by a mantelpiece of imitation white marble. On one corner of this was stuck the stump of a red wax candle. The solitary window was so dirty that the light was hazy and uncertain, giving a dull grey tinge to everything, which was intensified by the thick layer of dust which coated the whole apartment.",
+    "content": "It was a large square room, looking all the larger from the absence of all furniture. A vulgar flaring paper adorned the walls, but it was blotched in places with mildew, and here and there great strips had become detached and hung down, exposing the yellow plaster beneath. Opposite the door was a showy fireplace, surmounted by a mantelpiece of imitation white marble.",
     "context": {
       "next": {
-        "content": "All these details I observed afterwards. At present my attention was centred upon the single grim motionless figure which lay stretched upon the boards, with vacant sightless eyes staring up at the discoloured ceiling. It was that of a man about forty-three or forty-four years of age, middle-sized, broad shouldered, with crisp curling black hair, and a short stubbly beard. He was dressed in a heavy broadcloth frock coat and waistcoat, with light-coloured trousers, and immaculate collar and cuffs. A top hat, well brushed and trim, was placed upon the floor beside him. His hands were clenched and his arms thrown abroad, while his lower limbs were interlocked as though his death struggle had been a grievous one. On his rigid face there stood an expression of horror, and as it seemed to me, of hatred, such as I have never seen upon human features. This malignant and terrible contortion, combined with the low forehead, blunt nose, and prognathous jaw gave the dead man a singularly simious and ape-like appearance, which was increased by his writhing, unnatural posture. I have seen death in many forms, but never has it appeared to me in a more fearsome aspect than in that dark grimy apartment, which looked out upon one of the main arteries of suburban London.",
-        "objectID": "ea19c842243ebfea00833abf836809ac"
+        "content": "On one corner of this was stuck the stump of a red wax candle. The solitary window was so dirty that the light was hazy and uncertain, giving a dull grey tinge to everything, which was intensified by the thick layer of dust which coated the whole apartment.",
+        "objectID": "7af0486a5b90ed1ae5ae7a736c359a04"
       },
       "previous": {
         "content": "A short passage, bare planked and dusty, led to the kitchen and offices. Two doors opened out of it to the left and to the right. One of these had obviously been closed for many weeks. The other belonged to the dining-room, which was the apartment in which the mysterious affair had occurred. Holmes walked in, and I followed him with that subdued feeling at my heart which the presence of death inspires.",
-        "objectID": "e2bbc906fd291155bd6b7d68483a4811"
+        "objectID": "9a4f5b33398948d2ec923d2b06ec5202"
       }
     },
-    "objectID": "049ce4c9243f3006ee3dbc0edefca81c",
-    "order": 45,
+    "objectID": "f5b53e10eb6d456b859cd2f70274a911",
+    "order": 55,
     "tagName": "P"
   },
   {
@@ -947,19 +1157,103 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "All these details I observed afterwards. At present my attention was centred upon the single grim motionless figure which lay stretched upon the boards, with vacant sightless eyes staring up at the discoloured ceiling. It was that of a man about forty-three or forty-four years of age, middle-sized, broad shouldered, with crisp curling black hair, and a short stubbly beard. He was dressed in a heavy broadcloth frock coat and waistcoat, with light-coloured trousers, and immaculate collar and cuffs. A top hat, well brushed and trim, was placed upon the floor beside him. His hands were clenched and his arms thrown abroad, while his lower limbs were interlocked as though his death struggle had been a grievous one. On his rigid face there stood an expression of horror, and as it seemed to me, of hatred, such as I have never seen upon human features. This malignant and terrible contortion, combined with the low forehead, blunt nose, and prognathous jaw gave the dead man a singularly simious and ape-like appearance, which was increased by his writhing, unnatural posture. I have seen death in many forms, but never has it appeared to me in a more fearsome aspect than in that dark grimy apartment, which looked out upon one of the main arteries of suburban London.",
+    "content": "On one corner of this was stuck the stump of a red wax candle. The solitary window was so dirty that the light was hazy and uncertain, giving a dull grey tinge to everything, which was intensified by the thick layer of dust which coated the whole apartment.",
+    "context": {
+      "next": {
+        "content": "All these details I observed afterwards. At present my attention was centred upon the single grim motionless figure which lay stretched upon the boards, with vacant sightless eyes staring up at the discoloured ceiling. It was that of a man about forty-three or forty-four years of age, middle-sized, broad shouldered, with crisp curling black hair, and a short stubbly beard.",
+        "objectID": "62b34c7efbf0d9c71894d33702b5dd3a"
+      },
+      "previous": {
+        "content": "It was a large square room, looking all the larger from the absence of all furniture. A vulgar flaring paper adorned the walls, but it was blotched in places with mildew, and here and there great strips had become detached and hung down, exposing the yellow plaster beneath. Opposite the door was a showy fireplace, surmounted by a mantelpiece of imitation white marble.",
+        "objectID": "f5b53e10eb6d456b859cd2f70274a911"
+      }
+    },
+    "objectID": "7af0486a5b90ed1ae5ae7a736c359a04",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "All these details I observed afterwards. At present my attention was centred upon the single grim motionless figure which lay stretched upon the boards, with vacant sightless eyes staring up at the discoloured ceiling. It was that of a man about forty-three or forty-four years of age, middle-sized, broad shouldered, with crisp curling black hair, and a short stubbly beard.",
+    "context": {
+      "next": {
+        "content": "He was dressed in a heavy broadcloth frock coat and waistcoat, with light-coloured trousers, and immaculate collar and cuffs. A top hat, well brushed and trim, was placed upon the floor beside him. His hands were clenched and his arms thrown abroad, while his lower limbs were interlocked as though his death struggle had been a grievous one.",
+        "objectID": "b8ca0f8ff8b13eb1b3016005cab3fce0"
+      },
+      "previous": {
+        "content": "On one corner of this was stuck the stump of a red wax candle. The solitary window was so dirty that the light was hazy and uncertain, giving a dull grey tinge to everything, which was intensified by the thick layer of dust which coated the whole apartment.",
+        "objectID": "7af0486a5b90ed1ae5ae7a736c359a04"
+      }
+    },
+    "objectID": "62b34c7efbf0d9c71894d33702b5dd3a",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "He was dressed in a heavy broadcloth frock coat and waistcoat, with light-coloured trousers, and immaculate collar and cuffs. A top hat, well brushed and trim, was placed upon the floor beside him. His hands were clenched and his arms thrown abroad, while his lower limbs were interlocked as though his death struggle had been a grievous one.",
+    "context": {
+      "next": {
+        "content": "On his rigid face there stood an expression of horror, and as it seemed to me, of hatred, such as I have never seen upon human features. This malignant and terrible contortion, combined with the low forehead, blunt nose, and prognathous jaw gave the dead man a singularly simious and ape-like appearance, which was increased by his writhing, unnatural posture.",
+        "objectID": "565018c25d983c367de77eb8513e3244"
+      },
+      "previous": {
+        "content": "All these details I observed afterwards. At present my attention was centred upon the single grim motionless figure which lay stretched upon the boards, with vacant sightless eyes staring up at the discoloured ceiling. It was that of a man about forty-three or forty-four years of age, middle-sized, broad shouldered, with crisp curling black hair, and a short stubbly beard.",
+        "objectID": "62b34c7efbf0d9c71894d33702b5dd3a"
+      }
+    },
+    "objectID": "b8ca0f8ff8b13eb1b3016005cab3fce0",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "On his rigid face there stood an expression of horror, and as it seemed to me, of hatred, such as I have never seen upon human features. This malignant and terrible contortion, combined with the low forehead, blunt nose, and prognathous jaw gave the dead man a singularly simious and ape-like appearance, which was increased by his writhing, unnatural posture.",
+    "context": {
+      "next": {
+        "content": "I have seen death in many forms, but never has it appeared to me in a more fearsome aspect than in that dark grimy apartment, which looked out upon one of the main arteries of suburban London.",
+        "objectID": "63ff6ae753f6d89a4992e0966ef12312"
+      },
+      "previous": {
+        "content": "He was dressed in a heavy broadcloth frock coat and waistcoat, with light-coloured trousers, and immaculate collar and cuffs. A top hat, well brushed and trim, was placed upon the floor beside him. His hands were clenched and his arms thrown abroad, while his lower limbs were interlocked as though his death struggle had been a grievous one.",
+        "objectID": "b8ca0f8ff8b13eb1b3016005cab3fce0"
+      }
+    },
+    "objectID": "565018c25d983c367de77eb8513e3244",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "I have seen death in many forms, but never has it appeared to me in a more fearsome aspect than in that dark grimy apartment, which looked out upon one of the main arteries of suburban London.",
     "context": {
       "next": {
         "content": "Lestrade, lean and ferret-like as ever, was standing by the doorway, and greeted my companion and myself.",
-        "objectID": "347580df54158e27b629a161b23c8491"
+        "objectID": "1dd6f7e3cb5ee593e064bef7cee1d9ba"
       },
       "previous": {
-        "content": "It was a large square room, looking all the larger from the absence of all furniture. A vulgar flaring paper adorned the walls, but it was blotched in places with mildew, and here and there great strips had become detached and hung down, exposing the yellow plaster beneath. Opposite the door was a showy fireplace, surmounted by a mantelpiece of imitation white marble. On one corner of this was stuck the stump of a red wax candle. The solitary window was so dirty that the light was hazy and uncertain, giving a dull grey tinge to everything, which was intensified by the thick layer of dust which coated the whole apartment.",
-        "objectID": "049ce4c9243f3006ee3dbc0edefca81c"
+        "content": "On his rigid face there stood an expression of horror, and as it seemed to me, of hatred, such as I have never seen upon human features. This malignant and terrible contortion, combined with the low forehead, blunt nose, and prognathous jaw gave the dead man a singularly simious and ape-like appearance, which was increased by his writhing, unnatural posture.",
+        "objectID": "565018c25d983c367de77eb8513e3244"
       }
     },
-    "objectID": "ea19c842243ebfea00833abf836809ac",
-    "order": 46,
+    "objectID": "63ff6ae753f6d89a4992e0966ef12312",
+    "order": 60,
     "tagName": "P"
   },
   {
@@ -972,15 +1266,15 @@
     "context": {
       "next": {
         "content": "\"This case will make a stir, sir,\" he remarked. \"It beats anything I have seen, and I am no chicken.\"",
-        "objectID": "9a23a48ff98d3e5d7cba9fe30c045791"
+        "objectID": "be4a6c3f8dd9807f9948afeac4797424"
       },
       "previous": {
-        "content": "All these details I observed afterwards. At present my attention was centred upon the single grim motionless figure which lay stretched upon the boards, with vacant sightless eyes staring up at the discoloured ceiling. It was that of a man about forty-three or forty-four years of age, middle-sized, broad shouldered, with crisp curling black hair, and a short stubbly beard. He was dressed in a heavy broadcloth frock coat and waistcoat, with light-coloured trousers, and immaculate collar and cuffs. A top hat, well brushed and trim, was placed upon the floor beside him. His hands were clenched and his arms thrown abroad, while his lower limbs were interlocked as though his death struggle had been a grievous one. On his rigid face there stood an expression of horror, and as it seemed to me, of hatred, such as I have never seen upon human features. This malignant and terrible contortion, combined with the low forehead, blunt nose, and prognathous jaw gave the dead man a singularly simious and ape-like appearance, which was increased by his writhing, unnatural posture. I have seen death in many forms, but never has it appeared to me in a more fearsome aspect than in that dark grimy apartment, which looked out upon one of the main arteries of suburban London.",
-        "objectID": "ea19c842243ebfea00833abf836809ac"
+        "content": "I have seen death in many forms, but never has it appeared to me in a more fearsome aspect than in that dark grimy apartment, which looked out upon one of the main arteries of suburban London.",
+        "objectID": "63ff6ae753f6d89a4992e0966ef12312"
       }
     },
-    "objectID": "347580df54158e27b629a161b23c8491",
-    "order": 47,
+    "objectID": "1dd6f7e3cb5ee593e064bef7cee1d9ba",
+    "order": 61,
     "tagName": "P"
   },
   {
@@ -993,15 +1287,15 @@
     "context": {
       "next": {
         "content": "\"There is no clue?\" said Gregson.",
-        "objectID": "316b640e781f62c44146ab35f38c807f"
+        "objectID": "44b3cecec2cbf92af362fc78d85e3f3a"
       },
       "previous": {
         "content": "Lestrade, lean and ferret-like as ever, was standing by the doorway, and greeted my companion and myself.",
-        "objectID": "347580df54158e27b629a161b23c8491"
+        "objectID": "1dd6f7e3cb5ee593e064bef7cee1d9ba"
       }
     },
-    "objectID": "9a23a48ff98d3e5d7cba9fe30c045791",
-    "order": 48,
+    "objectID": "be4a6c3f8dd9807f9948afeac4797424",
+    "order": 62,
     "tagName": "P"
   },
   {
@@ -1014,15 +1308,15 @@
     "context": {
       "next": {
         "content": "\"None at all,\" chimed in Lestrade.",
-        "objectID": "5b4375a520da249a43189e135094a487"
+        "objectID": "038ddc94cebd0ff825f40e073528ad18"
       },
       "previous": {
         "content": "\"This case will make a stir, sir,\" he remarked. \"It beats anything I have seen, and I am no chicken.\"",
-        "objectID": "9a23a48ff98d3e5d7cba9fe30c045791"
+        "objectID": "be4a6c3f8dd9807f9948afeac4797424"
       }
     },
-    "objectID": "316b640e781f62c44146ab35f38c807f",
-    "order": 49,
+    "objectID": "44b3cecec2cbf92af362fc78d85e3f3a",
+    "order": 63,
     "tagName": "P"
   },
   {
@@ -1035,15 +1329,15 @@
     "context": {
       "next": {
         "content": "Sherlock Holmes approached the body, and, kneeling down, examined it intently. \"You are sure that there is no wound?\" he asked, pointing to numerous gouts and splashes of blood which lay all round.",
-        "objectID": "3999248d3fc7facc6609ad887383ef69"
+        "objectID": "e92968b51b215a5142998d10e89377ef"
       },
       "previous": {
         "content": "\"There is no clue?\" said Gregson.",
-        "objectID": "316b640e781f62c44146ab35f38c807f"
+        "objectID": "44b3cecec2cbf92af362fc78d85e3f3a"
       }
     },
-    "objectID": "5b4375a520da249a43189e135094a487",
-    "order": 50,
+    "objectID": "038ddc94cebd0ff825f40e073528ad18",
+    "order": 64,
     "tagName": "P"
   },
   {
@@ -1056,15 +1350,15 @@
     "context": {
       "next": {
         "content": "\"Positive!\" cried both detectives.",
-        "objectID": "501b2e64e6db582e255120bdda4d1a31"
+        "objectID": "d26e24e1b20100820e02648ed7085a56"
       },
       "previous": {
         "content": "\"None at all,\" chimed in Lestrade.",
-        "objectID": "5b4375a520da249a43189e135094a487"
+        "objectID": "038ddc94cebd0ff825f40e073528ad18"
       }
     },
-    "objectID": "3999248d3fc7facc6609ad887383ef69",
-    "order": 51,
+    "objectID": "e92968b51b215a5142998d10e89377ef",
+    "order": 65,
     "tagName": "P"
   },
   {
@@ -1077,15 +1371,15 @@
     "context": {
       "next": {
         "content": "\"Then, of course, this blood belongs to a second individual— presumably the murderer, if murder has been committed. It reminds me of the circumstances attendant on the death of Van Jansen, in Utrecht, in the year '34. Do you remember the case, Gregson?\"",
-        "objectID": "069e7e6c9b52a5fd1f9026254970ab19"
+        "objectID": "982b51c8318ba623f22a5e0b022cb097"
       },
       "previous": {
         "content": "Sherlock Holmes approached the body, and, kneeling down, examined it intently. \"You are sure that there is no wound?\" he asked, pointing to numerous gouts and splashes of blood which lay all round.",
-        "objectID": "3999248d3fc7facc6609ad887383ef69"
+        "objectID": "e92968b51b215a5142998d10e89377ef"
       }
     },
-    "objectID": "501b2e64e6db582e255120bdda4d1a31",
-    "order": 52,
+    "objectID": "d26e24e1b20100820e02648ed7085a56",
+    "order": 66,
     "tagName": "P"
   },
   {
@@ -1098,15 +1392,15 @@
     "context": {
       "next": {
         "content": "\"No, sir.\"",
-        "objectID": "0d58ef21ca2cc9caf24195feb4690122"
+        "objectID": "90e4bfa2d62d21eaa8617ddca7f98fc5"
       },
       "previous": {
         "content": "\"Positive!\" cried both detectives.",
-        "objectID": "501b2e64e6db582e255120bdda4d1a31"
+        "objectID": "d26e24e1b20100820e02648ed7085a56"
       }
     },
-    "objectID": "069e7e6c9b52a5fd1f9026254970ab19",
-    "order": 53,
+    "objectID": "982b51c8318ba623f22a5e0b022cb097",
+    "order": 67,
     "tagName": "P"
   },
   {
@@ -1119,15 +1413,15 @@
     "context": {
       "next": {
         "content": "\"Read it up—you really should. There is nothing new under the sun. It has all been done before.\"",
-        "objectID": "18968e6e3eb7ecdb4413d6846bf0b420"
+        "objectID": "2b1709763982973f6f09245ff44de869"
       },
       "previous": {
         "content": "\"Then, of course, this blood belongs to a second individual— presumably the murderer, if murder has been committed. It reminds me of the circumstances attendant on the death of Van Jansen, in Utrecht, in the year '34. Do you remember the case, Gregson?\"",
-        "objectID": "069e7e6c9b52a5fd1f9026254970ab19"
+        "objectID": "982b51c8318ba623f22a5e0b022cb097"
       }
     },
-    "objectID": "0d58ef21ca2cc9caf24195feb4690122",
-    "order": 54,
+    "objectID": "90e4bfa2d62d21eaa8617ddca7f98fc5",
+    "order": 68,
     "tagName": "P"
   },
   {
@@ -1139,16 +1433,16 @@
     "content": "\"Read it up—you really should. There is nothing new under the sun. It has all been done before.\"",
     "context": {
       "next": {
-        "content": "As he spoke, his nimble fingers were flying here, there, and everywhere, feeling, pressing, unbuttoning, examining, while his eyes wore the same far-away expression which I have already remarked upon. So swiftly was the examination made, that one would hardly have guessed the minuteness with which it was conducted. Finally, he sniffed the dead man's lips, and then glanced at the soles of his patent leather boots.",
-        "objectID": "be3b9ed8f3d03725a3e144b617e5195e"
+        "content": "As he spoke, his nimble fingers were flying here, there, and everywhere, feeling, pressing, unbuttoning, examining, while his eyes wore the same far-away expression which I have already remarked upon. So swiftly was the examination made, that one would hardly have guessed the minuteness with which it was conducted.",
+        "objectID": "46d85ed2a1ea2a79387f106e7ca22a66"
       },
       "previous": {
         "content": "\"No, sir.\"",
-        "objectID": "0d58ef21ca2cc9caf24195feb4690122"
+        "objectID": "90e4bfa2d62d21eaa8617ddca7f98fc5"
       }
     },
-    "objectID": "18968e6e3eb7ecdb4413d6846bf0b420",
-    "order": 55,
+    "objectID": "2b1709763982973f6f09245ff44de869",
+    "order": 69,
     "tagName": "P"
   },
   {
@@ -1157,19 +1451,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "As he spoke, his nimble fingers were flying here, there, and everywhere, feeling, pressing, unbuttoning, examining, while his eyes wore the same far-away expression which I have already remarked upon. So swiftly was the examination made, that one would hardly have guessed the minuteness with which it was conducted. Finally, he sniffed the dead man's lips, and then glanced at the soles of his patent leather boots.",
+    "content": "As he spoke, his nimble fingers were flying here, there, and everywhere, feeling, pressing, unbuttoning, examining, while his eyes wore the same far-away expression which I have already remarked upon. So swiftly was the examination made, that one would hardly have guessed the minuteness with which it was conducted.",
     "context": {
       "next": {
-        "content": "\"He has not been moved at all?\" he asked.",
-        "objectID": "5d4592d5ee7758b7e2361b8b54379713"
+        "content": "Finally, he sniffed the dead man's lips, and then glanced at the soles of his patent leather boots.",
+        "objectID": "afc05c6ca6ab00bccf30515934125078"
       },
       "previous": {
         "content": "\"Read it up—you really should. There is nothing new under the sun. It has all been done before.\"",
-        "objectID": "18968e6e3eb7ecdb4413d6846bf0b420"
+        "objectID": "2b1709763982973f6f09245ff44de869"
       }
     },
-    "objectID": "be3b9ed8f3d03725a3e144b617e5195e",
-    "order": 56,
+    "objectID": "46d85ed2a1ea2a79387f106e7ca22a66",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "Finally, he sniffed the dead man's lips, and then glanced at the soles of his patent leather boots.",
+    "context": {
+      "next": {
+        "content": "\"He has not been moved at all?\" he asked.",
+        "objectID": "8f92c32601ede879b4424f09a3e1cc8f"
+      },
+      "previous": {
+        "content": "As he spoke, his nimble fingers were flying here, there, and everywhere, feeling, pressing, unbuttoning, examining, while his eyes wore the same far-away expression which I have already remarked upon. So swiftly was the examination made, that one would hardly have guessed the minuteness with which it was conducted.",
+        "objectID": "46d85ed2a1ea2a79387f106e7ca22a66"
+      }
+    },
+    "objectID": "afc05c6ca6ab00bccf30515934125078",
+    "order": 71,
     "tagName": "P"
   },
   {
@@ -1182,15 +1497,15 @@
     "context": {
       "next": {
         "content": "\"No more than was necessary for the purposes of our examination.\"",
-        "objectID": "9e09d1aeb12132e0595b118790575bb6"
+        "objectID": "98e26a7c15892d692fe23227cec5ac61"
       },
       "previous": {
-        "content": "As he spoke, his nimble fingers were flying here, there, and everywhere, feeling, pressing, unbuttoning, examining, while his eyes wore the same far-away expression which I have already remarked upon. So swiftly was the examination made, that one would hardly have guessed the minuteness with which it was conducted. Finally, he sniffed the dead man's lips, and then glanced at the soles of his patent leather boots.",
-        "objectID": "be3b9ed8f3d03725a3e144b617e5195e"
+        "content": "Finally, he sniffed the dead man's lips, and then glanced at the soles of his patent leather boots.",
+        "objectID": "afc05c6ca6ab00bccf30515934125078"
       }
     },
-    "objectID": "5d4592d5ee7758b7e2361b8b54379713",
-    "order": 57,
+    "objectID": "8f92c32601ede879b4424f09a3e1cc8f",
+    "order": 72,
     "tagName": "P"
   },
   {
@@ -1203,15 +1518,15 @@
     "context": {
       "next": {
         "content": "\"You can take him to the mortuary now,\" he said. \"There is nothing more to be learned.\"",
-        "objectID": "ebaf0f12e62ef6b27a20c7cfb7052727"
+        "objectID": "fafb55ef1247a3270dffca8db2922295"
       },
       "previous": {
         "content": "\"He has not been moved at all?\" he asked.",
-        "objectID": "5d4592d5ee7758b7e2361b8b54379713"
+        "objectID": "8f92c32601ede879b4424f09a3e1cc8f"
       }
     },
-    "objectID": "9e09d1aeb12132e0595b118790575bb6",
-    "order": 58,
+    "objectID": "98e26a7c15892d692fe23227cec5ac61",
+    "order": 73,
     "tagName": "P"
   },
   {
@@ -1224,15 +1539,15 @@
     "context": {
       "next": {
         "content": "Gregson had a stretcher and four men at hand. At his call they entered the room, and the stranger was lifted and carried out. As they raised him, a ring tinkled down and rolled across the floor. Lestrade grabbed it up and stared at it with mystified eyes.",
-        "objectID": "63f4e7a3616f7b130180d91b40d57256"
+        "objectID": "cc508da6367eeb90024c2f70ce860b4e"
       },
       "previous": {
         "content": "\"No more than was necessary for the purposes of our examination.\"",
-        "objectID": "9e09d1aeb12132e0595b118790575bb6"
+        "objectID": "98e26a7c15892d692fe23227cec5ac61"
       }
     },
-    "objectID": "ebaf0f12e62ef6b27a20c7cfb7052727",
-    "order": 59,
+    "objectID": "fafb55ef1247a3270dffca8db2922295",
+    "order": 74,
     "tagName": "P"
   },
   {
@@ -1245,15 +1560,15 @@
     "context": {
       "next": {
         "content": "\"There's been a woman here,\" he cried. \"It's a woman's wedding-ring.\"",
-        "objectID": "887a2de14feed0c36fd352de91fe823d"
+        "objectID": "4c0ebde9beba7b74e1b57e67e9433357"
       },
       "previous": {
         "content": "\"You can take him to the mortuary now,\" he said. \"There is nothing more to be learned.\"",
-        "objectID": "ebaf0f12e62ef6b27a20c7cfb7052727"
+        "objectID": "fafb55ef1247a3270dffca8db2922295"
       }
     },
-    "objectID": "63f4e7a3616f7b130180d91b40d57256",
-    "order": 60,
+    "objectID": "cc508da6367eeb90024c2f70ce860b4e",
+    "order": 75,
     "tagName": "P"
   },
   {
@@ -1266,15 +1581,15 @@
     "context": {
       "next": {
         "content": "He held it out, as he spoke, upon the palm of his hand. We all gathered round him and gazed at it. There could be no doubt that that circlet of plain gold had once adorned the finger of a bride.",
-        "objectID": "c606ac90bbcf96807f1fd4783ef32247"
+        "objectID": "e140960feccea1fcf10a986cf95675aa"
       },
       "previous": {
         "content": "Gregson had a stretcher and four men at hand. At his call they entered the room, and the stranger was lifted and carried out. As they raised him, a ring tinkled down and rolled across the floor. Lestrade grabbed it up and stared at it with mystified eyes.",
-        "objectID": "63f4e7a3616f7b130180d91b40d57256"
+        "objectID": "cc508da6367eeb90024c2f70ce860b4e"
       }
     },
-    "objectID": "887a2de14feed0c36fd352de91fe823d",
-    "order": 61,
+    "objectID": "4c0ebde9beba7b74e1b57e67e9433357",
+    "order": 76,
     "tagName": "P"
   },
   {
@@ -1287,15 +1602,15 @@
     "context": {
       "next": {
         "content": "\"This complicates matters,\" said Gregson. \"Heaven knows, they were complicated enough before.\"",
-        "objectID": "d14fb54c9a00aae610d8da18268666a5"
+        "objectID": "1435db0b5eeb000a736f2fda6b79b908"
       },
       "previous": {
         "content": "\"There's been a woman here,\" he cried. \"It's a woman's wedding-ring.\"",
-        "objectID": "887a2de14feed0c36fd352de91fe823d"
+        "objectID": "4c0ebde9beba7b74e1b57e67e9433357"
       }
     },
-    "objectID": "c606ac90bbcf96807f1fd4783ef32247",
-    "order": 62,
+    "objectID": "e140960feccea1fcf10a986cf95675aa",
+    "order": 77,
     "tagName": "P"
   },
   {
@@ -1308,15 +1623,15 @@
     "context": {
       "next": {
         "content": "\"You're sure it doesn't simplify them?\" observed Holmes. \"There's nothing to be learned by staring at it. What did you find in his pockets?\"",
-        "objectID": "55f49bc787d4c458ac350c6ad8ddcaf2"
+        "objectID": "4ac39bf63f14d92556101977a91f3108"
       },
       "previous": {
         "content": "He held it out, as he spoke, upon the palm of his hand. We all gathered round him and gazed at it. There could be no doubt that that circlet of plain gold had once adorned the finger of a bride.",
-        "objectID": "c606ac90bbcf96807f1fd4783ef32247"
+        "objectID": "e140960feccea1fcf10a986cf95675aa"
       }
     },
-    "objectID": "d14fb54c9a00aae610d8da18268666a5",
-    "order": 63,
+    "objectID": "1435db0b5eeb000a736f2fda6b79b908",
+    "order": 78,
     "tagName": "P"
   },
   {
@@ -1328,16 +1643,16 @@
     "content": "\"You're sure it doesn't simplify them?\" observed Holmes. \"There's nothing to be learned by staring at it. What did you find in his pockets?\"",
     "context": {
       "next": {
-        "content": "\"We have it all here,\" said Gregson, pointing to a litter of objects upon one of the bottom steps of the stairs. \"A gold watch, No. 97163, by Barraud, of London. Gold Albert chain, very heavy and solid. Gold ring, with masonic device. Gold pin—bull-dog's head, with rubies as eyes. Russian leather card-case, with cards of Enoch J. Drebber of Cleveland, corresponding with the E. J. D. upon the linen. No purse, but loose money to the extent of seven pounds thirteen. Pocket edition of Boccaccio's 'Decameron,' with name of Joseph Stangerson upon the fly-leaf. Two letters—one addressed to E. J. Drebber and one to Joseph Stangerson.\"",
-        "objectID": "7f081c1e4ac581ae679cee04717f0cd3"
+        "content": "\"We have it all here,\" said Gregson, pointing to a litter of objects upon one of the bottom steps of the stairs. \"A gold watch, No. 97163, by Barraud, of London. Gold Albert chain, very heavy and solid. Gold ring, with masonic device. Gold pin—bull-dog's head, with rubies as eyes. Russian leather card-case, with cards of Enoch J.",
+        "objectID": "7f7b2b309a252119273aef2708293f79"
       },
       "previous": {
         "content": "\"This complicates matters,\" said Gregson. \"Heaven knows, they were complicated enough before.\"",
-        "objectID": "d14fb54c9a00aae610d8da18268666a5"
+        "objectID": "1435db0b5eeb000a736f2fda6b79b908"
       }
     },
-    "objectID": "55f49bc787d4c458ac350c6ad8ddcaf2",
-    "order": 64,
+    "objectID": "4ac39bf63f14d92556101977a91f3108",
+    "order": 79,
     "tagName": "P"
   },
   {
@@ -1346,19 +1661,61 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "\"We have it all here,\" said Gregson, pointing to a litter of objects upon one of the bottom steps of the stairs. \"A gold watch, No. 97163, by Barraud, of London. Gold Albert chain, very heavy and solid. Gold ring, with masonic device. Gold pin—bull-dog's head, with rubies as eyes. Russian leather card-case, with cards of Enoch J. Drebber of Cleveland, corresponding with the E. J. D. upon the linen. No purse, but loose money to the extent of seven pounds thirteen. Pocket edition of Boccaccio's 'Decameron,' with name of Joseph Stangerson upon the fly-leaf. Two letters—one addressed to E. J. Drebber and one to Joseph Stangerson.\"",
+    "content": "\"We have it all here,\" said Gregson, pointing to a litter of objects upon one of the bottom steps of the stairs. \"A gold watch, No. 97163, by Barraud, of London. Gold Albert chain, very heavy and solid. Gold ring, with masonic device. Gold pin—bull-dog's head, with rubies as eyes. Russian leather card-case, with cards of Enoch J.",
     "context": {
       "next": {
-        "content": "\"At what address?\"",
-        "objectID": "c0210ed6098fa9e90256e7c6ec6e30ba"
+        "content": "Drebber of Cleveland, corresponding with the E. J. D. upon the linen. No purse, but loose money to the extent of seven pounds thirteen. Pocket edition of Boccaccio's 'Decameron,' with name of Joseph Stangerson upon the fly-leaf. Two letters—one addressed to E. J. Drebber and one to Joseph Stangerson.",
+        "objectID": "924a1e2acad9e9c7ab14f02b5b083a69"
       },
       "previous": {
         "content": "\"You're sure it doesn't simplify them?\" observed Holmes. \"There's nothing to be learned by staring at it. What did you find in his pockets?\"",
-        "objectID": "55f49bc787d4c458ac350c6ad8ddcaf2"
+        "objectID": "4ac39bf63f14d92556101977a91f3108"
       }
     },
-    "objectID": "7f081c1e4ac581ae679cee04717f0cd3",
-    "order": 65,
+    "objectID": "7f7b2b309a252119273aef2708293f79",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "Drebber of Cleveland, corresponding with the E. J. D. upon the linen. No purse, but loose money to the extent of seven pounds thirteen. Pocket edition of Boccaccio's 'Decameron,' with name of Joseph Stangerson upon the fly-leaf. Two letters—one addressed to E. J. Drebber and one to Joseph Stangerson.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "21f48c4ad4003e1b077cfcd21b00af06"
+      },
+      "previous": {
+        "content": "\"We have it all here,\" said Gregson, pointing to a litter of objects upon one of the bottom steps of the stairs. \"A gold watch, No. 97163, by Barraud, of London. Gold Albert chain, very heavy and solid. Gold ring, with masonic device. Gold pin—bull-dog's head, with rubies as eyes. Russian leather card-case, with cards of Enoch J.",
+        "objectID": "7f7b2b309a252119273aef2708293f79"
+      }
+    },
+    "objectID": "924a1e2acad9e9c7ab14f02b5b083a69",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"At what address?\"",
+        "objectID": "3c4608981585c2657b91ff7844805e62"
+      },
+      "previous": {
+        "content": "Drebber of Cleveland, corresponding with the E. J. D. upon the linen. No purse, but loose money to the extent of seven pounds thirteen. Pocket edition of Boccaccio's 'Decameron,' with name of Joseph Stangerson upon the fly-leaf. Two letters—one addressed to E. J. Drebber and one to Joseph Stangerson.",
+        "objectID": "924a1e2acad9e9c7ab14f02b5b083a69"
+      }
+    },
+    "objectID": "21f48c4ad4003e1b077cfcd21b00af06",
+    "order": 82,
     "tagName": "P"
   },
   {
@@ -1371,15 +1728,15 @@
     "context": {
       "next": {
         "content": "\"American Exchange, Strand—to be left till called for. They are both from the Guion Steamship Company, and refer to the sailing of their boats from Liverpool. It is clear that this unfortunate man was about to return to New York.\"",
-        "objectID": "ff20ab6444fd83d16d9c052db92cafbc"
+        "objectID": "faf07fb8918137aac3c60402f05ccf20"
       },
       "previous": {
-        "content": "\"We have it all here,\" said Gregson, pointing to a litter of objects upon one of the bottom steps of the stairs. \"A gold watch, No. 97163, by Barraud, of London. Gold Albert chain, very heavy and solid. Gold ring, with masonic device. Gold pin—bull-dog's head, with rubies as eyes. Russian leather card-case, with cards of Enoch J. Drebber of Cleveland, corresponding with the E. J. D. upon the linen. No purse, but loose money to the extent of seven pounds thirteen. Pocket edition of Boccaccio's 'Decameron,' with name of Joseph Stangerson upon the fly-leaf. Two letters—one addressed to E. J. Drebber and one to Joseph Stangerson.\"",
-        "objectID": "7f081c1e4ac581ae679cee04717f0cd3"
+        "content": "\"",
+        "objectID": "21f48c4ad4003e1b077cfcd21b00af06"
       }
     },
-    "objectID": "c0210ed6098fa9e90256e7c6ec6e30ba",
-    "order": 66,
+    "objectID": "3c4608981585c2657b91ff7844805e62",
+    "order": 83,
     "tagName": "P"
   },
   {
@@ -1392,15 +1749,15 @@
     "context": {
       "next": {
         "content": "\"Have you made any inquiries as to this man, Stangerson?\"",
-        "objectID": "5a1c1b102f91811364ee0c23be9f2bb6"
+        "objectID": "c56f99df9b1c017633dac6a67f1503d1"
       },
       "previous": {
         "content": "\"At what address?\"",
-        "objectID": "c0210ed6098fa9e90256e7c6ec6e30ba"
+        "objectID": "3c4608981585c2657b91ff7844805e62"
       }
     },
-    "objectID": "ff20ab6444fd83d16d9c052db92cafbc",
-    "order": 67,
+    "objectID": "faf07fb8918137aac3c60402f05ccf20",
+    "order": 84,
     "tagName": "P"
   },
   {
@@ -1413,15 +1770,15 @@
     "context": {
       "next": {
         "content": "\"I did it at once, sir,\" said Gregson. \"I have had advertisements sent to all the newspapers, and one of my men has gone to the American Exchange, but he has not returned yet.\"",
-        "objectID": "ec99811fbcd0baaef3dab9620061537a"
+        "objectID": "83ed082379f9927ea80a8547bf26cea2"
       },
       "previous": {
         "content": "\"American Exchange, Strand—to be left till called for. They are both from the Guion Steamship Company, and refer to the sailing of their boats from Liverpool. It is clear that this unfortunate man was about to return to New York.\"",
-        "objectID": "ff20ab6444fd83d16d9c052db92cafbc"
+        "objectID": "faf07fb8918137aac3c60402f05ccf20"
       }
     },
-    "objectID": "5a1c1b102f91811364ee0c23be9f2bb6",
-    "order": 68,
+    "objectID": "c56f99df9b1c017633dac6a67f1503d1",
+    "order": 85,
     "tagName": "P"
   },
   {
@@ -1434,15 +1791,15 @@
     "context": {
       "next": {
         "content": "\"Have you sent to Cleveland?\"",
-        "objectID": "831939980bbcf4223fad10f207b950c8"
+        "objectID": "7cadb1a6a58dc27378c18300fb6b73e3"
       },
       "previous": {
         "content": "\"Have you made any inquiries as to this man, Stangerson?\"",
-        "objectID": "5a1c1b102f91811364ee0c23be9f2bb6"
+        "objectID": "c56f99df9b1c017633dac6a67f1503d1"
       }
     },
-    "objectID": "ec99811fbcd0baaef3dab9620061537a",
-    "order": 69,
+    "objectID": "83ed082379f9927ea80a8547bf26cea2",
+    "order": 86,
     "tagName": "P"
   },
   {
@@ -1455,15 +1812,15 @@
     "context": {
       "next": {
         "content": "\"We telegraphed this morning.\"",
-        "objectID": "45d9b1302f0f3044453e66afdb04475e"
+        "objectID": "cc6e0b7a49714ae1505d79413b1f7a52"
       },
       "previous": {
         "content": "\"I did it at once, sir,\" said Gregson. \"I have had advertisements sent to all the newspapers, and one of my men has gone to the American Exchange, but he has not returned yet.\"",
-        "objectID": "ec99811fbcd0baaef3dab9620061537a"
+        "objectID": "83ed082379f9927ea80a8547bf26cea2"
       }
     },
-    "objectID": "831939980bbcf4223fad10f207b950c8",
-    "order": 70,
+    "objectID": "7cadb1a6a58dc27378c18300fb6b73e3",
+    "order": 87,
     "tagName": "P"
   },
   {
@@ -1476,15 +1833,15 @@
     "context": {
       "next": {
         "content": "\"How did you word your inquiries?\"",
-        "objectID": "5e4f06f3a33d5c10e9f4b21415be814c"
+        "objectID": "23625e6e51b5e81bc40366e9e97d71bf"
       },
       "previous": {
         "content": "\"Have you sent to Cleveland?\"",
-        "objectID": "831939980bbcf4223fad10f207b950c8"
+        "objectID": "7cadb1a6a58dc27378c18300fb6b73e3"
       }
     },
-    "objectID": "45d9b1302f0f3044453e66afdb04475e",
-    "order": 71,
+    "objectID": "cc6e0b7a49714ae1505d79413b1f7a52",
+    "order": 88,
     "tagName": "P"
   },
   {
@@ -1497,15 +1854,15 @@
     "context": {
       "next": {
         "content": "\"We simply detailed the circumstances, and said that we should be glad of any information which could help us.\"",
-        "objectID": "07dab307181fbad0c6f3c67a32f253e9"
+        "objectID": "5517b120d38b7555c028cd177db6ed4a"
       },
       "previous": {
         "content": "\"We telegraphed this morning.\"",
-        "objectID": "45d9b1302f0f3044453e66afdb04475e"
+        "objectID": "cc6e0b7a49714ae1505d79413b1f7a52"
       }
     },
-    "objectID": "5e4f06f3a33d5c10e9f4b21415be814c",
-    "order": 72,
+    "objectID": "23625e6e51b5e81bc40366e9e97d71bf",
+    "order": 89,
     "tagName": "P"
   },
   {
@@ -1518,15 +1875,15 @@
     "context": {
       "next": {
         "content": "\"You did not ask for particulars on any point which appeared to you to be crucial?\"",
-        "objectID": "489786e009a77bde6e6481b38cb70fee"
+        "objectID": "1f13c1ab4dad70bc872ba27f51898906"
       },
       "previous": {
         "content": "\"How did you word your inquiries?\"",
-        "objectID": "5e4f06f3a33d5c10e9f4b21415be814c"
+        "objectID": "23625e6e51b5e81bc40366e9e97d71bf"
       }
     },
-    "objectID": "07dab307181fbad0c6f3c67a32f253e9",
-    "order": 73,
+    "objectID": "5517b120d38b7555c028cd177db6ed4a",
+    "order": 90,
     "tagName": "P"
   },
   {
@@ -1539,15 +1896,15 @@
     "context": {
       "next": {
         "content": "\"I asked about Stangerson.\"",
-        "objectID": "aab2d750b7b2068985ec96abde605e36"
+        "objectID": "25eb8e7e3c77c7eed945aae26312362b"
       },
       "previous": {
         "content": "\"We simply detailed the circumstances, and said that we should be glad of any information which could help us.\"",
-        "objectID": "07dab307181fbad0c6f3c67a32f253e9"
+        "objectID": "5517b120d38b7555c028cd177db6ed4a"
       }
     },
-    "objectID": "489786e009a77bde6e6481b38cb70fee",
-    "order": 74,
+    "objectID": "1f13c1ab4dad70bc872ba27f51898906",
+    "order": 91,
     "tagName": "P"
   },
   {
@@ -1560,15 +1917,15 @@
     "context": {
       "next": {
         "content": "\"Nothing else? Is there no circumstance on which this whole case appears to hinge? Will you not telegraph again?\"",
-        "objectID": "1f55c8a2dcdb416abf4b0e7b0f95c92e"
+        "objectID": "255659783413c56ca94153a1cfdfabe8"
       },
       "previous": {
         "content": "\"You did not ask for particulars on any point which appeared to you to be crucial?\"",
-        "objectID": "489786e009a77bde6e6481b38cb70fee"
+        "objectID": "1f13c1ab4dad70bc872ba27f51898906"
       }
     },
-    "objectID": "aab2d750b7b2068985ec96abde605e36",
-    "order": 75,
+    "objectID": "25eb8e7e3c77c7eed945aae26312362b",
+    "order": 92,
     "tagName": "P"
   },
   {
@@ -1581,15 +1938,15 @@
     "context": {
       "next": {
         "content": "\"I have said all I have to say,\" said Gregson, in an offended voice.",
-        "objectID": "725eeb1b0bc0c408db65e2cfb62e544d"
+        "objectID": "4d58d9c90a7d1c47a6d7a6fdea0ae405"
       },
       "previous": {
         "content": "\"I asked about Stangerson.\"",
-        "objectID": "aab2d750b7b2068985ec96abde605e36"
+        "objectID": "25eb8e7e3c77c7eed945aae26312362b"
       }
     },
-    "objectID": "1f55c8a2dcdb416abf4b0e7b0f95c92e",
-    "order": 76,
+    "objectID": "255659783413c56ca94153a1cfdfabe8",
+    "order": 93,
     "tagName": "P"
   },
   {
@@ -1602,15 +1959,15 @@
     "context": {
       "next": {
         "content": "Sherlock Holmes chuckled to himself, and appeared to be about to make some remark, when Lestrade, who had been in the front room while we were holding this conversation in the hall, reappeared upon the scene, rubbing his hands in a pompous and self-satisfied manner.",
-        "objectID": "348f06b8b69f01d8a6fa4c6b820f66de"
+        "objectID": "4dbe6e33d619aea849cc7ffad18fcbdf"
       },
       "previous": {
         "content": "\"Nothing else? Is there no circumstance on which this whole case appears to hinge? Will you not telegraph again?\"",
-        "objectID": "1f55c8a2dcdb416abf4b0e7b0f95c92e"
+        "objectID": "255659783413c56ca94153a1cfdfabe8"
       }
     },
-    "objectID": "725eeb1b0bc0c408db65e2cfb62e544d",
-    "order": 77,
+    "objectID": "4d58d9c90a7d1c47a6d7a6fdea0ae405",
+    "order": 94,
     "tagName": "P"
   },
   {
@@ -1623,15 +1980,15 @@
     "context": {
       "next": {
         "content": "\"Mr. Gregson,\" he said, \"I have just made a discovery of the highest importance, and one which would have been overlooked had I not made a careful examination of the walls.\"",
-        "objectID": "02a76f01e014e38c70af903bcbadd8ff"
+        "objectID": "572bd527642ba975f50f777d2b984647"
       },
       "previous": {
         "content": "\"I have said all I have to say,\" said Gregson, in an offended voice.",
-        "objectID": "725eeb1b0bc0c408db65e2cfb62e544d"
+        "objectID": "4d58d9c90a7d1c47a6d7a6fdea0ae405"
       }
     },
-    "objectID": "348f06b8b69f01d8a6fa4c6b820f66de",
-    "order": 78,
+    "objectID": "4dbe6e33d619aea849cc7ffad18fcbdf",
+    "order": 95,
     "tagName": "P"
   },
   {
@@ -1644,15 +2001,15 @@
     "context": {
       "next": {
         "content": "The little man's eyes sparkled as he spoke, and he was evidently in a state of suppressed exultation at having scored a point against his colleague.",
-        "objectID": "40e6cef7ceee53af0a84955ee05e13b2"
+        "objectID": "1589c0223f1af05932fdeffa6a4b31a7"
       },
       "previous": {
         "content": "Sherlock Holmes chuckled to himself, and appeared to be about to make some remark, when Lestrade, who had been in the front room while we were holding this conversation in the hall, reappeared upon the scene, rubbing his hands in a pompous and self-satisfied manner.",
-        "objectID": "348f06b8b69f01d8a6fa4c6b820f66de"
+        "objectID": "4dbe6e33d619aea849cc7ffad18fcbdf"
       }
     },
-    "objectID": "02a76f01e014e38c70af903bcbadd8ff",
-    "order": 79,
+    "objectID": "572bd527642ba975f50f777d2b984647",
+    "order": 96,
     "tagName": "P"
   },
   {
@@ -1665,15 +2022,15 @@
     "context": {
       "next": {
         "content": "\"Come here,\" he said, bustling back into the room, the atmosphere of which felt clearer since the removal of its ghastly inmate. \"Now, stand there!\"",
-        "objectID": "9d8b0e7c34f3237d3b843fbc8b971025"
+        "objectID": "fc60fd552f114dd5b867a93cf11fde11"
       },
       "previous": {
         "content": "\"Mr. Gregson,\" he said, \"I have just made a discovery of the highest importance, and one which would have been overlooked had I not made a careful examination of the walls.\"",
-        "objectID": "02a76f01e014e38c70af903bcbadd8ff"
+        "objectID": "572bd527642ba975f50f777d2b984647"
       }
     },
-    "objectID": "40e6cef7ceee53af0a84955ee05e13b2",
-    "order": 80,
+    "objectID": "1589c0223f1af05932fdeffa6a4b31a7",
+    "order": 97,
     "tagName": "P"
   },
   {
@@ -1686,15 +2043,15 @@
     "context": {
       "next": {
         "content": "He struck a match on his boot and held it up against the wall.",
-        "objectID": "41b5b89f2c579aac303e99f547491cb5"
+        "objectID": "44bafe4285c3192e1fe1cd63a598f396"
       },
       "previous": {
         "content": "The little man's eyes sparkled as he spoke, and he was evidently in a state of suppressed exultation at having scored a point against his colleague.",
-        "objectID": "40e6cef7ceee53af0a84955ee05e13b2"
+        "objectID": "1589c0223f1af05932fdeffa6a4b31a7"
       }
     },
-    "objectID": "9d8b0e7c34f3237d3b843fbc8b971025",
-    "order": 81,
+    "objectID": "fc60fd552f114dd5b867a93cf11fde11",
+    "order": 98,
     "tagName": "P"
   },
   {
@@ -1707,15 +2064,15 @@
     "context": {
       "next": {
         "content": "\"Look at that!\" he said, triumphantly.",
-        "objectID": "e515cfe9f66e9dbd48a1e4889e1c6a25"
+        "objectID": "fc410787e7819b8fe6c742415fdfe913"
       },
       "previous": {
         "content": "\"Come here,\" he said, bustling back into the room, the atmosphere of which felt clearer since the removal of its ghastly inmate. \"Now, stand there!\"",
-        "objectID": "9d8b0e7c34f3237d3b843fbc8b971025"
+        "objectID": "fc60fd552f114dd5b867a93cf11fde11"
       }
     },
-    "objectID": "41b5b89f2c579aac303e99f547491cb5",
-    "order": 82,
+    "objectID": "44bafe4285c3192e1fe1cd63a598f396",
+    "order": 99,
     "tagName": "P"
   },
   {
@@ -1728,15 +2085,15 @@
     "context": {
       "next": {
         "content": "I have remarked that the paper had fallen away in parts. In this particular corner of the room a large piece had peeled off, leaving a yellow square of coarse plastering. Across this bare space there was scrawled in blood-red letters a single word—",
-        "objectID": "10aa8c0e1af2e363e0cf8b7353f77ebe"
+        "objectID": "2f6ba4f4f4235a17e55391c686d0d0aa"
       },
       "previous": {
         "content": "He struck a match on his boot and held it up against the wall.",
-        "objectID": "41b5b89f2c579aac303e99f547491cb5"
+        "objectID": "44bafe4285c3192e1fe1cd63a598f396"
       }
     },
-    "objectID": "e515cfe9f66e9dbd48a1e4889e1c6a25",
-    "order": 83,
+    "objectID": "fc410787e7819b8fe6c742415fdfe913",
+    "order": 100,
     "tagName": "P"
   },
   {
@@ -1748,16 +2105,16 @@
     "content": "I have remarked that the paper had fallen away in parts. In this particular corner of the room a large piece had peeled off, leaving a yellow square of coarse plastering. Across this bare space there was scrawled in blood-red letters a single word—",
     "context": {
       "next": {
-        "content": "\"What do you think of that?\" cried the detective, with the air of a showman exhibiting his show. \"This was overlooked because it was in the darkest corner of the room, and no one thought of looking there. The murderer has written it with his or her own blood. See this smear where it has trickled down the wall! That disposes of the idea of suicide anyhow. Why was that corner chosen to write it on? I will tell you. See that candle on the mantelpiece. It was lit at the time, and if it was lit this corner would be the brightest instead of the darkest portion of the wall.\"",
-        "objectID": "95148229aa1098328c605abe3433838a"
+        "content": "\"What do you think of that?\" cried the detective, with the air of a showman exhibiting his show. \"This was overlooked because it was in the darkest corner of the room, and no one thought of looking there. The murderer has written it with his or her own blood. See this smear where it has trickled down the wall! That disposes of the idea of suicide anyhow.",
+        "objectID": "9cd5010cae1d1f09b099800fd2d727e4"
       },
       "previous": {
         "content": "\"Look at that!\" he said, triumphantly.",
-        "objectID": "e515cfe9f66e9dbd48a1e4889e1c6a25"
+        "objectID": "fc410787e7819b8fe6c742415fdfe913"
       }
     },
-    "objectID": "10aa8c0e1af2e363e0cf8b7353f77ebe",
-    "order": 84,
+    "objectID": "2f6ba4f4f4235a17e55391c686d0d0aa",
+    "order": 101,
     "tagName": "P"
   },
   {
@@ -1766,19 +2123,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "\"What do you think of that?\" cried the detective, with the air of a showman exhibiting his show. \"This was overlooked because it was in the darkest corner of the room, and no one thought of looking there. The murderer has written it with his or her own blood. See this smear where it has trickled down the wall! That disposes of the idea of suicide anyhow. Why was that corner chosen to write it on? I will tell you. See that candle on the mantelpiece. It was lit at the time, and if it was lit this corner would be the brightest instead of the darkest portion of the wall.\"",
+    "content": "\"What do you think of that?\" cried the detective, with the air of a showman exhibiting his show. \"This was overlooked because it was in the darkest corner of the room, and no one thought of looking there. The murderer has written it with his or her own blood. See this smear where it has trickled down the wall! That disposes of the idea of suicide anyhow.",
     "context": {
       "next": {
-        "content": "\"And what does it mean now that you have found it?\" asked Gregson in a depreciatory voice.",
-        "objectID": "31a4d600acc0557b36ce49aeb6857d80"
+        "content": "Why was that corner chosen to write it on? I will tell you. See that candle on the mantelpiece. It was lit at the time, and if it was lit this corner would be the brightest instead of the darkest portion of the wall.\"",
+        "objectID": "e0f67fe43599192c960e7d219de43ce3"
       },
       "previous": {
         "content": "I have remarked that the paper had fallen away in parts. In this particular corner of the room a large piece had peeled off, leaving a yellow square of coarse plastering. Across this bare space there was scrawled in blood-red letters a single word—",
-        "objectID": "10aa8c0e1af2e363e0cf8b7353f77ebe"
+        "objectID": "2f6ba4f4f4235a17e55391c686d0d0aa"
       }
     },
-    "objectID": "95148229aa1098328c605abe3433838a",
-    "order": 85,
+    "objectID": "9cd5010cae1d1f09b099800fd2d727e4",
+    "order": 102,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "Why was that corner chosen to write it on? I will tell you. See that candle on the mantelpiece. It was lit at the time, and if it was lit this corner would be the brightest instead of the darkest portion of the wall.\"",
+    "context": {
+      "next": {
+        "content": "\"And what does it mean now that you have found it?\" asked Gregson in a depreciatory voice.",
+        "objectID": "d3400c15594bb3410277e82c75600d9a"
+      },
+      "previous": {
+        "content": "\"What do you think of that?\" cried the detective, with the air of a showman exhibiting his show. \"This was overlooked because it was in the darkest corner of the room, and no one thought of looking there. The murderer has written it with his or her own blood. See this smear where it has trickled down the wall! That disposes of the idea of suicide anyhow.",
+        "objectID": "9cd5010cae1d1f09b099800fd2d727e4"
+      }
+    },
+    "objectID": "e0f67fe43599192c960e7d219de43ce3",
+    "order": 103,
     "tagName": "P"
   },
   {
@@ -1790,16 +2168,16 @@
     "content": "\"And what does it mean now that you have found it?\" asked Gregson in a depreciatory voice.",
     "context": {
       "next": {
-        "content": "\"Mean? Why, it means that the writer was going to put the female name Rachel, but was disturbed before he or she had time to finish. You mark my words, when this case comes to be cleared up you will find that a woman named Rachel has something to do with it. It's all very well for you to laugh, Mr. Sherlock Holmes. You may be very smart and clever, but the old hound is the best, when all is said and done.\"",
-        "objectID": "b75ea9cb6dbfd7dfbb4fe834288721f0"
+        "content": "\"Mean? Why, it means that the writer was going to put the female name Rachel, but was disturbed before he or she had time to finish. You mark my words, when this case comes to be cleared up you will find that a woman named Rachel has something to do with it. It's all very well for you to laugh, Mr. Sherlock Holmes.",
+        "objectID": "7e0dd06381cca1c35f6fbaf5d421c999"
       },
       "previous": {
-        "content": "\"What do you think of that?\" cried the detective, with the air of a showman exhibiting his show. \"This was overlooked because it was in the darkest corner of the room, and no one thought of looking there. The murderer has written it with his or her own blood. See this smear where it has trickled down the wall! That disposes of the idea of suicide anyhow. Why was that corner chosen to write it on? I will tell you. See that candle on the mantelpiece. It was lit at the time, and if it was lit this corner would be the brightest instead of the darkest portion of the wall.\"",
-        "objectID": "95148229aa1098328c605abe3433838a"
+        "content": "Why was that corner chosen to write it on? I will tell you. See that candle on the mantelpiece. It was lit at the time, and if it was lit this corner would be the brightest instead of the darkest portion of the wall.\"",
+        "objectID": "e0f67fe43599192c960e7d219de43ce3"
       }
     },
-    "objectID": "31a4d600acc0557b36ce49aeb6857d80",
-    "order": 86,
+    "objectID": "d3400c15594bb3410277e82c75600d9a",
+    "order": 104,
     "tagName": "P"
   },
   {
@@ -1808,19 +2186,19 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "\"Mean? Why, it means that the writer was going to put the female name Rachel, but was disturbed before he or she had time to finish. You mark my words, when this case comes to be cleared up you will find that a woman named Rachel has something to do with it. It's all very well for you to laugh, Mr. Sherlock Holmes. You may be very smart and clever, but the old hound is the best, when all is said and done.\"",
+    "content": "\"Mean? Why, it means that the writer was going to put the female name Rachel, but was disturbed before he or she had time to finish. You mark my words, when this case comes to be cleared up you will find that a woman named Rachel has something to do with it. It's all very well for you to laugh, Mr. Sherlock Holmes.",
     "context": {
       "next": {
-        "content": "\"I really beg your pardon!\" said my companion, who had ruffled the little man's temper by bursting into an explosion of laughter. \"You certainly have the credit of being the first of us to find this out, and, as you say, it bears every mark of having been written by the other participant in last night's mystery. I have not had time to examine this room yet, but with your permission I shall do so now.\"",
-        "objectID": "b7883f3d8a709e7380a4bf606378858d"
+        "content": "You may be very smart and clever, but the old hound is the best, when all is said and done.\"",
+        "objectID": "7454d15c9f454a8b214d2e4b33308625"
       },
       "previous": {
         "content": "\"And what does it mean now that you have found it?\" asked Gregson in a depreciatory voice.",
-        "objectID": "31a4d600acc0557b36ce49aeb6857d80"
+        "objectID": "d3400c15594bb3410277e82c75600d9a"
       }
     },
-    "objectID": "b75ea9cb6dbfd7dfbb4fe834288721f0",
-    "order": 87,
+    "objectID": "7e0dd06381cca1c35f6fbaf5d421c999",
+    "order": 105,
     "tagName": "P"
   },
   {
@@ -1829,19 +2207,19 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "\"I really beg your pardon!\" said my companion, who had ruffled the little man's temper by bursting into an explosion of laughter. \"You certainly have the credit of being the first of us to find this out, and, as you say, it bears every mark of having been written by the other participant in last night's mystery. I have not had time to examine this room yet, but with your permission I shall do so now.\"",
+    "content": "You may be very smart and clever, but the old hound is the best, when all is said and done.\"",
     "context": {
       "next": {
-        "content": "As he spoke, he whipped a tape measure and a large round magnifying glass from his pocket. With these two implements he trotted noiselessly about the room, sometimes stopping, occasionally kneeling, and once lying flat upon his face. So engrossed was he with his occupation that he appeared to have forgotten our presence, for he chattered away to himself under his breath the whole time, keeping up a running fire of exclamations, groans, whistles, and little cries suggestive of encouragement and of hope. As I watched him I was irresistibly reminded of a pure-blooded well-trained foxhound as it dashes backwards and forwards through the covert, whining in its eagerness, until it comes across the lost scent. For twenty minutes or more he continued his researches, measuring with the most exact care the distance between marks which were entirely invisible to me, and occasionally applying his tape to the walls in an equally incomprehensible manner. In one place he gathered up very carefully a little pile of grey dust from the floor, and packed it away in an envelope. Finally, he examined with his glass the word upon the wall, going over every letter of it with the most minute exactness. This done, he appeared to be satisfied, for he replaced his tape and his glass in his pocket.",
-        "objectID": "853fa9dc7095101c833f43f366592039"
+        "content": "\"I really beg your pardon!\" said my companion, who had ruffled the little man's temper by bursting into an explosion of laughter. \"You certainly have the credit of being the first of us to find this out, and, as you say, it bears every mark of having been written by the other participant in last night's mystery.",
+        "objectID": "92a0c792418516dbec6c8b5eb7562e89"
       },
       "previous": {
-        "content": "\"Mean? Why, it means that the writer was going to put the female name Rachel, but was disturbed before he or she had time to finish. You mark my words, when this case comes to be cleared up you will find that a woman named Rachel has something to do with it. It's all very well for you to laugh, Mr. Sherlock Holmes. You may be very smart and clever, but the old hound is the best, when all is said and done.\"",
-        "objectID": "b75ea9cb6dbfd7dfbb4fe834288721f0"
+        "content": "\"Mean? Why, it means that the writer was going to put the female name Rachel, but was disturbed before he or she had time to finish. You mark my words, when this case comes to be cleared up you will find that a woman named Rachel has something to do with it. It's all very well for you to laugh, Mr. Sherlock Holmes.",
+        "objectID": "7e0dd06381cca1c35f6fbaf5d421c999"
       }
     },
-    "objectID": "b7883f3d8a709e7380a4bf606378858d",
-    "order": 88,
+    "objectID": "7454d15c9f454a8b214d2e4b33308625",
+    "order": 106,
     "tagName": "P"
   },
   {
@@ -1850,19 +2228,103 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "As he spoke, he whipped a tape measure and a large round magnifying glass from his pocket. With these two implements he trotted noiselessly about the room, sometimes stopping, occasionally kneeling, and once lying flat upon his face. So engrossed was he with his occupation that he appeared to have forgotten our presence, for he chattered away to himself under his breath the whole time, keeping up a running fire of exclamations, groans, whistles, and little cries suggestive of encouragement and of hope. As I watched him I was irresistibly reminded of a pure-blooded well-trained foxhound as it dashes backwards and forwards through the covert, whining in its eagerness, until it comes across the lost scent. For twenty minutes or more he continued his researches, measuring with the most exact care the distance between marks which were entirely invisible to me, and occasionally applying his tape to the walls in an equally incomprehensible manner. In one place he gathered up very carefully a little pile of grey dust from the floor, and packed it away in an envelope. Finally, he examined with his glass the word upon the wall, going over every letter of it with the most minute exactness. This done, he appeared to be satisfied, for he replaced his tape and his glass in his pocket.",
+    "content": "\"I really beg your pardon!\" said my companion, who had ruffled the little man's temper by bursting into an explosion of laughter. \"You certainly have the credit of being the first of us to find this out, and, as you say, it bears every mark of having been written by the other participant in last night's mystery.",
+    "context": {
+      "next": {
+        "content": "I have not had time to examine this room yet, but with your permission I shall do so now.\"",
+        "objectID": "d42ac5fd3c24b0fc03e99f2ad5bbe5c3"
+      },
+      "previous": {
+        "content": "You may be very smart and clever, but the old hound is the best, when all is said and done.\"",
+        "objectID": "7454d15c9f454a8b214d2e4b33308625"
+      }
+    },
+    "objectID": "92a0c792418516dbec6c8b5eb7562e89",
+    "order": 107,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "I have not had time to examine this room yet, but with your permission I shall do so now.\"",
+    "context": {
+      "next": {
+        "content": "As he spoke, he whipped a tape measure and a large round magnifying glass from his pocket. With these two implements he trotted noiselessly about the room, sometimes stopping, occasionally kneeling, and once lying flat upon his face. So engrossed was he with his occupation that he appeared to have forgotten our presence, for he chattered away to himself under his breath the whole time, keeping up a running fire of exclamations, groans, whistles, and little cries suggestive of encouragement and of hope.",
+        "objectID": "7a089d3037c23b3cba91f6fd8813da69"
+      },
+      "previous": {
+        "content": "\"I really beg your pardon!\" said my companion, who had ruffled the little man's temper by bursting into an explosion of laughter. \"You certainly have the credit of being the first of us to find this out, and, as you say, it bears every mark of having been written by the other participant in last night's mystery.",
+        "objectID": "92a0c792418516dbec6c8b5eb7562e89"
+      }
+    },
+    "objectID": "d42ac5fd3c24b0fc03e99f2ad5bbe5c3",
+    "order": 108,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "As he spoke, he whipped a tape measure and a large round magnifying glass from his pocket. With these two implements he trotted noiselessly about the room, sometimes stopping, occasionally kneeling, and once lying flat upon his face. So engrossed was he with his occupation that he appeared to have forgotten our presence, for he chattered away to himself under his breath the whole time, keeping up a running fire of exclamations, groans, whistles, and little cries suggestive of encouragement and of hope.",
+    "context": {
+      "next": {
+        "content": "As I watched him I was irresistibly reminded of a pure-blooded well-trained foxhound as it dashes backwards and forwards through the covert, whining in its eagerness, until it comes across the lost scent. For twenty minutes or more he continued his researches, measuring with the most exact care the distance between marks which were entirely invisible to me, and occasionally applying his tape to the walls in an equally incomprehensible manner.",
+        "objectID": "1d8b84daceab5af8d2181fe144d041e6"
+      },
+      "previous": {
+        "content": "I have not had time to examine this room yet, but with your permission I shall do so now.\"",
+        "objectID": "d42ac5fd3c24b0fc03e99f2ad5bbe5c3"
+      }
+    },
+    "objectID": "7a089d3037c23b3cba91f6fd8813da69",
+    "order": 109,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "As I watched him I was irresistibly reminded of a pure-blooded well-trained foxhound as it dashes backwards and forwards through the covert, whining in its eagerness, until it comes across the lost scent. For twenty minutes or more he continued his researches, measuring with the most exact care the distance between marks which were entirely invisible to me, and occasionally applying his tape to the walls in an equally incomprehensible manner.",
+    "context": {
+      "next": {
+        "content": "In one place he gathered up very carefully a little pile of grey dust from the floor, and packed it away in an envelope. Finally, he examined with his glass the word upon the wall, going over every letter of it with the most minute exactness. This done, he appeared to be satisfied, for he replaced his tape and his glass in his pocket.",
+        "objectID": "3f0e55b2b3e75486150ee11b314badb5"
+      },
+      "previous": {
+        "content": "As he spoke, he whipped a tape measure and a large round magnifying glass from his pocket. With these two implements he trotted noiselessly about the room, sometimes stopping, occasionally kneeling, and once lying flat upon his face. So engrossed was he with his occupation that he appeared to have forgotten our presence, for he chattered away to himself under his breath the whole time, keeping up a running fire of exclamations, groans, whistles, and little cries suggestive of encouragement and of hope.",
+        "objectID": "7a089d3037c23b3cba91f6fd8813da69"
+      }
+    },
+    "objectID": "1d8b84daceab5af8d2181fe144d041e6",
+    "order": 110,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "In one place he gathered up very carefully a little pile of grey dust from the floor, and packed it away in an envelope. Finally, he examined with his glass the word upon the wall, going over every letter of it with the most minute exactness. This done, he appeared to be satisfied, for he replaced his tape and his glass in his pocket.",
     "context": {
       "next": {
         "content": "\"They say that genius is an infinite capacity for taking pains,\" he remarked with a smile. \"It's a very bad definition, but it does apply to detective work.\"",
-        "objectID": "36326b9b812bf0cac16fc7c7b5de36cc"
+        "objectID": "ced1e0661d683f37eda884a60dbe05a4"
       },
       "previous": {
-        "content": "\"I really beg your pardon!\" said my companion, who had ruffled the little man's temper by bursting into an explosion of laughter. \"You certainly have the credit of being the first of us to find this out, and, as you say, it bears every mark of having been written by the other participant in last night's mystery. I have not had time to examine this room yet, but with your permission I shall do so now.\"",
-        "objectID": "b7883f3d8a709e7380a4bf606378858d"
+        "content": "As I watched him I was irresistibly reminded of a pure-blooded well-trained foxhound as it dashes backwards and forwards through the covert, whining in its eagerness, until it comes across the lost scent. For twenty minutes or more he continued his researches, measuring with the most exact care the distance between marks which were entirely invisible to me, and occasionally applying his tape to the walls in an equally incomprehensible manner.",
+        "objectID": "1d8b84daceab5af8d2181fe144d041e6"
       }
     },
-    "objectID": "853fa9dc7095101c833f43f366592039",
-    "order": 89,
+    "objectID": "3f0e55b2b3e75486150ee11b314badb5",
+    "order": 111,
     "tagName": "P"
   },
   {
@@ -1875,15 +2337,15 @@
     "context": {
       "next": {
         "content": "Gregson and Lestrade had watched the manoeuvres of their amateur companion with considerable curiosity and some contempt. They evidently failed to appreciate the fact, which I had begun to realize, that Sherlock Holmes' smallest actions were all directed towards some definite and practical end.",
-        "objectID": "dd9b0dbb3f4b180626e74dfd58cfd9c1"
+        "objectID": "adc54a70d0a3d3fe958278ad0dbf8208"
       },
       "previous": {
-        "content": "As he spoke, he whipped a tape measure and a large round magnifying glass from his pocket. With these two implements he trotted noiselessly about the room, sometimes stopping, occasionally kneeling, and once lying flat upon his face. So engrossed was he with his occupation that he appeared to have forgotten our presence, for he chattered away to himself under his breath the whole time, keeping up a running fire of exclamations, groans, whistles, and little cries suggestive of encouragement and of hope. As I watched him I was irresistibly reminded of a pure-blooded well-trained foxhound as it dashes backwards and forwards through the covert, whining in its eagerness, until it comes across the lost scent. For twenty minutes or more he continued his researches, measuring with the most exact care the distance between marks which were entirely invisible to me, and occasionally applying his tape to the walls in an equally incomprehensible manner. In one place he gathered up very carefully a little pile of grey dust from the floor, and packed it away in an envelope. Finally, he examined with his glass the word upon the wall, going over every letter of it with the most minute exactness. This done, he appeared to be satisfied, for he replaced his tape and his glass in his pocket.",
-        "objectID": "853fa9dc7095101c833f43f366592039"
+        "content": "In one place he gathered up very carefully a little pile of grey dust from the floor, and packed it away in an envelope. Finally, he examined with his glass the word upon the wall, going over every letter of it with the most minute exactness. This done, he appeared to be satisfied, for he replaced his tape and his glass in his pocket.",
+        "objectID": "3f0e55b2b3e75486150ee11b314badb5"
       }
     },
-    "objectID": "36326b9b812bf0cac16fc7c7b5de36cc",
-    "order": 90,
+    "objectID": "ced1e0661d683f37eda884a60dbe05a4",
+    "order": 112,
     "tagName": "P"
   },
   {
@@ -1896,15 +2358,15 @@
     "context": {
       "next": {
         "content": "\"What do you think of it, sir?\" they both asked.",
-        "objectID": "ff1ffdbfacabe7f15e372739d204cbb4"
+        "objectID": "f12819e616eb77c87c6981191ad61f87"
       },
       "previous": {
         "content": "\"They say that genius is an infinite capacity for taking pains,\" he remarked with a smile. \"It's a very bad definition, but it does apply to detective work.\"",
-        "objectID": "36326b9b812bf0cac16fc7c7b5de36cc"
+        "objectID": "ced1e0661d683f37eda884a60dbe05a4"
       }
     },
-    "objectID": "dd9b0dbb3f4b180626e74dfd58cfd9c1",
-    "order": 91,
+    "objectID": "adc54a70d0a3d3fe958278ad0dbf8208",
+    "order": 113,
     "tagName": "P"
   },
   {
@@ -1916,16 +2378,16 @@
     "content": "\"What do you think of it, sir?\" they both asked.",
     "context": {
       "next": {
-        "content": "\"It would be robbing you of the credit of the case if I was to presume to help you,\" remarked my friend. \"You are doing so well now that it would be a pity for anyone to interfere.\" There was a world of sarcasm in his voice as he spoke. \"If you will let me know how your investigations go,\" he continued, \"I shall be happy to give you any help I can. In the meantime I should like to speak to the constable who found the body. Can you give me his name and address?\"",
-        "objectID": "bf2f2ee0dafec0eb298be310fa3edb1f"
+        "content": "\"It would be robbing you of the credit of the case if I was to presume to help you,\" remarked my friend. \"You are doing so well now that it would be a pity for anyone to interfere.\" There was a world of sarcasm in his voice as he spoke. \"If you will let me know how your investigations go,\" he continued, \"I shall be happy to give you any help I can.",
+        "objectID": "0b6b0181b941d0c73a825063e9628913"
       },
       "previous": {
         "content": "Gregson and Lestrade had watched the manoeuvres of their amateur companion with considerable curiosity and some contempt. They evidently failed to appreciate the fact, which I had begun to realize, that Sherlock Holmes' smallest actions were all directed towards some definite and practical end.",
-        "objectID": "dd9b0dbb3f4b180626e74dfd58cfd9c1"
+        "objectID": "adc54a70d0a3d3fe958278ad0dbf8208"
       }
     },
-    "objectID": "ff1ffdbfacabe7f15e372739d204cbb4",
-    "order": 92,
+    "objectID": "f12819e616eb77c87c6981191ad61f87",
+    "order": 114,
     "tagName": "P"
   },
   {
@@ -1934,19 +2396,40 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "\"It would be robbing you of the credit of the case if I was to presume to help you,\" remarked my friend. \"You are doing so well now that it would be a pity for anyone to interfere.\" There was a world of sarcasm in his voice as he spoke. \"If you will let me know how your investigations go,\" he continued, \"I shall be happy to give you any help I can. In the meantime I should like to speak to the constable who found the body. Can you give me his name and address?\"",
+    "content": "\"It would be robbing you of the credit of the case if I was to presume to help you,\" remarked my friend. \"You are doing so well now that it would be a pity for anyone to interfere.\" There was a world of sarcasm in his voice as he spoke. \"If you will let me know how your investigations go,\" he continued, \"I shall be happy to give you any help I can.",
     "context": {
       "next": {
-        "content": "Lestrade glanced at his note-book. \"John Rance,\" he said. \"He is off duty now. You will find him at 46, Audley Court, Kennington Park Gate.\"",
-        "objectID": "7b995046cca669222f8bb3434dc25f97"
+        "content": "In the meantime I should like to speak to the constable who found the body. Can you give me his name and address?\"",
+        "objectID": "276b4548caa6612c1495b0ed8815ea8c"
       },
       "previous": {
         "content": "\"What do you think of it, sir?\" they both asked.",
-        "objectID": "ff1ffdbfacabe7f15e372739d204cbb4"
+        "objectID": "f12819e616eb77c87c6981191ad61f87"
       }
     },
-    "objectID": "bf2f2ee0dafec0eb298be310fa3edb1f",
-    "order": 93,
+    "objectID": "0b6b0181b941d0c73a825063e9628913",
+    "order": 115,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "In the meantime I should like to speak to the constable who found the body. Can you give me his name and address?\"",
+    "context": {
+      "next": {
+        "content": "Lestrade glanced at his note-book. \"John Rance,\" he said. \"He is off duty now. You will find him at 46, Audley Court, Kennington Park Gate.\"",
+        "objectID": "6c042ac783f07f172be2fd8500e1ca6b"
+      },
+      "previous": {
+        "content": "\"It would be robbing you of the credit of the case if I was to presume to help you,\" remarked my friend. \"You are doing so well now that it would be a pity for anyone to interfere.\" There was a world of sarcasm in his voice as he spoke. \"If you will let me know how your investigations go,\" he continued, \"I shall be happy to give you any help I can.",
+        "objectID": "0b6b0181b941d0c73a825063e9628913"
+      }
+    },
+    "objectID": "276b4548caa6612c1495b0ed8815ea8c",
+    "order": 116,
     "tagName": "P"
   },
   {
@@ -1959,15 +2442,15 @@
     "context": {
       "next": {
         "content": "Holmes took a note of the address.",
-        "objectID": "9d9e661600acac0155584d7e4f3ce4ee"
+        "objectID": "89104cca9856a315ced44edf230fa614"
       },
       "previous": {
-        "content": "\"It would be robbing you of the credit of the case if I was to presume to help you,\" remarked my friend. \"You are doing so well now that it would be a pity for anyone to interfere.\" There was a world of sarcasm in his voice as he spoke. \"If you will let me know how your investigations go,\" he continued, \"I shall be happy to give you any help I can. In the meantime I should like to speak to the constable who found the body. Can you give me his name and address?\"",
-        "objectID": "bf2f2ee0dafec0eb298be310fa3edb1f"
+        "content": "In the meantime I should like to speak to the constable who found the body. Can you give me his name and address?\"",
+        "objectID": "276b4548caa6612c1495b0ed8815ea8c"
       }
     },
-    "objectID": "7b995046cca669222f8bb3434dc25f97",
-    "order": 94,
+    "objectID": "6c042ac783f07f172be2fd8500e1ca6b",
+    "order": 117,
     "tagName": "P"
   },
   {
@@ -1979,16 +2462,16 @@
     "content": "Holmes took a note of the address.",
     "context": {
       "next": {
-        "content": "\"Come along, Doctor,\" he said; \"we shall go and look him up. I'll tell you one thing which may help you in the case,\" he continued, turning to the two detectives. \"There has been murder done, and the murderer was a man. He was more than six feet high, was in the prime of life, had small feet for his height, wore coarse, square-toed boots and smoked a Trichinopoly cigar. He came here with his victim in a four-wheeled cab, which was drawn by a horse with three old shoes and one new one on his off fore leg. In all probability the murderer had a florid face, and the finger-nails of his right hand were remarkably long. These are only a few indications, but they may assist you.\"",
-        "objectID": "fba4985b5ef82a5cddb82ab40571b25c"
+        "content": "\"Come along, Doctor,\" he said; \"we shall go and look him up. I'll tell you one thing which may help you in the case,\" he continued, turning to the two detectives. \"There has been murder done, and the murderer was a man. He was more than six feet high, was in the prime of life, had small feet for his height, wore coarse, square-toed boots and smoked a Trichinopoly cigar.",
+        "objectID": "3042de0ae70973c15098afaab48470ec"
       },
       "previous": {
         "content": "Lestrade glanced at his note-book. \"John Rance,\" he said. \"He is off duty now. You will find him at 46, Audley Court, Kennington Park Gate.\"",
-        "objectID": "7b995046cca669222f8bb3434dc25f97"
+        "objectID": "6c042ac783f07f172be2fd8500e1ca6b"
       }
     },
-    "objectID": "9d9e661600acac0155584d7e4f3ce4ee",
-    "order": 95,
+    "objectID": "89104cca9856a315ced44edf230fa614",
+    "order": 118,
     "tagName": "P"
   },
   {
@@ -1997,19 +2480,61 @@
     "bookOrder": 1,
     "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
     "chapterOrder": 3,
-    "content": "\"Come along, Doctor,\" he said; \"we shall go and look him up. I'll tell you one thing which may help you in the case,\" he continued, turning to the two detectives. \"There has been murder done, and the murderer was a man. He was more than six feet high, was in the prime of life, had small feet for his height, wore coarse, square-toed boots and smoked a Trichinopoly cigar. He came here with his victim in a four-wheeled cab, which was drawn by a horse with three old shoes and one new one on his off fore leg. In all probability the murderer had a florid face, and the finger-nails of his right hand were remarkably long. These are only a few indications, but they may assist you.\"",
+    "content": "\"Come along, Doctor,\" he said; \"we shall go and look him up. I'll tell you one thing which may help you in the case,\" he continued, turning to the two detectives. \"There has been murder done, and the murderer was a man. He was more than six feet high, was in the prime of life, had small feet for his height, wore coarse, square-toed boots and smoked a Trichinopoly cigar.",
     "context": {
       "next": {
-        "content": "Lestrade and Gregson glanced at each other with an incredulous smile.",
-        "objectID": "05ad90fd683ce8199ff2ff7220d00f59"
+        "content": "He came here with his victim in a four-wheeled cab, which was drawn by a horse with three old shoes and one new one on his off fore leg. In all probability the murderer had a florid face, and the finger-nails of his right hand were remarkably long. These are only a few indications, but they may assist you.",
+        "objectID": "c66bb3498e137597839b8eee260121c7"
       },
       "previous": {
         "content": "Holmes took a note of the address.",
-        "objectID": "9d9e661600acac0155584d7e4f3ce4ee"
+        "objectID": "89104cca9856a315ced44edf230fa614"
       }
     },
-    "objectID": "fba4985b5ef82a5cddb82ab40571b25c",
-    "order": 96,
+    "objectID": "3042de0ae70973c15098afaab48470ec",
+    "order": 119,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "He came here with his victim in a four-wheeled cab, which was drawn by a horse with three old shoes and one new one on his off fore leg. In all probability the murderer had a florid face, and the finger-nails of his right hand were remarkably long. These are only a few indications, but they may assist you.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "eead4212000612e4d93b9e09da9a5d51"
+      },
+      "previous": {
+        "content": "\"Come along, Doctor,\" he said; \"we shall go and look him up. I'll tell you one thing which may help you in the case,\" he continued, turning to the two detectives. \"There has been murder done, and the murderer was a man. He was more than six feet high, was in the prime of life, had small feet for his height, wore coarse, square-toed boots and smoked a Trichinopoly cigar.",
+        "objectID": "3042de0ae70973c15098afaab48470ec"
+      }
+    },
+    "objectID": "c66bb3498e137597839b8eee260121c7",
+    "order": 120,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART I. CHAPTER III. THE LAURISTON GARDEN MYSTERY",
+    "chapterOrder": 3,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "Lestrade and Gregson glanced at each other with an incredulous smile.",
+        "objectID": "88d853bd803772cf067dfb2a45de2533"
+      },
+      "previous": {
+        "content": "He came here with his victim in a four-wheeled cab, which was drawn by a horse with three old shoes and one new one on his off fore leg. In all probability the murderer had a florid face, and the finger-nails of his right hand were remarkably long. These are only a few indications, but they may assist you.",
+        "objectID": "c66bb3498e137597839b8eee260121c7"
+      }
+    },
+    "objectID": "eead4212000612e4d93b9e09da9a5d51",
+    "order": 121,
     "tagName": "P"
   },
   {
@@ -2022,15 +2547,15 @@
     "context": {
       "next": {
         "content": "\"If this man was murdered, how was it done?\" asked the former.",
-        "objectID": "2a69413f52f47a7bf37cc1d2a3ebd571"
+        "objectID": "f5c73a2e71545bccf51c4e3b12869ccc"
       },
       "previous": {
-        "content": "\"Come along, Doctor,\" he said; \"we shall go and look him up. I'll tell you one thing which may help you in the case,\" he continued, turning to the two detectives. \"There has been murder done, and the murderer was a man. He was more than six feet high, was in the prime of life, had small feet for his height, wore coarse, square-toed boots and smoked a Trichinopoly cigar. He came here with his victim in a four-wheeled cab, which was drawn by a horse with three old shoes and one new one on his off fore leg. In all probability the murderer had a florid face, and the finger-nails of his right hand were remarkably long. These are only a few indications, but they may assist you.\"",
-        "objectID": "fba4985b5ef82a5cddb82ab40571b25c"
+        "content": "\"",
+        "objectID": "eead4212000612e4d93b9e09da9a5d51"
       }
     },
-    "objectID": "05ad90fd683ce8199ff2ff7220d00f59",
-    "order": 97,
+    "objectID": "88d853bd803772cf067dfb2a45de2533",
+    "order": 122,
     "tagName": "P"
   },
   {
@@ -2043,15 +2568,15 @@
     "context": {
       "next": {
         "content": "\"Poison,\" said Sherlock Holmes curtly, and strode off. \"One other thing, Lestrade,\" he added, turning round at the door: \"'Rache,' is the German for 'revenge;' so don't lose your time looking for Miss Rachel.\"",
-        "objectID": "2a0fb2e66c43ff0847068c5c156cfddf"
+        "objectID": "ba7904da77338150c66a14a524fa5ef8"
       },
       "previous": {
         "content": "Lestrade and Gregson glanced at each other with an incredulous smile.",
-        "objectID": "05ad90fd683ce8199ff2ff7220d00f59"
+        "objectID": "88d853bd803772cf067dfb2a45de2533"
       }
     },
-    "objectID": "2a69413f52f47a7bf37cc1d2a3ebd571",
-    "order": 98,
+    "objectID": "f5c73a2e71545bccf51c4e3b12869ccc",
+    "order": 123,
     "tagName": "P"
   },
   {
@@ -2064,15 +2589,15 @@
     "context": {
       "next": {
         "content": "With which Parthian shot he walked away, leaving the two rivals open-mouthed behind him.",
-        "objectID": "9621d354e2c1246b8a022268cc2d7f84"
+        "objectID": "d6780801e34daecd78ff98c48d777b7f"
       },
       "previous": {
         "content": "\"If this man was murdered, how was it done?\" asked the former.",
-        "objectID": "2a69413f52f47a7bf37cc1d2a3ebd571"
+        "objectID": "f5c73a2e71545bccf51c4e3b12869ccc"
       }
     },
-    "objectID": "2a0fb2e66c43ff0847068c5c156cfddf",
-    "order": 99,
+    "objectID": "ba7904da77338150c66a14a524fa5ef8",
+    "order": 124,
     "tagName": "P"
   },
   {
@@ -2086,11 +2611,11 @@
       "next": null,
       "previous": {
         "content": "\"Poison,\" said Sherlock Holmes curtly, and strode off. \"One other thing, Lestrade,\" he added, turning round at the door: \"'Rache,' is the German for 'revenge;' so don't lose your time looking for Miss Rachel.\"",
-        "objectID": "2a0fb2e66c43ff0847068c5c156cfddf"
+        "objectID": "ba7904da77338150c66a14a524fa5ef8"
       }
     },
-    "objectID": "9621d354e2c1246b8a022268cc2d7f84",
-    "order": 100,
+    "objectID": "d6780801e34daecd78ff98c48d777b7f",
+    "order": 125,
     "tagName": "P"
   }
 ]

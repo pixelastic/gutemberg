@@ -1,0 +1,521 @@
+[
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "WE had all been warned to appear before the magistrates upon the Thursday; but when the Thursday came there was no occasion for our testimony.",
+    "context": {
+      "next": {
+        "content": "\"Gregson and Lestrade will be wild about his death,\" Holmes remarked, as we chatted it over next evening.",
+        "objectID": "98ce1fbec861c11e354429e71ed371a3"
+      },
+      "previous": null
+    },
+    "objectID": "458f68f88c49e26ebc776e03ad30da52",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"Gregson and Lestrade will be wild about his death,\" Holmes remarked, as we chatted it over next evening.",
+    "context": {
+      "next": {
+        "content": "\"I don't see that they had very much to do with his capture,\" I answered.",
+        "objectID": "b0f4940b2dda7290fae532ca84979407"
+      },
+      "previous": {
+        "content": "WE had all been warned to appear before the magistrates upon the Thursday; but when the Thursday came there was no occasion for our testimony.",
+        "objectID": "458f68f88c49e26ebc776e03ad30da52"
+      }
+    },
+    "objectID": "98ce1fbec861c11e354429e71ed371a3",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"I don't see that they had very much to do with his capture,\" I answered.",
+    "context": {
+      "next": {
+        "content": "\"What you do in this world is a matter of no consequence,\" returned my companion, bitterly.",
+        "objectID": "c22e7ea3d38676471a5b8e67c347d2d0"
+      },
+      "previous": {
+        "content": "\"Gregson and Lestrade will be wild about his death,\" Holmes remarked, as we chatted it over next evening.",
+        "objectID": "98ce1fbec861c11e354429e71ed371a3"
+      }
+    },
+    "objectID": "b0f4940b2dda7290fae532ca84979407",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"What you do in this world is a matter of no consequence,\" returned my companion, bitterly.",
+    "context": {
+      "next": {
+        "content": "\"Simple!\" I ejaculated.",
+        "objectID": "6db8290cb09cecbaeab925de4a2743fb"
+      },
+      "previous": {
+        "content": "\"I don't see that they had very much to do with his capture,\" I answered.",
+        "objectID": "b0f4940b2dda7290fae532ca84979407"
+      }
+    },
+    "objectID": "c22e7ea3d38676471a5b8e67c347d2d0",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"Simple!\" I ejaculated.",
+    "context": {
+      "next": {
+        "content": "\"Well, really, it can hardly be described as otherwise,\" said Sherlock Holmes, smiling at my surprise.",
+        "objectID": "30cea4235fe9c415e64fb9d37d56d4ef"
+      },
+      "previous": {
+        "content": "\"What you do in this world is a matter of no consequence,\" returned my companion, bitterly.",
+        "objectID": "c22e7ea3d38676471a5b8e67c347d2d0"
+      }
+    },
+    "objectID": "6db8290cb09cecbaeab925de4a2743fb",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"Well, really, it can hardly be described as otherwise,\" said Sherlock Holmes, smiling at my surprise.",
+    "context": {
+      "next": {
+        "content": "\"That is true,\" said I.",
+        "objectID": "f449526925fe1a0d60be99323663d002"
+      },
+      "previous": {
+        "content": "\"Simple!\" I ejaculated.",
+        "objectID": "6db8290cb09cecbaeab925de4a2743fb"
+      }
+    },
+    "objectID": "30cea4235fe9c415e64fb9d37d56d4ef",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"That is true,\" said I.",
+    "context": {
+      "next": {
+        "content": "\"I have already explained to you that what is out of the common is usually a guide rather than a hindrance.",
+        "objectID": "ee6fcc7ed9ca2f11d18f6d36f0264fc9"
+      },
+      "previous": {
+        "content": "\"Well, really, it can hardly be described as otherwise,\" said Sherlock Holmes, smiling at my surprise.",
+        "objectID": "30cea4235fe9c415e64fb9d37d56d4ef"
+      }
+    },
+    "objectID": "f449526925fe1a0d60be99323663d002",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"I have already explained to you that what is out of the common is usually a guide rather than a hindrance.",
+    "context": {
+      "next": {
+        "content": "\"I confess,\" said I, \"that I do not quite follow you.",
+        "objectID": "ef246cca3e32251f32206a5329af16b2"
+      },
+      "previous": {
+        "content": "\"That is true,\" said I.",
+        "objectID": "f449526925fe1a0d60be99323663d002"
+      }
+    },
+    "objectID": "ee6fcc7ed9ca2f11d18f6d36f0264fc9",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"I confess,\" said I, \"that I do not quite follow you.",
+    "context": {
+      "next": {
+        "content": "\"I hardly expected that you would.",
+        "objectID": "0b48e325aa579be04e25a6ae4d7e2cd3"
+      },
+      "previous": {
+        "content": "\"I have already explained to you that what is out of the common is usually a guide rather than a hindrance.",
+        "objectID": "ee6fcc7ed9ca2f11d18f6d36f0264fc9"
+      }
+    },
+    "objectID": "ef246cca3e32251f32206a5329af16b2",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"I hardly expected that you would.",
+    "context": {
+      "next": {
+        "content": "\"I understand,\" said I.",
+        "objectID": "6ced4e5c3d5ae20402fe075790dc3477"
+      },
+      "previous": {
+        "content": "\"I confess,\" said I, \"that I do not quite follow you.",
+        "objectID": "ef246cca3e32251f32206a5329af16b2"
+      }
+    },
+    "objectID": "0b48e325aa579be04e25a6ae4d7e2cd3",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"I understand,\" said I.",
+    "context": {
+      "next": {
+        "content": "\"Now this was a case in which you were given the result and had to find everything else for yourself.",
+        "objectID": "42eb28e611ce8698dde484ecaff10746"
+      },
+      "previous": {
+        "content": "\"I hardly expected that you would.",
+        "objectID": "0b48e325aa579be04e25a6ae4d7e2cd3"
+      }
+    },
+    "objectID": "6ced4e5c3d5ae20402fe075790dc3477",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"Now this was a case in which you were given the result and had to find everything else for yourself.",
+    "context": {
+      "next": {
+        "content": "\"This was the first point gained.",
+        "objectID": "a2c0579729a74e269821fae2a97e78c2"
+      },
+      "previous": {
+        "content": "\"I understand,\" said I.",
+        "objectID": "6ced4e5c3d5ae20402fe075790dc3477"
+      }
+    },
+    "objectID": "42eb28e611ce8698dde484ecaff10746",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"This was the first point gained.",
+    "context": {
+      "next": {
+        "content": "\"On entering the house this last inference was confirmed.",
+        "objectID": "53d6809adadb7c089f01832becba6fbc"
+      },
+      "previous": {
+        "content": "\"Now this was a case in which you were given the result and had to find everything else for yourself.",
+        "objectID": "42eb28e611ce8698dde484ecaff10746"
+      }
+    },
+    "objectID": "a2c0579729a74e269821fae2a97e78c2",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"On entering the house this last inference was confirmed.",
+    "context": {
+      "next": {
+        "content": "\"And now came the great question as to the reason why.",
+        "objectID": "037ab916ec1767a4a07b492fd14bdb4e"
+      },
+      "previous": {
+        "content": "\"This was the first point gained.",
+        "objectID": "a2c0579729a74e269821fae2a97e78c2"
+      }
+    },
+    "objectID": "53d6809adadb7c089f01832becba6fbc",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"And now came the great question as to the reason why.",
+    "context": {
+      "next": {
+        "content": "\"I then proceeded to make a careful examination of the room, which confirmed me in my opinion as to the murderer's height, and furnished me with the additional details as to the Trichinopoly cigar and the length of his nails.",
+        "objectID": "bbe07426cd99dd144bbb69b8472a1433"
+      },
+      "previous": {
+        "content": "\"On entering the house this last inference was confirmed.",
+        "objectID": "53d6809adadb7c089f01832becba6fbc"
+      }
+    },
+    "objectID": "037ab916ec1767a4a07b492fd14bdb4e",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"I then proceeded to make a careful examination of the room, which confirmed me in my opinion as to the murderer's height, and furnished me with the additional details as to the Trichinopoly cigar and the length of his nails.",
+    "context": {
+      "next": {
+        "content": "\"Having left the house, I proceeded to do what Gregson had neglected.",
+        "objectID": "83f15507cb613dd55ac587ca805d308a"
+      },
+      "previous": {
+        "content": "\"And now came the great question as to the reason why.",
+        "objectID": "037ab916ec1767a4a07b492fd14bdb4e"
+      }
+    },
+    "objectID": "bbe07426cd99dd144bbb69b8472a1433",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"Having left the house, I proceeded to do what Gregson had neglected.",
+    "context": {
+      "next": {
+        "content": "\"I had already determined in my own mind that the man who had walked into the house with Drebber, was none other than the man who had driven the cab.",
+        "objectID": "4e8ca40dcd48282fcc51137a13c11b55"
+      },
+      "previous": {
+        "content": "\"I then proceeded to make a careful examination of the room, which confirmed me in my opinion as to the murderer's height, and furnished me with the additional details as to the Trichinopoly cigar and the length of his nails.",
+        "objectID": "bbe07426cd99dd144bbb69b8472a1433"
+      }
+    },
+    "objectID": "83f15507cb613dd55ac587ca805d308a",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"I had already determined in my own mind that the man who had walked into the house with Drebber, was none other than the man who had driven the cab.",
+    "context": {
+      "next": {
+        "content": "\"If he had been one there was no reason to believe that he had ceased to be.",
+        "objectID": "74f77567d8338d898f89abeb261b2d48"
+      },
+      "previous": {
+        "content": "\"Having left the house, I proceeded to do what Gregson had neglected.",
+        "objectID": "83f15507cb613dd55ac587ca805d308a"
+      }
+    },
+    "objectID": "4e8ca40dcd48282fcc51137a13c11b55",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"If he had been one there was no reason to believe that he had ceased to be.",
+    "context": {
+      "next": {
+        "content": "\"It is wonderful!\" I cried.",
+        "objectID": "e1f12c39ac8dda52218e72ccb38e1ee9"
+      },
+      "previous": {
+        "content": "\"I had already determined in my own mind that the man who had walked into the house with Drebber, was none other than the man who had driven the cab.",
+        "objectID": "4e8ca40dcd48282fcc51137a13c11b55"
+      }
+    },
+    "objectID": "74f77567d8338d898f89abeb261b2d48",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"It is wonderful!\" I cried.",
+    "context": {
+      "next": {
+        "content": "\"You may do what you like, Doctor,\" he answered.",
+        "objectID": "6b02fc43828b63c3a98346d8fe43ad79"
+      },
+      "previous": {
+        "content": "\"If he had been one there was no reason to believe that he had ceased to be.",
+        "objectID": "74f77567d8338d898f89abeb261b2d48"
+      }
+    },
+    "objectID": "e1f12c39ac8dda52218e72ccb38e1ee9",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"You may do what you like, Doctor,\" he answered.",
+    "context": {
+      "next": {
+        "content": "It was the Echo for the day, and the paragraph to which he pointed was devoted to the case in question.",
+        "objectID": "1d3ebb85bdb0fedd1777e6f9d720444b"
+      },
+      "previous": {
+        "content": "\"It is wonderful!\" I cried.",
+        "objectID": "e1f12c39ac8dda52218e72ccb38e1ee9"
+      }
+    },
+    "objectID": "6b02fc43828b63c3a98346d8fe43ad79",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "It was the Echo for the day, and the paragraph to which he pointed was devoted to the case in question.",
+    "context": {
+      "next": {
+        "content": "\"The public,\" it said, \"have lost a sensational treat through the sudden death of the man Hope, who was suspected of the murder of Mr.",
+        "objectID": "36a1e18c2bbcfd6575bce940aa32951c"
+      },
+      "previous": {
+        "content": "\"You may do what you like, Doctor,\" he answered.",
+        "objectID": "6b02fc43828b63c3a98346d8fe43ad79"
+      }
+    },
+    "objectID": "1d3ebb85bdb0fedd1777e6f9d720444b",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"The public,\" it said, \"have lost a sensational treat through the sudden death of the man Hope, who was suspected of the murder of Mr.",
+    "context": {
+      "next": {
+        "content": "\"Didn't I tell you so when we started?\" cried Sherlock Holmes with a laugh.",
+        "objectID": "65f8167dfbf0c7cd4326e9d9035f363c"
+      },
+      "previous": {
+        "content": "It was the Echo for the day, and the paragraph to which he pointed was devoted to the case in question.",
+        "objectID": "1d3ebb85bdb0fedd1777e6f9d720444b"
+      }
+    },
+    "objectID": "36a1e18c2bbcfd6575bce940aa32951c",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"Didn't I tell you so when we started?\" cried Sherlock Holmes with a laugh.",
+    "context": {
+      "next": {
+        "content": "\"Never mind,\" I answered, \"I have all the facts in my journal, and the public shall know them.",
+        "objectID": "f66ffc84838cd871b63f3ec4774945b1"
+      },
+      "previous": {
+        "content": "\"The public,\" it said, \"have lost a sensational treat through the sudden death of the man Hope, who was suspected of the murder of Mr.",
+        "objectID": "36a1e18c2bbcfd6575bce940aa32951c"
+      }
+    },
+    "objectID": "65f8167dfbf0c7cd4326e9d9035f363c",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "A. Conan Doyle",
+    "book": "A Study in Scarlet.",
+    "bookOrder": 1,
+    "chapterName": "PART II. CHAPTER VII.",
+    "chapterOrder": 15,
+    "content": "\"Never mind,\" I answered, \"I have all the facts in my journal, and the public shall know them.",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "\"Didn't I tell you so when we started?\" cried Sherlock Holmes with a laugh.",
+        "objectID": "65f8167dfbf0c7cd4326e9d9035f363c"
+      }
+    },
+    "objectID": "f66ffc84838cd871b63f3ec4774945b1",
+    "order": 25,
+    "tagName": "P"
+  }
+]
