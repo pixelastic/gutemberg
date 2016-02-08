@@ -1,0 +1,1676 @@
+[
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "Our meal was a merry one. Holmes could talk exceedingly well when he chose, and that night he did choose. He appeared to be in a state of nervous exaltation. I have never known him so brilliant. He spoke on a quick succession of subjects,—on miracle-plays, on medieval pottery, on Stradivarius violins, on the Buddhism of Ceylon, and on the war-ships of the future,—handling each as though he had made a special study of it.",
+    "context": {
+      "next": {
+        "content": "His bright humor marked the reaction from his black depression of the preceding days. Athelney Jones proved to be a sociable soul in his hours of relaxation, and faced his dinner with the air of a bon vivant. For myself, I felt elated at the thought that we were nearing the end of our task, and I caught something of Holmes's gaiety.",
+        "objectID": "32de68d4b885984b9f8d55a2eff47324"
+      },
+      "previous": null
+    },
+    "objectID": "4d3e8198c3e43d99bc122bb7a4f56b44",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "His bright humor marked the reaction from his black depression of the preceding days. Athelney Jones proved to be a sociable soul in his hours of relaxation, and faced his dinner with the air of a bon vivant. For myself, I felt elated at the thought that we were nearing the end of our task, and I caught something of Holmes's gaiety.",
+    "context": {
+      "next": {
+        "content": "None of us alluded during dinner to the cause which had brought us together.",
+        "objectID": "e7364890fa1b87af6ab05338acc6168c"
+      },
+      "previous": {
+        "content": "Our meal was a merry one. Holmes could talk exceedingly well when he chose, and that night he did choose. He appeared to be in a state of nervous exaltation. I have never known him so brilliant. He spoke on a quick succession of subjects,—on miracle-plays, on medieval pottery, on Stradivarius violins, on the Buddhism of Ceylon, and on the war-ships of the future,—handling each as though he had made a special study of it.",
+        "objectID": "4d3e8198c3e43d99bc122bb7a4f56b44"
+      }
+    },
+    "objectID": "32de68d4b885984b9f8d55a2eff47324",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "None of us alluded during dinner to the cause which had brought us together.",
+    "context": {
+      "next": {
+        "content": "When the cloth was cleared, Holmes glanced at his watch, and filled up three glasses with port. \"One bumper,\" said he, \"to the success of our little expedition. And now it is high time we were off. Have you a pistol, Watson?\"",
+        "objectID": "33b42aaa332db74886676aa1b8dfc728"
+      },
+      "previous": {
+        "content": "His bright humor marked the reaction from his black depression of the preceding days. Athelney Jones proved to be a sociable soul in his hours of relaxation, and faced his dinner with the air of a bon vivant. For myself, I felt elated at the thought that we were nearing the end of our task, and I caught something of Holmes's gaiety.",
+        "objectID": "32de68d4b885984b9f8d55a2eff47324"
+      }
+    },
+    "objectID": "e7364890fa1b87af6ab05338acc6168c",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "When the cloth was cleared, Holmes glanced at his watch, and filled up three glasses with port. \"One bumper,\" said he, \"to the success of our little expedition. And now it is high time we were off. Have you a pistol, Watson?\"",
+    "context": {
+      "next": {
+        "content": "\"I have my old service-revolver in my desk.\"",
+        "objectID": "990db8c9ee1b69a7112555f0295d36c4"
+      },
+      "previous": {
+        "content": "None of us alluded during dinner to the cause which had brought us together.",
+        "objectID": "e7364890fa1b87af6ab05338acc6168c"
+      }
+    },
+    "objectID": "33b42aaa332db74886676aa1b8dfc728",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"I have my old service-revolver in my desk.\"",
+    "context": {
+      "next": {
+        "content": "\"You had best take it, then. It is well to be prepared. I see that the cab is at the door. I ordered it for half-past six.\"",
+        "objectID": "7fadeed55a4a661b6d8718d963072025"
+      },
+      "previous": {
+        "content": "When the cloth was cleared, Holmes glanced at his watch, and filled up three glasses with port. \"One bumper,\" said he, \"to the success of our little expedition. And now it is high time we were off. Have you a pistol, Watson?\"",
+        "objectID": "33b42aaa332db74886676aa1b8dfc728"
+      }
+    },
+    "objectID": "990db8c9ee1b69a7112555f0295d36c4",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"You had best take it, then. It is well to be prepared. I see that the cab is at the door. I ordered it for half-past six.\"",
+    "context": {
+      "next": {
+        "content": "It was a little past seven before we reached the Westminster wharf, and found our launch awaiting us. Holmes eyed it critically.",
+        "objectID": "c589143c6efa7966a39ffc3925d591f3"
+      },
+      "previous": {
+        "content": "\"I have my old service-revolver in my desk.\"",
+        "objectID": "990db8c9ee1b69a7112555f0295d36c4"
+      }
+    },
+    "objectID": "7fadeed55a4a661b6d8718d963072025",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "It was a little past seven before we reached the Westminster wharf, and found our launch awaiting us. Holmes eyed it critically.",
+    "context": {
+      "next": {
+        "content": "\"Is there anything to mark it as a police-boat?\"",
+        "objectID": "83d2dc12ad7918e58b29f0d53ea9c295"
+      },
+      "previous": {
+        "content": "\"You had best take it, then. It is well to be prepared. I see that the cab is at the door. I ordered it for half-past six.\"",
+        "objectID": "7fadeed55a4a661b6d8718d963072025"
+      }
+    },
+    "objectID": "c589143c6efa7966a39ffc3925d591f3",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Is there anything to mark it as a police-boat?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes,—that green lamp at the side.\"",
+        "objectID": "64f2568c5415160fa09beead424c738d"
+      },
+      "previous": {
+        "content": "It was a little past seven before we reached the Westminster wharf, and found our launch awaiting us. Holmes eyed it critically.",
+        "objectID": "c589143c6efa7966a39ffc3925d591f3"
+      }
+    },
+    "objectID": "83d2dc12ad7918e58b29f0d53ea9c295",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Yes,—that green lamp at the side.\"",
+    "context": {
+      "next": {
+        "content": "\"Then take it off.\"",
+        "objectID": "e08ee6b5e71b89da4d83c190568718ee"
+      },
+      "previous": {
+        "content": "\"Is there anything to mark it as a police-boat?\"",
+        "objectID": "83d2dc12ad7918e58b29f0d53ea9c295"
+      }
+    },
+    "objectID": "64f2568c5415160fa09beead424c738d",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Then take it off.\"",
+    "context": {
+      "next": {
+        "content": "The small change was made, we stepped on board, and the ropes were cast off. Jones, Holmes, and I sat in the stern. There was one man at the rudder, one to tend the engines, and two burly police-inspectors forward.",
+        "objectID": "5615cc6886db689ebceb6f1e75541255"
+      },
+      "previous": {
+        "content": "\"Yes,—that green lamp at the side.\"",
+        "objectID": "64f2568c5415160fa09beead424c738d"
+      }
+    },
+    "objectID": "e08ee6b5e71b89da4d83c190568718ee",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "The small change was made, we stepped on board, and the ropes were cast off. Jones, Holmes, and I sat in the stern. There was one man at the rudder, one to tend the engines, and two burly police-inspectors forward.",
+    "context": {
+      "next": {
+        "content": "\"Where to?\" asked Jones.",
+        "objectID": "231af0dde7f6f5a206dcde479de40651"
+      },
+      "previous": {
+        "content": "\"Then take it off.\"",
+        "objectID": "e08ee6b5e71b89da4d83c190568718ee"
+      }
+    },
+    "objectID": "5615cc6886db689ebceb6f1e75541255",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Where to?\" asked Jones.",
+    "context": {
+      "next": {
+        "content": "\"To the Tower. Tell them to stop opposite Jacobson's Yard.\"",
+        "objectID": "01844296704a11f50e882ad1a6554e74"
+      },
+      "previous": {
+        "content": "The small change was made, we stepped on board, and the ropes were cast off. Jones, Holmes, and I sat in the stern. There was one man at the rudder, one to tend the engines, and two burly police-inspectors forward.",
+        "objectID": "5615cc6886db689ebceb6f1e75541255"
+      }
+    },
+    "objectID": "231af0dde7f6f5a206dcde479de40651",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"To the Tower. Tell them to stop opposite Jacobson's Yard.\"",
+    "context": {
+      "next": {
+        "content": "Our craft was evidently a very fast one. We shot past the long lines of loaded barges as though they were stationary. Holmes smiled with satisfaction as we overhauled a river steamer and left her behind us.",
+        "objectID": "abbeea21f404ebd5fc60ad0fd2b7b5b5"
+      },
+      "previous": {
+        "content": "\"Where to?\" asked Jones.",
+        "objectID": "231af0dde7f6f5a206dcde479de40651"
+      }
+    },
+    "objectID": "01844296704a11f50e882ad1a6554e74",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "Our craft was evidently a very fast one. We shot past the long lines of loaded barges as though they were stationary. Holmes smiled with satisfaction as we overhauled a river steamer and left her behind us.",
+    "context": {
+      "next": {
+        "content": "\"We ought to be able to catch anything on the river,\" he said.",
+        "objectID": "0d994f785bb2dfc205db6089b610dad0"
+      },
+      "previous": {
+        "content": "\"To the Tower. Tell them to stop opposite Jacobson's Yard.\"",
+        "objectID": "01844296704a11f50e882ad1a6554e74"
+      }
+    },
+    "objectID": "abbeea21f404ebd5fc60ad0fd2b7b5b5",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"We ought to be able to catch anything on the river,\" he said.",
+    "context": {
+      "next": {
+        "content": "\"Well, hardly that. But there are not many launches to beat us.\"",
+        "objectID": "59821d1a2124fe6fbc7bc74f799b80ac"
+      },
+      "previous": {
+        "content": "Our craft was evidently a very fast one. We shot past the long lines of loaded barges as though they were stationary. Holmes smiled with satisfaction as we overhauled a river steamer and left her behind us.",
+        "objectID": "abbeea21f404ebd5fc60ad0fd2b7b5b5"
+      }
+    },
+    "objectID": "0d994f785bb2dfc205db6089b610dad0",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Well, hardly that. But there are not many launches to beat us.\"",
+    "context": {
+      "next": {
+        "content": "\"We shall have to catch the Aurora, and she has a name for being a clipper. I will tell you how the land lies, Watson. You recollect how annoyed I was at being balked by so small a thing?\"",
+        "objectID": "3850670b6fb90fc5e67e49521db4c006"
+      },
+      "previous": {
+        "content": "\"We ought to be able to catch anything on the river,\" he said.",
+        "objectID": "0d994f785bb2dfc205db6089b610dad0"
+      }
+    },
+    "objectID": "59821d1a2124fe6fbc7bc74f799b80ac",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"We shall have to catch the Aurora, and she has a name for being a clipper. I will tell you how the land lies, Watson. You recollect how annoyed I was at being balked by so small a thing?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes.\"",
+        "objectID": "b6d93af96b4a1a6562e5c0ce3eda4636"
+      },
+      "previous": {
+        "content": "\"Well, hardly that. But there are not many launches to beat us.\"",
+        "objectID": "59821d1a2124fe6fbc7bc74f799b80ac"
+      }
+    },
+    "objectID": "3850670b6fb90fc5e67e49521db4c006",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Yes.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, I gave my mind a thorough rest by plunging into a chemical analysis. One of our greatest statesmen has said that a change of work is the best rest. So it is. When I had succeeded in dissolving the hydrocarbon which I was at work at, I came back to our problem of the Sholtos, and thought the whole matter out again.",
+        "objectID": "73df09fa29c358793743256ca57ee3e5"
+      },
+      "previous": {
+        "content": "\"We shall have to catch the Aurora, and she has a name for being a clipper. I will tell you how the land lies, Watson. You recollect how annoyed I was at being balked by so small a thing?\"",
+        "objectID": "3850670b6fb90fc5e67e49521db4c006"
+      }
+    },
+    "objectID": "b6d93af96b4a1a6562e5c0ce3eda4636",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Well, I gave my mind a thorough rest by plunging into a chemical analysis. One of our greatest statesmen has said that a change of work is the best rest. So it is. When I had succeeded in dissolving the hydrocarbon which I was at work at, I came back to our problem of the Sholtos, and thought the whole matter out again.",
+    "context": {
+      "next": {
+        "content": "My boys had been up the river and down the river without result. The launch was not at any landing-stage or wharf, nor had it returned. Yet it could hardly have been scuttled to hide their traces,—though that always remained as a possible hypothesis if all else failed. I knew this man Small had a certain degree of low cunning, but I did not think him capable of anything in the nature of delicate finesse.",
+        "objectID": "6f81f7fd5d71afcc64a1bae035c5393b"
+      },
+      "previous": {
+        "content": "\"Yes.\"",
+        "objectID": "b6d93af96b4a1a6562e5c0ce3eda4636"
+      }
+    },
+    "objectID": "73df09fa29c358793743256ca57ee3e5",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "My boys had been up the river and down the river without result. The launch was not at any landing-stage or wharf, nor had it returned. Yet it could hardly have been scuttled to hide their traces,—though that always remained as a possible hypothesis if all else failed. I knew this man Small had a certain degree of low cunning, but I did not think him capable of anything in the nature of delicate finesse.",
+    "context": {
+      "next": {
+        "content": "That is usually a product of higher education. I then reflected that since he had certainly been in London some time—as we had evidence that he maintained a continual watch over Pondicherry Lodge—he could hardly leave at a moment's notice, but would need some little time, if it were only a day, to arrange his affairs.",
+        "objectID": "11ec0e14e4cfcd3abc7dc720e23a0259"
+      },
+      "previous": {
+        "content": "\"Well, I gave my mind a thorough rest by plunging into a chemical analysis. One of our greatest statesmen has said that a change of work is the best rest. So it is. When I had succeeded in dissolving the hydrocarbon which I was at work at, I came back to our problem of the Sholtos, and thought the whole matter out again.",
+        "objectID": "73df09fa29c358793743256ca57ee3e5"
+      }
+    },
+    "objectID": "6f81f7fd5d71afcc64a1bae035c5393b",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "That is usually a product of higher education. I then reflected that since he had certainly been in London some time—as we had evidence that he maintained a continual watch over Pondicherry Lodge—he could hardly leave at a moment's notice, but would need some little time, if it were only a day, to arrange his affairs.",
+    "context": {
+      "next": {
+        "content": "That was the balance of probability, at any rate.\"",
+        "objectID": "4def8cca040901d8c075956c72441ffb"
+      },
+      "previous": {
+        "content": "My boys had been up the river and down the river without result. The launch was not at any landing-stage or wharf, nor had it returned. Yet it could hardly have been scuttled to hide their traces,—though that always remained as a possible hypothesis if all else failed. I knew this man Small had a certain degree of low cunning, but I did not think him capable of anything in the nature of delicate finesse.",
+        "objectID": "6f81f7fd5d71afcc64a1bae035c5393b"
+      }
+    },
+    "objectID": "11ec0e14e4cfcd3abc7dc720e23a0259",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "That was the balance of probability, at any rate.\"",
+    "context": {
+      "next": {
+        "content": "\"It seems to me to be a little weak,\" said I. \"It is more probable that he had arranged his affairs before ever he set out upon his expedition.\"",
+        "objectID": "3c146f87e0297c0169479fbf5dd3f313"
+      },
+      "previous": {
+        "content": "That is usually a product of higher education. I then reflected that since he had certainly been in London some time—as we had evidence that he maintained a continual watch over Pondicherry Lodge—he could hardly leave at a moment's notice, but would need some little time, if it were only a day, to arrange his affairs.",
+        "objectID": "11ec0e14e4cfcd3abc7dc720e23a0259"
+      }
+    },
+    "objectID": "4def8cca040901d8c075956c72441ffb",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"It seems to me to be a little weak,\" said I. \"It is more probable that he had arranged his affairs before ever he set out upon his expedition.\"",
+    "context": {
+      "next": {
+        "content": "\"No, I hardly think so. This lair of his would be too valuable a retreat in case of need for him to give it up until he was sure that he could do without it. But a second consideration struck me. Jonathan Small must have felt that the peculiar appearance of his companion, however much he may have top-coated him, would give rise to gossip, and possibly be associated with this Norwood tragedy.",
+        "objectID": "69472631811f434fdbb22b67f7f45027"
+      },
+      "previous": {
+        "content": "That was the balance of probability, at any rate.\"",
+        "objectID": "4def8cca040901d8c075956c72441ffb"
+      }
+    },
+    "objectID": "3c146f87e0297c0169479fbf5dd3f313",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"No, I hardly think so. This lair of his would be too valuable a retreat in case of need for him to give it up until he was sure that he could do without it. But a second consideration struck me. Jonathan Small must have felt that the peculiar appearance of his companion, however much he may have top-coated him, would give rise to gossip, and possibly be associated with this Norwood tragedy.",
+    "context": {
+      "next": {
+        "content": "He was quite sharp enough to see that. They had started from their head-quarters under cover of darkness, and he would wish to get back before it was broad light. Now, it was past three o'clock, according to Mrs. Smith, when they got the boat. It would be quite bright, and people would be about in an hour or so.",
+        "objectID": "cb78c9d054f0c7a27502dffbd6835e26"
+      },
+      "previous": {
+        "content": "\"It seems to me to be a little weak,\" said I. \"It is more probable that he had arranged his affairs before ever he set out upon his expedition.\"",
+        "objectID": "3c146f87e0297c0169479fbf5dd3f313"
+      }
+    },
+    "objectID": "69472631811f434fdbb22b67f7f45027",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "He was quite sharp enough to see that. They had started from their head-quarters under cover of darkness, and he would wish to get back before it was broad light. Now, it was past three o'clock, according to Mrs. Smith, when they got the boat. It would be quite bright, and people would be about in an hour or so.",
+    "context": {
+      "next": {
+        "content": "Therefore, I argued, they did not go very far. They paid Smith well to hold his tongue, reserved his launch for the final escape, and hurried to their lodgings with the treasure-box. In a couple of nights, when they had time to see what view the papers took, and whether there was any suspicion, they would make their way under cover of darkness to some ship at Gravesend or in the Downs, where no doubt they had already arranged for passages to America or the Colonies.",
+        "objectID": "acf13dfd0e0ae31db4ae2516cd12a8b2"
+      },
+      "previous": {
+        "content": "\"No, I hardly think so. This lair of his would be too valuable a retreat in case of need for him to give it up until he was sure that he could do without it. But a second consideration struck me. Jonathan Small must have felt that the peculiar appearance of his companion, however much he may have top-coated him, would give rise to gossip, and possibly be associated with this Norwood tragedy.",
+        "objectID": "69472631811f434fdbb22b67f7f45027"
+      }
+    },
+    "objectID": "cb78c9d054f0c7a27502dffbd6835e26",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "Therefore, I argued, they did not go very far. They paid Smith well to hold his tongue, reserved his launch for the final escape, and hurried to their lodgings with the treasure-box. In a couple of nights, when they had time to see what view the papers took, and whether there was any suspicion, they would make their way under cover of darkness to some ship at Gravesend or in the Downs, where no doubt they had already arranged for passages to America or the Colonies.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "7e44e522948b402bf3bc7093894f8b89"
+      },
+      "previous": {
+        "content": "He was quite sharp enough to see that. They had started from their head-quarters under cover of darkness, and he would wish to get back before it was broad light. Now, it was past three o'clock, according to Mrs. Smith, when they got the boat. It would be quite bright, and people would be about in an hour or so.",
+        "objectID": "cb78c9d054f0c7a27502dffbd6835e26"
+      }
+    },
+    "objectID": "acf13dfd0e0ae31db4ae2516cd12a8b2",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"But the launch? They could not have taken that to their lodgings.\"",
+        "objectID": "4faf3148d1d999b8ab6b6858fa4c3430"
+      },
+      "previous": {
+        "content": "Therefore, I argued, they did not go very far. They paid Smith well to hold his tongue, reserved his launch for the final escape, and hurried to their lodgings with the treasure-box. In a couple of nights, when they had time to see what view the papers took, and whether there was any suspicion, they would make their way under cover of darkness to some ship at Gravesend or in the Downs, where no doubt they had already arranged for passages to America or the Colonies.",
+        "objectID": "acf13dfd0e0ae31db4ae2516cd12a8b2"
+      }
+    },
+    "objectID": "7e44e522948b402bf3bc7093894f8b89",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"But the launch? They could not have taken that to their lodgings.\"",
+    "context": {
+      "next": {
+        "content": "\"Quite so. I argued that the launch must be no great way off, in spite of its invisibility. I then put myself in the place of Small, and looked at it as a man of his capacity would. He would probably consider that to send back the launch or to keep it at a wharf would make pursuit easy if the police did happen to get on his track.",
+        "objectID": "f112f6d28837e640a3ec057f2514e2aa"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "7e44e522948b402bf3bc7093894f8b89"
+      }
+    },
+    "objectID": "4faf3148d1d999b8ab6b6858fa4c3430",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Quite so. I argued that the launch must be no great way off, in spite of its invisibility. I then put myself in the place of Small, and looked at it as a man of his capacity would. He would probably consider that to send back the launch or to keep it at a wharf would make pursuit easy if the police did happen to get on his track.",
+    "context": {
+      "next": {
+        "content": "How, then, could he conceal the launch and yet have her at hand when wanted? I wondered what I should do myself if I were in his shoes. I could only think of one way of doing it. I might land the launch over to some boat-builder or repairer, with directions to make a trifling change in her. She would then be removed to his shed or yard, and so be effectually concealed, while at the same time I could have her at a few hours' notice.",
+        "objectID": "1a9648c87a8d974ae35bad5477f5ec88"
+      },
+      "previous": {
+        "content": "\"But the launch? They could not have taken that to their lodgings.\"",
+        "objectID": "4faf3148d1d999b8ab6b6858fa4c3430"
+      }
+    },
+    "objectID": "f112f6d28837e640a3ec057f2514e2aa",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "How, then, could he conceal the launch and yet have her at hand when wanted? I wondered what I should do myself if I were in his shoes. I could only think of one way of doing it. I might land the launch over to some boat-builder or repairer, with directions to make a trifling change in her. She would then be removed to his shed or yard, and so be effectually concealed, while at the same time I could have her at a few hours' notice.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "8c228e5a650c5847323ae83803dd12c8"
+      },
+      "previous": {
+        "content": "\"Quite so. I argued that the launch must be no great way off, in spite of its invisibility. I then put myself in the place of Small, and looked at it as a man of his capacity would. He would probably consider that to send back the launch or to keep it at a wharf would make pursuit easy if the police did happen to get on his track.",
+        "objectID": "f112f6d28837e640a3ec057f2514e2aa"
+      }
+    },
+    "objectID": "1a9648c87a8d974ae35bad5477f5ec88",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"That seems simple enough.\"",
+        "objectID": "17c54c327e47a04a58116570fb085be0"
+      },
+      "previous": {
+        "content": "How, then, could he conceal the launch and yet have her at hand when wanted? I wondered what I should do myself if I were in his shoes. I could only think of one way of doing it. I might land the launch over to some boat-builder or repairer, with directions to make a trifling change in her. She would then be removed to his shed or yard, and so be effectually concealed, while at the same time I could have her at a few hours' notice.",
+        "objectID": "1a9648c87a8d974ae35bad5477f5ec88"
+      }
+    },
+    "objectID": "8c228e5a650c5847323ae83803dd12c8",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"That seems simple enough.\"",
+    "context": {
+      "next": {
+        "content": "\"It is just these very simple things which are extremely liable to be overlooked. However, I determined to act on the idea. I started at once in this harmless seaman's rig and inquired at all the yards down the river. I drew blank at fifteen, but at the sixteenth—Jacobson's—I learned that the Aurora had been handed over to them two days ago by a wooden-legged man, with some trivial directions as to her rudder.",
+        "objectID": "d3181414253ac29cff36f83d02a094de"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "8c228e5a650c5847323ae83803dd12c8"
+      }
+    },
+    "objectID": "17c54c327e47a04a58116570fb085be0",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"It is just these very simple things which are extremely liable to be overlooked. However, I determined to act on the idea. I started at once in this harmless seaman's rig and inquired at all the yards down the river. I drew blank at fifteen, but at the sixteenth—Jacobson's—I learned that the Aurora had been handed over to them two days ago by a wooden-legged man, with some trivial directions as to her rudder.",
+    "context": {
+      "next": {
+        "content": "'There ain't naught amiss with her rudder,' said the foreman. 'There she lies, with the red streaks.' At that moment who should come down but Mordecai Smith, the missing owner? He was rather the worse for liquor. I should not, of course, have known him, but he bellowed out his name and the name of his launch.",
+        "objectID": "9e19c7b55e68ff96362fbd1f21abf440"
+      },
+      "previous": {
+        "content": "\"That seems simple enough.\"",
+        "objectID": "17c54c327e47a04a58116570fb085be0"
+      }
+    },
+    "objectID": "d3181414253ac29cff36f83d02a094de",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "'There ain't naught amiss with her rudder,' said the foreman. 'There she lies, with the red streaks.' At that moment who should come down but Mordecai Smith, the missing owner? He was rather the worse for liquor. I should not, of course, have known him, but he bellowed out his name and the name of his launch.",
+    "context": {
+      "next": {
+        "content": "'I want her to-night at eight o'clock,' said he,—'eight o'clock sharp, mind, for I have two gentlemen who won't be kept waiting.' They had evidently paid him well, for he was very flush of money, chucking shillings about to the men. I followed him some distance, but he subsided into an ale-house: so I went back to the yard, and, happening to pick up one of my boys on the way, I stationed him as a sentry over the launch.",
+        "objectID": "928d88393c73e7f427fce00d91ac1cf3"
+      },
+      "previous": {
+        "content": "\"It is just these very simple things which are extremely liable to be overlooked. However, I determined to act on the idea. I started at once in this harmless seaman's rig and inquired at all the yards down the river. I drew blank at fifteen, but at the sixteenth—Jacobson's—I learned that the Aurora had been handed over to them two days ago by a wooden-legged man, with some trivial directions as to her rudder.",
+        "objectID": "d3181414253ac29cff36f83d02a094de"
+      }
+    },
+    "objectID": "9e19c7b55e68ff96362fbd1f21abf440",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "'I want her to-night at eight o'clock,' said he,—'eight o'clock sharp, mind, for I have two gentlemen who won't be kept waiting.' They had evidently paid him well, for he was very flush of money, chucking shillings about to the men. I followed him some distance, but he subsided into an ale-house: so I went back to the yard, and, happening to pick up one of my boys on the way, I stationed him as a sentry over the launch.",
+    "context": {
+      "next": {
+        "content": "He is to stand at water's edge and wave his handkerchief to us when they start. We shall be lying off in the stream, and it will be a strange thing if we do not take men, treasure, and all.\"",
+        "objectID": "371cdc049f194f135b9357bf0190247e"
+      },
+      "previous": {
+        "content": "'There ain't naught amiss with her rudder,' said the foreman. 'There she lies, with the red streaks.' At that moment who should come down but Mordecai Smith, the missing owner? He was rather the worse for liquor. I should not, of course, have known him, but he bellowed out his name and the name of his launch.",
+        "objectID": "9e19c7b55e68ff96362fbd1f21abf440"
+      }
+    },
+    "objectID": "928d88393c73e7f427fce00d91ac1cf3",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "He is to stand at water's edge and wave his handkerchief to us when they start. We shall be lying off in the stream, and it will be a strange thing if we do not take men, treasure, and all.\"",
+    "context": {
+      "next": {
+        "content": "\"You have planned it all very neatly, whether they are the right men or not,\" said Jones; \"but if the affair were in my hands I should have had a body of police in Jacobson's Yard, and arrested them when they came down.\"",
+        "objectID": "2ff7a87cc9fcefa8c24e5db78ad12c44"
+      },
+      "previous": {
+        "content": "'I want her to-night at eight o'clock,' said he,—'eight o'clock sharp, mind, for I have two gentlemen who won't be kept waiting.' They had evidently paid him well, for he was very flush of money, chucking shillings about to the men. I followed him some distance, but he subsided into an ale-house: so I went back to the yard, and, happening to pick up one of my boys on the way, I stationed him as a sentry over the launch.",
+        "objectID": "928d88393c73e7f427fce00d91ac1cf3"
+      }
+    },
+    "objectID": "371cdc049f194f135b9357bf0190247e",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"You have planned it all very neatly, whether they are the right men or not,\" said Jones; \"but if the affair were in my hands I should have had a body of police in Jacobson's Yard, and arrested them when they came down.\"",
+    "context": {
+      "next": {
+        "content": "\"Which would have been never. This man Small is a pretty shrewd fellow. He would send a scout on ahead, and if anything made him suspicious lie snug for another week.\"",
+        "objectID": "00d5c247dcd4528e50e95a3ded120243"
+      },
+      "previous": {
+        "content": "He is to stand at water's edge and wave his handkerchief to us when they start. We shall be lying off in the stream, and it will be a strange thing if we do not take men, treasure, and all.\"",
+        "objectID": "371cdc049f194f135b9357bf0190247e"
+      }
+    },
+    "objectID": "2ff7a87cc9fcefa8c24e5db78ad12c44",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Which would have been never. This man Small is a pretty shrewd fellow. He would send a scout on ahead, and if anything made him suspicious lie snug for another week.\"",
+    "context": {
+      "next": {
+        "content": "\"But you might have stuck to Mordecai Smith, and so been led to their hiding-place,\" said I.",
+        "objectID": "dd1b3cf31b46fd89f56bc33a4a5dcc2c"
+      },
+      "previous": {
+        "content": "\"You have planned it all very neatly, whether they are the right men or not,\" said Jones; \"but if the affair were in my hands I should have had a body of police in Jacobson's Yard, and arrested them when they came down.\"",
+        "objectID": "2ff7a87cc9fcefa8c24e5db78ad12c44"
+      }
+    },
+    "objectID": "00d5c247dcd4528e50e95a3ded120243",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"But you might have stuck to Mordecai Smith, and so been led to their hiding-place,\" said I.",
+    "context": {
+      "next": {
+        "content": "\"In that case I should have wasted my day. I think that it is a hundred to one against Smith knowing where they live. As long as he has liquor and good pay, why should he ask questions? They send him messages what to do. No, I thought over every possible course, and this is the best.\"",
+        "objectID": "b54a1d640ee4b276a14de8e27df5fffd"
+      },
+      "previous": {
+        "content": "\"Which would have been never. This man Small is a pretty shrewd fellow. He would send a scout on ahead, and if anything made him suspicious lie snug for another week.\"",
+        "objectID": "00d5c247dcd4528e50e95a3ded120243"
+      }
+    },
+    "objectID": "dd1b3cf31b46fd89f56bc33a4a5dcc2c",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"In that case I should have wasted my day. I think that it is a hundred to one against Smith knowing where they live. As long as he has liquor and good pay, why should he ask questions? They send him messages what to do. No, I thought over every possible course, and this is the best.\"",
+    "context": {
+      "next": {
+        "content": "While this conversation had been proceeding, we had been shooting the long series of bridges which span the Thames. As we passed the City the last rays of the sun were gilding the cross upon the summit of St. Paul's. It was twilight before we reached the Tower.",
+        "objectID": "bd91222423bbbc294ccb02a756f5d820"
+      },
+      "previous": {
+        "content": "\"But you might have stuck to Mordecai Smith, and so been led to their hiding-place,\" said I.",
+        "objectID": "dd1b3cf31b46fd89f56bc33a4a5dcc2c"
+      }
+    },
+    "objectID": "b54a1d640ee4b276a14de8e27df5fffd",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "While this conversation had been proceeding, we had been shooting the long series of bridges which span the Thames. As we passed the City the last rays of the sun were gilding the cross upon the summit of St. Paul's. It was twilight before we reached the Tower.",
+    "context": {
+      "next": {
+        "content": "\"That is Jacobson's Yard,\" said Holmes, pointing to a bristle of masts and rigging on the Surrey side. \"Cruise gently up and down here under cover of this string of lighters.\" He took a pair of night-glasses from his pocket and gazed some time at the shore. \"I see my sentry at his post,\" he remarked, \"but no sign of a handkerchief.",
+        "objectID": "5f38e2b1e65b60f77f2cf623a1235033"
+      },
+      "previous": {
+        "content": "\"In that case I should have wasted my day. I think that it is a hundred to one against Smith knowing where they live. As long as he has liquor and good pay, why should he ask questions? They send him messages what to do. No, I thought over every possible course, and this is the best.\"",
+        "objectID": "b54a1d640ee4b276a14de8e27df5fffd"
+      }
+    },
+    "objectID": "bd91222423bbbc294ccb02a756f5d820",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"That is Jacobson's Yard,\" said Holmes, pointing to a bristle of masts and rigging on the Surrey side. \"Cruise gently up and down here under cover of this string of lighters.\" He took a pair of night-glasses from his pocket and gazed some time at the shore. \"I see my sentry at his post,\" he remarked, \"but no sign of a handkerchief.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "f0d73a00a16bb04481bd646c3c01b595"
+      },
+      "previous": {
+        "content": "While this conversation had been proceeding, we had been shooting the long series of bridges which span the Thames. As we passed the City the last rays of the sun were gilding the cross upon the summit of St. Paul's. It was twilight before we reached the Tower.",
+        "objectID": "bd91222423bbbc294ccb02a756f5d820"
+      }
+    },
+    "objectID": "5f38e2b1e65b60f77f2cf623a1235033",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Suppose we go down-stream a short way and lie in wait for them,\" said Jones, eagerly. We were all eager by this time, even the policemen and stokers, who had a very vague idea of what was going forward.",
+        "objectID": "8668e929cfc2ce0e958c244b7c36ff5d"
+      },
+      "previous": {
+        "content": "\"That is Jacobson's Yard,\" said Holmes, pointing to a bristle of masts and rigging on the Surrey side. \"Cruise gently up and down here under cover of this string of lighters.\" He took a pair of night-glasses from his pocket and gazed some time at the shore. \"I see my sentry at his post,\" he remarked, \"but no sign of a handkerchief.",
+        "objectID": "5f38e2b1e65b60f77f2cf623a1235033"
+      }
+    },
+    "objectID": "f0d73a00a16bb04481bd646c3c01b595",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Suppose we go down-stream a short way and lie in wait for them,\" said Jones, eagerly. We were all eager by this time, even the policemen and stokers, who had a very vague idea of what was going forward.",
+    "context": {
+      "next": {
+        "content": "\"We have no right to take anything for granted,\" Holmes answered. \"It is certainly ten to one that they go down-stream, but we cannot be certain. From this point we can see the entrance of the yard, and they can hardly see us. It will be a clear night and plenty of light. We must stay where we are. See how the folk swarm over yonder in the gaslight.",
+        "objectID": "41c6e3f38c5fd6d95e8f4579023b2579"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "f0d73a00a16bb04481bd646c3c01b595"
+      }
+    },
+    "objectID": "8668e929cfc2ce0e958c244b7c36ff5d",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"We have no right to take anything for granted,\" Holmes answered. \"It is certainly ten to one that they go down-stream, but we cannot be certain. From this point we can see the entrance of the yard, and they can hardly see us. It will be a clear night and plenty of light. We must stay where we are. See how the folk swarm over yonder in the gaslight.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "1782ceae86abfe0035f4860159eae224"
+      },
+      "previous": {
+        "content": "\"Suppose we go down-stream a short way and lie in wait for them,\" said Jones, eagerly. We were all eager by this time, even the policemen and stokers, who had a very vague idea of what was going forward.",
+        "objectID": "8668e929cfc2ce0e958c244b7c36ff5d"
+      }
+    },
+    "objectID": "41c6e3f38c5fd6d95e8f4579023b2579",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"They are coming from work in the yard.\"",
+        "objectID": "c2b09e15067bfcec072dde29f2f062e6"
+      },
+      "previous": {
+        "content": "\"We have no right to take anything for granted,\" Holmes answered. \"It is certainly ten to one that they go down-stream, but we cannot be certain. From this point we can see the entrance of the yard, and they can hardly see us. It will be a clear night and plenty of light. We must stay where we are. See how the folk swarm over yonder in the gaslight.",
+        "objectID": "41c6e3f38c5fd6d95e8f4579023b2579"
+      }
+    },
+    "objectID": "1782ceae86abfe0035f4860159eae224",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"They are coming from work in the yard.\"",
+    "context": {
+      "next": {
+        "content": "\"Dirty-looking rascals, but I suppose every one has some little immortal spark concealed about him. You would not think it, to look at them. There is no a priori probability about it. A strange enigma is man!\"",
+        "objectID": "e9c311f76c5a0f6c991fbaaa642a8d67"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "1782ceae86abfe0035f4860159eae224"
+      }
+    },
+    "objectID": "c2b09e15067bfcec072dde29f2f062e6",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Dirty-looking rascals, but I suppose every one has some little immortal spark concealed about him. You would not think it, to look at them. There is no a priori probability about it. A strange enigma is man!\"",
+    "context": {
+      "next": {
+        "content": "\"Some one calls him a soul concealed in an animal,\" I suggested.",
+        "objectID": "1d798c9d30c6975e0ea5e3a38c375fe7"
+      },
+      "previous": {
+        "content": "\"They are coming from work in the yard.\"",
+        "objectID": "c2b09e15067bfcec072dde29f2f062e6"
+      }
+    },
+    "objectID": "e9c311f76c5a0f6c991fbaaa642a8d67",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Some one calls him a soul concealed in an animal,\" I suggested.",
+    "context": {
+      "next": {
+        "content": "\"Winwood Reade is good upon the subject,\" said Holmes. \"He remarks that, while the individual man is an insoluble puzzle, in the aggregate he becomes a mathematical certainty. You can, for example, never foretell what any one man will do, but you can say with precision what an average number will be up to.",
+        "objectID": "7af86847c3528b350c2aee52f2b99aac"
+      },
+      "previous": {
+        "content": "\"Dirty-looking rascals, but I suppose every one has some little immortal spark concealed about him. You would not think it, to look at them. There is no a priori probability about it. A strange enigma is man!\"",
+        "objectID": "e9c311f76c5a0f6c991fbaaa642a8d67"
+      }
+    },
+    "objectID": "1d798c9d30c6975e0ea5e3a38c375fe7",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Winwood Reade is good upon the subject,\" said Holmes. \"He remarks that, while the individual man is an insoluble puzzle, in the aggregate he becomes a mathematical certainty. You can, for example, never foretell what any one man will do, but you can say with precision what an average number will be up to.",
+    "context": {
+      "next": {
+        "content": "Individuals vary, but percentages remain constant. So says the statistician. But do I see a handkerchief? Surely there is a white flutter over yonder.\"",
+        "objectID": "3d8acfa1f3bddd8ac79df144a3d46e19"
+      },
+      "previous": {
+        "content": "\"Some one calls him a soul concealed in an animal,\" I suggested.",
+        "objectID": "1d798c9d30c6975e0ea5e3a38c375fe7"
+      }
+    },
+    "objectID": "7af86847c3528b350c2aee52f2b99aac",
+    "order": 50,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "Individuals vary, but percentages remain constant. So says the statistician. But do I see a handkerchief? Surely there is a white flutter over yonder.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, it is your boy,\" I cried. \"I can see him plainly.\"",
+        "objectID": "f02a85a4869533bb60ec50a80e598796"
+      },
+      "previous": {
+        "content": "\"Winwood Reade is good upon the subject,\" said Holmes. \"He remarks that, while the individual man is an insoluble puzzle, in the aggregate he becomes a mathematical certainty. You can, for example, never foretell what any one man will do, but you can say with precision what an average number will be up to.",
+        "objectID": "7af86847c3528b350c2aee52f2b99aac"
+      }
+    },
+    "objectID": "3d8acfa1f3bddd8ac79df144a3d46e19",
+    "order": 51,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Yes, it is your boy,\" I cried. \"I can see him plainly.\"",
+    "context": {
+      "next": {
+        "content": "\"And there is the Aurora,\" exclaimed Holmes, \"and going like the devil! Full speed ahead, engineer. Make after that launch with the yellow light. By heaven, I shall never forgive myself if she proves to have the heels of us!\"",
+        "objectID": "54b05ea6c9bc7c336c15b00cbb179773"
+      },
+      "previous": {
+        "content": "Individuals vary, but percentages remain constant. So says the statistician. But do I see a handkerchief? Surely there is a white flutter over yonder.\"",
+        "objectID": "3d8acfa1f3bddd8ac79df144a3d46e19"
+      }
+    },
+    "objectID": "f02a85a4869533bb60ec50a80e598796",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"And there is the Aurora,\" exclaimed Holmes, \"and going like the devil! Full speed ahead, engineer. Make after that launch with the yellow light. By heaven, I shall never forgive myself if she proves to have the heels of us!\"",
+    "context": {
+      "next": {
+        "content": "She had slipped unseen through the yard-entrance and passed behind two or three small craft, so that she had fairly got her speed up before we saw her. Now she was flying down the stream, near in to the shore, going at a tremendous rate. Jones looked gravely at her and shook his head.",
+        "objectID": "97f9d262ffb73749c1a5cdd511053594"
+      },
+      "previous": {
+        "content": "\"Yes, it is your boy,\" I cried. \"I can see him plainly.\"",
+        "objectID": "f02a85a4869533bb60ec50a80e598796"
+      }
+    },
+    "objectID": "54b05ea6c9bc7c336c15b00cbb179773",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "She had slipped unseen through the yard-entrance and passed behind two or three small craft, so that she had fairly got her speed up before we saw her. Now she was flying down the stream, near in to the shore, going at a tremendous rate. Jones looked gravely at her and shook his head.",
+    "context": {
+      "next": {
+        "content": "\"She is very fast,\" he said. \"I doubt if we shall catch her.\"",
+        "objectID": "0d2cc36c60fc892173d6b9ad1645685f"
+      },
+      "previous": {
+        "content": "\"And there is the Aurora,\" exclaimed Holmes, \"and going like the devil! Full speed ahead, engineer. Make after that launch with the yellow light. By heaven, I shall never forgive myself if she proves to have the heels of us!\"",
+        "objectID": "54b05ea6c9bc7c336c15b00cbb179773"
+      }
+    },
+    "objectID": "97f9d262ffb73749c1a5cdd511053594",
+    "order": 54,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"She is very fast,\" he said. \"I doubt if we shall catch her.\"",
+    "context": {
+      "next": {
+        "content": "\"We MUST catch her!\" cried Holmes, between his teeth. \"Heap it on, stokers! Make her do all she can! If we burn the boat we must have them!\"",
+        "objectID": "9244c696b9f12bff6407362a59e83a00"
+      },
+      "previous": {
+        "content": "She had slipped unseen through the yard-entrance and passed behind two or three small craft, so that she had fairly got her speed up before we saw her. Now she was flying down the stream, near in to the shore, going at a tremendous rate. Jones looked gravely at her and shook his head.",
+        "objectID": "97f9d262ffb73749c1a5cdd511053594"
+      }
+    },
+    "objectID": "0d2cc36c60fc892173d6b9ad1645685f",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"We MUST catch her!\" cried Holmes, between his teeth. \"Heap it on, stokers! Make her do all she can! If we burn the boat we must have them!\"",
+    "context": {
+      "next": {
+        "content": "We were fairly after her now. The furnaces roared, and the powerful engines whizzed and clanked, like a great metallic heart. Her sharp, steep prow cut through the river-water and sent two rolling waves to right and to left of us. With every throb of the engines we sprang and quivered like a living thing.",
+        "objectID": "605551be8f5047909168544e82a17e7d"
+      },
+      "previous": {
+        "content": "\"She is very fast,\" he said. \"I doubt if we shall catch her.\"",
+        "objectID": "0d2cc36c60fc892173d6b9ad1645685f"
+      }
+    },
+    "objectID": "9244c696b9f12bff6407362a59e83a00",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "We were fairly after her now. The furnaces roared, and the powerful engines whizzed and clanked, like a great metallic heart. Her sharp, steep prow cut through the river-water and sent two rolling waves to right and to left of us. With every throb of the engines we sprang and quivered like a living thing.",
+    "context": {
+      "next": {
+        "content": "One great yellow lantern in our bows threw a long, flickering funnel of light in front of us. Right ahead a dark blur upon the water showed where the Aurora lay, and the swirl of white foam behind her spoke of the pace at which she was going. We flashed past barges, steamers, merchant-vessels, in and out, behind this one and round the other.",
+        "objectID": "dd94dc7a1013125c0cd4b5b04a221ac4"
+      },
+      "previous": {
+        "content": "\"We MUST catch her!\" cried Holmes, between his teeth. \"Heap it on, stokers! Make her do all she can! If we burn the boat we must have them!\"",
+        "objectID": "9244c696b9f12bff6407362a59e83a00"
+      }
+    },
+    "objectID": "605551be8f5047909168544e82a17e7d",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "One great yellow lantern in our bows threw a long, flickering funnel of light in front of us. Right ahead a dark blur upon the water showed where the Aurora lay, and the swirl of white foam behind her spoke of the pace at which she was going. We flashed past barges, steamers, merchant-vessels, in and out, behind this one and round the other.",
+    "context": {
+      "next": {
+        "content": "Voices hailed us out of the darkness, but still the Aurora thundered on, and still we followed close upon her track.",
+        "objectID": "7fa3a4a514b6cd35632b92c883c0b282"
+      },
+      "previous": {
+        "content": "We were fairly after her now. The furnaces roared, and the powerful engines whizzed and clanked, like a great metallic heart. Her sharp, steep prow cut through the river-water and sent two rolling waves to right and to left of us. With every throb of the engines we sprang and quivered like a living thing.",
+        "objectID": "605551be8f5047909168544e82a17e7d"
+      }
+    },
+    "objectID": "dd94dc7a1013125c0cd4b5b04a221ac4",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "Voices hailed us out of the darkness, but still the Aurora thundered on, and still we followed close upon her track.",
+    "context": {
+      "next": {
+        "content": "\"Pile it on, men, pile it on!\" cried Holmes, looking down into the engine-room, while the fierce glow from below beat upon his eager, aquiline face. \"Get every pound of steam you can.\"",
+        "objectID": "df362d2d84c4b549604ed0a1ab3f4a48"
+      },
+      "previous": {
+        "content": "One great yellow lantern in our bows threw a long, flickering funnel of light in front of us. Right ahead a dark blur upon the water showed where the Aurora lay, and the swirl of white foam behind her spoke of the pace at which she was going. We flashed past barges, steamers, merchant-vessels, in and out, behind this one and round the other.",
+        "objectID": "dd94dc7a1013125c0cd4b5b04a221ac4"
+      }
+    },
+    "objectID": "7fa3a4a514b6cd35632b92c883c0b282",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Pile it on, men, pile it on!\" cried Holmes, looking down into the engine-room, while the fierce glow from below beat upon his eager, aquiline face. \"Get every pound of steam you can.\"",
+    "context": {
+      "next": {
+        "content": "\"I think we gain a little,\" said Jones, with his eyes on the Aurora.",
+        "objectID": "e2cc3a4b47ec31d53b70de83818d8897"
+      },
+      "previous": {
+        "content": "Voices hailed us out of the darkness, but still the Aurora thundered on, and still we followed close upon her track.",
+        "objectID": "7fa3a4a514b6cd35632b92c883c0b282"
+      }
+    },
+    "objectID": "df362d2d84c4b549604ed0a1ab3f4a48",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"I think we gain a little,\" said Jones, with his eyes on the Aurora.",
+    "context": {
+      "next": {
+        "content": "\"I am sure of it,\" said I. \"We shall be up with her in a very few minutes.\"",
+        "objectID": "ee395b842af562f1298d93e73c071814"
+      },
+      "previous": {
+        "content": "\"Pile it on, men, pile it on!\" cried Holmes, looking down into the engine-room, while the fierce glow from below beat upon his eager, aquiline face. \"Get every pound of steam you can.\"",
+        "objectID": "df362d2d84c4b549604ed0a1ab3f4a48"
+      }
+    },
+    "objectID": "e2cc3a4b47ec31d53b70de83818d8897",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"I am sure of it,\" said I. \"We shall be up with her in a very few minutes.\"",
+    "context": {
+      "next": {
+        "content": "At that moment, however, as our evil fate would have it, a tug with three barges in tow blundered in between us. It was only by putting our helm hard down that we avoided a collision, and before we could round them and recover our way the Aurora had gained a good two hundred yards. She was still, however, well in view, and the murky uncertain twilight was setting into a clear starlit night.",
+        "objectID": "57391adb6777832551bc9720be263105"
+      },
+      "previous": {
+        "content": "\"I think we gain a little,\" said Jones, with his eyes on the Aurora.",
+        "objectID": "e2cc3a4b47ec31d53b70de83818d8897"
+      }
+    },
+    "objectID": "ee395b842af562f1298d93e73c071814",
+    "order": 62,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "At that moment, however, as our evil fate would have it, a tug with three barges in tow blundered in between us. It was only by putting our helm hard down that we avoided a collision, and before we could round them and recover our way the Aurora had gained a good two hundred yards. She was still, however, well in view, and the murky uncertain twilight was setting into a clear starlit night.",
+    "context": {
+      "next": {
+        "content": "Our boilers were strained to their utmost, and the frail shell vibrated and creaked with the fierce energy which was driving us along. We had shot through the Pool, past the West India Docks, down the long Deptford Reach, and up again after rounding the Isle of Dogs. The dull blur in front of us resolved itself now clearly enough into the dainty Aurora.",
+        "objectID": "56c166eb4d4b32c5635560e5fa9b1022"
+      },
+      "previous": {
+        "content": "\"I am sure of it,\" said I. \"We shall be up with her in a very few minutes.\"",
+        "objectID": "ee395b842af562f1298d93e73c071814"
+      }
+    },
+    "objectID": "57391adb6777832551bc9720be263105",
+    "order": 63,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "Our boilers were strained to their utmost, and the frail shell vibrated and creaked with the fierce energy which was driving us along. We had shot through the Pool, past the West India Docks, down the long Deptford Reach, and up again after rounding the Isle of Dogs. The dull blur in front of us resolved itself now clearly enough into the dainty Aurora.",
+    "context": {
+      "next": {
+        "content": "Jones turned our search-light upon her, so that we could plainly see the figures upon her deck. One man sat by the stern, with something black between his knees over which he stooped. Beside him lay a dark mass which looked like a Newfoundland dog. The boy held the tiller, while against the red glare of the furnace I could see old Smith, stripped to the waist, and shovelling coals for dear life.",
+        "objectID": "e514cca67d7366f1399a312b25dec3bb"
+      },
+      "previous": {
+        "content": "At that moment, however, as our evil fate would have it, a tug with three barges in tow blundered in between us. It was only by putting our helm hard down that we avoided a collision, and before we could round them and recover our way the Aurora had gained a good two hundred yards. She was still, however, well in view, and the murky uncertain twilight was setting into a clear starlit night.",
+        "objectID": "57391adb6777832551bc9720be263105"
+      }
+    },
+    "objectID": "56c166eb4d4b32c5635560e5fa9b1022",
+    "order": 64,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "Jones turned our search-light upon her, so that we could plainly see the figures upon her deck. One man sat by the stern, with something black between his knees over which he stooped. Beside him lay a dark mass which looked like a Newfoundland dog. The boy held the tiller, while against the red glare of the furnace I could see old Smith, stripped to the waist, and shovelling coals for dear life.",
+    "context": {
+      "next": {
+        "content": "They may have had some doubt at first as to whether we were really pursuing them, but now as we followed every winding and turning which they took there could no longer be any question about it. At Greenwich we were about three hundred paces behind them. At Blackwall we could not have been more than two hundred and fifty.",
+        "objectID": "0e497f221c5689a6da96e72ed175565e"
+      },
+      "previous": {
+        "content": "Our boilers were strained to their utmost, and the frail shell vibrated and creaked with the fierce energy which was driving us along. We had shot through the Pool, past the West India Docks, down the long Deptford Reach, and up again after rounding the Isle of Dogs. The dull blur in front of us resolved itself now clearly enough into the dainty Aurora.",
+        "objectID": "56c166eb4d4b32c5635560e5fa9b1022"
+      }
+    },
+    "objectID": "e514cca67d7366f1399a312b25dec3bb",
+    "order": 65,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "They may have had some doubt at first as to whether we were really pursuing them, but now as we followed every winding and turning which they took there could no longer be any question about it. At Greenwich we were about three hundred paces behind them. At Blackwall we could not have been more than two hundred and fifty.",
+    "context": {
+      "next": {
+        "content": "I have coursed many creatures in many countries during my checkered career, but never did sport give me such a wild thrill as this mad, flying man-hunt down the Thames. Steadily we drew in upon them, yard by yard. In the silence of the night we could hear the panting and clanking of their machinery.",
+        "objectID": "49d965d98c13065f0404cc4cdba9f27a"
+      },
+      "previous": {
+        "content": "Jones turned our search-light upon her, so that we could plainly see the figures upon her deck. One man sat by the stern, with something black between his knees over which he stooped. Beside him lay a dark mass which looked like a Newfoundland dog. The boy held the tiller, while against the red glare of the furnace I could see old Smith, stripped to the waist, and shovelling coals for dear life.",
+        "objectID": "e514cca67d7366f1399a312b25dec3bb"
+      }
+    },
+    "objectID": "0e497f221c5689a6da96e72ed175565e",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "I have coursed many creatures in many countries during my checkered career, but never did sport give me such a wild thrill as this mad, flying man-hunt down the Thames. Steadily we drew in upon them, yard by yard. In the silence of the night we could hear the panting and clanking of their machinery.",
+    "context": {
+      "next": {
+        "content": "The man in the stern still crouched upon the deck, and his arms were moving as though he were busy, while every now and then he would look up and measure with a glance the distance which still separated us. Nearer we came and nearer. Jones yelled to them to stop. We were not more than four boat's lengths behind them, both boats flying at a tremendous pace.",
+        "objectID": "ac6ca85a178d3f273b3bf4637b8120c1"
+      },
+      "previous": {
+        "content": "They may have had some doubt at first as to whether we were really pursuing them, but now as we followed every winding and turning which they took there could no longer be any question about it. At Greenwich we were about three hundred paces behind them. At Blackwall we could not have been more than two hundred and fifty.",
+        "objectID": "0e497f221c5689a6da96e72ed175565e"
+      }
+    },
+    "objectID": "49d965d98c13065f0404cc4cdba9f27a",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "The man in the stern still crouched upon the deck, and his arms were moving as though he were busy, while every now and then he would look up and measure with a glance the distance which still separated us. Nearer we came and nearer. Jones yelled to them to stop. We were not more than four boat's lengths behind them, both boats flying at a tremendous pace.",
+    "context": {
+      "next": {
+        "content": "It was a clear reach of the river, with Barking Level upon one side and the melancholy Plumstead Marshes upon the other. At our hail the man in the stern sprang up from the deck and shook his two clinched fists at us, cursing the while in a high, cracked voice. He was a good-sized, powerful man, and as he stood poising himself with legs astride I could see that from the thigh downwards there was but a wooden stump upon the right side.",
+        "objectID": "5d49596c0f26bc1943e24282f06863d8"
+      },
+      "previous": {
+        "content": "I have coursed many creatures in many countries during my checkered career, but never did sport give me such a wild thrill as this mad, flying man-hunt down the Thames. Steadily we drew in upon them, yard by yard. In the silence of the night we could hear the panting and clanking of their machinery.",
+        "objectID": "49d965d98c13065f0404cc4cdba9f27a"
+      }
+    },
+    "objectID": "ac6ca85a178d3f273b3bf4637b8120c1",
+    "order": 68,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "It was a clear reach of the river, with Barking Level upon one side and the melancholy Plumstead Marshes upon the other. At our hail the man in the stern sprang up from the deck and shook his two clinched fists at us, cursing the while in a high, cracked voice. He was a good-sized, powerful man, and as he stood poising himself with legs astride I could see that from the thigh downwards there was but a wooden stump upon the right side.",
+    "context": {
+      "next": {
+        "content": "At the sound of his strident, angry cries there was movement in the huddled bundle upon the deck. It straightened itself into a little black man—the smallest I have ever seen—with a great, misshapen head and a shock of tangled, dishevelled hair. Holmes had already drawn his revolver, and I whipped out mine at the sight of this savage, distorted creature.",
+        "objectID": "3b193c72197c7c4fc6e6126a1533575e"
+      },
+      "previous": {
+        "content": "The man in the stern still crouched upon the deck, and his arms were moving as though he were busy, while every now and then he would look up and measure with a glance the distance which still separated us. Nearer we came and nearer. Jones yelled to them to stop. We were not more than four boat's lengths behind them, both boats flying at a tremendous pace.",
+        "objectID": "ac6ca85a178d3f273b3bf4637b8120c1"
+      }
+    },
+    "objectID": "5d49596c0f26bc1943e24282f06863d8",
+    "order": 69,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "At the sound of his strident, angry cries there was movement in the huddled bundle upon the deck. It straightened itself into a little black man—the smallest I have ever seen—with a great, misshapen head and a shock of tangled, dishevelled hair. Holmes had already drawn his revolver, and I whipped out mine at the sight of this savage, distorted creature.",
+    "context": {
+      "next": {
+        "content": "He was wrapped in some sort of dark ulster or blanket, which left only his face exposed; but that face was enough to give a man a sleepless night. Never have I seen features so deeply marked with all bestiality and cruelty. His small eyes glowed and burned with a sombre light, and his thick lips were writhed back from his teeth, which grinned and chattered at us with a half animal fury.",
+        "objectID": "8c7c8450501321871acccc3f492d893a"
+      },
+      "previous": {
+        "content": "It was a clear reach of the river, with Barking Level upon one side and the melancholy Plumstead Marshes upon the other. At our hail the man in the stern sprang up from the deck and shook his two clinched fists at us, cursing the while in a high, cracked voice. He was a good-sized, powerful man, and as he stood poising himself with legs astride I could see that from the thigh downwards there was but a wooden stump upon the right side.",
+        "objectID": "5d49596c0f26bc1943e24282f06863d8"
+      }
+    },
+    "objectID": "3b193c72197c7c4fc6e6126a1533575e",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "He was wrapped in some sort of dark ulster or blanket, which left only his face exposed; but that face was enough to give a man a sleepless night. Never have I seen features so deeply marked with all bestiality and cruelty. His small eyes glowed and burned with a sombre light, and his thick lips were writhed back from his teeth, which grinned and chattered at us with a half animal fury.",
+    "context": {
+      "next": {
+        "content": "\"Fire if he raises his hand,\" said Holmes, quietly. We were within a boat's-length by this time, and almost within touch of our quarry. I can see the two of them now as they stood, the white man with his legs far apart, shrieking out curses, and the unhallowed dwarf with his hideous face, and his strong yellow teeth gnashing at us in the light of our lantern.",
+        "objectID": "711fa5e7370dcc3d2124d19cecab75e0"
+      },
+      "previous": {
+        "content": "At the sound of his strident, angry cries there was movement in the huddled bundle upon the deck. It straightened itself into a little black man—the smallest I have ever seen—with a great, misshapen head and a shock of tangled, dishevelled hair. Holmes had already drawn his revolver, and I whipped out mine at the sight of this savage, distorted creature.",
+        "objectID": "3b193c72197c7c4fc6e6126a1533575e"
+      }
+    },
+    "objectID": "8c7c8450501321871acccc3f492d893a",
+    "order": 71,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"Fire if he raises his hand,\" said Holmes, quietly. We were within a boat's-length by this time, and almost within touch of our quarry. I can see the two of them now as they stood, the white man with his legs far apart, shrieking out curses, and the unhallowed dwarf with his hideous face, and his strong yellow teeth gnashing at us in the light of our lantern.",
+    "context": {
+      "next": {
+        "content": "It was well that we had so clear a view of him. Even as we looked he plucked out from under his covering a short, round piece of wood, like a school-ruler, and clapped it to his lips. Our pistols rang out together. He whirled round, threw up his arms, and with a kind of choking cough fell sideways into the stream.",
+        "objectID": "2f9bca6f4c065cdc42b80a09a1520423"
+      },
+      "previous": {
+        "content": "He was wrapped in some sort of dark ulster or blanket, which left only his face exposed; but that face was enough to give a man a sleepless night. Never have I seen features so deeply marked with all bestiality and cruelty. His small eyes glowed and burned with a sombre light, and his thick lips were writhed back from his teeth, which grinned and chattered at us with a half animal fury.",
+        "objectID": "8c7c8450501321871acccc3f492d893a"
+      }
+    },
+    "objectID": "711fa5e7370dcc3d2124d19cecab75e0",
+    "order": 72,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "It was well that we had so clear a view of him. Even as we looked he plucked out from under his covering a short, round piece of wood, like a school-ruler, and clapped it to his lips. Our pistols rang out together. He whirled round, threw up his arms, and with a kind of choking cough fell sideways into the stream.",
+    "context": {
+      "next": {
+        "content": "I caught one glimpse of his venomous, menacing eyes amid the white swirl of the waters. At the same moment the wooden-legged man threw himself upon the rudder and put it hard down, so that his boat made straight in for the southern bank, while we shot past her stern, only clearing her by a few feet.",
+        "objectID": "6ba18e545acf0bdf7eb11488d05a140d"
+      },
+      "previous": {
+        "content": "\"Fire if he raises his hand,\" said Holmes, quietly. We were within a boat's-length by this time, and almost within touch of our quarry. I can see the two of them now as they stood, the white man with his legs far apart, shrieking out curses, and the unhallowed dwarf with his hideous face, and his strong yellow teeth gnashing at us in the light of our lantern.",
+        "objectID": "711fa5e7370dcc3d2124d19cecab75e0"
+      }
+    },
+    "objectID": "2f9bca6f4c065cdc42b80a09a1520423",
+    "order": 73,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "I caught one glimpse of his venomous, menacing eyes amid the white swirl of the waters. At the same moment the wooden-legged man threw himself upon the rudder and put it hard down, so that his boat made straight in for the southern bank, while we shot past her stern, only clearing her by a few feet.",
+    "context": {
+      "next": {
+        "content": "We were round after her in an instant, but she was already nearly at the bank. It was a wild and desolate place, where the moon glimmered upon a wide expanse of marsh-land, with pools of stagnant water and beds of decaying vegetation. The launch with a dull thud ran up upon the mud-bank, with her bow in the air and her stern flush with the water.",
+        "objectID": "05019eca1886dc0893369aada61cd000"
+      },
+      "previous": {
+        "content": "It was well that we had so clear a view of him. Even as we looked he plucked out from under his covering a short, round piece of wood, like a school-ruler, and clapped it to his lips. Our pistols rang out together. He whirled round, threw up his arms, and with a kind of choking cough fell sideways into the stream.",
+        "objectID": "2f9bca6f4c065cdc42b80a09a1520423"
+      }
+    },
+    "objectID": "6ba18e545acf0bdf7eb11488d05a140d",
+    "order": 74,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "We were round after her in an instant, but she was already nearly at the bank. It was a wild and desolate place, where the moon glimmered upon a wide expanse of marsh-land, with pools of stagnant water and beds of decaying vegetation. The launch with a dull thud ran up upon the mud-bank, with her bow in the air and her stern flush with the water.",
+    "context": {
+      "next": {
+        "content": "The fugitive sprang out, but his stump instantly sank its whole length into the sodden soil. In vain he struggled and writhed. Not one step could he possibly take either forwards or backwards. He yelled in impotent rage, and kicked frantically into the mud with his other foot, but his struggles only bored his wooden pin the deeper into the sticky bank.",
+        "objectID": "428b9bebd9f85b9df3f41be899b28e2e"
+      },
+      "previous": {
+        "content": "I caught one glimpse of his venomous, menacing eyes amid the white swirl of the waters. At the same moment the wooden-legged man threw himself upon the rudder and put it hard down, so that his boat made straight in for the southern bank, while we shot past her stern, only clearing her by a few feet.",
+        "objectID": "6ba18e545acf0bdf7eb11488d05a140d"
+      }
+    },
+    "objectID": "05019eca1886dc0893369aada61cd000",
+    "order": 75,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "The fugitive sprang out, but his stump instantly sank its whole length into the sodden soil. In vain he struggled and writhed. Not one step could he possibly take either forwards or backwards. He yelled in impotent rage, and kicked frantically into the mud with his other foot, but his struggles only bored his wooden pin the deeper into the sticky bank.",
+    "context": {
+      "next": {
+        "content": "When we brought our launch alongside he was so firmly anchored that it was only by throwing the end of a rope over his shoulders that we were able to haul him out, and to drag him, like some evil fish, over our side. The two Smiths, father and son, sat sullenly in their launch, but came aboard meekly enough when commanded.",
+        "objectID": "9bbd483ce82f0cf756e8106ad2e205f4"
+      },
+      "previous": {
+        "content": "We were round after her in an instant, but she was already nearly at the bank. It was a wild and desolate place, where the moon glimmered upon a wide expanse of marsh-land, with pools of stagnant water and beds of decaying vegetation. The launch with a dull thud ran up upon the mud-bank, with her bow in the air and her stern flush with the water.",
+        "objectID": "05019eca1886dc0893369aada61cd000"
+      }
+    },
+    "objectID": "428b9bebd9f85b9df3f41be899b28e2e",
+    "order": 76,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "When we brought our launch alongside he was so firmly anchored that it was only by throwing the end of a rope over his shoulders that we were able to haul him out, and to drag him, like some evil fish, over our side. The two Smiths, father and son, sat sullenly in their launch, but came aboard meekly enough when commanded.",
+    "context": {
+      "next": {
+        "content": "The Aurora herself we hauled off and made fast to our stern. A solid iron chest of Indian workmanship stood upon the deck. This, there could be no question, was the same that had contained the ill-omened treasure of the Sholtos. There was no key, but it was of considerable weight, so we transferred it carefully to our own little cabin.",
+        "objectID": "db3b4e95ed4e66d7cf6426b301f54dd6"
+      },
+      "previous": {
+        "content": "The fugitive sprang out, but his stump instantly sank its whole length into the sodden soil. In vain he struggled and writhed. Not one step could he possibly take either forwards or backwards. He yelled in impotent rage, and kicked frantically into the mud with his other foot, but his struggles only bored his wooden pin the deeper into the sticky bank.",
+        "objectID": "428b9bebd9f85b9df3f41be899b28e2e"
+      }
+    },
+    "objectID": "9bbd483ce82f0cf756e8106ad2e205f4",
+    "order": 77,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "The Aurora herself we hauled off and made fast to our stern. A solid iron chest of Indian workmanship stood upon the deck. This, there could be no question, was the same that had contained the ill-omened treasure of the Sholtos. There was no key, but it was of considerable weight, so we transferred it carefully to our own little cabin.",
+    "context": {
+      "next": {
+        "content": "As we steamed slowly up-stream again, we flashed our search-light in every direction, but there was no sign of the Islander. Somewhere in the dark ooze at the bottom of the Thames lie the bones of that strange visitor to our shores.",
+        "objectID": "a4a87b0bddfc69c945602d77c8debc90"
+      },
+      "previous": {
+        "content": "When we brought our launch alongside he was so firmly anchored that it was only by throwing the end of a rope over his shoulders that we were able to haul him out, and to drag him, like some evil fish, over our side. The two Smiths, father and son, sat sullenly in their launch, but came aboard meekly enough when commanded.",
+        "objectID": "9bbd483ce82f0cf756e8106ad2e205f4"
+      }
+    },
+    "objectID": "db3b4e95ed4e66d7cf6426b301f54dd6",
+    "order": 78,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "As we steamed slowly up-stream again, we flashed our search-light in every direction, but there was no sign of the Islander. Somewhere in the dark ooze at the bottom of the Thames lie the bones of that strange visitor to our shores.",
+    "context": {
+      "next": {
+        "content": "\"See here,\" said Holmes, pointing to the wooden hatchway. \"We were hardly quick enough with our pistols.\" There, sure enough, just behind where we had been standing, stuck one of those murderous darts which we knew so well. It must have whizzed between us at the instant that we fired. Holmes smiled at it and shrugged his shoulders in his easy fashion, but I confess that it turned me sick to think of the horrible death which had passed so close to us that night.",
+        "objectID": "1621c91691db66e23fd4e49c6c3db571"
+      },
+      "previous": {
+        "content": "The Aurora herself we hauled off and made fast to our stern. A solid iron chest of Indian workmanship stood upon the deck. This, there could be no question, was the same that had contained the ill-omened treasure of the Sholtos. There was no key, but it was of considerable weight, so we transferred it carefully to our own little cabin.",
+        "objectID": "db3b4e95ed4e66d7cf6426b301f54dd6"
+      }
+    },
+    "objectID": "a4a87b0bddfc69c945602d77c8debc90",
+    "order": 79,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter X. The End of the Islander",
+    "chapterOrder": 10,
+    "content": "\"See here,\" said Holmes, pointing to the wooden hatchway. \"We were hardly quick enough with our pistols.\" There, sure enough, just behind where we had been standing, stuck one of those murderous darts which we knew so well. It must have whizzed between us at the instant that we fired. Holmes smiled at it and shrugged his shoulders in his easy fashion, but I confess that it turned me sick to think of the horrible death which had passed so close to us that night.",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "As we steamed slowly up-stream again, we flashed our search-light in every direction, but there was no sign of the Islander. Somewhere in the dark ooze at the bottom of the Thames lie the bones of that strange visitor to our shores.",
+        "objectID": "a4a87b0bddfc69c945602d77c8debc90"
+      }
+    },
+    "objectID": "1621c91691db66e23fd4e49c6c3db571",
+    "order": 80,
+    "tagName": "P"
+  }
+]

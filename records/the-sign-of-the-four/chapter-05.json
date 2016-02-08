@@ -1,0 +1,1424 @@
+[
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "It was nearly eleven o'clock when we reached this final stage of our night's adventures. We had left the damp fog of the great city behind us, and the night was fairly fine. A warm wind blew from the westward, and heavy clouds moved slowly across the sky, with half a moon peeping occasionally through the rifts.",
+    "context": {
+      "next": {
+        "content": "It was clear enough to see for some distance, but Thaddeus Sholto took down one of the side-lamps from the carriage to give us a better light upon our way.",
+        "objectID": "7991b80e587ea43f789200d95d4096d9"
+      },
+      "previous": null
+    },
+    "objectID": "8bb46b94f814e6c738baf7773a1206dd",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "It was clear enough to see for some distance, but Thaddeus Sholto took down one of the side-lamps from the carriage to give us a better light upon our way.",
+    "context": {
+      "next": {
+        "content": "Pondicherry Lodge stood in its own grounds, and was girt round with a very high stone wall topped with broken glass. A single narrow iron-clamped door formed the only means of entrance. On this our guide knocked with a peculiar postman-like rat-tat.",
+        "objectID": "6380cc2b01b3489287350359b284d54c"
+      },
+      "previous": {
+        "content": "It was nearly eleven o'clock when we reached this final stage of our night's adventures. We had left the damp fog of the great city behind us, and the night was fairly fine. A warm wind blew from the westward, and heavy clouds moved slowly across the sky, with half a moon peeping occasionally through the rifts.",
+        "objectID": "8bb46b94f814e6c738baf7773a1206dd"
+      }
+    },
+    "objectID": "7991b80e587ea43f789200d95d4096d9",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "Pondicherry Lodge stood in its own grounds, and was girt round with a very high stone wall topped with broken glass. A single narrow iron-clamped door formed the only means of entrance. On this our guide knocked with a peculiar postman-like rat-tat.",
+    "context": {
+      "next": {
+        "content": "\"Who is there?\" cried a gruff voice from within.",
+        "objectID": "644063f15d1d48e8954f2e895b6965e9"
+      },
+      "previous": {
+        "content": "It was clear enough to see for some distance, but Thaddeus Sholto took down one of the side-lamps from the carriage to give us a better light upon our way.",
+        "objectID": "7991b80e587ea43f789200d95d4096d9"
+      }
+    },
+    "objectID": "6380cc2b01b3489287350359b284d54c",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"Who is there?\" cried a gruff voice from within.",
+    "context": {
+      "next": {
+        "content": "\"It is I, McMurdo. You surely know my knock by this time.\"",
+        "objectID": "a5c6e313ac03def15d9e5f60effd6621"
+      },
+      "previous": {
+        "content": "Pondicherry Lodge stood in its own grounds, and was girt round with a very high stone wall topped with broken glass. A single narrow iron-clamped door formed the only means of entrance. On this our guide knocked with a peculiar postman-like rat-tat.",
+        "objectID": "6380cc2b01b3489287350359b284d54c"
+      }
+    },
+    "objectID": "644063f15d1d48e8954f2e895b6965e9",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"It is I, McMurdo. You surely know my knock by this time.\"",
+    "context": {
+      "next": {
+        "content": "There was a grumbling sound and a clanking and jarring of keys. The door swung heavily back, and a short, deep-chested man stood in the opening, with the yellow light of the lantern shining upon his protruded face and twinkling distrustful eyes.",
+        "objectID": "6500d974e6c782229e92ecead31b61f8"
+      },
+      "previous": {
+        "content": "\"Who is there?\" cried a gruff voice from within.",
+        "objectID": "644063f15d1d48e8954f2e895b6965e9"
+      }
+    },
+    "objectID": "a5c6e313ac03def15d9e5f60effd6621",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "There was a grumbling sound and a clanking and jarring of keys. The door swung heavily back, and a short, deep-chested man stood in the opening, with the yellow light of the lantern shining upon his protruded face and twinkling distrustful eyes.",
+    "context": {
+      "next": {
+        "content": "\"That you, Mr. Thaddeus? But who are the others? I had no orders about them from the master.\"",
+        "objectID": "76c1fa7eb96bc3fbba6d0f5eb132489b"
+      },
+      "previous": {
+        "content": "\"It is I, McMurdo. You surely know my knock by this time.\"",
+        "objectID": "a5c6e313ac03def15d9e5f60effd6621"
+      }
+    },
+    "objectID": "6500d974e6c782229e92ecead31b61f8",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"That you, Mr. Thaddeus? But who are the others? I had no orders about them from the master.\"",
+    "context": {
+      "next": {
+        "content": "\"No, McMurdo? You surprise me! I told my brother last night that I should bring some friends.\"",
+        "objectID": "8d8f203088c4fe520483fc7066d60b29"
+      },
+      "previous": {
+        "content": "There was a grumbling sound and a clanking and jarring of keys. The door swung heavily back, and a short, deep-chested man stood in the opening, with the yellow light of the lantern shining upon his protruded face and twinkling distrustful eyes.",
+        "objectID": "6500d974e6c782229e92ecead31b61f8"
+      }
+    },
+    "objectID": "76c1fa7eb96bc3fbba6d0f5eb132489b",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"No, McMurdo? You surprise me! I told my brother last night that I should bring some friends.\"",
+    "context": {
+      "next": {
+        "content": "\"He ain't been out o' his room to-day, Mr. Thaddeus, and I have no orders. You know very well that I must stick to regulations. I can let you in, but your friends must just stop where they are.\"",
+        "objectID": "789c8048a4cfcaf764f321cdd15bba80"
+      },
+      "previous": {
+        "content": "\"That you, Mr. Thaddeus? But who are the others? I had no orders about them from the master.\"",
+        "objectID": "76c1fa7eb96bc3fbba6d0f5eb132489b"
+      }
+    },
+    "objectID": "8d8f203088c4fe520483fc7066d60b29",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"He ain't been out o' his room to-day, Mr. Thaddeus, and I have no orders. You know very well that I must stick to regulations. I can let you in, but your friends must just stop where they are.\"",
+    "context": {
+      "next": {
+        "content": "This was an unexpected obstacle. Thaddeus Sholto looked about him in a perplexed and helpless manner. \"This is too bad of you, McMurdo!\" he said. \"If I guarantee them, that is enough for you. There is the young lady, too. She cannot wait on the public road at this hour.\"",
+        "objectID": "9b70b8bc0cc7c574c8db4ebe9be4d877"
+      },
+      "previous": {
+        "content": "\"No, McMurdo? You surprise me! I told my brother last night that I should bring some friends.\"",
+        "objectID": "8d8f203088c4fe520483fc7066d60b29"
+      }
+    },
+    "objectID": "789c8048a4cfcaf764f321cdd15bba80",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "This was an unexpected obstacle. Thaddeus Sholto looked about him in a perplexed and helpless manner. \"This is too bad of you, McMurdo!\" he said. \"If I guarantee them, that is enough for you. There is the young lady, too. She cannot wait on the public road at this hour.\"",
+    "context": {
+      "next": {
+        "content": "\"Very sorry, Mr. Thaddeus,\" said the porter, inexorably. \"Folk may be friends o' yours, and yet no friends o' the master's. He pays me well to do my duty, and my duty I'll do. I don't know none o' your friends.\"",
+        "objectID": "d83f1ad500c2c5ef9a41eda739310d94"
+      },
+      "previous": {
+        "content": "\"He ain't been out o' his room to-day, Mr. Thaddeus, and I have no orders. You know very well that I must stick to regulations. I can let you in, but your friends must just stop where they are.\"",
+        "objectID": "789c8048a4cfcaf764f321cdd15bba80"
+      }
+    },
+    "objectID": "9b70b8bc0cc7c574c8db4ebe9be4d877",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"Very sorry, Mr. Thaddeus,\" said the porter, inexorably. \"Folk may be friends o' yours, and yet no friends o' the master's. He pays me well to do my duty, and my duty I'll do. I don't know none o' your friends.\"",
+    "context": {
+      "next": {
+        "content": "\"Oh, yes you do, McMurdo,\" cried Sherlock Holmes, genially. \"I don't think you can have forgotten me. Don't you remember the amateur who fought three rounds with you at Alison's rooms on the night of your benefit four years back?\"",
+        "objectID": "7ae6365bfcb5772506f2d63aadda411a"
+      },
+      "previous": {
+        "content": "This was an unexpected obstacle. Thaddeus Sholto looked about him in a perplexed and helpless manner. \"This is too bad of you, McMurdo!\" he said. \"If I guarantee them, that is enough for you. There is the young lady, too. She cannot wait on the public road at this hour.\"",
+        "objectID": "9b70b8bc0cc7c574c8db4ebe9be4d877"
+      }
+    },
+    "objectID": "d83f1ad500c2c5ef9a41eda739310d94",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"Oh, yes you do, McMurdo,\" cried Sherlock Holmes, genially. \"I don't think you can have forgotten me. Don't you remember the amateur who fought three rounds with you at Alison's rooms on the night of your benefit four years back?\"",
+    "context": {
+      "next": {
+        "content": "\"Not Mr. Sherlock Holmes!\" roared the prize-fighter. \"God's truth! how could I have mistook you? If instead o' standin' there so quiet you had just stepped up and given me that cross-hit of yours under the jaw, I'd ha' known you without a question. Ah, you're one that has wasted your gifts, you have! You might have aimed high, if you had joined the fancy.",
+        "objectID": "0ff23aa4eaed312e6901abc18f61fcea"
+      },
+      "previous": {
+        "content": "\"Very sorry, Mr. Thaddeus,\" said the porter, inexorably. \"Folk may be friends o' yours, and yet no friends o' the master's. He pays me well to do my duty, and my duty I'll do. I don't know none o' your friends.\"",
+        "objectID": "d83f1ad500c2c5ef9a41eda739310d94"
+      }
+    },
+    "objectID": "7ae6365bfcb5772506f2d63aadda411a",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"Not Mr. Sherlock Holmes!\" roared the prize-fighter. \"God's truth! how could I have mistook you? If instead o' standin' there so quiet you had just stepped up and given me that cross-hit of yours under the jaw, I'd ha' known you without a question. Ah, you're one that has wasted your gifts, you have! You might have aimed high, if you had joined the fancy.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "ef682b26194d24bffa42ce066fb37b07"
+      },
+      "previous": {
+        "content": "\"Oh, yes you do, McMurdo,\" cried Sherlock Holmes, genially. \"I don't think you can have forgotten me. Don't you remember the amateur who fought three rounds with you at Alison's rooms on the night of your benefit four years back?\"",
+        "objectID": "7ae6365bfcb5772506f2d63aadda411a"
+      }
+    },
+    "objectID": "0ff23aa4eaed312e6901abc18f61fcea",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"You see, Watson, if all else fails me I have still one of the scientific professions open to me,\" said Holmes, laughing. \"Our friend won't keep us out in the cold now, I am sure.\"",
+        "objectID": "b7a548836d7586bccb1b4ea04bbebb72"
+      },
+      "previous": {
+        "content": "\"Not Mr. Sherlock Holmes!\" roared the prize-fighter. \"God's truth! how could I have mistook you? If instead o' standin' there so quiet you had just stepped up and given me that cross-hit of yours under the jaw, I'd ha' known you without a question. Ah, you're one that has wasted your gifts, you have! You might have aimed high, if you had joined the fancy.",
+        "objectID": "0ff23aa4eaed312e6901abc18f61fcea"
+      }
+    },
+    "objectID": "ef682b26194d24bffa42ce066fb37b07",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"You see, Watson, if all else fails me I have still one of the scientific professions open to me,\" said Holmes, laughing. \"Our friend won't keep us out in the cold now, I am sure.\"",
+    "context": {
+      "next": {
+        "content": "\"In you come, sir, in you come,—you and your friends,\" he answered. \"Very sorry, Mr. Thaddeus, but orders are very strict. Had to be certain of your friends before I let them in.\"",
+        "objectID": "ed2d47cd3ef641a8875838b90aad5854"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "ef682b26194d24bffa42ce066fb37b07"
+      }
+    },
+    "objectID": "b7a548836d7586bccb1b4ea04bbebb72",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"In you come, sir, in you come,—you and your friends,\" he answered. \"Very sorry, Mr. Thaddeus, but orders are very strict. Had to be certain of your friends before I let them in.\"",
+    "context": {
+      "next": {
+        "content": "Inside, a gravel path wound through desolate grounds to a huge clump of a house, square and prosaic, all plunged in shadow save where a moonbeam struck one corner and glimmered in a garret window. The vast size of the building, with its gloom and its deathly silence, struck a chill to the heart. Even Thaddeus Sholto seemed ill at ease, and the lantern quivered and rattled in his hand.",
+        "objectID": "421fe51172f7e00c4d1251be74bfc0d2"
+      },
+      "previous": {
+        "content": "\"You see, Watson, if all else fails me I have still one of the scientific professions open to me,\" said Holmes, laughing. \"Our friend won't keep us out in the cold now, I am sure.\"",
+        "objectID": "b7a548836d7586bccb1b4ea04bbebb72"
+      }
+    },
+    "objectID": "ed2d47cd3ef641a8875838b90aad5854",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "Inside, a gravel path wound through desolate grounds to a huge clump of a house, square and prosaic, all plunged in shadow save where a moonbeam struck one corner and glimmered in a garret window. The vast size of the building, with its gloom and its deathly silence, struck a chill to the heart. Even Thaddeus Sholto seemed ill at ease, and the lantern quivered and rattled in his hand.",
+    "context": {
+      "next": {
+        "content": "\"I cannot understand it,\" he said. \"There must be some mistake. I distinctly told Bartholomew that we should be here, and yet there is no light in his window. I do not know what to make of it.\"",
+        "objectID": "4a663416b610024d62fe4de4c2d93266"
+      },
+      "previous": {
+        "content": "\"In you come, sir, in you come,—you and your friends,\" he answered. \"Very sorry, Mr. Thaddeus, but orders are very strict. Had to be certain of your friends before I let them in.\"",
+        "objectID": "ed2d47cd3ef641a8875838b90aad5854"
+      }
+    },
+    "objectID": "421fe51172f7e00c4d1251be74bfc0d2",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"I cannot understand it,\" he said. \"There must be some mistake. I distinctly told Bartholomew that we should be here, and yet there is no light in his window. I do not know what to make of it.\"",
+    "context": {
+      "next": {
+        "content": "\"Does he always guard the premises in this way?\" asked Holmes.",
+        "objectID": "2dc4c149da87a435d2efbe79aa8ef892"
+      },
+      "previous": {
+        "content": "Inside, a gravel path wound through desolate grounds to a huge clump of a house, square and prosaic, all plunged in shadow save where a moonbeam struck one corner and glimmered in a garret window. The vast size of the building, with its gloom and its deathly silence, struck a chill to the heart. Even Thaddeus Sholto seemed ill at ease, and the lantern quivered and rattled in his hand.",
+        "objectID": "421fe51172f7e00c4d1251be74bfc0d2"
+      }
+    },
+    "objectID": "4a663416b610024d62fe4de4c2d93266",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"Does he always guard the premises in this way?\" asked Holmes.",
+    "context": {
+      "next": {
+        "content": "\"Yes; he has followed my father's custom. He was the favorite son, you know, and I sometimes think that my father may have told him more than he ever told me. That is Bartholomew's window up there where the moonshine strikes. It is quite bright, but there is no light from within, I think.\"",
+        "objectID": "29453a170c04bc1bcb3447a4c6fbab76"
+      },
+      "previous": {
+        "content": "\"I cannot understand it,\" he said. \"There must be some mistake. I distinctly told Bartholomew that we should be here, and yet there is no light in his window. I do not know what to make of it.\"",
+        "objectID": "4a663416b610024d62fe4de4c2d93266"
+      }
+    },
+    "objectID": "2dc4c149da87a435d2efbe79aa8ef892",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"Yes; he has followed my father's custom. He was the favorite son, you know, and I sometimes think that my father may have told him more than he ever told me. That is Bartholomew's window up there where the moonshine strikes. It is quite bright, but there is no light from within, I think.\"",
+    "context": {
+      "next": {
+        "content": "\"None,\" said Holmes. \"But I see the glint of a light in that little window beside the door.\"",
+        "objectID": "78026c2b106a982f0eca184267437240"
+      },
+      "previous": {
+        "content": "\"Does he always guard the premises in this way?\" asked Holmes.",
+        "objectID": "2dc4c149da87a435d2efbe79aa8ef892"
+      }
+    },
+    "objectID": "29453a170c04bc1bcb3447a4c6fbab76",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"None,\" said Holmes. \"But I see the glint of a light in that little window beside the door.\"",
+    "context": {
+      "next": {
+        "content": "\"Ah, that is the housekeeper's room. That is where old Mrs. Bernstone sits. She can tell us all about it. But perhaps you would not mind waiting here for a minute or two, for if we all go in together and she has no word of our coming she may be alarmed. But hush! what is that?\"",
+        "objectID": "fd8c16ccc3853bd90f1914fb59869c81"
+      },
+      "previous": {
+        "content": "\"Yes; he has followed my father's custom. He was the favorite son, you know, and I sometimes think that my father may have told him more than he ever told me. That is Bartholomew's window up there where the moonshine strikes. It is quite bright, but there is no light from within, I think.\"",
+        "objectID": "29453a170c04bc1bcb3447a4c6fbab76"
+      }
+    },
+    "objectID": "78026c2b106a982f0eca184267437240",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"Ah, that is the housekeeper's room. That is where old Mrs. Bernstone sits. She can tell us all about it. But perhaps you would not mind waiting here for a minute or two, for if we all go in together and she has no word of our coming she may be alarmed. But hush! what is that?\"",
+    "context": {
+      "next": {
+        "content": "He held up the lantern, and his hand shook until the circles of light flickered and wavered all round us. Miss Morstan seized my wrist, and we all stood with thumping hearts, straining our ears. From the great black house there sounded through the silent night the saddest and most pitiful of sounds,—the shrill, broken whimpering of a frightened woman.",
+        "objectID": "06f4ad40810d66f7547b7c8968824b22"
+      },
+      "previous": {
+        "content": "\"None,\" said Holmes. \"But I see the glint of a light in that little window beside the door.\"",
+        "objectID": "78026c2b106a982f0eca184267437240"
+      }
+    },
+    "objectID": "fd8c16ccc3853bd90f1914fb59869c81",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "He held up the lantern, and his hand shook until the circles of light flickered and wavered all round us. Miss Morstan seized my wrist, and we all stood with thumping hearts, straining our ears. From the great black house there sounded through the silent night the saddest and most pitiful of sounds,—the shrill, broken whimpering of a frightened woman.",
+    "context": {
+      "next": {
+        "content": "\"It is Mrs. Bernstone,\" said Sholto. \"She is the only woman in the house. Wait here. I shall be back in a moment.\" He hurried for the door, and knocked in his peculiar way. We could see a tall old woman admit him, and sway with pleasure at the very sight of him.",
+        "objectID": "95e2464507d75f03865fe9ad94be43c6"
+      },
+      "previous": {
+        "content": "\"Ah, that is the housekeeper's room. That is where old Mrs. Bernstone sits. She can tell us all about it. But perhaps you would not mind waiting here for a minute or two, for if we all go in together and she has no word of our coming she may be alarmed. But hush! what is that?\"",
+        "objectID": "fd8c16ccc3853bd90f1914fb59869c81"
+      }
+    },
+    "objectID": "06f4ad40810d66f7547b7c8968824b22",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"It is Mrs. Bernstone,\" said Sholto. \"She is the only woman in the house. Wait here. I shall be back in a moment.\" He hurried for the door, and knocked in his peculiar way. We could see a tall old woman admit him, and sway with pleasure at the very sight of him.",
+    "context": {
+      "next": {
+        "content": "\"Oh, Mr. Thaddeus, sir, I am so glad you have come! I am so glad you have come, Mr. Thaddeus, sir!\" We heard her reiterated rejoicings until the door was closed and her voice died away into a muffled monotone.",
+        "objectID": "81a49a494d3d7da96948260378cf9012"
+      },
+      "previous": {
+        "content": "He held up the lantern, and his hand shook until the circles of light flickered and wavered all round us. Miss Morstan seized my wrist, and we all stood with thumping hearts, straining our ears. From the great black house there sounded through the silent night the saddest and most pitiful of sounds,—the shrill, broken whimpering of a frightened woman.",
+        "objectID": "06f4ad40810d66f7547b7c8968824b22"
+      }
+    },
+    "objectID": "95e2464507d75f03865fe9ad94be43c6",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"Oh, Mr. Thaddeus, sir, I am so glad you have come! I am so glad you have come, Mr. Thaddeus, sir!\" We heard her reiterated rejoicings until the door was closed and her voice died away into a muffled monotone.",
+    "context": {
+      "next": {
+        "content": "Our guide had left us the lantern. Holmes swung it slowly round, and peered keenly at the house, and at the great rubbish-heaps which cumbered the grounds. Miss Morstan and I stood together, and her hand was in mine. A wondrous subtle thing is love, for here were we two who had never seen each other before that day, between whom no word or even look of affection had ever passed, and yet now in an hour of trouble our hands instinctively sought for each other.",
+        "objectID": "8ed02f619a2c5c080cefa59b33c14661"
+      },
+      "previous": {
+        "content": "\"It is Mrs. Bernstone,\" said Sholto. \"She is the only woman in the house. Wait here. I shall be back in a moment.\" He hurried for the door, and knocked in his peculiar way. We could see a tall old woman admit him, and sway with pleasure at the very sight of him.",
+        "objectID": "95e2464507d75f03865fe9ad94be43c6"
+      }
+    },
+    "objectID": "81a49a494d3d7da96948260378cf9012",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "Our guide had left us the lantern. Holmes swung it slowly round, and peered keenly at the house, and at the great rubbish-heaps which cumbered the grounds. Miss Morstan and I stood together, and her hand was in mine. A wondrous subtle thing is love, for here were we two who had never seen each other before that day, between whom no word or even look of affection had ever passed, and yet now in an hour of trouble our hands instinctively sought for each other.",
+    "context": {
+      "next": {
+        "content": "I have marvelled at it since, but at the time it seemed the most natural thing that I should go out to her so, and, as she has often told me, there was in her also the instinct to turn to me for comfort and protection. So we stood hand in hand, like two children, and there was peace in our hearts for all the dark things that surrounded us.",
+        "objectID": "7b1fb08ed9495dd4f06f51d4f768e991"
+      },
+      "previous": {
+        "content": "\"Oh, Mr. Thaddeus, sir, I am so glad you have come! I am so glad you have come, Mr. Thaddeus, sir!\" We heard her reiterated rejoicings until the door was closed and her voice died away into a muffled monotone.",
+        "objectID": "81a49a494d3d7da96948260378cf9012"
+      }
+    },
+    "objectID": "8ed02f619a2c5c080cefa59b33c14661",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "I have marvelled at it since, but at the time it seemed the most natural thing that I should go out to her so, and, as she has often told me, there was in her also the instinct to turn to me for comfort and protection. So we stood hand in hand, like two children, and there was peace in our hearts for all the dark things that surrounded us.",
+    "context": {
+      "next": {
+        "content": "\"What a strange place!\" she said, looking round.",
+        "objectID": "e9d9bbc12a2b4df4e912cce73e0bb101"
+      },
+      "previous": {
+        "content": "Our guide had left us the lantern. Holmes swung it slowly round, and peered keenly at the house, and at the great rubbish-heaps which cumbered the grounds. Miss Morstan and I stood together, and her hand was in mine. A wondrous subtle thing is love, for here were we two who had never seen each other before that day, between whom no word or even look of affection had ever passed, and yet now in an hour of trouble our hands instinctively sought for each other.",
+        "objectID": "8ed02f619a2c5c080cefa59b33c14661"
+      }
+    },
+    "objectID": "7b1fb08ed9495dd4f06f51d4f768e991",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"What a strange place!\" she said, looking round.",
+    "context": {
+      "next": {
+        "content": "\"It looks as though all the moles in England had been let loose in it. I have seen something of the sort on the side of a hill near Ballarat, where the prospectors had been at work.\"",
+        "objectID": "1e0b29964f9af705c8197d78af600332"
+      },
+      "previous": {
+        "content": "I have marvelled at it since, but at the time it seemed the most natural thing that I should go out to her so, and, as she has often told me, there was in her also the instinct to turn to me for comfort and protection. So we stood hand in hand, like two children, and there was peace in our hearts for all the dark things that surrounded us.",
+        "objectID": "7b1fb08ed9495dd4f06f51d4f768e991"
+      }
+    },
+    "objectID": "e9d9bbc12a2b4df4e912cce73e0bb101",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"It looks as though all the moles in England had been let loose in it. I have seen something of the sort on the side of a hill near Ballarat, where the prospectors had been at work.\"",
+    "context": {
+      "next": {
+        "content": "\"And from the same cause,\" said Holmes. \"These are the traces of the treasure-seekers. You must remember that they were six years looking for it. No wonder that the grounds look like a gravel-pit.\"",
+        "objectID": "3e461dca5445e11224de51f2ab37ce1a"
+      },
+      "previous": {
+        "content": "\"What a strange place!\" she said, looking round.",
+        "objectID": "e9d9bbc12a2b4df4e912cce73e0bb101"
+      }
+    },
+    "objectID": "1e0b29964f9af705c8197d78af600332",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"And from the same cause,\" said Holmes. \"These are the traces of the treasure-seekers. You must remember that they were six years looking for it. No wonder that the grounds look like a gravel-pit.\"",
+    "context": {
+      "next": {
+        "content": "At that moment the door of the house burst open, and Thaddeus Sholto came running out, with his hands thrown forward and terror in his eyes.",
+        "objectID": "2b178b39c8c2605ff23d8e501f61c895"
+      },
+      "previous": {
+        "content": "\"It looks as though all the moles in England had been let loose in it. I have seen something of the sort on the side of a hill near Ballarat, where the prospectors had been at work.\"",
+        "objectID": "1e0b29964f9af705c8197d78af600332"
+      }
+    },
+    "objectID": "3e461dca5445e11224de51f2ab37ce1a",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "At that moment the door of the house burst open, and Thaddeus Sholto came running out, with his hands thrown forward and terror in his eyes.",
+    "context": {
+      "next": {
+        "content": "\"There is something amiss with Bartholomew!\" he cried. \"I am frightened! My nerves cannot stand it.\" He was, indeed, half blubbering with fear, and his twitching feeble face peeping out from the great Astrakhan collar had the helpless appealing expression of a terrified child.",
+        "objectID": "68ac6e9d7ccefdba60789b71b18536a4"
+      },
+      "previous": {
+        "content": "\"And from the same cause,\" said Holmes. \"These are the traces of the treasure-seekers. You must remember that they were six years looking for it. No wonder that the grounds look like a gravel-pit.\"",
+        "objectID": "3e461dca5445e11224de51f2ab37ce1a"
+      }
+    },
+    "objectID": "2b178b39c8c2605ff23d8e501f61c895",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"There is something amiss with Bartholomew!\" he cried. \"I am frightened! My nerves cannot stand it.\" He was, indeed, half blubbering with fear, and his twitching feeble face peeping out from the great Astrakhan collar had the helpless appealing expression of a terrified child.",
+    "context": {
+      "next": {
+        "content": "\"Come into the house,\" said Holmes, in his crisp, firm way.",
+        "objectID": "85b34f59136ade47861ec23379808efd"
+      },
+      "previous": {
+        "content": "At that moment the door of the house burst open, and Thaddeus Sholto came running out, with his hands thrown forward and terror in his eyes.",
+        "objectID": "2b178b39c8c2605ff23d8e501f61c895"
+      }
+    },
+    "objectID": "68ac6e9d7ccefdba60789b71b18536a4",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"Come into the house,\" said Holmes, in his crisp, firm way.",
+    "context": {
+      "next": {
+        "content": "\"Yes, do!\" pleaded Thaddeus Sholto. \"I really do not feel equal to giving directions.\"",
+        "objectID": "f19fed8bfd80dd0dc30158e0fa4ee632"
+      },
+      "previous": {
+        "content": "\"There is something amiss with Bartholomew!\" he cried. \"I am frightened! My nerves cannot stand it.\" He was, indeed, half blubbering with fear, and his twitching feeble face peeping out from the great Astrakhan collar had the helpless appealing expression of a terrified child.",
+        "objectID": "68ac6e9d7ccefdba60789b71b18536a4"
+      }
+    },
+    "objectID": "85b34f59136ade47861ec23379808efd",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"Yes, do!\" pleaded Thaddeus Sholto. \"I really do not feel equal to giving directions.\"",
+    "context": {
+      "next": {
+        "content": "We all followed him into the housekeeper's room, which stood upon the left-hand side of the passage. The old woman was pacing up and down with a scared look and restless picking fingers, but the sight of Miss Morstan appeared to have a soothing effect upon her.",
+        "objectID": "b5e13f126de264a1c34e86ce94e12653"
+      },
+      "previous": {
+        "content": "\"Come into the house,\" said Holmes, in his crisp, firm way.",
+        "objectID": "85b34f59136ade47861ec23379808efd"
+      }
+    },
+    "objectID": "f19fed8bfd80dd0dc30158e0fa4ee632",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "We all followed him into the housekeeper's room, which stood upon the left-hand side of the passage. The old woman was pacing up and down with a scared look and restless picking fingers, but the sight of Miss Morstan appeared to have a soothing effect upon her.",
+    "context": {
+      "next": {
+        "content": "\"God bless your sweet calm face!\" she cried, with an hysterical sob. \"It does me good to see you. Oh, but I have been sorely tried this day!\"",
+        "objectID": "2c7c14450f0d3c6d551a23962c84f51f"
+      },
+      "previous": {
+        "content": "\"Yes, do!\" pleaded Thaddeus Sholto. \"I really do not feel equal to giving directions.\"",
+        "objectID": "f19fed8bfd80dd0dc30158e0fa4ee632"
+      }
+    },
+    "objectID": "b5e13f126de264a1c34e86ce94e12653",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"God bless your sweet calm face!\" she cried, with an hysterical sob. \"It does me good to see you. Oh, but I have been sorely tried this day!\"",
+    "context": {
+      "next": {
+        "content": "Our companion patted her thin, work-worn hand, and murmured some few words of kindly womanly comfort which brought the color back into the others bloodless cheeks.",
+        "objectID": "ce9a733a8e4680c0162e7219cd49dfda"
+      },
+      "previous": {
+        "content": "We all followed him into the housekeeper's room, which stood upon the left-hand side of the passage. The old woman was pacing up and down with a scared look and restless picking fingers, but the sight of Miss Morstan appeared to have a soothing effect upon her.",
+        "objectID": "b5e13f126de264a1c34e86ce94e12653"
+      }
+    },
+    "objectID": "2c7c14450f0d3c6d551a23962c84f51f",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "Our companion patted her thin, work-worn hand, and murmured some few words of kindly womanly comfort which brought the color back into the others bloodless cheeks.",
+    "context": {
+      "next": {
+        "content": "\"Master has locked himself in and will not answer me,\" she explained. \"All day I have waited to hear from him, for he often likes to be alone; but an hour ago I feared that something was amiss, so I went up and peeped through the key-hole. You must go up, Mr. Thaddeus,—you must go up and look for yourself.",
+        "objectID": "c9ff17359fc2180cd3d5bb609471acd2"
+      },
+      "previous": {
+        "content": "\"God bless your sweet calm face!\" she cried, with an hysterical sob. \"It does me good to see you. Oh, but I have been sorely tried this day!\"",
+        "objectID": "2c7c14450f0d3c6d551a23962c84f51f"
+      }
+    },
+    "objectID": "ce9a733a8e4680c0162e7219cd49dfda",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"Master has locked himself in and will not answer me,\" she explained. \"All day I have waited to hear from him, for he often likes to be alone; but an hour ago I feared that something was amiss, so I went up and peeped through the key-hole. You must go up, Mr. Thaddeus,—you must go up and look for yourself.",
+    "context": {
+      "next": {
+        "content": "I have seen Mr. Bartholomew Sholto in joy and in sorrow for ten long years, but I never saw him with such a face on him as that.\"",
+        "objectID": "103e07c8bc000cb60a889c896e1017bd"
+      },
+      "previous": {
+        "content": "Our companion patted her thin, work-worn hand, and murmured some few words of kindly womanly comfort which brought the color back into the others bloodless cheeks.",
+        "objectID": "ce9a733a8e4680c0162e7219cd49dfda"
+      }
+    },
+    "objectID": "c9ff17359fc2180cd3d5bb609471acd2",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "I have seen Mr. Bartholomew Sholto in joy and in sorrow for ten long years, but I never saw him with such a face on him as that.\"",
+    "context": {
+      "next": {
+        "content": "Sherlock Holmes took the lamp and led the way, for Thaddeus Sholto's teeth were chattering in his head. So shaken was he that I had to pass my hand under his arm as we went up the stairs, for his knees were trembling under him. Twice as we ascended Holmes whipped his lens out of his pocket and carefully examined marks which appeared to me to be mere shapeless smudges of dust upon the cocoa-nut matting which served as a stair-carpet.",
+        "objectID": "ac25a754a7dc9c619b7a76006ae4af02"
+      },
+      "previous": {
+        "content": "\"Master has locked himself in and will not answer me,\" she explained. \"All day I have waited to hear from him, for he often likes to be alone; but an hour ago I feared that something was amiss, so I went up and peeped through the key-hole. You must go up, Mr. Thaddeus,—you must go up and look for yourself.",
+        "objectID": "c9ff17359fc2180cd3d5bb609471acd2"
+      }
+    },
+    "objectID": "103e07c8bc000cb60a889c896e1017bd",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "Sherlock Holmes took the lamp and led the way, for Thaddeus Sholto's teeth were chattering in his head. So shaken was he that I had to pass my hand under his arm as we went up the stairs, for his knees were trembling under him. Twice as we ascended Holmes whipped his lens out of his pocket and carefully examined marks which appeared to me to be mere shapeless smudges of dust upon the cocoa-nut matting which served as a stair-carpet.",
+    "context": {
+      "next": {
+        "content": "He walked slowly from step to step, holding the lamp, and shooting keen glances to right and left. Miss Morstan had remained behind with the frightened housekeeper.",
+        "objectID": "2c0476258cacb9a295394ebafe39357d"
+      },
+      "previous": {
+        "content": "I have seen Mr. Bartholomew Sholto in joy and in sorrow for ten long years, but I never saw him with such a face on him as that.\"",
+        "objectID": "103e07c8bc000cb60a889c896e1017bd"
+      }
+    },
+    "objectID": "ac25a754a7dc9c619b7a76006ae4af02",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "He walked slowly from step to step, holding the lamp, and shooting keen glances to right and left. Miss Morstan had remained behind with the frightened housekeeper.",
+    "context": {
+      "next": {
+        "content": "The third flight of stairs ended in a straight passage of some length, with a great picture in Indian tapestry upon the right of it and three doors upon the left. Holmes advanced along it in the same slow and methodical way, while we kept close at his heels, with our long black shadows streaming backwards down the corridor.",
+        "objectID": "1ce32e88f105ca30e23cdaaa26eef5aa"
+      },
+      "previous": {
+        "content": "Sherlock Holmes took the lamp and led the way, for Thaddeus Sholto's teeth were chattering in his head. So shaken was he that I had to pass my hand under his arm as we went up the stairs, for his knees were trembling under him. Twice as we ascended Holmes whipped his lens out of his pocket and carefully examined marks which appeared to me to be mere shapeless smudges of dust upon the cocoa-nut matting which served as a stair-carpet.",
+        "objectID": "ac25a754a7dc9c619b7a76006ae4af02"
+      }
+    },
+    "objectID": "2c0476258cacb9a295394ebafe39357d",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "The third flight of stairs ended in a straight passage of some length, with a great picture in Indian tapestry upon the right of it and three doors upon the left. Holmes advanced along it in the same slow and methodical way, while we kept close at his heels, with our long black shadows streaming backwards down the corridor.",
+    "context": {
+      "next": {
+        "content": "The third door was that which we were seeking. Holmes knocked without receiving any answer, and then tried to turn the handle and force it open. It was locked on the inside, however, and by a broad and powerful bolt, as we could see when we set our lamp up against it. The key being turned, however, the hole was not entirely closed.",
+        "objectID": "e91e53f2910960b3dd8663fdf657db73"
+      },
+      "previous": {
+        "content": "He walked slowly from step to step, holding the lamp, and shooting keen glances to right and left. Miss Morstan had remained behind with the frightened housekeeper.",
+        "objectID": "2c0476258cacb9a295394ebafe39357d"
+      }
+    },
+    "objectID": "1ce32e88f105ca30e23cdaaa26eef5aa",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "The third door was that which we were seeking. Holmes knocked without receiving any answer, and then tried to turn the handle and force it open. It was locked on the inside, however, and by a broad and powerful bolt, as we could see when we set our lamp up against it. The key being turned, however, the hole was not entirely closed.",
+    "context": {
+      "next": {
+        "content": "Sherlock Holmes bent down to it, and instantly rose again with a sharp intaking of the breath.",
+        "objectID": "e93b8e77e45e1f0c114f069f6b66fb64"
+      },
+      "previous": {
+        "content": "The third flight of stairs ended in a straight passage of some length, with a great picture in Indian tapestry upon the right of it and three doors upon the left. Holmes advanced along it in the same slow and methodical way, while we kept close at his heels, with our long black shadows streaming backwards down the corridor.",
+        "objectID": "1ce32e88f105ca30e23cdaaa26eef5aa"
+      }
+    },
+    "objectID": "e91e53f2910960b3dd8663fdf657db73",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "Sherlock Holmes bent down to it, and instantly rose again with a sharp intaking of the breath.",
+    "context": {
+      "next": {
+        "content": "\"There is something devilish in this, Watson,\" said he, more moved than I had ever before seen him. \"What do you make of it?\"",
+        "objectID": "50a0a31a2be367d8be8c50937c8f40c1"
+      },
+      "previous": {
+        "content": "The third door was that which we were seeking. Holmes knocked without receiving any answer, and then tried to turn the handle and force it open. It was locked on the inside, however, and by a broad and powerful bolt, as we could see when we set our lamp up against it. The key being turned, however, the hole was not entirely closed.",
+        "objectID": "e91e53f2910960b3dd8663fdf657db73"
+      }
+    },
+    "objectID": "e93b8e77e45e1f0c114f069f6b66fb64",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"There is something devilish in this, Watson,\" said he, more moved than I had ever before seen him. \"What do you make of it?\"",
+    "context": {
+      "next": {
+        "content": "I stooped to the hole, and recoiled in horror. Moonlight was streaming into the room, and it was bright with a vague and shifty radiance. Looking straight at me, and suspended, as it were, in the air, for all beneath was in shadow, there hung a face,—the very face of our companion Thaddeus. There was the same high, shining head, the same circular bristle of red hair, the same bloodless countenance.",
+        "objectID": "0d84ad5587e05171b2b40648db79dd85"
+      },
+      "previous": {
+        "content": "Sherlock Holmes bent down to it, and instantly rose again with a sharp intaking of the breath.",
+        "objectID": "e93b8e77e45e1f0c114f069f6b66fb64"
+      }
+    },
+    "objectID": "50a0a31a2be367d8be8c50937c8f40c1",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "I stooped to the hole, and recoiled in horror. Moonlight was streaming into the room, and it was bright with a vague and shifty radiance. Looking straight at me, and suspended, as it were, in the air, for all beneath was in shadow, there hung a face,—the very face of our companion Thaddeus. There was the same high, shining head, the same circular bristle of red hair, the same bloodless countenance.",
+    "context": {
+      "next": {
+        "content": "The features were set, however, in a horrible smile, a fixed and unnatural grin, which in that still and moonlit room was more jarring to the nerves than any scowl or contortion. So like was the face to that of our little friend that I looked round at him to make sure that he was indeed with us. Then I recalled to mind that he had mentioned to us that his brother and he were twins.",
+        "objectID": "0cc82639aba20a9c54edf728c6b82b72"
+      },
+      "previous": {
+        "content": "\"There is something devilish in this, Watson,\" said he, more moved than I had ever before seen him. \"What do you make of it?\"",
+        "objectID": "50a0a31a2be367d8be8c50937c8f40c1"
+      }
+    },
+    "objectID": "0d84ad5587e05171b2b40648db79dd85",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "The features were set, however, in a horrible smile, a fixed and unnatural grin, which in that still and moonlit room was more jarring to the nerves than any scowl or contortion. So like was the face to that of our little friend that I looked round at him to make sure that he was indeed with us. Then I recalled to mind that he had mentioned to us that his brother and he were twins.",
+    "context": {
+      "next": {
+        "content": "\"This is terrible!\" I said to Holmes. \"What is to be done?\"",
+        "objectID": "e6875dfbf755e01caded174b77862d9b"
+      },
+      "previous": {
+        "content": "I stooped to the hole, and recoiled in horror. Moonlight was streaming into the room, and it was bright with a vague and shifty radiance. Looking straight at me, and suspended, as it were, in the air, for all beneath was in shadow, there hung a face,—the very face of our companion Thaddeus. There was the same high, shining head, the same circular bristle of red hair, the same bloodless countenance.",
+        "objectID": "0d84ad5587e05171b2b40648db79dd85"
+      }
+    },
+    "objectID": "0cc82639aba20a9c54edf728c6b82b72",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"This is terrible!\" I said to Holmes. \"What is to be done?\"",
+    "context": {
+      "next": {
+        "content": "\"The door must come down,\" he answered, and, springing against it, he put all his weight upon the lock. It creaked and groaned, but did not yield. Together we flung ourselves upon it once more, and this time it gave way with a sudden snap, and we found ourselves within Bartholomew Sholto's chamber.",
+        "objectID": "d6845463189bc430cc74cf426112cf6b"
+      },
+      "previous": {
+        "content": "The features were set, however, in a horrible smile, a fixed and unnatural grin, which in that still and moonlit room was more jarring to the nerves than any scowl or contortion. So like was the face to that of our little friend that I looked round at him to make sure that he was indeed with us. Then I recalled to mind that he had mentioned to us that his brother and he were twins.",
+        "objectID": "0cc82639aba20a9c54edf728c6b82b72"
+      }
+    },
+    "objectID": "e6875dfbf755e01caded174b77862d9b",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"The door must come down,\" he answered, and, springing against it, he put all his weight upon the lock. It creaked and groaned, but did not yield. Together we flung ourselves upon it once more, and this time it gave way with a sudden snap, and we found ourselves within Bartholomew Sholto's chamber.",
+    "context": {
+      "next": {
+        "content": "It appeared to have been fitted up as a chemical laboratory. A double line of glass-stoppered bottles was drawn up upon the wall opposite the door, and the table was littered over with Bunsen burners, test-tubes, and retorts. In the corners stood carboys of acid in wicker baskets. One of these appeared to leak or to have been broken, for a stream of dark-colored liquid had trickled out from it, and the air was heavy with a peculiarly pungent, tar-like odor.",
+        "objectID": "aee85b85ca58728e88e353db6a74c9cd"
+      },
+      "previous": {
+        "content": "\"This is terrible!\" I said to Holmes. \"What is to be done?\"",
+        "objectID": "e6875dfbf755e01caded174b77862d9b"
+      }
+    },
+    "objectID": "d6845463189bc430cc74cf426112cf6b",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "It appeared to have been fitted up as a chemical laboratory. A double line of glass-stoppered bottles was drawn up upon the wall opposite the door, and the table was littered over with Bunsen burners, test-tubes, and retorts. In the corners stood carboys of acid in wicker baskets. One of these appeared to leak or to have been broken, for a stream of dark-colored liquid had trickled out from it, and the air was heavy with a peculiarly pungent, tar-like odor.",
+    "context": {
+      "next": {
+        "content": "A set of steps stood at one side of the room, in the midst of a litter of lath and plaster, and above them there was an opening in the ceiling large enough for a man to pass through. At the foot of the steps a long coil of rope was thrown carelessly together.",
+        "objectID": "20b2791bf85bc9fc064b99f997786212"
+      },
+      "previous": {
+        "content": "\"The door must come down,\" he answered, and, springing against it, he put all his weight upon the lock. It creaked and groaned, but did not yield. Together we flung ourselves upon it once more, and this time it gave way with a sudden snap, and we found ourselves within Bartholomew Sholto's chamber.",
+        "objectID": "d6845463189bc430cc74cf426112cf6b"
+      }
+    },
+    "objectID": "aee85b85ca58728e88e353db6a74c9cd",
+    "order": 50,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "A set of steps stood at one side of the room, in the midst of a litter of lath and plaster, and above them there was an opening in the ceiling large enough for a man to pass through. At the foot of the steps a long coil of rope was thrown carelessly together.",
+    "context": {
+      "next": {
+        "content": "By the table, in a wooden arm-chair, the master of the house was seated all in a heap, with his head sunk upon his left shoulder, and that ghastly, inscrutable smile upon his face. He was stiff and cold, and had clearly been dead many hours. It seemed to me that not only his features but all his limbs were twisted and turned in the most fantastic fashion.",
+        "objectID": "063c1bada6b47c1d466c6ae937a317b8"
+      },
+      "previous": {
+        "content": "It appeared to have been fitted up as a chemical laboratory. A double line of glass-stoppered bottles was drawn up upon the wall opposite the door, and the table was littered over with Bunsen burners, test-tubes, and retorts. In the corners stood carboys of acid in wicker baskets. One of these appeared to leak or to have been broken, for a stream of dark-colored liquid had trickled out from it, and the air was heavy with a peculiarly pungent, tar-like odor.",
+        "objectID": "aee85b85ca58728e88e353db6a74c9cd"
+      }
+    },
+    "objectID": "20b2791bf85bc9fc064b99f997786212",
+    "order": 51,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "By the table, in a wooden arm-chair, the master of the house was seated all in a heap, with his head sunk upon his left shoulder, and that ghastly, inscrutable smile upon his face. He was stiff and cold, and had clearly been dead many hours. It seemed to me that not only his features but all his limbs were twisted and turned in the most fantastic fashion.",
+    "context": {
+      "next": {
+        "content": "By his hand upon the table there lay a peculiar instrument,—a brown, close-grained stick, with a stone head like a hammer, rudely lashed on with coarse twine. Beside it was a torn sheet of note-paper with some words scrawled upon it. Holmes glanced at it, and then handed it to me.",
+        "objectID": "187411600afe4341d7af7f375c291f21"
+      },
+      "previous": {
+        "content": "A set of steps stood at one side of the room, in the midst of a litter of lath and plaster, and above them there was an opening in the ceiling large enough for a man to pass through. At the foot of the steps a long coil of rope was thrown carelessly together.",
+        "objectID": "20b2791bf85bc9fc064b99f997786212"
+      }
+    },
+    "objectID": "063c1bada6b47c1d466c6ae937a317b8",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "By his hand upon the table there lay a peculiar instrument,—a brown, close-grained stick, with a stone head like a hammer, rudely lashed on with coarse twine. Beside it was a torn sheet of note-paper with some words scrawled upon it. Holmes glanced at it, and then handed it to me.",
+    "context": {
+      "next": {
+        "content": "\"You see,\" he said, with a significant raising of the eyebrows.",
+        "objectID": "e7ff02fc00ce2f73f28d55f7be491c20"
+      },
+      "previous": {
+        "content": "By the table, in a wooden arm-chair, the master of the house was seated all in a heap, with his head sunk upon his left shoulder, and that ghastly, inscrutable smile upon his face. He was stiff and cold, and had clearly been dead many hours. It seemed to me that not only his features but all his limbs were twisted and turned in the most fantastic fashion.",
+        "objectID": "063c1bada6b47c1d466c6ae937a317b8"
+      }
+    },
+    "objectID": "187411600afe4341d7af7f375c291f21",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"You see,\" he said, with a significant raising of the eyebrows.",
+    "context": {
+      "next": {
+        "content": "In the light of the lantern I read, with a thrill of horror, \"The sign of the four.\"",
+        "objectID": "1861d6ee603dc6f78db673fb0ccd8cb9"
+      },
+      "previous": {
+        "content": "By his hand upon the table there lay a peculiar instrument,—a brown, close-grained stick, with a stone head like a hammer, rudely lashed on with coarse twine. Beside it was a torn sheet of note-paper with some words scrawled upon it. Holmes glanced at it, and then handed it to me.",
+        "objectID": "187411600afe4341d7af7f375c291f21"
+      }
+    },
+    "objectID": "e7ff02fc00ce2f73f28d55f7be491c20",
+    "order": 54,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "In the light of the lantern I read, with a thrill of horror, \"The sign of the four.\"",
+    "context": {
+      "next": {
+        "content": "\"In God's name, what does it all mean?\" I asked.",
+        "objectID": "bee9addc84f114240a4d8399de9627b2"
+      },
+      "previous": {
+        "content": "\"You see,\" he said, with a significant raising of the eyebrows.",
+        "objectID": "e7ff02fc00ce2f73f28d55f7be491c20"
+      }
+    },
+    "objectID": "1861d6ee603dc6f78db673fb0ccd8cb9",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"In God's name, what does it all mean?\" I asked.",
+    "context": {
+      "next": {
+        "content": "\"It means murder,\" said he, stooping over the dead man. \"Ah, I expected it. Look here!\" He pointed to what looked like a long, dark thorn stuck in the skin just above the ear.",
+        "objectID": "1153ff68e517b31e0a687d9c48c09785"
+      },
+      "previous": {
+        "content": "In the light of the lantern I read, with a thrill of horror, \"The sign of the four.\"",
+        "objectID": "1861d6ee603dc6f78db673fb0ccd8cb9"
+      }
+    },
+    "objectID": "bee9addc84f114240a4d8399de9627b2",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"It means murder,\" said he, stooping over the dead man. \"Ah, I expected it. Look here!\" He pointed to what looked like a long, dark thorn stuck in the skin just above the ear.",
+    "context": {
+      "next": {
+        "content": "\"It looks like a thorn,\" said I.",
+        "objectID": "35673460d68c9972c8d8fc24bcf5d232"
+      },
+      "previous": {
+        "content": "\"In God's name, what does it all mean?\" I asked.",
+        "objectID": "bee9addc84f114240a4d8399de9627b2"
+      }
+    },
+    "objectID": "1153ff68e517b31e0a687d9c48c09785",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"It looks like a thorn,\" said I.",
+    "context": {
+      "next": {
+        "content": "\"It is a thorn. You may pick it out. But be careful, for it is poisoned.\"",
+        "objectID": "f88afb8174a7fd252ff3a0fbe00b6058"
+      },
+      "previous": {
+        "content": "\"It means murder,\" said he, stooping over the dead man. \"Ah, I expected it. Look here!\" He pointed to what looked like a long, dark thorn stuck in the skin just above the ear.",
+        "objectID": "1153ff68e517b31e0a687d9c48c09785"
+      }
+    },
+    "objectID": "35673460d68c9972c8d8fc24bcf5d232",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"It is a thorn. You may pick it out. But be careful, for it is poisoned.\"",
+    "context": {
+      "next": {
+        "content": "I took it up between my finger and thumb. It came away from the skin so readily that hardly any mark was left behind. One tiny speck of blood showed where the puncture had been.",
+        "objectID": "073f4e533a486548dde477a69bc29c67"
+      },
+      "previous": {
+        "content": "\"It looks like a thorn,\" said I.",
+        "objectID": "35673460d68c9972c8d8fc24bcf5d232"
+      }
+    },
+    "objectID": "f88afb8174a7fd252ff3a0fbe00b6058",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "I took it up between my finger and thumb. It came away from the skin so readily that hardly any mark was left behind. One tiny speck of blood showed where the puncture had been.",
+    "context": {
+      "next": {
+        "content": "\"This is all an insoluble mystery to me,\" said I. \"It grows darker instead of clearer.\"",
+        "objectID": "df47da5840dce25676823737ef585e63"
+      },
+      "previous": {
+        "content": "\"It is a thorn. You may pick it out. But be careful, for it is poisoned.\"",
+        "objectID": "f88afb8174a7fd252ff3a0fbe00b6058"
+      }
+    },
+    "objectID": "073f4e533a486548dde477a69bc29c67",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"This is all an insoluble mystery to me,\" said I. \"It grows darker instead of clearer.\"",
+    "context": {
+      "next": {
+        "content": "\"On the contrary,\" he answered, \"it clears every instant. I only require a few missing links to have an entirely connected case.\"",
+        "objectID": "f155cef95442c07d09f5a8573f5ff260"
+      },
+      "previous": {
+        "content": "I took it up between my finger and thumb. It came away from the skin so readily that hardly any mark was left behind. One tiny speck of blood showed where the puncture had been.",
+        "objectID": "073f4e533a486548dde477a69bc29c67"
+      }
+    },
+    "objectID": "df47da5840dce25676823737ef585e63",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"On the contrary,\" he answered, \"it clears every instant. I only require a few missing links to have an entirely connected case.\"",
+    "context": {
+      "next": {
+        "content": "We had almost forgotten our companion's presence since we entered the chamber. He was still standing in the door-way, the very picture of terror, wringing his hands and moaning to himself. Suddenly, however, he broke out into a sharp, querulous cry.",
+        "objectID": "5924cdcf41f4772b2328d3d885daed5a"
+      },
+      "previous": {
+        "content": "\"This is all an insoluble mystery to me,\" said I. \"It grows darker instead of clearer.\"",
+        "objectID": "df47da5840dce25676823737ef585e63"
+      }
+    },
+    "objectID": "f155cef95442c07d09f5a8573f5ff260",
+    "order": 62,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "We had almost forgotten our companion's presence since we entered the chamber. He was still standing in the door-way, the very picture of terror, wringing his hands and moaning to himself. Suddenly, however, he broke out into a sharp, querulous cry.",
+    "context": {
+      "next": {
+        "content": "\"The treasure is gone!\" he said. \"They have robbed him of the treasure! There is the hole through which we lowered it. I helped him to do it! I was the last person who saw him! I left him here last night, and I heard him lock the door as I came down-stairs.\"",
+        "objectID": "805e850688945005e32b19abce12861e"
+      },
+      "previous": {
+        "content": "\"On the contrary,\" he answered, \"it clears every instant. I only require a few missing links to have an entirely connected case.\"",
+        "objectID": "f155cef95442c07d09f5a8573f5ff260"
+      }
+    },
+    "objectID": "5924cdcf41f4772b2328d3d885daed5a",
+    "order": 63,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"The treasure is gone!\" he said. \"They have robbed him of the treasure! There is the hole through which we lowered it. I helped him to do it! I was the last person who saw him! I left him here last night, and I heard him lock the door as I came down-stairs.\"",
+    "context": {
+      "next": {
+        "content": "\"What time was that?\"",
+        "objectID": "b85c209012bf777fdf2cd42454827d56"
+      },
+      "previous": {
+        "content": "We had almost forgotten our companion's presence since we entered the chamber. He was still standing in the door-way, the very picture of terror, wringing his hands and moaning to himself. Suddenly, however, he broke out into a sharp, querulous cry.",
+        "objectID": "5924cdcf41f4772b2328d3d885daed5a"
+      }
+    },
+    "objectID": "805e850688945005e32b19abce12861e",
+    "order": 64,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"What time was that?\"",
+    "context": {
+      "next": {
+        "content": "\"It was ten o'clock. And now he is dead, and the police will be called in, and I shall be suspected of having had a hand in it. Oh, yes, I am sure I shall. But you don't think so, gentlemen? Surely you don't think that it was I? Is it likely that I would have brought you here if it were I? Oh, dear! oh, dear! I know that I shall go mad!\" He jerked his arms and stamped his feet in a kind of convulsive frenzy.",
+        "objectID": "2b31ced03fa71650416f06dd86e2eb8f"
+      },
+      "previous": {
+        "content": "\"The treasure is gone!\" he said. \"They have robbed him of the treasure! There is the hole through which we lowered it. I helped him to do it! I was the last person who saw him! I left him here last night, and I heard him lock the door as I came down-stairs.\"",
+        "objectID": "805e850688945005e32b19abce12861e"
+      }
+    },
+    "objectID": "b85c209012bf777fdf2cd42454827d56",
+    "order": 65,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"It was ten o'clock. And now he is dead, and the police will be called in, and I shall be suspected of having had a hand in it. Oh, yes, I am sure I shall. But you don't think so, gentlemen? Surely you don't think that it was I? Is it likely that I would have brought you here if it were I? Oh, dear! oh, dear! I know that I shall go mad!\" He jerked his arms and stamped his feet in a kind of convulsive frenzy.",
+    "context": {
+      "next": {
+        "content": "\"You have no reason for fear, Mr. Sholto,\" said Holmes, kindly, putting his hand upon his shoulder. \"Take my advice, and drive down to the station to report this matter to the police. Offer to assist them in every way. We shall wait here until your return.\"",
+        "objectID": "cf007049fef7c51587459bb089410ba4"
+      },
+      "previous": {
+        "content": "\"What time was that?\"",
+        "objectID": "b85c209012bf777fdf2cd42454827d56"
+      }
+    },
+    "objectID": "2b31ced03fa71650416f06dd86e2eb8f",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "\"You have no reason for fear, Mr. Sholto,\" said Holmes, kindly, putting his hand upon his shoulder. \"Take my advice, and drive down to the station to report this matter to the police. Offer to assist them in every way. We shall wait here until your return.\"",
+    "context": {
+      "next": {
+        "content": "The little man obeyed in a half-stupefied fashion, and we heard him stumbling down the stairs in the dark.",
+        "objectID": "3d813cc681b7a87bd1d483335b84b22c"
+      },
+      "previous": {
+        "content": "\"It was ten o'clock. And now he is dead, and the police will be called in, and I shall be suspected of having had a hand in it. Oh, yes, I am sure I shall. But you don't think so, gentlemen? Surely you don't think that it was I? Is it likely that I would have brought you here if it were I? Oh, dear! oh, dear! I know that I shall go mad!\" He jerked his arms and stamped his feet in a kind of convulsive frenzy.",
+        "objectID": "2b31ced03fa71650416f06dd86e2eb8f"
+      }
+    },
+    "objectID": "cf007049fef7c51587459bb089410ba4",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter V. The Tragedy of Pondicherry Lodge",
+    "chapterOrder": 5,
+    "content": "The little man obeyed in a half-stupefied fashion, and we heard him stumbling down the stairs in the dark.",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "\"You have no reason for fear, Mr. Sholto,\" said Holmes, kindly, putting his hand upon his shoulder. \"Take my advice, and drive down to the station to report this matter to the police. Offer to assist them in every way. We shall wait here until your return.\"",
+        "objectID": "cf007049fef7c51587459bb089410ba4"
+      }
+    },
+    "objectID": "3d813cc681b7a87bd1d483335b84b22c",
+    "order": 68,
+    "tagName": "P"
+  }
+]

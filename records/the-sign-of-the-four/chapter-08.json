@@ -1,0 +1,2201 @@
+[
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"What now?\" I asked. \"Toby has lost his character for infallibility.\"",
+    "context": {
+      "next": {
+        "content": "\"He acted according to his lights,\" said Holmes, lifting him down from the barrel and walking him out of the timber-yard. \"If you consider how much creasote is carted about London in one day, it is no great wonder that our trail should have been crossed. It is much used now, especially for the seasoning of wood.",
+        "objectID": "24cd04cce00960bf36d83f25a37dc8fc"
+      },
+      "previous": null
+    },
+    "objectID": "32d6a3aae2ac693ca64f119daf7dba33",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"He acted according to his lights,\" said Holmes, lifting him down from the barrel and walking him out of the timber-yard. \"If you consider how much creasote is carted about London in one day, it is no great wonder that our trail should have been crossed. It is much used now, especially for the seasoning of wood.",
+    "context": {
+      "next": {
+        "content": "Poor Toby is not to blame.\"",
+        "objectID": "f439fbfc4491dad4250384385ee158cd"
+      },
+      "previous": {
+        "content": "\"What now?\" I asked. \"Toby has lost his character for infallibility.\"",
+        "objectID": "32d6a3aae2ac693ca64f119daf7dba33"
+      }
+    },
+    "objectID": "24cd04cce00960bf36d83f25a37dc8fc",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "Poor Toby is not to blame.\"",
+    "context": {
+      "next": {
+        "content": "\"We must get on the main scent again, I suppose.\"",
+        "objectID": "439240a9ad5b1050c9f32f86cc31d9da"
+      },
+      "previous": {
+        "content": "\"He acted according to his lights,\" said Holmes, lifting him down from the barrel and walking him out of the timber-yard. \"If you consider how much creasote is carted about London in one day, it is no great wonder that our trail should have been crossed. It is much used now, especially for the seasoning of wood.",
+        "objectID": "24cd04cce00960bf36d83f25a37dc8fc"
+      }
+    },
+    "objectID": "f439fbfc4491dad4250384385ee158cd",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"We must get on the main scent again, I suppose.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes. And, fortunately, we have no distance to go. Evidently what puzzled the dog at the corner of Knight's Place was that there were two different trails running in opposite directions. We took the wrong one. It only remains to follow the other.\"",
+        "objectID": "9066e917df58601bedd2644a8f21c8c9"
+      },
+      "previous": {
+        "content": "Poor Toby is not to blame.\"",
+        "objectID": "f439fbfc4491dad4250384385ee158cd"
+      }
+    },
+    "objectID": "439240a9ad5b1050c9f32f86cc31d9da",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Yes. And, fortunately, we have no distance to go. Evidently what puzzled the dog at the corner of Knight's Place was that there were two different trails running in opposite directions. We took the wrong one. It only remains to follow the other.\"",
+    "context": {
+      "next": {
+        "content": "There was no difficulty about this. On leading Toby to the place where he had committed his fault, he cast about in a wide circle and finally dashed off in a fresh direction.",
+        "objectID": "c0258b9a1c081a65e015fd9d5bc543ba"
+      },
+      "previous": {
+        "content": "\"We must get on the main scent again, I suppose.\"",
+        "objectID": "439240a9ad5b1050c9f32f86cc31d9da"
+      }
+    },
+    "objectID": "9066e917df58601bedd2644a8f21c8c9",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "There was no difficulty about this. On leading Toby to the place where he had committed his fault, he cast about in a wide circle and finally dashed off in a fresh direction.",
+    "context": {
+      "next": {
+        "content": "\"We must take care that he does not now bring us to the place where the creasote-barrel came from,\" I observed.",
+        "objectID": "6059bc87102796565cb22571408dd979"
+      },
+      "previous": {
+        "content": "\"Yes. And, fortunately, we have no distance to go. Evidently what puzzled the dog at the corner of Knight's Place was that there were two different trails running in opposite directions. We took the wrong one. It only remains to follow the other.\"",
+        "objectID": "9066e917df58601bedd2644a8f21c8c9"
+      }
+    },
+    "objectID": "c0258b9a1c081a65e015fd9d5bc543ba",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"We must take care that he does not now bring us to the place where the creasote-barrel came from,\" I observed.",
+    "context": {
+      "next": {
+        "content": "\"I had thought of that. But you notice that he keeps on the pavement, whereas the barrel passed down the roadway. No, we are on the true scent now.\"",
+        "objectID": "a8d311066ac7f881879d79d14915e093"
+      },
+      "previous": {
+        "content": "There was no difficulty about this. On leading Toby to the place where he had committed his fault, he cast about in a wide circle and finally dashed off in a fresh direction.",
+        "objectID": "c0258b9a1c081a65e015fd9d5bc543ba"
+      }
+    },
+    "objectID": "6059bc87102796565cb22571408dd979",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"I had thought of that. But you notice that he keeps on the pavement, whereas the barrel passed down the roadway. No, we are on the true scent now.\"",
+    "context": {
+      "next": {
+        "content": "It tended down towards the river-side, running through Belmont Place and Prince's Street. At the end of Broad Street it ran right down to the water's edge, where there was a small wooden wharf. Toby led us to the very edge of this, and there stood whining, looking out on the dark current beyond.",
+        "objectID": "85f6936eef6479cab8581e30dd49d264"
+      },
+      "previous": {
+        "content": "\"We must take care that he does not now bring us to the place where the creasote-barrel came from,\" I observed.",
+        "objectID": "6059bc87102796565cb22571408dd979"
+      }
+    },
+    "objectID": "a8d311066ac7f881879d79d14915e093",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "It tended down towards the river-side, running through Belmont Place and Prince's Street. At the end of Broad Street it ran right down to the water's edge, where there was a small wooden wharf. Toby led us to the very edge of this, and there stood whining, looking out on the dark current beyond.",
+    "context": {
+      "next": {
+        "content": "\"We are out of luck,\" said Holmes. \"They have taken to a boat here.\" Several small punts and skiffs were lying about in the water and on the edge of the wharf. We took Toby round to each in turn, but, though he sniffed earnestly, he made no sign.",
+        "objectID": "504285377500a9efbd6ef597f27e809d"
+      },
+      "previous": {
+        "content": "\"I had thought of that. But you notice that he keeps on the pavement, whereas the barrel passed down the roadway. No, we are on the true scent now.\"",
+        "objectID": "a8d311066ac7f881879d79d14915e093"
+      }
+    },
+    "objectID": "85f6936eef6479cab8581e30dd49d264",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"We are out of luck,\" said Holmes. \"They have taken to a boat here.\" Several small punts and skiffs were lying about in the water and on the edge of the wharf. We took Toby round to each in turn, but, though he sniffed earnestly, he made no sign.",
+    "context": {
+      "next": {
+        "content": "Close to the rude landing-stage was a small brick house, with a wooden placard slung out through the second window. \"Mordecai Smith\" was printed across it in large letters, and, underneath, \"Boats to hire by the hour or day.\" A second inscription above the door informed us that a steam launch was kept,—a statement which was confirmed by a great pile of coke upon the jetty.",
+        "objectID": "85405a2582df8b89b9b97238c1649140"
+      },
+      "previous": {
+        "content": "It tended down towards the river-side, running through Belmont Place and Prince's Street. At the end of Broad Street it ran right down to the water's edge, where there was a small wooden wharf. Toby led us to the very edge of this, and there stood whining, looking out on the dark current beyond.",
+        "objectID": "85f6936eef6479cab8581e30dd49d264"
+      }
+    },
+    "objectID": "504285377500a9efbd6ef597f27e809d",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "Close to the rude landing-stage was a small brick house, with a wooden placard slung out through the second window. \"Mordecai Smith\" was printed across it in large letters, and, underneath, \"Boats to hire by the hour or day.\" A second inscription above the door informed us that a steam launch was kept,—a statement which was confirmed by a great pile of coke upon the jetty.",
+    "context": {
+      "next": {
+        "content": "Sherlock Holmes looked slowly round, and his face assumed an ominous expression.",
+        "objectID": "6f539065ed65f0937909632eb3196209"
+      },
+      "previous": {
+        "content": "\"We are out of luck,\" said Holmes. \"They have taken to a boat here.\" Several small punts and skiffs were lying about in the water and on the edge of the wharf. We took Toby round to each in turn, but, though he sniffed earnestly, he made no sign.",
+        "objectID": "504285377500a9efbd6ef597f27e809d"
+      }
+    },
+    "objectID": "85405a2582df8b89b9b97238c1649140",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "Sherlock Holmes looked slowly round, and his face assumed an ominous expression.",
+    "context": {
+      "next": {
+        "content": "\"This looks bad,\" said he. \"These fellows are sharper than I expected. They seem to have covered their tracks. There has, I fear, been preconcerted management here.\"",
+        "objectID": "196dfbb4e98236314d5b1eb04cabe257"
+      },
+      "previous": {
+        "content": "Close to the rude landing-stage was a small brick house, with a wooden placard slung out through the second window. \"Mordecai Smith\" was printed across it in large letters, and, underneath, \"Boats to hire by the hour or day.\" A second inscription above the door informed us that a steam launch was kept,—a statement which was confirmed by a great pile of coke upon the jetty.",
+        "objectID": "85405a2582df8b89b9b97238c1649140"
+      }
+    },
+    "objectID": "6f539065ed65f0937909632eb3196209",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"This looks bad,\" said he. \"These fellows are sharper than I expected. They seem to have covered their tracks. There has, I fear, been preconcerted management here.\"",
+    "context": {
+      "next": {
+        "content": "He was approaching the door of the house, when it opened, and a little, curly-headed lad of six came running out, followed by a stoutish, red-faced woman with a large sponge in her hand.",
+        "objectID": "83d4f3f15e411c98aa18bad230741bf1"
+      },
+      "previous": {
+        "content": "Sherlock Holmes looked slowly round, and his face assumed an ominous expression.",
+        "objectID": "6f539065ed65f0937909632eb3196209"
+      }
+    },
+    "objectID": "196dfbb4e98236314d5b1eb04cabe257",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "He was approaching the door of the house, when it opened, and a little, curly-headed lad of six came running out, followed by a stoutish, red-faced woman with a large sponge in her hand.",
+    "context": {
+      "next": {
+        "content": "\"You come back and be washed, Jack,\" she shouted. \"Come back, you young imp; for if your father comes home and finds you like that, he'll let us hear of it.\"",
+        "objectID": "599294677ff381e9bf56028024e29255"
+      },
+      "previous": {
+        "content": "\"This looks bad,\" said he. \"These fellows are sharper than I expected. They seem to have covered their tracks. There has, I fear, been preconcerted management here.\"",
+        "objectID": "196dfbb4e98236314d5b1eb04cabe257"
+      }
+    },
+    "objectID": "83d4f3f15e411c98aa18bad230741bf1",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"You come back and be washed, Jack,\" she shouted. \"Come back, you young imp; for if your father comes home and finds you like that, he'll let us hear of it.\"",
+    "context": {
+      "next": {
+        "content": "\"Dear little chap!\" said Holmes, strategically. \"What a rosy-cheeked young rascal! Now, Jack, is there anything you would like?\"",
+        "objectID": "620306f835f4a4039f932cd75cc56516"
+      },
+      "previous": {
+        "content": "He was approaching the door of the house, when it opened, and a little, curly-headed lad of six came running out, followed by a stoutish, red-faced woman with a large sponge in her hand.",
+        "objectID": "83d4f3f15e411c98aa18bad230741bf1"
+      }
+    },
+    "objectID": "599294677ff381e9bf56028024e29255",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Dear little chap!\" said Holmes, strategically. \"What a rosy-cheeked young rascal! Now, Jack, is there anything you would like?\"",
+    "context": {
+      "next": {
+        "content": "The youth pondered for a moment. \"I'd like a shillin',\" said he.",
+        "objectID": "2a5819e83937bd5c9b039c8e4f23282c"
+      },
+      "previous": {
+        "content": "\"You come back and be washed, Jack,\" she shouted. \"Come back, you young imp; for if your father comes home and finds you like that, he'll let us hear of it.\"",
+        "objectID": "599294677ff381e9bf56028024e29255"
+      }
+    },
+    "objectID": "620306f835f4a4039f932cd75cc56516",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "The youth pondered for a moment. \"I'd like a shillin',\" said he.",
+    "context": {
+      "next": {
+        "content": "\"Nothing you would like better?\"",
+        "objectID": "28aeee80906e9ce4600b379ba1c945b5"
+      },
+      "previous": {
+        "content": "\"Dear little chap!\" said Holmes, strategically. \"What a rosy-cheeked young rascal! Now, Jack, is there anything you would like?\"",
+        "objectID": "620306f835f4a4039f932cd75cc56516"
+      }
+    },
+    "objectID": "2a5819e83937bd5c9b039c8e4f23282c",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Nothing you would like better?\"",
+    "context": {
+      "next": {
+        "content": "\"I'd like two shillin' better,\" the prodigy answered, after some thought.",
+        "objectID": "d3570e4040d052141a8c2012ba1ab608"
+      },
+      "previous": {
+        "content": "The youth pondered for a moment. \"I'd like a shillin',\" said he.",
+        "objectID": "2a5819e83937bd5c9b039c8e4f23282c"
+      }
+    },
+    "objectID": "28aeee80906e9ce4600b379ba1c945b5",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"I'd like two shillin' better,\" the prodigy answered, after some thought.",
+    "context": {
+      "next": {
+        "content": "\"Here you are, then! Catch!—A fine child, Mrs. Smith!\"",
+        "objectID": "ef92ad91b874a6fc90ecf1663e393eb5"
+      },
+      "previous": {
+        "content": "\"Nothing you would like better?\"",
+        "objectID": "28aeee80906e9ce4600b379ba1c945b5"
+      }
+    },
+    "objectID": "d3570e4040d052141a8c2012ba1ab608",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Here you are, then! Catch!—A fine child, Mrs. Smith!\"",
+    "context": {
+      "next": {
+        "content": "\"Lor' bless you, sir, he is that, and forward. He gets a'most too much for me to manage, 'specially when my man is away days at a time.\"",
+        "objectID": "a67b959d740de4ca8804bd2292b60884"
+      },
+      "previous": {
+        "content": "\"I'd like two shillin' better,\" the prodigy answered, after some thought.",
+        "objectID": "d3570e4040d052141a8c2012ba1ab608"
+      }
+    },
+    "objectID": "ef92ad91b874a6fc90ecf1663e393eb5",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Lor' bless you, sir, he is that, and forward. He gets a'most too much for me to manage, 'specially when my man is away days at a time.\"",
+    "context": {
+      "next": {
+        "content": "\"Away, is he?\" said Holmes, in a disappointed voice. \"I am sorry for that, for I wanted to speak to Mr. Smith.\"",
+        "objectID": "8ba628e2218aeadc001b531cda1fba73"
+      },
+      "previous": {
+        "content": "\"Here you are, then! Catch!—A fine child, Mrs. Smith!\"",
+        "objectID": "ef92ad91b874a6fc90ecf1663e393eb5"
+      }
+    },
+    "objectID": "a67b959d740de4ca8804bd2292b60884",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Away, is he?\" said Holmes, in a disappointed voice. \"I am sorry for that, for I wanted to speak to Mr. Smith.\"",
+    "context": {
+      "next": {
+        "content": "\"He's been away since yesterday mornin', sir, and, truth to tell, I am beginnin' to feel frightened about him. But if it was about a boat, sir, maybe I could serve as well.\"",
+        "objectID": "e047aa30174061501f5d0d39e10935e6"
+      },
+      "previous": {
+        "content": "\"Lor' bless you, sir, he is that, and forward. He gets a'most too much for me to manage, 'specially when my man is away days at a time.\"",
+        "objectID": "a67b959d740de4ca8804bd2292b60884"
+      }
+    },
+    "objectID": "8ba628e2218aeadc001b531cda1fba73",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"He's been away since yesterday mornin', sir, and, truth to tell, I am beginnin' to feel frightened about him. But if it was about a boat, sir, maybe I could serve as well.\"",
+    "context": {
+      "next": {
+        "content": "\"I wanted to hire his steam launch.\"",
+        "objectID": "cecc42ab737c9ab1982acd726b85ae88"
+      },
+      "previous": {
+        "content": "\"Away, is he?\" said Holmes, in a disappointed voice. \"I am sorry for that, for I wanted to speak to Mr. Smith.\"",
+        "objectID": "8ba628e2218aeadc001b531cda1fba73"
+      }
+    },
+    "objectID": "e047aa30174061501f5d0d39e10935e6",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"I wanted to hire his steam launch.\"",
+    "context": {
+      "next": {
+        "content": "\"Why, bless you, sir, it is in the steam launch that he has gone. That's what puzzles me; for I know there ain't more coals in her than would take her to about Woolwich and back. If he'd been away in the barge I'd ha' thought nothin'; for many a time a job has taken him as far as Gravesend, and then if there was much doin' there he might ha' stayed over.",
+        "objectID": "658ce04c91b814e5c483f03587bb29b7"
+      },
+      "previous": {
+        "content": "\"He's been away since yesterday mornin', sir, and, truth to tell, I am beginnin' to feel frightened about him. But if it was about a boat, sir, maybe I could serve as well.\"",
+        "objectID": "e047aa30174061501f5d0d39e10935e6"
+      }
+    },
+    "objectID": "cecc42ab737c9ab1982acd726b85ae88",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Why, bless you, sir, it is in the steam launch that he has gone. That's what puzzles me; for I know there ain't more coals in her than would take her to about Woolwich and back. If he'd been away in the barge I'd ha' thought nothin'; for many a time a job has taken him as far as Gravesend, and then if there was much doin' there he might ha' stayed over.",
+    "context": {
+      "next": {
+        "content": "But what good is a steam launch without coals?\"",
+        "objectID": "d25e4ea68f767584efb54b544e0cf5ee"
+      },
+      "previous": {
+        "content": "\"I wanted to hire his steam launch.\"",
+        "objectID": "cecc42ab737c9ab1982acd726b85ae88"
+      }
+    },
+    "objectID": "658ce04c91b814e5c483f03587bb29b7",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "But what good is a steam launch without coals?\"",
+    "context": {
+      "next": {
+        "content": "\"He might have bought some at a wharf down the river.\"",
+        "objectID": "87c8f00fdab8ac9fe2b872cbba3492a2"
+      },
+      "previous": {
+        "content": "\"Why, bless you, sir, it is in the steam launch that he has gone. That's what puzzles me; for I know there ain't more coals in her than would take her to about Woolwich and back. If he'd been away in the barge I'd ha' thought nothin'; for many a time a job has taken him as far as Gravesend, and then if there was much doin' there he might ha' stayed over.",
+        "objectID": "658ce04c91b814e5c483f03587bb29b7"
+      }
+    },
+    "objectID": "d25e4ea68f767584efb54b544e0cf5ee",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"He might have bought some at a wharf down the river.\"",
+    "context": {
+      "next": {
+        "content": "\"He might, sir, but it weren't his way. Many a time I've heard him call out at the prices they charge for a few odd bags. Besides, I don't like that wooden-legged man, wi' his ugly face and outlandish talk. What did he want always knockin' about here for?\"",
+        "objectID": "fcebde0774059d01b2bc58e36e03eb4e"
+      },
+      "previous": {
+        "content": "But what good is a steam launch without coals?\"",
+        "objectID": "d25e4ea68f767584efb54b544e0cf5ee"
+      }
+    },
+    "objectID": "87c8f00fdab8ac9fe2b872cbba3492a2",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"He might, sir, but it weren't his way. Many a time I've heard him call out at the prices they charge for a few odd bags. Besides, I don't like that wooden-legged man, wi' his ugly face and outlandish talk. What did he want always knockin' about here for?\"",
+    "context": {
+      "next": {
+        "content": "\"A wooden-legged man?\" said Holmes, with bland surprise.",
+        "objectID": "ff7c6d259f713535d37cb62f96504814"
+      },
+      "previous": {
+        "content": "\"He might have bought some at a wharf down the river.\"",
+        "objectID": "87c8f00fdab8ac9fe2b872cbba3492a2"
+      }
+    },
+    "objectID": "fcebde0774059d01b2bc58e36e03eb4e",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"A wooden-legged man?\" said Holmes, with bland surprise.",
+    "context": {
+      "next": {
+        "content": "\"Yes, sir, a brown, monkey-faced chap that's called more'n once for my old man. It was him that roused him up yesternight, and, what's more, my man knew he was comin', for he had steam up in the launch. I tell you straight, sir, I don't feel easy in my mind about it.\"",
+        "objectID": "2349f56f13ed04ff4acbb216b8ccf9bb"
+      },
+      "previous": {
+        "content": "\"He might, sir, but it weren't his way. Many a time I've heard him call out at the prices they charge for a few odd bags. Besides, I don't like that wooden-legged man, wi' his ugly face and outlandish talk. What did he want always knockin' about here for?\"",
+        "objectID": "fcebde0774059d01b2bc58e36e03eb4e"
+      }
+    },
+    "objectID": "ff7c6d259f713535d37cb62f96504814",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Yes, sir, a brown, monkey-faced chap that's called more'n once for my old man. It was him that roused him up yesternight, and, what's more, my man knew he was comin', for he had steam up in the launch. I tell you straight, sir, I don't feel easy in my mind about it.\"",
+    "context": {
+      "next": {
+        "content": "\"But, my dear Mrs. Smith,\" said Holmes, shrugging his shoulders, \"You are frightening yourself about nothing. How could you possibly tell that it was the wooden-legged man who came in the night? I don't quite understand how you can be so sure.\"",
+        "objectID": "6d301ca648f588745171aee021fbcca4"
+      },
+      "previous": {
+        "content": "\"A wooden-legged man?\" said Holmes, with bland surprise.",
+        "objectID": "ff7c6d259f713535d37cb62f96504814"
+      }
+    },
+    "objectID": "2349f56f13ed04ff4acbb216b8ccf9bb",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"But, my dear Mrs. Smith,\" said Holmes, shrugging his shoulders, \"You are frightening yourself about nothing. How could you possibly tell that it was the wooden-legged man who came in the night? I don't quite understand how you can be so sure.\"",
+    "context": {
+      "next": {
+        "content": "\"His voice, sir. I knew his voice, which is kind o' thick and foggy. He tapped at the winder,—about three it would be. 'Show a leg, matey,' says he: 'time to turn out guard.' My old man woke up Jim,—that's my eldest,—and away they went, without so much as a word to me. I could hear the wooden leg clackin' on the stones.",
+        "objectID": "8f7e9aefce8833247c3e41725a224ff9"
+      },
+      "previous": {
+        "content": "\"Yes, sir, a brown, monkey-faced chap that's called more'n once for my old man. It was him that roused him up yesternight, and, what's more, my man knew he was comin', for he had steam up in the launch. I tell you straight, sir, I don't feel easy in my mind about it.\"",
+        "objectID": "2349f56f13ed04ff4acbb216b8ccf9bb"
+      }
+    },
+    "objectID": "6d301ca648f588745171aee021fbcca4",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"His voice, sir. I knew his voice, which is kind o' thick and foggy. He tapped at the winder,—about three it would be. 'Show a leg, matey,' says he: 'time to turn out guard.' My old man woke up Jim,—that's my eldest,—and away they went, without so much as a word to me. I could hear the wooden leg clackin' on the stones.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "4e0a31903bacf882472159ccbc3400d9"
+      },
+      "previous": {
+        "content": "\"But, my dear Mrs. Smith,\" said Holmes, shrugging his shoulders, \"You are frightening yourself about nothing. How could you possibly tell that it was the wooden-legged man who came in the night? I don't quite understand how you can be so sure.\"",
+        "objectID": "6d301ca648f588745171aee021fbcca4"
+      }
+    },
+    "objectID": "8f7e9aefce8833247c3e41725a224ff9",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"And was this wooden-legged man alone?\"",
+        "objectID": "35fd53fd02dc2dc579b3a804ca1ca2f7"
+      },
+      "previous": {
+        "content": "\"His voice, sir. I knew his voice, which is kind o' thick and foggy. He tapped at the winder,—about three it would be. 'Show a leg, matey,' says he: 'time to turn out guard.' My old man woke up Jim,—that's my eldest,—and away they went, without so much as a word to me. I could hear the wooden leg clackin' on the stones.",
+        "objectID": "8f7e9aefce8833247c3e41725a224ff9"
+      }
+    },
+    "objectID": "4e0a31903bacf882472159ccbc3400d9",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"And was this wooden-legged man alone?\"",
+    "context": {
+      "next": {
+        "content": "\"Couldn't say, I am sure, sir. I didn't hear no one else.\"",
+        "objectID": "29d66937a0392113c29ef3da3284979c"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "4e0a31903bacf882472159ccbc3400d9"
+      }
+    },
+    "objectID": "35fd53fd02dc2dc579b3a804ca1ca2f7",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Couldn't say, I am sure, sir. I didn't hear no one else.\"",
+    "context": {
+      "next": {
+        "content": "\"I am sorry, Mrs. Smith, for I wanted a steam launch, and I have heard good reports of the—Let me see, what is her name?\"",
+        "objectID": "5cad8ced1e9e9512518273b229565db0"
+      },
+      "previous": {
+        "content": "\"And was this wooden-legged man alone?\"",
+        "objectID": "35fd53fd02dc2dc579b3a804ca1ca2f7"
+      }
+    },
+    "objectID": "29d66937a0392113c29ef3da3284979c",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"I am sorry, Mrs. Smith, for I wanted a steam launch, and I have heard good reports of the—Let me see, what is her name?\"",
+    "context": {
+      "next": {
+        "content": "\"The Aurora, sir.\"",
+        "objectID": "e3bf99db474b0f8ae6e69ffb2b1dfdfe"
+      },
+      "previous": {
+        "content": "\"Couldn't say, I am sure, sir. I didn't hear no one else.\"",
+        "objectID": "29d66937a0392113c29ef3da3284979c"
+      }
+    },
+    "objectID": "5cad8ced1e9e9512518273b229565db0",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"The Aurora, sir.\"",
+    "context": {
+      "next": {
+        "content": "\"Ah! She's not that old green launch with a yellow line, very broad in the beam?\"",
+        "objectID": "216ca3226d187a94948133576dc85ae3"
+      },
+      "previous": {
+        "content": "\"I am sorry, Mrs. Smith, for I wanted a steam launch, and I have heard good reports of the—Let me see, what is her name?\"",
+        "objectID": "5cad8ced1e9e9512518273b229565db0"
+      }
+    },
+    "objectID": "e3bf99db474b0f8ae6e69ffb2b1dfdfe",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Ah! She's not that old green launch with a yellow line, very broad in the beam?\"",
+    "context": {
+      "next": {
+        "content": "\"No, indeed. She's as trim a little thing as any on the river. She's been fresh painted, black with two red streaks.\"",
+        "objectID": "2c20b78ab301ecb3eea93f05cb1ccee9"
+      },
+      "previous": {
+        "content": "\"The Aurora, sir.\"",
+        "objectID": "e3bf99db474b0f8ae6e69ffb2b1dfdfe"
+      }
+    },
+    "objectID": "216ca3226d187a94948133576dc85ae3",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"No, indeed. She's as trim a little thing as any on the river. She's been fresh painted, black with two red streaks.\"",
+    "context": {
+      "next": {
+        "content": "\"Thanks. I hope that you will hear soon from Mr. Smith. I am going down the river; and if I should see anything of the Aurora I shall let him know that you are uneasy. A black funnel, you say?\"",
+        "objectID": "c54f1030e4c0c424e3f6c68299a1ba1a"
+      },
+      "previous": {
+        "content": "\"Ah! She's not that old green launch with a yellow line, very broad in the beam?\"",
+        "objectID": "216ca3226d187a94948133576dc85ae3"
+      }
+    },
+    "objectID": "2c20b78ab301ecb3eea93f05cb1ccee9",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Thanks. I hope that you will hear soon from Mr. Smith. I am going down the river; and if I should see anything of the Aurora I shall let him know that you are uneasy. A black funnel, you say?\"",
+    "context": {
+      "next": {
+        "content": "\"No, sir. Black with a white band.\"",
+        "objectID": "fad7ac17d3d10cdf6ce62f7b0d460a26"
+      },
+      "previous": {
+        "content": "\"No, indeed. She's as trim a little thing as any on the river. She's been fresh painted, black with two red streaks.\"",
+        "objectID": "2c20b78ab301ecb3eea93f05cb1ccee9"
+      }
+    },
+    "objectID": "c54f1030e4c0c424e3f6c68299a1ba1a",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"No, sir. Black with a white band.\"",
+    "context": {
+      "next": {
+        "content": "\"Ah, of course. It was the sides which were black. Good-morning, Mrs. Smith.—There is a boatman here with a wherry, Watson. We shall take it and cross the river.",
+        "objectID": "c496d05aeddc84b76052ef95ceb23f07"
+      },
+      "previous": {
+        "content": "\"Thanks. I hope that you will hear soon from Mr. Smith. I am going down the river; and if I should see anything of the Aurora I shall let him know that you are uneasy. A black funnel, you say?\"",
+        "objectID": "c54f1030e4c0c424e3f6c68299a1ba1a"
+      }
+    },
+    "objectID": "fad7ac17d3d10cdf6ce62f7b0d460a26",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Ah, of course. It was the sides which were black. Good-morning, Mrs. Smith.—There is a boatman here with a wherry, Watson. We shall take it and cross the river.",
+    "context": {
+      "next": {
+        "content": "\"The main thing with people of that sort,\" said Holmes, as we sat in the sheets of the wherry, \"is never to let them think that their information can be of the slightest importance to you. If you do, they will instantly shut up like an oyster. If you listen to them under protest, as it were, you are very likely to get what you want.",
+        "objectID": "08e9daa5c39ae6a94eaf5d4e6545f873"
+      },
+      "previous": {
+        "content": "\"No, sir. Black with a white band.\"",
+        "objectID": "fad7ac17d3d10cdf6ce62f7b0d460a26"
+      }
+    },
+    "objectID": "c496d05aeddc84b76052ef95ceb23f07",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"The main thing with people of that sort,\" said Holmes, as we sat in the sheets of the wherry, \"is never to let them think that their information can be of the slightest importance to you. If you do, they will instantly shut up like an oyster. If you listen to them under protest, as it were, you are very likely to get what you want.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "069d5c46c18c323597afaaa3b86d1186"
+      },
+      "previous": {
+        "content": "\"Ah, of course. It was the sides which were black. Good-morning, Mrs. Smith.—There is a boatman here with a wherry, Watson. We shall take it and cross the river.",
+        "objectID": "c496d05aeddc84b76052ef95ceb23f07"
+      }
+    },
+    "objectID": "08e9daa5c39ae6a94eaf5d4e6545f873",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Our course now seems pretty clear,\" said I.",
+        "objectID": "7fe5d9dcd086f642f81dc37a93a9fca0"
+      },
+      "previous": {
+        "content": "\"The main thing with people of that sort,\" said Holmes, as we sat in the sheets of the wherry, \"is never to let them think that their information can be of the slightest importance to you. If you do, they will instantly shut up like an oyster. If you listen to them under protest, as it were, you are very likely to get what you want.",
+        "objectID": "08e9daa5c39ae6a94eaf5d4e6545f873"
+      }
+    },
+    "objectID": "069d5c46c18c323597afaaa3b86d1186",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Our course now seems pretty clear,\" said I.",
+    "context": {
+      "next": {
+        "content": "\"What would you do, then?\"",
+        "objectID": "166d667261bf6fcf802f4cab7d4b6478"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "069d5c46c18c323597afaaa3b86d1186"
+      }
+    },
+    "objectID": "7fe5d9dcd086f642f81dc37a93a9fca0",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"What would you do, then?\"",
+    "context": {
+      "next": {
+        "content": "\"I would engage a launch and go down the river on the track of the Aurora.\"",
+        "objectID": "266b137c506217245f4f2f7193b98d0b"
+      },
+      "previous": {
+        "content": "\"Our course now seems pretty clear,\" said I.",
+        "objectID": "7fe5d9dcd086f642f81dc37a93a9fca0"
+      }
+    },
+    "objectID": "166d667261bf6fcf802f4cab7d4b6478",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"I would engage a launch and go down the river on the track of the Aurora.\"",
+    "context": {
+      "next": {
+        "content": "\"My dear fellow, it would be a colossal task. She may have touched at any wharf on either side of the stream between here and Greenwich. Below the bridge there is a perfect labyrinth of landing-places for miles. It would take you days and days to exhaust them, if you set about it alone.\"",
+        "objectID": "a37a23224b9d3cd957e494053285f1e6"
+      },
+      "previous": {
+        "content": "\"What would you do, then?\"",
+        "objectID": "166d667261bf6fcf802f4cab7d4b6478"
+      }
+    },
+    "objectID": "266b137c506217245f4f2f7193b98d0b",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"My dear fellow, it would be a colossal task. She may have touched at any wharf on either side of the stream between here and Greenwich. Below the bridge there is a perfect labyrinth of landing-places for miles. It would take you days and days to exhaust them, if you set about it alone.\"",
+    "context": {
+      "next": {
+        "content": "\"Employ the police, then.\"",
+        "objectID": "88cf3a6468522af8e9fc681b8b839fbc"
+      },
+      "previous": {
+        "content": "\"I would engage a launch and go down the river on the track of the Aurora.\"",
+        "objectID": "266b137c506217245f4f2f7193b98d0b"
+      }
+    },
+    "objectID": "a37a23224b9d3cd957e494053285f1e6",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Employ the police, then.\"",
+    "context": {
+      "next": {
+        "content": "\"No. I shall probably call Athelney Jones in at the last moment. He is not a bad fellow, and I should not like to do anything which would injure him professionally. But I have a fancy for working it out myself, now that we have gone so far.\"",
+        "objectID": "b1ceff4cc1c3db999a2313f53ce8a5e5"
+      },
+      "previous": {
+        "content": "\"My dear fellow, it would be a colossal task. She may have touched at any wharf on either side of the stream between here and Greenwich. Below the bridge there is a perfect labyrinth of landing-places for miles. It would take you days and days to exhaust them, if you set about it alone.\"",
+        "objectID": "a37a23224b9d3cd957e494053285f1e6"
+      }
+    },
+    "objectID": "88cf3a6468522af8e9fc681b8b839fbc",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"No. I shall probably call Athelney Jones in at the last moment. He is not a bad fellow, and I should not like to do anything which would injure him professionally. But I have a fancy for working it out myself, now that we have gone so far.\"",
+    "context": {
+      "next": {
+        "content": "\"Could we advertise, then, asking for information from wharfingers?\"",
+        "objectID": "6d282bf78cb9eb3e6c134580c0bcf3d4"
+      },
+      "previous": {
+        "content": "\"Employ the police, then.\"",
+        "objectID": "88cf3a6468522af8e9fc681b8b839fbc"
+      }
+    },
+    "objectID": "b1ceff4cc1c3db999a2313f53ce8a5e5",
+    "order": 50,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Could we advertise, then, asking for information from wharfingers?\"",
+    "context": {
+      "next": {
+        "content": "\"Worse and worse! Our men would know that the chase was hot at their heels, and they would be off out of the country. As it is, they are likely enough to leave, but as long as they think they are perfectly safe they will be in no hurry. Jones's energy will be of use to us there, for his view of the case is sure to push itself into the daily press, and the runaways will think that every one is off on the wrong scent.",
+        "objectID": "c2b4e8884afdc89bbc3169312aaedf9a"
+      },
+      "previous": {
+        "content": "\"No. I shall probably call Athelney Jones in at the last moment. He is not a bad fellow, and I should not like to do anything which would injure him professionally. But I have a fancy for working it out myself, now that we have gone so far.\"",
+        "objectID": "b1ceff4cc1c3db999a2313f53ce8a5e5"
+      }
+    },
+    "objectID": "6d282bf78cb9eb3e6c134580c0bcf3d4",
+    "order": 51,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Worse and worse! Our men would know that the chase was hot at their heels, and they would be off out of the country. As it is, they are likely enough to leave, but as long as they think they are perfectly safe they will be in no hurry. Jones's energy will be of use to us there, for his view of the case is sure to push itself into the daily press, and the runaways will think that every one is off on the wrong scent.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "dcea55279457260c7accea320e269c01"
+      },
+      "previous": {
+        "content": "\"Could we advertise, then, asking for information from wharfingers?\"",
+        "objectID": "6d282bf78cb9eb3e6c134580c0bcf3d4"
+      }
+    },
+    "objectID": "c2b4e8884afdc89bbc3169312aaedf9a",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"What are we to do, then?\" I asked, as we landed near Millbank Penitentiary.",
+        "objectID": "1b8845437939d75f17084e4b5f2bfe43"
+      },
+      "previous": {
+        "content": "\"Worse and worse! Our men would know that the chase was hot at their heels, and they would be off out of the country. As it is, they are likely enough to leave, but as long as they think they are perfectly safe they will be in no hurry. Jones's energy will be of use to us there, for his view of the case is sure to push itself into the daily press, and the runaways will think that every one is off on the wrong scent.",
+        "objectID": "c2b4e8884afdc89bbc3169312aaedf9a"
+      }
+    },
+    "objectID": "dcea55279457260c7accea320e269c01",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"What are we to do, then?\" I asked, as we landed near Millbank Penitentiary.",
+    "context": {
+      "next": {
+        "content": "\"Take this hansom, drive home, have some breakfast, and get an hour's sleep. It is quite on the cards that we may be afoot to-night again. Stop at a telegraph-office, cabby! We will keep Toby, for he may be of use to us yet.\"",
+        "objectID": "300e64de5bd7711ca502ace8dfdeb616"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "dcea55279457260c7accea320e269c01"
+      }
+    },
+    "objectID": "1b8845437939d75f17084e4b5f2bfe43",
+    "order": 54,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Take this hansom, drive home, have some breakfast, and get an hour's sleep. It is quite on the cards that we may be afoot to-night again. Stop at a telegraph-office, cabby! We will keep Toby, for he may be of use to us yet.\"",
+    "context": {
+      "next": {
+        "content": "We pulled up at the Great Peter Street post-office, and Holmes despatched his wire. \"Whom do you think that is to?\" he asked, as we resumed our journey.",
+        "objectID": "9fef4123473b0ac253f4680849a53067"
+      },
+      "previous": {
+        "content": "\"What are we to do, then?\" I asked, as we landed near Millbank Penitentiary.",
+        "objectID": "1b8845437939d75f17084e4b5f2bfe43"
+      }
+    },
+    "objectID": "300e64de5bd7711ca502ace8dfdeb616",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "We pulled up at the Great Peter Street post-office, and Holmes despatched his wire. \"Whom do you think that is to?\" he asked, as we resumed our journey.",
+    "context": {
+      "next": {
+        "content": "\"I am sure I don't know.\"",
+        "objectID": "56ecd2738f3f9f5ddd1b91c9d8412b98"
+      },
+      "previous": {
+        "content": "\"Take this hansom, drive home, have some breakfast, and get an hour's sleep. It is quite on the cards that we may be afoot to-night again. Stop at a telegraph-office, cabby! We will keep Toby, for he may be of use to us yet.\"",
+        "objectID": "300e64de5bd7711ca502ace8dfdeb616"
+      }
+    },
+    "objectID": "9fef4123473b0ac253f4680849a53067",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"I am sure I don't know.\"",
+    "context": {
+      "next": {
+        "content": "\"You remember the Baker Street division of the detective police force whom I employed in the Jefferson Hope case?\"",
+        "objectID": "75b492909d504fb1f503d81de4a3f25f"
+      },
+      "previous": {
+        "content": "We pulled up at the Great Peter Street post-office, and Holmes despatched his wire. \"Whom do you think that is to?\" he asked, as we resumed our journey.",
+        "objectID": "9fef4123473b0ac253f4680849a53067"
+      }
+    },
+    "objectID": "56ecd2738f3f9f5ddd1b91c9d8412b98",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"You remember the Baker Street division of the detective police force whom I employed in the Jefferson Hope case?\"",
+    "context": {
+      "next": {
+        "content": "\"Well,\" said I, laughing.",
+        "objectID": "ec8e3acbe7e42186cad5680dc3aa5cb8"
+      },
+      "previous": {
+        "content": "\"I am sure I don't know.\"",
+        "objectID": "56ecd2738f3f9f5ddd1b91c9d8412b98"
+      }
+    },
+    "objectID": "75b492909d504fb1f503d81de4a3f25f",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Well,\" said I, laughing.",
+    "context": {
+      "next": {
+        "content": "\"This is just the case where they might be invaluable. If they fail, I have other resources; but I shall try them first. That wire was to my dirty little lieutenant, Wiggins, and I expect that he and his gang will be with us before we have finished our breakfast.\"",
+        "objectID": "12066fa258ca12c1c21394eb4b30ca33"
+      },
+      "previous": {
+        "content": "\"You remember the Baker Street division of the detective police force whom I employed in the Jefferson Hope case?\"",
+        "objectID": "75b492909d504fb1f503d81de4a3f25f"
+      }
+    },
+    "objectID": "ec8e3acbe7e42186cad5680dc3aa5cb8",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"This is just the case where they might be invaluable. If they fail, I have other resources; but I shall try them first. That wire was to my dirty little lieutenant, Wiggins, and I expect that he and his gang will be with us before we have finished our breakfast.\"",
+    "context": {
+      "next": {
+        "content": "It was between eight and nine o'clock now, and I was conscious of a strong reaction after the successive excitements of the night. I was limp and weary, befogged in mind and fatigued in body. I had not the professional enthusiasm which carried my companion on, nor could I look at the matter as a mere abstract intellectual problem.",
+        "objectID": "769b171d6a4b8a485d45e1b3f925f2d7"
+      },
+      "previous": {
+        "content": "\"Well,\" said I, laughing.",
+        "objectID": "ec8e3acbe7e42186cad5680dc3aa5cb8"
+      }
+    },
+    "objectID": "12066fa258ca12c1c21394eb4b30ca33",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "It was between eight and nine o'clock now, and I was conscious of a strong reaction after the successive excitements of the night. I was limp and weary, befogged in mind and fatigued in body. I had not the professional enthusiasm which carried my companion on, nor could I look at the matter as a mere abstract intellectual problem.",
+    "context": {
+      "next": {
+        "content": "As far as the death of Bartholomew Sholto went, I had heard little good of him, and could feel no intense antipathy to his murderers. The treasure, however, was a different matter. That, or part of it, belonged rightfully to Miss Morstan. While there was a chance of recovering it I was ready to devote my life to the one object.",
+        "objectID": "b9d6e8e1493258595057c3f817db80a7"
+      },
+      "previous": {
+        "content": "\"This is just the case where they might be invaluable. If they fail, I have other resources; but I shall try them first. That wire was to my dirty little lieutenant, Wiggins, and I expect that he and his gang will be with us before we have finished our breakfast.\"",
+        "objectID": "12066fa258ca12c1c21394eb4b30ca33"
+      }
+    },
+    "objectID": "769b171d6a4b8a485d45e1b3f925f2d7",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "As far as the death of Bartholomew Sholto went, I had heard little good of him, and could feel no intense antipathy to his murderers. The treasure, however, was a different matter. That, or part of it, belonged rightfully to Miss Morstan. While there was a chance of recovering it I was ready to devote my life to the one object.",
+    "context": {
+      "next": {
+        "content": "True, if I found it it would probably put her forever beyond my reach. Yet it would be a petty and selfish love which would be influenced by such a thought as that. If Holmes could work to find the criminals, I had a tenfold stronger reason to urge me on to find the treasure.",
+        "objectID": "d8aed054ea4127738456e5ef7c5dee35"
+      },
+      "previous": {
+        "content": "It was between eight and nine o'clock now, and I was conscious of a strong reaction after the successive excitements of the night. I was limp and weary, befogged in mind and fatigued in body. I had not the professional enthusiasm which carried my companion on, nor could I look at the matter as a mere abstract intellectual problem.",
+        "objectID": "769b171d6a4b8a485d45e1b3f925f2d7"
+      }
+    },
+    "objectID": "b9d6e8e1493258595057c3f817db80a7",
+    "order": 62,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "True, if I found it it would probably put her forever beyond my reach. Yet it would be a petty and selfish love which would be influenced by such a thought as that. If Holmes could work to find the criminals, I had a tenfold stronger reason to urge me on to find the treasure.",
+    "context": {
+      "next": {
+        "content": "A bath at Baker Street and a complete change freshened me up wonderfully. When I came down to our room I found the breakfast laid and Homes pouring out the coffee.",
+        "objectID": "df9dd6b7ef08aaa255cc23c539374b8f"
+      },
+      "previous": {
+        "content": "As far as the death of Bartholomew Sholto went, I had heard little good of him, and could feel no intense antipathy to his murderers. The treasure, however, was a different matter. That, or part of it, belonged rightfully to Miss Morstan. While there was a chance of recovering it I was ready to devote my life to the one object.",
+        "objectID": "b9d6e8e1493258595057c3f817db80a7"
+      }
+    },
+    "objectID": "d8aed054ea4127738456e5ef7c5dee35",
+    "order": 63,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "A bath at Baker Street and a complete change freshened me up wonderfully. When I came down to our room I found the breakfast laid and Homes pouring out the coffee.",
+    "context": {
+      "next": {
+        "content": "\"Here it is,\" said he, laughing, and pointing to an open newspaper. \"The energetic Jones and the ubiquitous reporter have fixed it up between them. But you have had enough of the case. Better have your ham and eggs first.\"",
+        "objectID": "63d1d8c6d6ede98ef01ad931eac26ed0"
+      },
+      "previous": {
+        "content": "True, if I found it it would probably put her forever beyond my reach. Yet it would be a petty and selfish love which would be influenced by such a thought as that. If Holmes could work to find the criminals, I had a tenfold stronger reason to urge me on to find the treasure.",
+        "objectID": "d8aed054ea4127738456e5ef7c5dee35"
+      }
+    },
+    "objectID": "df9dd6b7ef08aaa255cc23c539374b8f",
+    "order": 64,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Here it is,\" said he, laughing, and pointing to an open newspaper. \"The energetic Jones and the ubiquitous reporter have fixed it up between them. But you have had enough of the case. Better have your ham and eggs first.\"",
+    "context": {
+      "next": {
+        "content": "I took the paper from him and read the short notice, which was headed \"Mysterious Business at Upper Norwood.\"",
+        "objectID": "cd2721ff8e2ca9c39cb99dcc8fe940c5"
+      },
+      "previous": {
+        "content": "A bath at Baker Street and a complete change freshened me up wonderfully. When I came down to our room I found the breakfast laid and Homes pouring out the coffee.",
+        "objectID": "df9dd6b7ef08aaa255cc23c539374b8f"
+      }
+    },
+    "objectID": "63d1d8c6d6ede98ef01ad931eac26ed0",
+    "order": 65,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "I took the paper from him and read the short notice, which was headed \"Mysterious Business at Upper Norwood.\"",
+    "context": {
+      "next": {
+        "content": "\"About twelve o'clock last night,\" said the Standard, \"Mr. Bartholomew Sholto, of Pondicherry Lodge, Upper Norwood, was found dead in his room under circumstances which point to foul play. As far as we can learn, no actual traces of violence were found upon Mr. Sholto's person, but a valuable collection of Indian gems which the deceased gentleman had inherited from his father has been carried off.",
+        "objectID": "4b957a7e29980903c4df1143ddd7aa1d"
+      },
+      "previous": {
+        "content": "\"Here it is,\" said he, laughing, and pointing to an open newspaper. \"The energetic Jones and the ubiquitous reporter have fixed it up between them. But you have had enough of the case. Better have your ham and eggs first.\"",
+        "objectID": "63d1d8c6d6ede98ef01ad931eac26ed0"
+      }
+    },
+    "objectID": "cd2721ff8e2ca9c39cb99dcc8fe940c5",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"About twelve o'clock last night,\" said the Standard, \"Mr. Bartholomew Sholto, of Pondicherry Lodge, Upper Norwood, was found dead in his room under circumstances which point to foul play. As far as we can learn, no actual traces of violence were found upon Mr. Sholto's person, but a valuable collection of Indian gems which the deceased gentleman had inherited from his father has been carried off.",
+    "context": {
+      "next": {
+        "content": "The discovery was first made by Mr. Sherlock Holmes and Dr. Watson, who had called at the house with Mr. Thaddeus Sholto, brother of the deceased. By a singular piece of good fortune, Mr. Athelney Jones, the well-known member of the detective police force, happened to be at the Norwood Police Station, and was on the ground within half an hour of the first alarm.",
+        "objectID": "8c6b2365d3e8bb3cf777fcef74eff124"
+      },
+      "previous": {
+        "content": "I took the paper from him and read the short notice, which was headed \"Mysterious Business at Upper Norwood.\"",
+        "objectID": "cd2721ff8e2ca9c39cb99dcc8fe940c5"
+      }
+    },
+    "objectID": "4b957a7e29980903c4df1143ddd7aa1d",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "The discovery was first made by Mr. Sherlock Holmes and Dr. Watson, who had called at the house with Mr. Thaddeus Sholto, brother of the deceased. By a singular piece of good fortune, Mr. Athelney Jones, the well-known member of the detective police force, happened to be at the Norwood Police Station, and was on the ground within half an hour of the first alarm.",
+    "context": {
+      "next": {
+        "content": "His trained and experienced faculties were at once directed towards the detection of the criminals, with the gratifying result that the brother, Thaddeus Sholto, has already been arrested, together with the housekeeper, Mrs. Bernstone, an Indian butler named Lal Rao, and a porter, or gatekeeper, named McMurdo.",
+        "objectID": "4a5d293b2d19da3a787235c667c7c346"
+      },
+      "previous": {
+        "content": "\"About twelve o'clock last night,\" said the Standard, \"Mr. Bartholomew Sholto, of Pondicherry Lodge, Upper Norwood, was found dead in his room under circumstances which point to foul play. As far as we can learn, no actual traces of violence were found upon Mr. Sholto's person, but a valuable collection of Indian gems which the deceased gentleman had inherited from his father has been carried off.",
+        "objectID": "4b957a7e29980903c4df1143ddd7aa1d"
+      }
+    },
+    "objectID": "8c6b2365d3e8bb3cf777fcef74eff124",
+    "order": 68,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "His trained and experienced faculties were at once directed towards the detection of the criminals, with the gratifying result that the brother, Thaddeus Sholto, has already been arrested, together with the housekeeper, Mrs. Bernstone, an Indian butler named Lal Rao, and a porter, or gatekeeper, named McMurdo.",
+    "context": {
+      "next": {
+        "content": "It is quite certain that the thief or thieves were well acquainted with the house, for Mr. Jones's well-known technical knowledge and his powers of minute observation have enabled him to prove conclusively that the miscreants could not have entered by the door or by the window, but must have made their way across the roof of the building, and so through a trap-door into a room which communicated with that in which the body was found.",
+        "objectID": "5d318e9e43b4cf0e77020f50907ea123"
+      },
+      "previous": {
+        "content": "The discovery was first made by Mr. Sherlock Holmes and Dr. Watson, who had called at the house with Mr. Thaddeus Sholto, brother of the deceased. By a singular piece of good fortune, Mr. Athelney Jones, the well-known member of the detective police force, happened to be at the Norwood Police Station, and was on the ground within half an hour of the first alarm.",
+        "objectID": "8c6b2365d3e8bb3cf777fcef74eff124"
+      }
+    },
+    "objectID": "4a5d293b2d19da3a787235c667c7c346",
+    "order": 69,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "It is quite certain that the thief or thieves were well acquainted with the house, for Mr. Jones's well-known technical knowledge and his powers of minute observation have enabled him to prove conclusively that the miscreants could not have entered by the door or by the window, but must have made their way across the roof of the building, and so through a trap-door into a room which communicated with that in which the body was found.",
+    "context": {
+      "next": {
+        "content": "This fact, which has been very clearly made out, proves conclusively that it was no mere haphazard burglary. The prompt and energetic action of the officers of the law shows the great advantage of the presence on such occasions of a single vigorous and masterful mind. We cannot but think that it supplies an argument to those who would wish to see our detectives more decentralized, and so brought into closer and more effective touch with the cases which it is their duty to investigate.",
+        "objectID": "d0496e13e2e64616473e2b54efd70c25"
+      },
+      "previous": {
+        "content": "His trained and experienced faculties were at once directed towards the detection of the criminals, with the gratifying result that the brother, Thaddeus Sholto, has already been arrested, together with the housekeeper, Mrs. Bernstone, an Indian butler named Lal Rao, and a porter, or gatekeeper, named McMurdo.",
+        "objectID": "4a5d293b2d19da3a787235c667c7c346"
+      }
+    },
+    "objectID": "5d318e9e43b4cf0e77020f50907ea123",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "This fact, which has been very clearly made out, proves conclusively that it was no mere haphazard burglary. The prompt and energetic action of the officers of the law shows the great advantage of the presence on such occasions of a single vigorous and masterful mind. We cannot but think that it supplies an argument to those who would wish to see our detectives more decentralized, and so brought into closer and more effective touch with the cases which it is their duty to investigate.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "673b825bc07fdadd6721c7aa1495db9e"
+      },
+      "previous": {
+        "content": "It is quite certain that the thief or thieves were well acquainted with the house, for Mr. Jones's well-known technical knowledge and his powers of minute observation have enabled him to prove conclusively that the miscreants could not have entered by the door or by the window, but must have made their way across the roof of the building, and so through a trap-door into a room which communicated with that in which the body was found.",
+        "objectID": "5d318e9e43b4cf0e77020f50907ea123"
+      }
+    },
+    "objectID": "d0496e13e2e64616473e2b54efd70c25",
+    "order": 71,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Isn't it gorgeous!\" said Holmes, grinning over his coffee-cup. \"What do you think of it?\"",
+        "objectID": "deedbe58ea45a0508b93197a39890018"
+      },
+      "previous": {
+        "content": "This fact, which has been very clearly made out, proves conclusively that it was no mere haphazard burglary. The prompt and energetic action of the officers of the law shows the great advantage of the presence on such occasions of a single vigorous and masterful mind. We cannot but think that it supplies an argument to those who would wish to see our detectives more decentralized, and so brought into closer and more effective touch with the cases which it is their duty to investigate.",
+        "objectID": "d0496e13e2e64616473e2b54efd70c25"
+      }
+    },
+    "objectID": "673b825bc07fdadd6721c7aa1495db9e",
+    "order": 72,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Isn't it gorgeous!\" said Holmes, grinning over his coffee-cup. \"What do you think of it?\"",
+    "context": {
+      "next": {
+        "content": "\"I think that we have had a close shave ourselves of being arrested for the crime.\"",
+        "objectID": "ef65518df6c92244301b4164efbe1581"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "673b825bc07fdadd6721c7aa1495db9e"
+      }
+    },
+    "objectID": "deedbe58ea45a0508b93197a39890018",
+    "order": 73,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"I think that we have had a close shave ourselves of being arrested for the crime.\"",
+    "context": {
+      "next": {
+        "content": "\"So do I. I wouldn't answer for our safety now, if he should happen to have another of his attacks of energy.\"",
+        "objectID": "2d5991f3f81ceb6f01432d28f46b21af"
+      },
+      "previous": {
+        "content": "\"Isn't it gorgeous!\" said Holmes, grinning over his coffee-cup. \"What do you think of it?\"",
+        "objectID": "deedbe58ea45a0508b93197a39890018"
+      }
+    },
+    "objectID": "ef65518df6c92244301b4164efbe1581",
+    "order": 74,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"So do I. I wouldn't answer for our safety now, if he should happen to have another of his attacks of energy.\"",
+    "context": {
+      "next": {
+        "content": "At this moment there was a loud ring at the bell, and I could hear Mrs. Hudson, our landlady, raising her voice in a wail of expostulation and dismay.",
+        "objectID": "dec4dcd4176e75115b17e9370ea4c727"
+      },
+      "previous": {
+        "content": "\"I think that we have had a close shave ourselves of being arrested for the crime.\"",
+        "objectID": "ef65518df6c92244301b4164efbe1581"
+      }
+    },
+    "objectID": "2d5991f3f81ceb6f01432d28f46b21af",
+    "order": 75,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "At this moment there was a loud ring at the bell, and I could hear Mrs. Hudson, our landlady, raising her voice in a wail of expostulation and dismay.",
+    "context": {
+      "next": {
+        "content": "\"By heaven, Holmes,\" I said, half rising, \"I believe that they are really after us.\"",
+        "objectID": "29c9bff3e725eed5605ca7753f010457"
+      },
+      "previous": {
+        "content": "\"So do I. I wouldn't answer for our safety now, if he should happen to have another of his attacks of energy.\"",
+        "objectID": "2d5991f3f81ceb6f01432d28f46b21af"
+      }
+    },
+    "objectID": "dec4dcd4176e75115b17e9370ea4c727",
+    "order": 76,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"By heaven, Holmes,\" I said, half rising, \"I believe that they are really after us.\"",
+    "context": {
+      "next": {
+        "content": "\"No, it's not quite so bad as that. It is the unofficial force,—the Baker Street irregulars.\"",
+        "objectID": "b6e90fe78d1b7c0c90a757c0bfbafcb1"
+      },
+      "previous": {
+        "content": "At this moment there was a loud ring at the bell, and I could hear Mrs. Hudson, our landlady, raising her voice in a wail of expostulation and dismay.",
+        "objectID": "dec4dcd4176e75115b17e9370ea4c727"
+      }
+    },
+    "objectID": "29c9bff3e725eed5605ca7753f010457",
+    "order": 77,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"No, it's not quite so bad as that. It is the unofficial force,—the Baker Street irregulars.\"",
+    "context": {
+      "next": {
+        "content": "As he spoke, there came a swift pattering of naked feet upon the stairs, a clatter of high voices, and in rushed a dozen dirty and ragged little street-Arabs. There was some show of discipline among them, despite their tumultuous entry, for they instantly drew up in line and stood facing us with expectant faces.",
+        "objectID": "bd977c44caf23a76e456afcc84fe1f36"
+      },
+      "previous": {
+        "content": "\"By heaven, Holmes,\" I said, half rising, \"I believe that they are really after us.\"",
+        "objectID": "29c9bff3e725eed5605ca7753f010457"
+      }
+    },
+    "objectID": "b6e90fe78d1b7c0c90a757c0bfbafcb1",
+    "order": 78,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "As he spoke, there came a swift pattering of naked feet upon the stairs, a clatter of high voices, and in rushed a dozen dirty and ragged little street-Arabs. There was some show of discipline among them, despite their tumultuous entry, for they instantly drew up in line and stood facing us with expectant faces.",
+    "context": {
+      "next": {
+        "content": "One of their number, taller and older than the others, stood forward with an air of lounging superiority which was very funny in such a disreputable little scarecrow.",
+        "objectID": "725e69d253a817489b4e81694cef3968"
+      },
+      "previous": {
+        "content": "\"No, it's not quite so bad as that. It is the unofficial force,—the Baker Street irregulars.\"",
+        "objectID": "b6e90fe78d1b7c0c90a757c0bfbafcb1"
+      }
+    },
+    "objectID": "bd977c44caf23a76e456afcc84fe1f36",
+    "order": 79,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "One of their number, taller and older than the others, stood forward with an air of lounging superiority which was very funny in such a disreputable little scarecrow.",
+    "context": {
+      "next": {
+        "content": "\"Got your message, sir,\" said he, \"and brought 'em on sharp. Three bob and a tanner for tickets.\"",
+        "objectID": "9a84b4bf8d7d55aba2bf0d6093b2e3f0"
+      },
+      "previous": {
+        "content": "As he spoke, there came a swift pattering of naked feet upon the stairs, a clatter of high voices, and in rushed a dozen dirty and ragged little street-Arabs. There was some show of discipline among them, despite their tumultuous entry, for they instantly drew up in line and stood facing us with expectant faces.",
+        "objectID": "bd977c44caf23a76e456afcc84fe1f36"
+      }
+    },
+    "objectID": "725e69d253a817489b4e81694cef3968",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Got your message, sir,\" said he, \"and brought 'em on sharp. Three bob and a tanner for tickets.\"",
+    "context": {
+      "next": {
+        "content": "\"Here you are,\" said Holmes, producing some silver. \"In future they can report to you, Wiggins, and you to me. I cannot have the house invaded in this way. However, it is just as well that you should all hear the instructions. I want to find the whereabouts of a steam launch called the Aurora, owner Mordecai Smith, black with two red streaks, funnel black with a white band.",
+        "objectID": "2148532404209de79bd1e42f2243f633"
+      },
+      "previous": {
+        "content": "One of their number, taller and older than the others, stood forward with an air of lounging superiority which was very funny in such a disreputable little scarecrow.",
+        "objectID": "725e69d253a817489b4e81694cef3968"
+      }
+    },
+    "objectID": "9a84b4bf8d7d55aba2bf0d6093b2e3f0",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Here you are,\" said Holmes, producing some silver. \"In future they can report to you, Wiggins, and you to me. I cannot have the house invaded in this way. However, it is just as well that you should all hear the instructions. I want to find the whereabouts of a steam launch called the Aurora, owner Mordecai Smith, black with two red streaks, funnel black with a white band.",
+    "context": {
+      "next": {
+        "content": "She is down the river somewhere. I want one boy to be at Mordecai Smith's landing-stage opposite Millbank to say if the boat comes back. You must divide it out among yourselves, and do both banks thoroughly. Let me know the moment you have news. Is that all clear?\"",
+        "objectID": "185f9f4524804183eed5c1e1dd19b8e4"
+      },
+      "previous": {
+        "content": "\"Got your message, sir,\" said he, \"and brought 'em on sharp. Three bob and a tanner for tickets.\"",
+        "objectID": "9a84b4bf8d7d55aba2bf0d6093b2e3f0"
+      }
+    },
+    "objectID": "2148532404209de79bd1e42f2243f633",
+    "order": 82,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "She is down the river somewhere. I want one boy to be at Mordecai Smith's landing-stage opposite Millbank to say if the boat comes back. You must divide it out among yourselves, and do both banks thoroughly. Let me know the moment you have news. Is that all clear?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, guv'nor,\" said Wiggins.",
+        "objectID": "9b27302c8731a170542f37c300e4ee6a"
+      },
+      "previous": {
+        "content": "\"Here you are,\" said Holmes, producing some silver. \"In future they can report to you, Wiggins, and you to me. I cannot have the house invaded in this way. However, it is just as well that you should all hear the instructions. I want to find the whereabouts of a steam launch called the Aurora, owner Mordecai Smith, black with two red streaks, funnel black with a white band.",
+        "objectID": "2148532404209de79bd1e42f2243f633"
+      }
+    },
+    "objectID": "185f9f4524804183eed5c1e1dd19b8e4",
+    "order": 83,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Yes, guv'nor,\" said Wiggins.",
+    "context": {
+      "next": {
+        "content": "\"The old scale of pay, and a guinea to the boy who finds the boat. Here's a day in advance. Now off you go!\" He handed them a shilling each, and away they buzzed down the stairs, and I saw them a moment later streaming down the street.",
+        "objectID": "8bd2bd7dc50c46572b5645f5188aca93"
+      },
+      "previous": {
+        "content": "She is down the river somewhere. I want one boy to be at Mordecai Smith's landing-stage opposite Millbank to say if the boat comes back. You must divide it out among yourselves, and do both banks thoroughly. Let me know the moment you have news. Is that all clear?\"",
+        "objectID": "185f9f4524804183eed5c1e1dd19b8e4"
+      }
+    },
+    "objectID": "9b27302c8731a170542f37c300e4ee6a",
+    "order": 84,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"The old scale of pay, and a guinea to the boy who finds the boat. Here's a day in advance. Now off you go!\" He handed them a shilling each, and away they buzzed down the stairs, and I saw them a moment later streaming down the street.",
+    "context": {
+      "next": {
+        "content": "\"If the launch is above water they will find her,\" said Holmes, as he rose from the table and lit his pipe. \"They can go everywhere, see everything, overhear every one. I expect to hear before evening that they have spotted her. In the mean while, we can do nothing but await results. We cannot pick up the broken trail until we find either the Aurora or Mr.",
+        "objectID": "997abde9a1957ec78e8ffd09491dcdd1"
+      },
+      "previous": {
+        "content": "\"Yes, guv'nor,\" said Wiggins.",
+        "objectID": "9b27302c8731a170542f37c300e4ee6a"
+      }
+    },
+    "objectID": "8bd2bd7dc50c46572b5645f5188aca93",
+    "order": 85,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"If the launch is above water they will find her,\" said Holmes, as he rose from the table and lit his pipe. \"They can go everywhere, see everything, overhear every one. I expect to hear before evening that they have spotted her. In the mean while, we can do nothing but await results. We cannot pick up the broken trail until we find either the Aurora or Mr.",
+    "context": {
+      "next": {
+        "content": "Mordecai Smith.\"",
+        "objectID": "db1278fdc52208d5794d47f6ebb2c6fb"
+      },
+      "previous": {
+        "content": "\"The old scale of pay, and a guinea to the boy who finds the boat. Here's a day in advance. Now off you go!\" He handed them a shilling each, and away they buzzed down the stairs, and I saw them a moment later streaming down the street.",
+        "objectID": "8bd2bd7dc50c46572b5645f5188aca93"
+      }
+    },
+    "objectID": "997abde9a1957ec78e8ffd09491dcdd1",
+    "order": 86,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "Mordecai Smith.\"",
+    "context": {
+      "next": {
+        "content": "\"Toby could eat these scraps, I dare say. Are you going to bed, Holmes?\"",
+        "objectID": "8dd5019a0291c793fd9b0ce2484ae7f9"
+      },
+      "previous": {
+        "content": "\"If the launch is above water they will find her,\" said Holmes, as he rose from the table and lit his pipe. \"They can go everywhere, see everything, overhear every one. I expect to hear before evening that they have spotted her. In the mean while, we can do nothing but await results. We cannot pick up the broken trail until we find either the Aurora or Mr.",
+        "objectID": "997abde9a1957ec78e8ffd09491dcdd1"
+      }
+    },
+    "objectID": "db1278fdc52208d5794d47f6ebb2c6fb",
+    "order": 87,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Toby could eat these scraps, I dare say. Are you going to bed, Holmes?\"",
+    "context": {
+      "next": {
+        "content": "\"No: I am not tired. I have a curious constitution. I never remember feeling tired by work, though idleness exhausts me completely. I am going to smoke and to think over this queer business to which my fair client has introduced us. If ever man had an easy task, this of ours ought to be. Wooden-legged men are not so common, but the other man must, I should think, be absolutely unique.",
+        "objectID": "b672c9ba2e5384e08fefecf24088e015"
+      },
+      "previous": {
+        "content": "Mordecai Smith.\"",
+        "objectID": "db1278fdc52208d5794d47f6ebb2c6fb"
+      }
+    },
+    "objectID": "8dd5019a0291c793fd9b0ce2484ae7f9",
+    "order": 88,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"No: I am not tired. I have a curious constitution. I never remember feeling tired by work, though idleness exhausts me completely. I am going to smoke and to think over this queer business to which my fair client has introduced us. If ever man had an easy task, this of ours ought to be. Wooden-legged men are not so common, but the other man must, I should think, be absolutely unique.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "5bd8445588ea594a6463639b024b553b"
+      },
+      "previous": {
+        "content": "\"Toby could eat these scraps, I dare say. Are you going to bed, Holmes?\"",
+        "objectID": "8dd5019a0291c793fd9b0ce2484ae7f9"
+      }
+    },
+    "objectID": "b672c9ba2e5384e08fefecf24088e015",
+    "order": 89,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"That other man again!\"",
+        "objectID": "9a4a9aae463cacbc9864de53b68e6c5a"
+      },
+      "previous": {
+        "content": "\"No: I am not tired. I have a curious constitution. I never remember feeling tired by work, though idleness exhausts me completely. I am going to smoke and to think over this queer business to which my fair client has introduced us. If ever man had an easy task, this of ours ought to be. Wooden-legged men are not so common, but the other man must, I should think, be absolutely unique.",
+        "objectID": "b672c9ba2e5384e08fefecf24088e015"
+      }
+    },
+    "objectID": "5bd8445588ea594a6463639b024b553b",
+    "order": 90,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"That other man again!\"",
+    "context": {
+      "next": {
+        "content": "\"I have no wish to make a mystery of him,—to you, anyway. But you must have formed your own opinion. Now, do consider the data. Diminutive footmarks, toes never fettered by boots, naked feet, stone-headed wooden mace, great agility, small poisoned darts. What do you make of all this?\"",
+        "objectID": "b1645d603f86b29e39a86dec182db759"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "5bd8445588ea594a6463639b024b553b"
+      }
+    },
+    "objectID": "9a4a9aae463cacbc9864de53b68e6c5a",
+    "order": 91,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"I have no wish to make a mystery of him,—to you, anyway. But you must have formed your own opinion. Now, do consider the data. Diminutive footmarks, toes never fettered by boots, naked feet, stone-headed wooden mace, great agility, small poisoned darts. What do you make of all this?\"",
+    "context": {
+      "next": {
+        "content": "\"A savage!\" I exclaimed. \"Perhaps one of those Indians who were the associates of Jonathan Small.\"",
+        "objectID": "8d6c7b4cdcfe8dc762726e52032c3109"
+      },
+      "previous": {
+        "content": "\"That other man again!\"",
+        "objectID": "9a4a9aae463cacbc9864de53b68e6c5a"
+      }
+    },
+    "objectID": "b1645d603f86b29e39a86dec182db759",
+    "order": 92,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"A savage!\" I exclaimed. \"Perhaps one of those Indians who were the associates of Jonathan Small.\"",
+    "context": {
+      "next": {
+        "content": "\"Hardly that,\" said he. \"When first I saw signs of strange weapons I was inclined to think so; but the remarkable character of the footmarks caused me to reconsider my views. Some of the inhabitants of the Indian Peninsula are small men, but none could have left such marks as that. The Hindoo proper has long and thin feet.",
+        "objectID": "82703f2f4a3ae22df585453bc9f89e49"
+      },
+      "previous": {
+        "content": "\"I have no wish to make a mystery of him,—to you, anyway. But you must have formed your own opinion. Now, do consider the data. Diminutive footmarks, toes never fettered by boots, naked feet, stone-headed wooden mace, great agility, small poisoned darts. What do you make of all this?\"",
+        "objectID": "b1645d603f86b29e39a86dec182db759"
+      }
+    },
+    "objectID": "8d6c7b4cdcfe8dc762726e52032c3109",
+    "order": 93,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Hardly that,\" said he. \"When first I saw signs of strange weapons I was inclined to think so; but the remarkable character of the footmarks caused me to reconsider my views. Some of the inhabitants of the Indian Peninsula are small men, but none could have left such marks as that. The Hindoo proper has long and thin feet.",
+    "context": {
+      "next": {
+        "content": "The sandal-wearing Mohammedan has the great toe well separated from the others, because the thong is commonly passed between. These little darts, too, could only be shot in one way. They are from a blow-pipe. Now, then, where are we to find our savage?\"",
+        "objectID": "c6ac864314125e4141e5989f2b6f6744"
+      },
+      "previous": {
+        "content": "\"A savage!\" I exclaimed. \"Perhaps one of those Indians who were the associates of Jonathan Small.\"",
+        "objectID": "8d6c7b4cdcfe8dc762726e52032c3109"
+      }
+    },
+    "objectID": "82703f2f4a3ae22df585453bc9f89e49",
+    "order": 94,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "The sandal-wearing Mohammedan has the great toe well separated from the others, because the thong is commonly passed between. These little darts, too, could only be shot in one way. They are from a blow-pipe. Now, then, where are we to find our savage?\"",
+    "context": {
+      "next": {
+        "content": "\"South American,\" I hazarded.",
+        "objectID": "d5a491a65733d81bafa74185d02e9119"
+      },
+      "previous": {
+        "content": "\"Hardly that,\" said he. \"When first I saw signs of strange weapons I was inclined to think so; but the remarkable character of the footmarks caused me to reconsider my views. Some of the inhabitants of the Indian Peninsula are small men, but none could have left such marks as that. The Hindoo proper has long and thin feet.",
+        "objectID": "82703f2f4a3ae22df585453bc9f89e49"
+      }
+    },
+    "objectID": "c6ac864314125e4141e5989f2b6f6744",
+    "order": 95,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"South American,\" I hazarded.",
+    "context": {
+      "next": {
+        "content": "He stretched his hand up, and took down a bulky volume from the shelf. \"This is the first volume of a gazetteer which is now being published. It may be looked upon as the very latest authority. What have we here? 'Andaman Islands, situated 340 miles to the north of Sumatra, in the Bay of Bengal.' Hum! hum! What's all this? Moist climate, coral reefs, sharks, Port Blair, convict-barracks, Rutland Island, cottonwoods—Ah, here we are.",
+        "objectID": "9ffbf3d17c6ab3a3cc5fa5f8b10d8d2c"
+      },
+      "previous": {
+        "content": "The sandal-wearing Mohammedan has the great toe well separated from the others, because the thong is commonly passed between. These little darts, too, could only be shot in one way. They are from a blow-pipe. Now, then, where are we to find our savage?\"",
+        "objectID": "c6ac864314125e4141e5989f2b6f6744"
+      }
+    },
+    "objectID": "d5a491a65733d81bafa74185d02e9119",
+    "order": 96,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "He stretched his hand up, and took down a bulky volume from the shelf. \"This is the first volume of a gazetteer which is now being published. It may be looked upon as the very latest authority. What have we here? 'Andaman Islands, situated 340 miles to the north of Sumatra, in the Bay of Bengal.' Hum! hum! What's all this? Moist climate, coral reefs, sharks, Port Blair, convict-barracks, Rutland Island, cottonwoods—Ah, here we are.",
+    "context": {
+      "next": {
+        "content": "'The aborigines of the Andaman Islands may perhaps claim the distinction of being the smallest race upon this earth, though some anthropologists prefer the Bushmen of Africa, the Digger Indians of America, and the Terra del Fuegians. The average height is rather below four feet, although many full-grown adults may be found who are very much smaller than this.",
+        "objectID": "c37789893857a154f13971db3ef8d33b"
+      },
+      "previous": {
+        "content": "\"South American,\" I hazarded.",
+        "objectID": "d5a491a65733d81bafa74185d02e9119"
+      }
+    },
+    "objectID": "9ffbf3d17c6ab3a3cc5fa5f8b10d8d2c",
+    "order": 97,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "'The aborigines of the Andaman Islands may perhaps claim the distinction of being the smallest race upon this earth, though some anthropologists prefer the Bushmen of Africa, the Digger Indians of America, and the Terra del Fuegians. The average height is rather below four feet, although many full-grown adults may be found who are very much smaller than this.",
+    "context": {
+      "next": {
+        "content": "They are a fierce, morose, and intractable people, though capable of forming most devoted friendships when their confidence has once been gained.' Mark that, Watson. Now, then, listen to this. 'They are naturally hideous, having large, misshapen heads, small, fierce eyes, and distorted features. Their feet and hands, however, are remarkably small.",
+        "objectID": "6924c38799b49964a03e621c6259fb7e"
+      },
+      "previous": {
+        "content": "He stretched his hand up, and took down a bulky volume from the shelf. \"This is the first volume of a gazetteer which is now being published. It may be looked upon as the very latest authority. What have we here? 'Andaman Islands, situated 340 miles to the north of Sumatra, in the Bay of Bengal.' Hum! hum! What's all this? Moist climate, coral reefs, sharks, Port Blair, convict-barracks, Rutland Island, cottonwoods—Ah, here we are.",
+        "objectID": "9ffbf3d17c6ab3a3cc5fa5f8b10d8d2c"
+      }
+    },
+    "objectID": "c37789893857a154f13971db3ef8d33b",
+    "order": 98,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "They are a fierce, morose, and intractable people, though capable of forming most devoted friendships when their confidence has once been gained.' Mark that, Watson. Now, then, listen to this. 'They are naturally hideous, having large, misshapen heads, small, fierce eyes, and distorted features. Their feet and hands, however, are remarkably small.",
+    "context": {
+      "next": {
+        "content": "So intractable and fierce are they that all the efforts of the British official have failed to win them over in any degree. They have always been a terror to shipwrecked crews, braining the survivors with their stone-headed clubs, or shooting them with their poisoned arrows. These massacres are invariably concluded by a cannibal feast.",
+        "objectID": "e7597bc7606632a85c4fc5b6eadab739"
+      },
+      "previous": {
+        "content": "'The aborigines of the Andaman Islands may perhaps claim the distinction of being the smallest race upon this earth, though some anthropologists prefer the Bushmen of Africa, the Digger Indians of America, and the Terra del Fuegians. The average height is rather below four feet, although many full-grown adults may be found who are very much smaller than this.",
+        "objectID": "c37789893857a154f13971db3ef8d33b"
+      }
+    },
+    "objectID": "6924c38799b49964a03e621c6259fb7e",
+    "order": 99,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "So intractable and fierce are they that all the efforts of the British official have failed to win them over in any degree. They have always been a terror to shipwrecked crews, braining the survivors with their stone-headed clubs, or shooting them with their poisoned arrows. These massacres are invariably concluded by a cannibal feast.",
+    "context": {
+      "next": {
+        "content": "' Nice, amiable people, Watson! If this fellow had been left to his own unaided devices this affair might have taken an even more ghastly turn. I fancy that, even as it is, Jonathan Small would give a good deal not to have employed him.\"",
+        "objectID": "5027885ba6baf1ed2e4f98a785ad09ef"
+      },
+      "previous": {
+        "content": "They are a fierce, morose, and intractable people, though capable of forming most devoted friendships when their confidence has once been gained.' Mark that, Watson. Now, then, listen to this. 'They are naturally hideous, having large, misshapen heads, small, fierce eyes, and distorted features. Their feet and hands, however, are remarkably small.",
+        "objectID": "6924c38799b49964a03e621c6259fb7e"
+      }
+    },
+    "objectID": "e7597bc7606632a85c4fc5b6eadab739",
+    "order": 100,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "' Nice, amiable people, Watson! If this fellow had been left to his own unaided devices this affair might have taken an even more ghastly turn. I fancy that, even as it is, Jonathan Small would give a good deal not to have employed him.\"",
+    "context": {
+      "next": {
+        "content": "\"But how came he to have so singular a companion?\"",
+        "objectID": "abd9e702b0569499a09330bc79ce9f47"
+      },
+      "previous": {
+        "content": "So intractable and fierce are they that all the efforts of the British official have failed to win them over in any degree. They have always been a terror to shipwrecked crews, braining the survivors with their stone-headed clubs, or shooting them with their poisoned arrows. These massacres are invariably concluded by a cannibal feast.",
+        "objectID": "e7597bc7606632a85c4fc5b6eadab739"
+      }
+    },
+    "objectID": "5027885ba6baf1ed2e4f98a785ad09ef",
+    "order": 101,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"But how came he to have so singular a companion?\"",
+    "context": {
+      "next": {
+        "content": "\"Ah, that is more than I can tell. Since, however, we had already determined that Small had come from the Andamans, it is not so very wonderful that this islander should be with him. No doubt we shall know all about it in time. Look here, Watson; you look regularly done. Lie down there on the sofa, and see if I can put you to sleep.",
+        "objectID": "542c9d6398270183d5f785048217b00d"
+      },
+      "previous": {
+        "content": "' Nice, amiable people, Watson! If this fellow had been left to his own unaided devices this affair might have taken an even more ghastly turn. I fancy that, even as it is, Jonathan Small would give a good deal not to have employed him.\"",
+        "objectID": "5027885ba6baf1ed2e4f98a785ad09ef"
+      }
+    },
+    "objectID": "abd9e702b0569499a09330bc79ce9f47",
+    "order": 102,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"Ah, that is more than I can tell. Since, however, we had already determined that Small had come from the Andamans, it is not so very wonderful that this islander should be with him. No doubt we shall know all about it in time. Look here, Watson; you look regularly done. Lie down there on the sofa, and see if I can put you to sleep.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "824ef983b8673ad7911a343ee5abba55"
+      },
+      "previous": {
+        "content": "\"But how came he to have so singular a companion?\"",
+        "objectID": "abd9e702b0569499a09330bc79ce9f47"
+      }
+    },
+    "objectID": "542c9d6398270183d5f785048217b00d",
+    "order": 103,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "He took up his violin from the corner, and as I stretched myself out he began to play some low, dreamy, melodious air,—his own, no doubt, for he had a remarkable gift for improvisation. I have a vague remembrance of his gaunt limbs, his earnest face, and the rise and fall of his bow. Then I seemed to be floated peacefully away upon a soft sea of sound, until I found myself in dream-land, with the sweet face of Mary Morstan looking down upon me.",
+        "objectID": "fad26e3711e1f26307774078d953fd5e"
+      },
+      "previous": {
+        "content": "\"Ah, that is more than I can tell. Since, however, we had already determined that Small had come from the Andamans, it is not so very wonderful that this islander should be with him. No doubt we shall know all about it in time. Look here, Watson; you look regularly done. Lie down there on the sofa, and see if I can put you to sleep.",
+        "objectID": "542c9d6398270183d5f785048217b00d"
+      }
+    },
+    "objectID": "824ef983b8673ad7911a343ee5abba55",
+    "order": 104,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VIII. The Baker Street Irregulars",
+    "chapterOrder": 8,
+    "content": "He took up his violin from the corner, and as I stretched myself out he began to play some low, dreamy, melodious air,—his own, no doubt, for he had a remarkable gift for improvisation. I have a vague remembrance of his gaunt limbs, his earnest face, and the rise and fall of his bow. Then I seemed to be floated peacefully away upon a soft sea of sound, until I found myself in dream-land, with the sweet face of Mary Morstan looking down upon me.",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "\"",
+        "objectID": "824ef983b8673ad7911a343ee5abba55"
+      }
+    },
+    "objectID": "fad26e3711e1f26307774078d953fd5e",
+    "order": 105,
+    "tagName": "P"
+  }
+]

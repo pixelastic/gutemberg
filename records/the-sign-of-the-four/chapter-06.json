@@ -1,0 +1,2054 @@
+[
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Now, Watson,\" said Holmes, rubbing his hands, \"we have half an hour to ourselves. Let us make good use of it. My case is, as I have told you, almost complete; but we must not err on the side of over-confidence. Simple as the case seems now, there may be something deeper underlying it.\"",
+    "context": {
+      "next": {
+        "content": "\"Simple!\" I ejaculated.",
+        "objectID": "aba7e1ab50bfe7f08fd795ec2e8cdaf7"
+      },
+      "previous": null
+    },
+    "objectID": "e8fedc89cfd58d7f0c15e2da066ce2a1",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Simple!\" I ejaculated.",
+    "context": {
+      "next": {
+        "content": "\"Surely,\" said he, with something of the air of a clinical professor expounding to his class. \"Just sit in the corner there, that your footprints may not complicate matters. Now to work! In the first place, how did these folk come, and how did they go? The door has not been opened since last night. How of the window?\" He carried the lamp across to it, muttering his observations aloud the while, but addressing them to himself rather than to me.",
+        "objectID": "e1a4d9030fa8ed782781286d64e7aed0"
+      },
+      "previous": {
+        "content": "\"Now, Watson,\" said Holmes, rubbing his hands, \"we have half an hour to ourselves. Let us make good use of it. My case is, as I have told you, almost complete; but we must not err on the side of over-confidence. Simple as the case seems now, there may be something deeper underlying it.\"",
+        "objectID": "e8fedc89cfd58d7f0c15e2da066ce2a1"
+      }
+    },
+    "objectID": "aba7e1ab50bfe7f08fd795ec2e8cdaf7",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Surely,\" said he, with something of the air of a clinical professor expounding to his class. \"Just sit in the corner there, that your footprints may not complicate matters. Now to work! In the first place, how did these folk come, and how did they go? The door has not been opened since last night. How of the window?\" He carried the lamp across to it, muttering his observations aloud the while, but addressing them to himself rather than to me.",
+    "context": {
+      "next": {
+        "content": "\"Window is snibbed on the inner side. Framework is solid. No hinges at the side. Let us open it. No water-pipe near. Roof quite out of reach. Yet a man has mounted by the window. It rained a little last night. Here is the print of a foot in mould upon the sill. And here is a circular muddy mark, and here again upon the floor, and here again by the table.",
+        "objectID": "47ee17506d3f3916cda192c368b83255"
+      },
+      "previous": {
+        "content": "\"Simple!\" I ejaculated.",
+        "objectID": "aba7e1ab50bfe7f08fd795ec2e8cdaf7"
+      }
+    },
+    "objectID": "e1a4d9030fa8ed782781286d64e7aed0",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Window is snibbed on the inner side. Framework is solid. No hinges at the side. Let us open it. No water-pipe near. Roof quite out of reach. Yet a man has mounted by the window. It rained a little last night. Here is the print of a foot in mould upon the sill. And here is a circular muddy mark, and here again upon the floor, and here again by the table.",
+    "context": {
+      "next": {
+        "content": "See here, Watson! This is really a very pretty demonstration.\"",
+        "objectID": "268a2c93ba3229aeaa1551835c53ce5d"
+      },
+      "previous": {
+        "content": "\"Surely,\" said he, with something of the air of a clinical professor expounding to his class. \"Just sit in the corner there, that your footprints may not complicate matters. Now to work! In the first place, how did these folk come, and how did they go? The door has not been opened since last night. How of the window?\" He carried the lamp across to it, muttering his observations aloud the while, but addressing them to himself rather than to me.",
+        "objectID": "e1a4d9030fa8ed782781286d64e7aed0"
+      }
+    },
+    "objectID": "47ee17506d3f3916cda192c368b83255",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "See here, Watson! This is really a very pretty demonstration.\"",
+    "context": {
+      "next": {
+        "content": "I looked at the round, well-defined muddy discs. \"This is not a footmark,\" said I.",
+        "objectID": "64cb658e588eb43d3094271b10be0bed"
+      },
+      "previous": {
+        "content": "\"Window is snibbed on the inner side. Framework is solid. No hinges at the side. Let us open it. No water-pipe near. Roof quite out of reach. Yet a man has mounted by the window. It rained a little last night. Here is the print of a foot in mould upon the sill. And here is a circular muddy mark, and here again upon the floor, and here again by the table.",
+        "objectID": "47ee17506d3f3916cda192c368b83255"
+      }
+    },
+    "objectID": "268a2c93ba3229aeaa1551835c53ce5d",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "I looked at the round, well-defined muddy discs. \"This is not a footmark,\" said I.",
+    "context": {
+      "next": {
+        "content": "\"It is something much more valuable to us. It is the impression of a wooden stump. You see here on the sill is the boot-mark, a heavy boot with the broad metal heel, and beside it is the mark of the timber-toe.\"",
+        "objectID": "a2dba8b6d9f69e50fde642312d04cf15"
+      },
+      "previous": {
+        "content": "See here, Watson! This is really a very pretty demonstration.\"",
+        "objectID": "268a2c93ba3229aeaa1551835c53ce5d"
+      }
+    },
+    "objectID": "64cb658e588eb43d3094271b10be0bed",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"It is something much more valuable to us. It is the impression of a wooden stump. You see here on the sill is the boot-mark, a heavy boot with the broad metal heel, and beside it is the mark of the timber-toe.\"",
+    "context": {
+      "next": {
+        "content": "\"It is the wooden-legged man.\"",
+        "objectID": "d91d5a940f82a55ab1abf0a4c8264db2"
+      },
+      "previous": {
+        "content": "I looked at the round, well-defined muddy discs. \"This is not a footmark,\" said I.",
+        "objectID": "64cb658e588eb43d3094271b10be0bed"
+      }
+    },
+    "objectID": "a2dba8b6d9f69e50fde642312d04cf15",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"It is the wooden-legged man.\"",
+    "context": {
+      "next": {
+        "content": "\"Quite so. But there has been some one else,—a very able and efficient ally. Could you scale that wall, doctor?\"",
+        "objectID": "492081d6a9f2248c44b9d86883275262"
+      },
+      "previous": {
+        "content": "\"It is something much more valuable to us. It is the impression of a wooden stump. You see here on the sill is the boot-mark, a heavy boot with the broad metal heel, and beside it is the mark of the timber-toe.\"",
+        "objectID": "a2dba8b6d9f69e50fde642312d04cf15"
+      }
+    },
+    "objectID": "d91d5a940f82a55ab1abf0a4c8264db2",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Quite so. But there has been some one else,—a very able and efficient ally. Could you scale that wall, doctor?\"",
+    "context": {
+      "next": {
+        "content": "I looked out of the open window. The moon still shone brightly on that angle of the house. We were a good sixty feet from the ground, and, look where I would, I could see no foothold, nor as much as a crevice in the brick-work.",
+        "objectID": "74d14f9dd01508a2a1c6ba3f5be08f0d"
+      },
+      "previous": {
+        "content": "\"It is the wooden-legged man.\"",
+        "objectID": "d91d5a940f82a55ab1abf0a4c8264db2"
+      }
+    },
+    "objectID": "492081d6a9f2248c44b9d86883275262",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "I looked out of the open window. The moon still shone brightly on that angle of the house. We were a good sixty feet from the ground, and, look where I would, I could see no foothold, nor as much as a crevice in the brick-work.",
+    "context": {
+      "next": {
+        "content": "\"It is absolutely impossible,\" I answered.",
+        "objectID": "fa57e235d56fa4e80df8f0e6473d8533"
+      },
+      "previous": {
+        "content": "\"Quite so. But there has been some one else,—a very able and efficient ally. Could you scale that wall, doctor?\"",
+        "objectID": "492081d6a9f2248c44b9d86883275262"
+      }
+    },
+    "objectID": "74d14f9dd01508a2a1c6ba3f5be08f0d",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"It is absolutely impossible,\" I answered.",
+    "context": {
+      "next": {
+        "content": "\"Without aid it is so. But suppose you had a friend up here who lowered you this good stout rope which I see in the corner, securing one end of it to this great hook in the wall. Then, I think, if you were an active man, You might swarm up, wooden leg and all. You would depart, of course, in the same fashion, and your ally would draw up the rope, untie it from the hook, shut the window, snib it on the inside, and get away in the way that he originally came.",
+        "objectID": "85b68f544dd23f62d65a3cab06beef38"
+      },
+      "previous": {
+        "content": "I looked out of the open window. The moon still shone brightly on that angle of the house. We were a good sixty feet from the ground, and, look where I would, I could see no foothold, nor as much as a crevice in the brick-work.",
+        "objectID": "74d14f9dd01508a2a1c6ba3f5be08f0d"
+      }
+    },
+    "objectID": "fa57e235d56fa4e80df8f0e6473d8533",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Without aid it is so. But suppose you had a friend up here who lowered you this good stout rope which I see in the corner, securing one end of it to this great hook in the wall. Then, I think, if you were an active man, You might swarm up, wooden leg and all. You would depart, of course, in the same fashion, and your ally would draw up the rope, untie it from the hook, shut the window, snib it on the inside, and get away in the way that he originally came.",
+    "context": {
+      "next": {
+        "content": "As a minor point it may be noted,\" he continued, fingering the rope, \"that our wooden-legged friend, though a fair climber, was not a professional sailor. His hands were far from horny. My lens discloses more than one blood-mark, especially towards the end of the rope, from which I gather that he slipped down with such velocity that he took the skin off his hand.",
+        "objectID": "6dc48df1841545215087445eb7db26a1"
+      },
+      "previous": {
+        "content": "\"It is absolutely impossible,\" I answered.",
+        "objectID": "fa57e235d56fa4e80df8f0e6473d8533"
+      }
+    },
+    "objectID": "85b68f544dd23f62d65a3cab06beef38",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "As a minor point it may be noted,\" he continued, fingering the rope, \"that our wooden-legged friend, though a fair climber, was not a professional sailor. His hands were far from horny. My lens discloses more than one blood-mark, especially towards the end of the rope, from which I gather that he slipped down with such velocity that he took the skin off his hand.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "aed26e75f8a9d2b6ae6224374a9427ce"
+      },
+      "previous": {
+        "content": "\"Without aid it is so. But suppose you had a friend up here who lowered you this good stout rope which I see in the corner, securing one end of it to this great hook in the wall. Then, I think, if you were an active man, You might swarm up, wooden leg and all. You would depart, of course, in the same fashion, and your ally would draw up the rope, untie it from the hook, shut the window, snib it on the inside, and get away in the way that he originally came.",
+        "objectID": "85b68f544dd23f62d65a3cab06beef38"
+      }
+    },
+    "objectID": "6dc48df1841545215087445eb7db26a1",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"This is all very well,\" said I, \"but the thing becomes more unintelligible than ever. How about this mysterious ally? How came he into the room?\"",
+        "objectID": "611f560c4ba71dfb41f595179ed33847"
+      },
+      "previous": {
+        "content": "As a minor point it may be noted,\" he continued, fingering the rope, \"that our wooden-legged friend, though a fair climber, was not a professional sailor. His hands were far from horny. My lens discloses more than one blood-mark, especially towards the end of the rope, from which I gather that he slipped down with such velocity that he took the skin off his hand.",
+        "objectID": "6dc48df1841545215087445eb7db26a1"
+      }
+    },
+    "objectID": "aed26e75f8a9d2b6ae6224374a9427ce",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"This is all very well,\" said I, \"but the thing becomes more unintelligible than ever. How about this mysterious ally? How came he into the room?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, the ally!\" repeated Holmes, pensively. \"There are features of interest about this ally. He lifts the case from the regions of the commonplace. I fancy that this ally breaks fresh ground in the annals of crime in this country,—though parallel cases suggest themselves from India, and, if my memory serves me, from Senegambia.",
+        "objectID": "bcd9c5c678a357f57df7cdc8a03ade1d"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "aed26e75f8a9d2b6ae6224374a9427ce"
+      }
+    },
+    "objectID": "611f560c4ba71dfb41f595179ed33847",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Yes, the ally!\" repeated Holmes, pensively. \"There are features of interest about this ally. He lifts the case from the regions of the commonplace. I fancy that this ally breaks fresh ground in the annals of crime in this country,—though parallel cases suggest themselves from India, and, if my memory serves me, from Senegambia.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "5049a493b402088f194accd3f83e96cd"
+      },
+      "previous": {
+        "content": "\"This is all very well,\" said I, \"but the thing becomes more unintelligible than ever. How about this mysterious ally? How came he into the room?\"",
+        "objectID": "611f560c4ba71dfb41f595179ed33847"
+      }
+    },
+    "objectID": "bcd9c5c678a357f57df7cdc8a03ade1d",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"How came he, then?\" I reiterated. \"The door is locked, the window is inaccessible. Was it through the chimney?\"",
+        "objectID": "0ee3e9a64113965d9e4b4ebfce2844b3"
+      },
+      "previous": {
+        "content": "\"Yes, the ally!\" repeated Holmes, pensively. \"There are features of interest about this ally. He lifts the case from the regions of the commonplace. I fancy that this ally breaks fresh ground in the annals of crime in this country,—though parallel cases suggest themselves from India, and, if my memory serves me, from Senegambia.",
+        "objectID": "bcd9c5c678a357f57df7cdc8a03ade1d"
+      }
+    },
+    "objectID": "5049a493b402088f194accd3f83e96cd",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"How came he, then?\" I reiterated. \"The door is locked, the window is inaccessible. Was it through the chimney?\"",
+    "context": {
+      "next": {
+        "content": "\"The grate is much too small,\" he answered. \"I had already considered that possibility.\"",
+        "objectID": "b19ad073460c6711514a6323d6d2439b"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "5049a493b402088f194accd3f83e96cd"
+      }
+    },
+    "objectID": "0ee3e9a64113965d9e4b4ebfce2844b3",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"The grate is much too small,\" he answered. \"I had already considered that possibility.\"",
+    "context": {
+      "next": {
+        "content": "\"How then?\" I persisted.",
+        "objectID": "3173c116bfcb8826d6e2be09eb187afa"
+      },
+      "previous": {
+        "content": "\"How came he, then?\" I reiterated. \"The door is locked, the window is inaccessible. Was it through the chimney?\"",
+        "objectID": "0ee3e9a64113965d9e4b4ebfce2844b3"
+      }
+    },
+    "objectID": "b19ad073460c6711514a6323d6d2439b",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"How then?\" I persisted.",
+    "context": {
+      "next": {
+        "content": "\"You will not apply my precept,\" he said, shaking his head. \"How often have I said to you that when you have eliminated the impossible whatever remains, HOWEVER IMPROBABLE, must be the truth? We know that he did not come through the door, the window, or the chimney. We also know that he could not have been concealed in the room, as there is no concealment possible.",
+        "objectID": "28c08e23bae1b62ac42f5714efbe1590"
+      },
+      "previous": {
+        "content": "\"The grate is much too small,\" he answered. \"I had already considered that possibility.\"",
+        "objectID": "b19ad073460c6711514a6323d6d2439b"
+      }
+    },
+    "objectID": "3173c116bfcb8826d6e2be09eb187afa",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"You will not apply my precept,\" he said, shaking his head. \"How often have I said to you that when you have eliminated the impossible whatever remains, HOWEVER IMPROBABLE, must be the truth? We know that he did not come through the door, the window, or the chimney. We also know that he could not have been concealed in the room, as there is no concealment possible.",
+    "context": {
+      "next": {
+        "content": "Whence, then, did he come?\"",
+        "objectID": "10efdc7c3d1c8b20284b6449e4023c41"
+      },
+      "previous": {
+        "content": "\"How then?\" I persisted.",
+        "objectID": "3173c116bfcb8826d6e2be09eb187afa"
+      }
+    },
+    "objectID": "28c08e23bae1b62ac42f5714efbe1590",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "Whence, then, did he come?\"",
+    "context": {
+      "next": {
+        "content": "\"He came through the hole in the roof,\" I cried.",
+        "objectID": "6d302d5f3246205f66594a56d77fc5a5"
+      },
+      "previous": {
+        "content": "\"You will not apply my precept,\" he said, shaking his head. \"How often have I said to you that when you have eliminated the impossible whatever remains, HOWEVER IMPROBABLE, must be the truth? We know that he did not come through the door, the window, or the chimney. We also know that he could not have been concealed in the room, as there is no concealment possible.",
+        "objectID": "28c08e23bae1b62ac42f5714efbe1590"
+      }
+    },
+    "objectID": "10efdc7c3d1c8b20284b6449e4023c41",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"He came through the hole in the roof,\" I cried.",
+    "context": {
+      "next": {
+        "content": "\"Of course he did. He must have done so. If you will have the kindness to hold the lamp for me, we shall now extend our researches to the room above,—the secret room in which the treasure was found.\"",
+        "objectID": "75ce878af99dfa3b7de8323d946bac0b"
+      },
+      "previous": {
+        "content": "Whence, then, did he come?\"",
+        "objectID": "10efdc7c3d1c8b20284b6449e4023c41"
+      }
+    },
+    "objectID": "6d302d5f3246205f66594a56d77fc5a5",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Of course he did. He must have done so. If you will have the kindness to hold the lamp for me, we shall now extend our researches to the room above,—the secret room in which the treasure was found.\"",
+    "context": {
+      "next": {
+        "content": "He mounted the steps, and, seizing a rafter with either hand, he swung himself up into the garret. Then, lying on his face, he reached down for the lamp and held it while I followed him.",
+        "objectID": "ff29035641eb883a6ee96dbf18457e66"
+      },
+      "previous": {
+        "content": "\"He came through the hole in the roof,\" I cried.",
+        "objectID": "6d302d5f3246205f66594a56d77fc5a5"
+      }
+    },
+    "objectID": "75ce878af99dfa3b7de8323d946bac0b",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "He mounted the steps, and, seizing a rafter with either hand, he swung himself up into the garret. Then, lying on his face, he reached down for the lamp and held it while I followed him.",
+    "context": {
+      "next": {
+        "content": "The chamber in which we found ourselves was about ten feet one way and six the other. The floor was formed by the rafters, with thin lath-and-plaster between, so that in walking one had to step from beam to beam. The roof ran up to an apex, and was evidently the inner shell of the true roof of the house.",
+        "objectID": "b1e8a8edd643e3ba6c75637b234f4271"
+      },
+      "previous": {
+        "content": "\"Of course he did. He must have done so. If you will have the kindness to hold the lamp for me, we shall now extend our researches to the room above,—the secret room in which the treasure was found.\"",
+        "objectID": "75ce878af99dfa3b7de8323d946bac0b"
+      }
+    },
+    "objectID": "ff29035641eb883a6ee96dbf18457e66",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "The chamber in which we found ourselves was about ten feet one way and six the other. The floor was formed by the rafters, with thin lath-and-plaster between, so that in walking one had to step from beam to beam. The roof ran up to an apex, and was evidently the inner shell of the true roof of the house.",
+    "context": {
+      "next": {
+        "content": "There was no furniture of any sort, and the accumulated dust of years lay thick upon the floor.",
+        "objectID": "67d2e9a7534adbde9319b26ff4bbe963"
+      },
+      "previous": {
+        "content": "He mounted the steps, and, seizing a rafter with either hand, he swung himself up into the garret. Then, lying on his face, he reached down for the lamp and held it while I followed him.",
+        "objectID": "ff29035641eb883a6ee96dbf18457e66"
+      }
+    },
+    "objectID": "b1e8a8edd643e3ba6c75637b234f4271",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "There was no furniture of any sort, and the accumulated dust of years lay thick upon the floor.",
+    "context": {
+      "next": {
+        "content": "\"Here you are, you see,\" said Sherlock Holmes, putting his hand against the sloping wall. \"This is a trap-door which leads out on to the roof. I can press it back, and here is the roof itself, sloping at a gentle angle. This, then, is the way by which Number One entered. Let us see if we can find any other traces of his individuality.",
+        "objectID": "ceea71bdebc2653027772dadbd2dd01d"
+      },
+      "previous": {
+        "content": "The chamber in which we found ourselves was about ten feet one way and six the other. The floor was formed by the rafters, with thin lath-and-plaster between, so that in walking one had to step from beam to beam. The roof ran up to an apex, and was evidently the inner shell of the true roof of the house.",
+        "objectID": "b1e8a8edd643e3ba6c75637b234f4271"
+      }
+    },
+    "objectID": "67d2e9a7534adbde9319b26ff4bbe963",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Here you are, you see,\" said Sherlock Holmes, putting his hand against the sloping wall. \"This is a trap-door which leads out on to the roof. I can press it back, and here is the roof itself, sloping at a gentle angle. This, then, is the way by which Number One entered. Let us see if we can find any other traces of his individuality.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "8ac9527f2ab61a11031e751275b3e7b5"
+      },
+      "previous": {
+        "content": "There was no furniture of any sort, and the accumulated dust of years lay thick upon the floor.",
+        "objectID": "67d2e9a7534adbde9319b26ff4bbe963"
+      }
+    },
+    "objectID": "ceea71bdebc2653027772dadbd2dd01d",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "He held down the lamp to the floor, and as he did so I saw for the second time that night a startled, surprised look come over his face. For myself, as I followed his gaze my skin was cold under my clothes. The floor was covered thickly with the prints of a naked foot,—clear, well defined, perfectly formed, but scarce half the size of those of an ordinary man.",
+        "objectID": "b2134eba3c5c5bb9426f3740661c2ffa"
+      },
+      "previous": {
+        "content": "\"Here you are, you see,\" said Sherlock Holmes, putting his hand against the sloping wall. \"This is a trap-door which leads out on to the roof. I can press it back, and here is the roof itself, sloping at a gentle angle. This, then, is the way by which Number One entered. Let us see if we can find any other traces of his individuality.",
+        "objectID": "ceea71bdebc2653027772dadbd2dd01d"
+      }
+    },
+    "objectID": "8ac9527f2ab61a11031e751275b3e7b5",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "He held down the lamp to the floor, and as he did so I saw for the second time that night a startled, surprised look come over his face. For myself, as I followed his gaze my skin was cold under my clothes. The floor was covered thickly with the prints of a naked foot,—clear, well defined, perfectly formed, but scarce half the size of those of an ordinary man.",
+    "context": {
+      "next": {
+        "content": "\"Holmes,\" I said, in a whisper, \"a child has done the horrid thing.\"",
+        "objectID": "07cee9786289b6d7b4ae1af83d855c7c"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "8ac9527f2ab61a11031e751275b3e7b5"
+      }
+    },
+    "objectID": "b2134eba3c5c5bb9426f3740661c2ffa",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Holmes,\" I said, in a whisper, \"a child has done the horrid thing.\"",
+    "context": {
+      "next": {
+        "content": "He had recovered his self-possession in an instant. \"I was staggered for the moment,\" he said, \"but the thing is quite natural. My memory failed me, or I should have been able to foretell it. There is nothing more to be learned here. Let us go down.\"",
+        "objectID": "dd6143f98a6fe765fc36384094d28a70"
+      },
+      "previous": {
+        "content": "He held down the lamp to the floor, and as he did so I saw for the second time that night a startled, surprised look come over his face. For myself, as I followed his gaze my skin was cold under my clothes. The floor was covered thickly with the prints of a naked foot,—clear, well defined, perfectly formed, but scarce half the size of those of an ordinary man.",
+        "objectID": "b2134eba3c5c5bb9426f3740661c2ffa"
+      }
+    },
+    "objectID": "07cee9786289b6d7b4ae1af83d855c7c",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "He had recovered his self-possession in an instant. \"I was staggered for the moment,\" he said, \"but the thing is quite natural. My memory failed me, or I should have been able to foretell it. There is nothing more to be learned here. Let us go down.\"",
+    "context": {
+      "next": {
+        "content": "\"What is your theory, then, as to those footmarks?\" I asked, eagerly, when we had regained the lower room once more.",
+        "objectID": "9ac8ad29f68858cae02fd70da0069d84"
+      },
+      "previous": {
+        "content": "\"Holmes,\" I said, in a whisper, \"a child has done the horrid thing.\"",
+        "objectID": "07cee9786289b6d7b4ae1af83d855c7c"
+      }
+    },
+    "objectID": "dd6143f98a6fe765fc36384094d28a70",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"What is your theory, then, as to those footmarks?\" I asked, eagerly, when we had regained the lower room once more.",
+    "context": {
+      "next": {
+        "content": "\"My dear Watson, try a little analysis yourself,\" said he, with a touch of impatience. \"You know my methods. Apply them, and it will be instructive to compare results.\"",
+        "objectID": "421ae7dce5bdbff42cfca1670f1f6577"
+      },
+      "previous": {
+        "content": "He had recovered his self-possession in an instant. \"I was staggered for the moment,\" he said, \"but the thing is quite natural. My memory failed me, or I should have been able to foretell it. There is nothing more to be learned here. Let us go down.\"",
+        "objectID": "dd6143f98a6fe765fc36384094d28a70"
+      }
+    },
+    "objectID": "9ac8ad29f68858cae02fd70da0069d84",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"My dear Watson, try a little analysis yourself,\" said he, with a touch of impatience. \"You know my methods. Apply them, and it will be instructive to compare results.\"",
+    "context": {
+      "next": {
+        "content": "\"I cannot conceive anything which will cover the facts,\" I answered.",
+        "objectID": "f24b7d6e65f5e02af529baa6a51588b8"
+      },
+      "previous": {
+        "content": "\"What is your theory, then, as to those footmarks?\" I asked, eagerly, when we had regained the lower room once more.",
+        "objectID": "9ac8ad29f68858cae02fd70da0069d84"
+      }
+    },
+    "objectID": "421ae7dce5bdbff42cfca1670f1f6577",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"I cannot conceive anything which will cover the facts,\" I answered.",
+    "context": {
+      "next": {
+        "content": "\"It will be clear enough to you soon,\" he said, in an off-hand way. \"I think that there is nothing else of importance here, but I will look.\" He whipped out his lens and a tape measure, and hurried about the room on his knees, measuring, comparing, examining, with his long thin nose only a few inches from the planks, and his beady eyes gleaming and deep-set like those of a bird.",
+        "objectID": "eaa3c6e13dda2ff2720b868c5affaea4"
+      },
+      "previous": {
+        "content": "\"My dear Watson, try a little analysis yourself,\" said he, with a touch of impatience. \"You know my methods. Apply them, and it will be instructive to compare results.\"",
+        "objectID": "421ae7dce5bdbff42cfca1670f1f6577"
+      }
+    },
+    "objectID": "f24b7d6e65f5e02af529baa6a51588b8",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"It will be clear enough to you soon,\" he said, in an off-hand way. \"I think that there is nothing else of importance here, but I will look.\" He whipped out his lens and a tape measure, and hurried about the room on his knees, measuring, comparing, examining, with his long thin nose only a few inches from the planks, and his beady eyes gleaming and deep-set like those of a bird.",
+    "context": {
+      "next": {
+        "content": "So swift, silent, and furtive were his movements, like those of a trained blood-hound picking out a scent, that I could not but think what a terrible criminal he would have made had he turned his energy and sagacity against the law, instead of exerting them in its defense. As he hunted about, he kept muttering to himself, and finally he broke out into a loud crow of delight.",
+        "objectID": "d84c61f78d0824715ae25110066e3b88"
+      },
+      "previous": {
+        "content": "\"I cannot conceive anything which will cover the facts,\" I answered.",
+        "objectID": "f24b7d6e65f5e02af529baa6a51588b8"
+      }
+    },
+    "objectID": "eaa3c6e13dda2ff2720b868c5affaea4",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "So swift, silent, and furtive were his movements, like those of a trained blood-hound picking out a scent, that I could not but think what a terrible criminal he would have made had he turned his energy and sagacity against the law, instead of exerting them in its defense. As he hunted about, he kept muttering to himself, and finally he broke out into a loud crow of delight.",
+    "context": {
+      "next": {
+        "content": "\"We are certainly in luck,\" said he. \"We ought to have very little trouble now. Number One has had the misfortune to tread in the creosote. You can see the outline of the edge of his small foot here at the side of this evil-smelling mess. The carboy has been cracked, You see, and the stuff has leaked out.",
+        "objectID": "3abfbd0a3a448d7e77ba007e158638a6"
+      },
+      "previous": {
+        "content": "\"It will be clear enough to you soon,\" he said, in an off-hand way. \"I think that there is nothing else of importance here, but I will look.\" He whipped out his lens and a tape measure, and hurried about the room on his knees, measuring, comparing, examining, with his long thin nose only a few inches from the planks, and his beady eyes gleaming and deep-set like those of a bird.",
+        "objectID": "eaa3c6e13dda2ff2720b868c5affaea4"
+      }
+    },
+    "objectID": "d84c61f78d0824715ae25110066e3b88",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"We are certainly in luck,\" said he. \"We ought to have very little trouble now. Number One has had the misfortune to tread in the creosote. You can see the outline of the edge of his small foot here at the side of this evil-smelling mess. The carboy has been cracked, You see, and the stuff has leaked out.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "8f88b2a8bf51d91da53ac43148c42d4b"
+      },
+      "previous": {
+        "content": "So swift, silent, and furtive were his movements, like those of a trained blood-hound picking out a scent, that I could not but think what a terrible criminal he would have made had he turned his energy and sagacity against the law, instead of exerting them in its defense. As he hunted about, he kept muttering to himself, and finally he broke out into a loud crow of delight.",
+        "objectID": "d84c61f78d0824715ae25110066e3b88"
+      }
+    },
+    "objectID": "3abfbd0a3a448d7e77ba007e158638a6",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"What then?\" I asked.",
+        "objectID": "633b46e11abbf397317b0ff9f6f2036b"
+      },
+      "previous": {
+        "content": "\"We are certainly in luck,\" said he. \"We ought to have very little trouble now. Number One has had the misfortune to tread in the creosote. You can see the outline of the edge of his small foot here at the side of this evil-smelling mess. The carboy has been cracked, You see, and the stuff has leaked out.",
+        "objectID": "3abfbd0a3a448d7e77ba007e158638a6"
+      }
+    },
+    "objectID": "8f88b2a8bf51d91da53ac43148c42d4b",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"What then?\" I asked.",
+    "context": {
+      "next": {
+        "content": "\"Why, we have got him, that's all,\" said he. \"I know a dog that would follow that scent to the world's end. If a pack can track a trailed herring across a shire, how far can a specially-trained hound follow so pungent a smell as this? It sounds like a sum in the rule of three. The answer should give us the—But halloo! here are the accredited representatives of the law.",
+        "objectID": "7edeee271959fcfbe91202e97d8e1458"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "8f88b2a8bf51d91da53ac43148c42d4b"
+      }
+    },
+    "objectID": "633b46e11abbf397317b0ff9f6f2036b",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Why, we have got him, that's all,\" said he. \"I know a dog that would follow that scent to the world's end. If a pack can track a trailed herring across a shire, how far can a specially-trained hound follow so pungent a smell as this? It sounds like a sum in the rule of three. The answer should give us the—But halloo! here are the accredited representatives of the law.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "4b410be2edc57a28ebd693d1a2a4409e"
+      },
+      "previous": {
+        "content": "\"What then?\" I asked.",
+        "objectID": "633b46e11abbf397317b0ff9f6f2036b"
+      }
+    },
+    "objectID": "7edeee271959fcfbe91202e97d8e1458",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "Heavy steps and the clamor of loud voices were audible from below, and the hall door shut with a loud crash.",
+        "objectID": "a83dba21923393987047844907e423fe"
+      },
+      "previous": {
+        "content": "\"Why, we have got him, that's all,\" said he. \"I know a dog that would follow that scent to the world's end. If a pack can track a trailed herring across a shire, how far can a specially-trained hound follow so pungent a smell as this? It sounds like a sum in the rule of three. The answer should give us the—But halloo! here are the accredited representatives of the law.",
+        "objectID": "7edeee271959fcfbe91202e97d8e1458"
+      }
+    },
+    "objectID": "4b410be2edc57a28ebd693d1a2a4409e",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "Heavy steps and the clamor of loud voices were audible from below, and the hall door shut with a loud crash.",
+    "context": {
+      "next": {
+        "content": "\"Before they come,\" said Holmes, \"just put your hand here on this poor fellow's arm, and here on his leg. What do you feel?\"",
+        "objectID": "f62c5a7e329c657a6a824ce5bfe01f1a"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "4b410be2edc57a28ebd693d1a2a4409e"
+      }
+    },
+    "objectID": "a83dba21923393987047844907e423fe",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Before they come,\" said Holmes, \"just put your hand here on this poor fellow's arm, and here on his leg. What do you feel?\"",
+    "context": {
+      "next": {
+        "content": "\"The muscles are as hard as a board,\" I answered.",
+        "objectID": "4c0fb85d75e1533ab5fad4365665c549"
+      },
+      "previous": {
+        "content": "Heavy steps and the clamor of loud voices were audible from below, and the hall door shut with a loud crash.",
+        "objectID": "a83dba21923393987047844907e423fe"
+      }
+    },
+    "objectID": "f62c5a7e329c657a6a824ce5bfe01f1a",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"The muscles are as hard as a board,\" I answered.",
+    "context": {
+      "next": {
+        "content": "\"Quite so. They are in a state of extreme contraction, far exceeding the usual rigor mortis. Coupled with this distortion of the face, this Hippocratic smile, or 'risus sardonicus,' as the old writers called it, what conclusion would it suggest to your mind?\"",
+        "objectID": "2eaa92d849679adc62cbce93bc62dac5"
+      },
+      "previous": {
+        "content": "\"Before they come,\" said Holmes, \"just put your hand here on this poor fellow's arm, and here on his leg. What do you feel?\"",
+        "objectID": "f62c5a7e329c657a6a824ce5bfe01f1a"
+      }
+    },
+    "objectID": "4c0fb85d75e1533ab5fad4365665c549",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Quite so. They are in a state of extreme contraction, far exceeding the usual rigor mortis. Coupled with this distortion of the face, this Hippocratic smile, or 'risus sardonicus,' as the old writers called it, what conclusion would it suggest to your mind?\"",
+    "context": {
+      "next": {
+        "content": "\"Death from some powerful vegetable alkaloid,\" I answered,—\"some strychnine-like substance which would produce tetanus.\"",
+        "objectID": "3fe362b65a8c34a301c5f05d284ed4cd"
+      },
+      "previous": {
+        "content": "\"The muscles are as hard as a board,\" I answered.",
+        "objectID": "4c0fb85d75e1533ab5fad4365665c549"
+      }
+    },
+    "objectID": "2eaa92d849679adc62cbce93bc62dac5",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Death from some powerful vegetable alkaloid,\" I answered,—\"some strychnine-like substance which would produce tetanus.\"",
+    "context": {
+      "next": {
+        "content": "\"That was the idea which occurred to me the instant I saw the drawn muscles of the face. On getting into the room I at once looked for the means by which the poison had entered the system. As you saw, I discovered a thorn which had been driven or shot with no great force into the scalp. You observe that the part struck was that which would be turned towards the hole in the ceiling if the man were erect in his chair.",
+        "objectID": "1d560dce592c6036f242a4e7eab84d6b"
+      },
+      "previous": {
+        "content": "\"Quite so. They are in a state of extreme contraction, far exceeding the usual rigor mortis. Coupled with this distortion of the face, this Hippocratic smile, or 'risus sardonicus,' as the old writers called it, what conclusion would it suggest to your mind?\"",
+        "objectID": "2eaa92d849679adc62cbce93bc62dac5"
+      }
+    },
+    "objectID": "3fe362b65a8c34a301c5f05d284ed4cd",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"That was the idea which occurred to me the instant I saw the drawn muscles of the face. On getting into the room I at once looked for the means by which the poison had entered the system. As you saw, I discovered a thorn which had been driven or shot with no great force into the scalp. You observe that the part struck was that which would be turned towards the hole in the ceiling if the man were erect in his chair.",
+    "context": {
+      "next": {
+        "content": "Now examine the thorn.\"",
+        "objectID": "b23dba46c5c53197f6005d7ea0d7c039"
+      },
+      "previous": {
+        "content": "\"Death from some powerful vegetable alkaloid,\" I answered,—\"some strychnine-like substance which would produce tetanus.\"",
+        "objectID": "3fe362b65a8c34a301c5f05d284ed4cd"
+      }
+    },
+    "objectID": "1d560dce592c6036f242a4e7eab84d6b",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "Now examine the thorn.\"",
+    "context": {
+      "next": {
+        "content": "I took it up gingerly and held it in the light of the lantern. It was long, sharp, and black, with a glazed look near the point as though some gummy substance had dried upon it. The blunt end had been trimmed and rounded off with a knife.",
+        "objectID": "54a67394df80080b6abd95ede355e603"
+      },
+      "previous": {
+        "content": "\"That was the idea which occurred to me the instant I saw the drawn muscles of the face. On getting into the room I at once looked for the means by which the poison had entered the system. As you saw, I discovered a thorn which had been driven or shot with no great force into the scalp. You observe that the part struck was that which would be turned towards the hole in the ceiling if the man were erect in his chair.",
+        "objectID": "1d560dce592c6036f242a4e7eab84d6b"
+      }
+    },
+    "objectID": "b23dba46c5c53197f6005d7ea0d7c039",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "I took it up gingerly and held it in the light of the lantern. It was long, sharp, and black, with a glazed look near the point as though some gummy substance had dried upon it. The blunt end had been trimmed and rounded off with a knife.",
+    "context": {
+      "next": {
+        "content": "\"Is that an English thorn?\" he asked.",
+        "objectID": "1a99a831130b61db33180273868d3621"
+      },
+      "previous": {
+        "content": "Now examine the thorn.\"",
+        "objectID": "b23dba46c5c53197f6005d7ea0d7c039"
+      }
+    },
+    "objectID": "54a67394df80080b6abd95ede355e603",
+    "order": 50,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Is that an English thorn?\" he asked.",
+    "context": {
+      "next": {
+        "content": "\"No, it certainly is not.\"",
+        "objectID": "a5d9b39ac166a65184967ba72f80cf3f"
+      },
+      "previous": {
+        "content": "I took it up gingerly and held it in the light of the lantern. It was long, sharp, and black, with a glazed look near the point as though some gummy substance had dried upon it. The blunt end had been trimmed and rounded off with a knife.",
+        "objectID": "54a67394df80080b6abd95ede355e603"
+      }
+    },
+    "objectID": "1a99a831130b61db33180273868d3621",
+    "order": 51,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"No, it certainly is not.\"",
+    "context": {
+      "next": {
+        "content": "\"With all these data you should be able to draw some just inference. But here are the regulars: so the auxiliary forces may beat a retreat.\"",
+        "objectID": "bea929f15dbbf3c0c2515e66ed6aa327"
+      },
+      "previous": {
+        "content": "\"Is that an English thorn?\" he asked.",
+        "objectID": "1a99a831130b61db33180273868d3621"
+      }
+    },
+    "objectID": "a5d9b39ac166a65184967ba72f80cf3f",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"With all these data you should be able to draw some just inference. But here are the regulars: so the auxiliary forces may beat a retreat.\"",
+    "context": {
+      "next": {
+        "content": "As he spoke, the steps which had been coming nearer sounded loudly on the passage, and a very stout, portly man in a gray suit strode heavily into the room. He was red-faced, burly and plethoric, with a pair of very small twinkling eyes which looked keenly out from between swollen and puffy pouches. He was closely followed by an inspector in uniform, and by the still palpitating Thaddeus Sholto.",
+        "objectID": "9f5431212ff4fcf572dffa59859d8db1"
+      },
+      "previous": {
+        "content": "\"No, it certainly is not.\"",
+        "objectID": "a5d9b39ac166a65184967ba72f80cf3f"
+      }
+    },
+    "objectID": "bea929f15dbbf3c0c2515e66ed6aa327",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "As he spoke, the steps which had been coming nearer sounded loudly on the passage, and a very stout, portly man in a gray suit strode heavily into the room. He was red-faced, burly and plethoric, with a pair of very small twinkling eyes which looked keenly out from between swollen and puffy pouches. He was closely followed by an inspector in uniform, and by the still palpitating Thaddeus Sholto.",
+    "context": {
+      "next": {
+        "content": "\"Here's a business!\" he cried, in a muffled, husky voice. \"Here's a pretty business! But who are all these? Why, the house seems to be as full as a rabbit-warren!\"",
+        "objectID": "8616ceebacab040b3076a6f74c9d2c6c"
+      },
+      "previous": {
+        "content": "\"With all these data you should be able to draw some just inference. But here are the regulars: so the auxiliary forces may beat a retreat.\"",
+        "objectID": "bea929f15dbbf3c0c2515e66ed6aa327"
+      }
+    },
+    "objectID": "9f5431212ff4fcf572dffa59859d8db1",
+    "order": 54,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Here's a business!\" he cried, in a muffled, husky voice. \"Here's a pretty business! But who are all these? Why, the house seems to be as full as a rabbit-warren!\"",
+    "context": {
+      "next": {
+        "content": "\"I think you must recollect me, Mr. Athelney Jones,\" said Holmes, quietly.",
+        "objectID": "b83c3306d00e394850cd1f3b5ff7cd48"
+      },
+      "previous": {
+        "content": "As he spoke, the steps which had been coming nearer sounded loudly on the passage, and a very stout, portly man in a gray suit strode heavily into the room. He was red-faced, burly and plethoric, with a pair of very small twinkling eyes which looked keenly out from between swollen and puffy pouches. He was closely followed by an inspector in uniform, and by the still palpitating Thaddeus Sholto.",
+        "objectID": "9f5431212ff4fcf572dffa59859d8db1"
+      }
+    },
+    "objectID": "8616ceebacab040b3076a6f74c9d2c6c",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"I think you must recollect me, Mr. Athelney Jones,\" said Holmes, quietly.",
+    "context": {
+      "next": {
+        "content": "\"Why, of course I do!\" he wheezed. \"It's Mr. Sherlock Holmes, the theorist. Remember you! I'll never forget how you lectured us all on causes and inferences and effects in the Bishopgate jewel case. It's true you set us on the right track; but you'll own now that it was more by good luck than good guidance.",
+        "objectID": "1a796031e18aacf5ee24e198462c152d"
+      },
+      "previous": {
+        "content": "\"Here's a business!\" he cried, in a muffled, husky voice. \"Here's a pretty business! But who are all these? Why, the house seems to be as full as a rabbit-warren!\"",
+        "objectID": "8616ceebacab040b3076a6f74c9d2c6c"
+      }
+    },
+    "objectID": "b83c3306d00e394850cd1f3b5ff7cd48",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Why, of course I do!\" he wheezed. \"It's Mr. Sherlock Holmes, the theorist. Remember you! I'll never forget how you lectured us all on causes and inferences and effects in the Bishopgate jewel case. It's true you set us on the right track; but you'll own now that it was more by good luck than good guidance.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "631d4a9a7f7df7ba5855d32204f00474"
+      },
+      "previous": {
+        "content": "\"I think you must recollect me, Mr. Athelney Jones,\" said Holmes, quietly.",
+        "objectID": "b83c3306d00e394850cd1f3b5ff7cd48"
+      }
+    },
+    "objectID": "1a796031e18aacf5ee24e198462c152d",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"It was a piece of very simple reasoning.\"",
+        "objectID": "ee113272b0f85738c70a6c273f9b66ba"
+      },
+      "previous": {
+        "content": "\"Why, of course I do!\" he wheezed. \"It's Mr. Sherlock Holmes, the theorist. Remember you! I'll never forget how you lectured us all on causes and inferences and effects in the Bishopgate jewel case. It's true you set us on the right track; but you'll own now that it was more by good luck than good guidance.",
+        "objectID": "1a796031e18aacf5ee24e198462c152d"
+      }
+    },
+    "objectID": "631d4a9a7f7df7ba5855d32204f00474",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"It was a piece of very simple reasoning.\"",
+    "context": {
+      "next": {
+        "content": "\"Oh, come, now, come! Never be ashamed to own up. But what is all this? Bad business! Bad business! Stern facts here,—no room for theories. How lucky that I happened to be out at Norwood over another case! I was at the station when the message arrived. What d'you think the man died of?\"",
+        "objectID": "ffcca72ea4d17d79804b613d8478f14c"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "631d4a9a7f7df7ba5855d32204f00474"
+      }
+    },
+    "objectID": "ee113272b0f85738c70a6c273f9b66ba",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Oh, come, now, come! Never be ashamed to own up. But what is all this? Bad business! Bad business! Stern facts here,—no room for theories. How lucky that I happened to be out at Norwood over another case! I was at the station when the message arrived. What d'you think the man died of?\"",
+    "context": {
+      "next": {
+        "content": "\"Oh, this is hardly a case for me to theorize over,\" said Holmes, dryly.",
+        "objectID": "d42aa58565a2856ff7bceedd3059abd7"
+      },
+      "previous": {
+        "content": "\"It was a piece of very simple reasoning.\"",
+        "objectID": "ee113272b0f85738c70a6c273f9b66ba"
+      }
+    },
+    "objectID": "ffcca72ea4d17d79804b613d8478f14c",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Oh, this is hardly a case for me to theorize over,\" said Holmes, dryly.",
+    "context": {
+      "next": {
+        "content": "\"No, no. Still, we can't deny that you hit the nail on the head sometimes. Dear me! Door locked, I understand. Jewels worth half a million missing. How was the window?\"",
+        "objectID": "c12bc91d32b300220e34168943a09afa"
+      },
+      "previous": {
+        "content": "\"Oh, come, now, come! Never be ashamed to own up. But what is all this? Bad business! Bad business! Stern facts here,—no room for theories. How lucky that I happened to be out at Norwood over another case! I was at the station when the message arrived. What d'you think the man died of?\"",
+        "objectID": "ffcca72ea4d17d79804b613d8478f14c"
+      }
+    },
+    "objectID": "d42aa58565a2856ff7bceedd3059abd7",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"No, no. Still, we can't deny that you hit the nail on the head sometimes. Dear me! Door locked, I understand. Jewels worth half a million missing. How was the window?\"",
+    "context": {
+      "next": {
+        "content": "\"Fastened; but there are steps on the sill.\"",
+        "objectID": "986186f3c87907d8c0de00a96ceb61c3"
+      },
+      "previous": {
+        "content": "\"Oh, this is hardly a case for me to theorize over,\" said Holmes, dryly.",
+        "objectID": "d42aa58565a2856ff7bceedd3059abd7"
+      }
+    },
+    "objectID": "c12bc91d32b300220e34168943a09afa",
+    "order": 62,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Fastened; but there are steps on the sill.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, well, if it was fastened the steps could have nothing to do with the matter. That's common sense. Man might have died in a fit; but then the jewels are missing. Ha! I have a theory. These flashes come upon me at times.—Just step outside, sergeant, and you, Mr. Sholto. Your friend can remain.—What do you think of this, Holmes? Sholto was, on his own confession, with his brother last night.",
+        "objectID": "c29034e236a12ae647c8343113f26482"
+      },
+      "previous": {
+        "content": "\"No, no. Still, we can't deny that you hit the nail on the head sometimes. Dear me! Door locked, I understand. Jewels worth half a million missing. How was the window?\"",
+        "objectID": "c12bc91d32b300220e34168943a09afa"
+      }
+    },
+    "objectID": "986186f3c87907d8c0de00a96ceb61c3",
+    "order": 63,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Well, well, if it was fastened the steps could have nothing to do with the matter. That's common sense. Man might have died in a fit; but then the jewels are missing. Ha! I have a theory. These flashes come upon me at times.—Just step outside, sergeant, and you, Mr. Sholto. Your friend can remain.—What do you think of this, Holmes? Sholto was, on his own confession, with his brother last night.",
+    "context": {
+      "next": {
+        "content": "The brother died in a fit, on which Sholto walked off with the treasure. How's that?\"",
+        "objectID": "cc70d8025e5d2efdb5667209d55b832a"
+      },
+      "previous": {
+        "content": "\"Fastened; but there are steps on the sill.\"",
+        "objectID": "986186f3c87907d8c0de00a96ceb61c3"
+      }
+    },
+    "objectID": "c29034e236a12ae647c8343113f26482",
+    "order": 64,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "The brother died in a fit, on which Sholto walked off with the treasure. How's that?\"",
+    "context": {
+      "next": {
+        "content": "\"On which the dead man very considerately got up and locked the door on the inside.\"",
+        "objectID": "b5594e141566da39fd52468939a2ffbb"
+      },
+      "previous": {
+        "content": "\"Well, well, if it was fastened the steps could have nothing to do with the matter. That's common sense. Man might have died in a fit; but then the jewels are missing. Ha! I have a theory. These flashes come upon me at times.—Just step outside, sergeant, and you, Mr. Sholto. Your friend can remain.—What do you think of this, Holmes? Sholto was, on his own confession, with his brother last night.",
+        "objectID": "c29034e236a12ae647c8343113f26482"
+      }
+    },
+    "objectID": "cc70d8025e5d2efdb5667209d55b832a",
+    "order": 65,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"On which the dead man very considerately got up and locked the door on the inside.\"",
+    "context": {
+      "next": {
+        "content": "\"Hum! There's a flaw there. Let us apply common sense to the matter. This Thaddeus Sholto WAS with his brother; there WAS a quarrel; so much we know. The brother is dead and the jewels are gone. So much also we know. No one saw the brother from the time Thaddeus left him. His bed had not been slept in.",
+        "objectID": "8958705f79a60d588c0702a09ac602b0"
+      },
+      "previous": {
+        "content": "The brother died in a fit, on which Sholto walked off with the treasure. How's that?\"",
+        "objectID": "cc70d8025e5d2efdb5667209d55b832a"
+      }
+    },
+    "objectID": "b5594e141566da39fd52468939a2ffbb",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Hum! There's a flaw there. Let us apply common sense to the matter. This Thaddeus Sholto WAS with his brother; there WAS a quarrel; so much we know. The brother is dead and the jewels are gone. So much also we know. No one saw the brother from the time Thaddeus left him. His bed had not been slept in.",
+    "context": {
+      "next": {
+        "content": "Thaddeus is evidently in a most disturbed state of mind. His appearance is—well, not attractive. You see that I am weaving my web round Thaddeus. The net begins to close upon him.\"",
+        "objectID": "c41af839b6ca0a2b15d15f0d8ef89a03"
+      },
+      "previous": {
+        "content": "\"On which the dead man very considerately got up and locked the door on the inside.\"",
+        "objectID": "b5594e141566da39fd52468939a2ffbb"
+      }
+    },
+    "objectID": "8958705f79a60d588c0702a09ac602b0",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "Thaddeus is evidently in a most disturbed state of mind. His appearance is—well, not attractive. You see that I am weaving my web round Thaddeus. The net begins to close upon him.\"",
+    "context": {
+      "next": {
+        "content": "\"You are not quite in possession of the facts yet,\" said Holmes. \"This splinter of wood, which I have every reason to believe to be poisoned, was in the man's scalp where you still see the mark; this card, inscribed as you see it, was on the table; and beside it lay this rather curious stone-headed instrument.",
+        "objectID": "9e4f7b2cc1ef41512a8b83064e964f9a"
+      },
+      "previous": {
+        "content": "\"Hum! There's a flaw there. Let us apply common sense to the matter. This Thaddeus Sholto WAS with his brother; there WAS a quarrel; so much we know. The brother is dead and the jewels are gone. So much also we know. No one saw the brother from the time Thaddeus left him. His bed had not been slept in.",
+        "objectID": "8958705f79a60d588c0702a09ac602b0"
+      }
+    },
+    "objectID": "c41af839b6ca0a2b15d15f0d8ef89a03",
+    "order": 68,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"You are not quite in possession of the facts yet,\" said Holmes. \"This splinter of wood, which I have every reason to believe to be poisoned, was in the man's scalp where you still see the mark; this card, inscribed as you see it, was on the table; and beside it lay this rather curious stone-headed instrument.",
+    "context": {
+      "next": {
+        "content": "How does all that fit into your theory?\"",
+        "objectID": "d755453bc560300eec60254f0b497b58"
+      },
+      "previous": {
+        "content": "Thaddeus is evidently in a most disturbed state of mind. His appearance is—well, not attractive. You see that I am weaving my web round Thaddeus. The net begins to close upon him.\"",
+        "objectID": "c41af839b6ca0a2b15d15f0d8ef89a03"
+      }
+    },
+    "objectID": "9e4f7b2cc1ef41512a8b83064e964f9a",
+    "order": 69,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "How does all that fit into your theory?\"",
+    "context": {
+      "next": {
+        "content": "\"Confirms it in every respect,\" said the fat detective, pompously. \"House is full of Indian curiosities. Thaddeus brought this up, and if this splinter be poisonous Thaddeus may as well have made murderous use of it as any other man. The card is some hocus-pocus,—a blind, as like as not. The only question is, how did he depart? Ah, of course, here is a hole in the roof.",
+        "objectID": "a85df7c2b769c888002566061d3c91e7"
+      },
+      "previous": {
+        "content": "\"You are not quite in possession of the facts yet,\" said Holmes. \"This splinter of wood, which I have every reason to believe to be poisoned, was in the man's scalp where you still see the mark; this card, inscribed as you see it, was on the table; and beside it lay this rather curious stone-headed instrument.",
+        "objectID": "9e4f7b2cc1ef41512a8b83064e964f9a"
+      }
+    },
+    "objectID": "d755453bc560300eec60254f0b497b58",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Confirms it in every respect,\" said the fat detective, pompously. \"House is full of Indian curiosities. Thaddeus brought this up, and if this splinter be poisonous Thaddeus may as well have made murderous use of it as any other man. The card is some hocus-pocus,—a blind, as like as not. The only question is, how did he depart? Ah, of course, here is a hole in the roof.",
+    "context": {
+      "next": {
+        "content": "\" With great activity, considering his bulk, he sprang up the steps and squeezed through into the garret, and immediately afterwards we heard his exulting voice proclaiming that he had found the trap-door.",
+        "objectID": "56e5474a76e1968ed2d658a2e7ac2bf5"
+      },
+      "previous": {
+        "content": "How does all that fit into your theory?\"",
+        "objectID": "d755453bc560300eec60254f0b497b58"
+      }
+    },
+    "objectID": "a85df7c2b769c888002566061d3c91e7",
+    "order": 71,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\" With great activity, considering his bulk, he sprang up the steps and squeezed through into the garret, and immediately afterwards we heard his exulting voice proclaiming that he had found the trap-door.",
+    "context": {
+      "next": {
+        "content": "\"He can find something,\" remarked Holmes, shrugging his shoulders. \"He has occasional glimmerings of reason. Il n'y a pas des sots si incommodes que ceux qui ont de l'esprit!\"",
+        "objectID": "b570a97f6e617498cc2c05c64353a7c1"
+      },
+      "previous": {
+        "content": "\"Confirms it in every respect,\" said the fat detective, pompously. \"House is full of Indian curiosities. Thaddeus brought this up, and if this splinter be poisonous Thaddeus may as well have made murderous use of it as any other man. The card is some hocus-pocus,—a blind, as like as not. The only question is, how did he depart? Ah, of course, here is a hole in the roof.",
+        "objectID": "a85df7c2b769c888002566061d3c91e7"
+      }
+    },
+    "objectID": "56e5474a76e1968ed2d658a2e7ac2bf5",
+    "order": 72,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"He can find something,\" remarked Holmes, shrugging his shoulders. \"He has occasional glimmerings of reason. Il n'y a pas des sots si incommodes que ceux qui ont de l'esprit!\"",
+    "context": {
+      "next": {
+        "content": "\"You see!\" said Athelney Jones, reappearing down the steps again. \"Facts are better than mere theories, after all. My view of the case is confirmed. There is a trap-door communicating with the roof, and it is partly open.\"",
+        "objectID": "769d7532482fa9121e9f10534a4f997d"
+      },
+      "previous": {
+        "content": "\" With great activity, considering his bulk, he sprang up the steps and squeezed through into the garret, and immediately afterwards we heard his exulting voice proclaiming that he had found the trap-door.",
+        "objectID": "56e5474a76e1968ed2d658a2e7ac2bf5"
+      }
+    },
+    "objectID": "b570a97f6e617498cc2c05c64353a7c1",
+    "order": 73,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"You see!\" said Athelney Jones, reappearing down the steps again. \"Facts are better than mere theories, after all. My view of the case is confirmed. There is a trap-door communicating with the roof, and it is partly open.\"",
+    "context": {
+      "next": {
+        "content": "\"It was I who opened it.\"",
+        "objectID": "476fc662ac6cec71e5b02596e872870b"
+      },
+      "previous": {
+        "content": "\"He can find something,\" remarked Holmes, shrugging his shoulders. \"He has occasional glimmerings of reason. Il n'y a pas des sots si incommodes que ceux qui ont de l'esprit!\"",
+        "objectID": "b570a97f6e617498cc2c05c64353a7c1"
+      }
+    },
+    "objectID": "769d7532482fa9121e9f10534a4f997d",
+    "order": 74,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"It was I who opened it.\"",
+    "context": {
+      "next": {
+        "content": "\"Oh, indeed! You did notice it, then?\" He seemed a little crestfallen at the discovery. \"Well, whoever noticed it, it shows how our gentleman got away. Inspector!\"",
+        "objectID": "e78475b5dfc2bf92c0b8875716c1fefd"
+      },
+      "previous": {
+        "content": "\"You see!\" said Athelney Jones, reappearing down the steps again. \"Facts are better than mere theories, after all. My view of the case is confirmed. There is a trap-door communicating with the roof, and it is partly open.\"",
+        "objectID": "769d7532482fa9121e9f10534a4f997d"
+      }
+    },
+    "objectID": "476fc662ac6cec71e5b02596e872870b",
+    "order": 75,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Oh, indeed! You did notice it, then?\" He seemed a little crestfallen at the discovery. \"Well, whoever noticed it, it shows how our gentleman got away. Inspector!\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, sir,\" from the passage.",
+        "objectID": "a735ae0ceefe8f2888582438306e376a"
+      },
+      "previous": {
+        "content": "\"It was I who opened it.\"",
+        "objectID": "476fc662ac6cec71e5b02596e872870b"
+      }
+    },
+    "objectID": "e78475b5dfc2bf92c0b8875716c1fefd",
+    "order": 76,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Yes, sir,\" from the passage.",
+    "context": {
+      "next": {
+        "content": "\"Ask Mr. Sholto to step this way.—Mr. Sholto, it is my duty to inform you that anything which you may say will be used against you. I arrest you in the queen's name as being concerned in the death of your brother.\"",
+        "objectID": "7cff2a11b2088ebd189c62b168c299b8"
+      },
+      "previous": {
+        "content": "\"Oh, indeed! You did notice it, then?\" He seemed a little crestfallen at the discovery. \"Well, whoever noticed it, it shows how our gentleman got away. Inspector!\"",
+        "objectID": "e78475b5dfc2bf92c0b8875716c1fefd"
+      }
+    },
+    "objectID": "a735ae0ceefe8f2888582438306e376a",
+    "order": 77,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Ask Mr. Sholto to step this way.—Mr. Sholto, it is my duty to inform you that anything which you may say will be used against you. I arrest you in the queen's name as being concerned in the death of your brother.\"",
+    "context": {
+      "next": {
+        "content": "\"There, now! Didn't I tell you!\" cried the poor little man, throwing out his hands, and looking from one to the other of us.",
+        "objectID": "ca4c6401ee5a6ebc65610d2678cea20c"
+      },
+      "previous": {
+        "content": "\"Yes, sir,\" from the passage.",
+        "objectID": "a735ae0ceefe8f2888582438306e376a"
+      }
+    },
+    "objectID": "7cff2a11b2088ebd189c62b168c299b8",
+    "order": 78,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"There, now! Didn't I tell you!\" cried the poor little man, throwing out his hands, and looking from one to the other of us.",
+    "context": {
+      "next": {
+        "content": "\"Don't trouble yourself about it, Mr. Sholto,\" said Holmes. \"I think that I can engage to clear you of the charge.\"",
+        "objectID": "8ba55387d322c583bf7efef7d3b24132"
+      },
+      "previous": {
+        "content": "\"Ask Mr. Sholto to step this way.—Mr. Sholto, it is my duty to inform you that anything which you may say will be used against you. I arrest you in the queen's name as being concerned in the death of your brother.\"",
+        "objectID": "7cff2a11b2088ebd189c62b168c299b8"
+      }
+    },
+    "objectID": "ca4c6401ee5a6ebc65610d2678cea20c",
+    "order": 79,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Don't trouble yourself about it, Mr. Sholto,\" said Holmes. \"I think that I can engage to clear you of the charge.\"",
+    "context": {
+      "next": {
+        "content": "\"Don't promise too much, Mr. Theorist,—don't promise too much!\" snapped the detective. \"You may find it a harder matter than you think.\"",
+        "objectID": "ec24c1d4afdb88161b424890bac27260"
+      },
+      "previous": {
+        "content": "\"There, now! Didn't I tell you!\" cried the poor little man, throwing out his hands, and looking from one to the other of us.",
+        "objectID": "ca4c6401ee5a6ebc65610d2678cea20c"
+      }
+    },
+    "objectID": "8ba55387d322c583bf7efef7d3b24132",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Don't promise too much, Mr. Theorist,—don't promise too much!\" snapped the detective. \"You may find it a harder matter than you think.\"",
+    "context": {
+      "next": {
+        "content": "\"Not only will I clear him, Mr. Jones, but I will make you a free present of the name and description of one of the two people who were in this room last night. His name, I have every reason to believe, is Jonathan Small. He is a poorly-educated man, small, active, with his right leg off, and wearing a wooden stump which is worn away upon the inner side.",
+        "objectID": "e9476d3380784a81d0d655432eb6f695"
+      },
+      "previous": {
+        "content": "\"Don't trouble yourself about it, Mr. Sholto,\" said Holmes. \"I think that I can engage to clear you of the charge.\"",
+        "objectID": "8ba55387d322c583bf7efef7d3b24132"
+      }
+    },
+    "objectID": "ec24c1d4afdb88161b424890bac27260",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Not only will I clear him, Mr. Jones, but I will make you a free present of the name and description of one of the two people who were in this room last night. His name, I have every reason to believe, is Jonathan Small. He is a poorly-educated man, small, active, with his right leg off, and wearing a wooden stump which is worn away upon the inner side.",
+    "context": {
+      "next": {
+        "content": "His left boot has a coarse, square-toed sole, with an iron band round the heel. He is a middle-aged man, much sunburned, and has been a convict. These few indications may be of some assistance to you, coupled with the fact that there is a good deal of skin missing from the palm of his hand. The oth",
+        "objectID": "429f2cb2f45d63a43190d100a4dd6ea1"
+      },
+      "previous": {
+        "content": "\"Don't promise too much, Mr. Theorist,—don't promise too much!\" snapped the detective. \"You may find it a harder matter than you think.\"",
+        "objectID": "ec24c1d4afdb88161b424890bac27260"
+      }
+    },
+    "objectID": "e9476d3380784a81d0d655432eb6f695",
+    "order": 82,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "His left boot has a coarse, square-toed sole, with an iron band round the heel. He is a middle-aged man, much sunburned, and has been a convict. These few indications may be of some assistance to you, coupled with the fact that there is a good deal of skin missing from the palm of his hand. The oth",
+    "context": {
+      "next": {
+        "content": "er man—\"",
+        "objectID": "da3359d3af7a811a2a381f9722e4a800"
+      },
+      "previous": {
+        "content": "\"Not only will I clear him, Mr. Jones, but I will make you a free present of the name and description of one of the two people who were in this room last night. His name, I have every reason to believe, is Jonathan Small. He is a poorly-educated man, small, active, with his right leg off, and wearing a wooden stump which is worn away upon the inner side.",
+        "objectID": "e9476d3380784a81d0d655432eb6f695"
+      }
+    },
+    "objectID": "429f2cb2f45d63a43190d100a4dd6ea1",
+    "order": 83,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "er man—\"",
+    "context": {
+      "next": {
+        "content": "\"Ah! the other man—?\" asked Athelney Jones, in a sneering voice, but impressed none the less, as I could easily see, by the precision of the other's manner.",
+        "objectID": "4dc9c2dc25a3b0e23547f7d26d96418d"
+      },
+      "previous": {
+        "content": "His left boot has a coarse, square-toed sole, with an iron band round the heel. He is a middle-aged man, much sunburned, and has been a convict. These few indications may be of some assistance to you, coupled with the fact that there is a good deal of skin missing from the palm of his hand. The oth",
+        "objectID": "429f2cb2f45d63a43190d100a4dd6ea1"
+      }
+    },
+    "objectID": "da3359d3af7a811a2a381f9722e4a800",
+    "order": 84,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Ah! the other man—?\" asked Athelney Jones, in a sneering voice, but impressed none the less, as I could easily see, by the precision of the other's manner.",
+    "context": {
+      "next": {
+        "content": "\"Is a rather curious person,\" said Sherlock Holmes, turning upon his heel. \"I hope before very long to be able to introduce you to the pair of them.—A word with you, Watson.\"",
+        "objectID": "f5f6e4377615eeeedf8317ef4c37d497"
+      },
+      "previous": {
+        "content": "er man—\"",
+        "objectID": "da3359d3af7a811a2a381f9722e4a800"
+      }
+    },
+    "objectID": "4dc9c2dc25a3b0e23547f7d26d96418d",
+    "order": 85,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Is a rather curious person,\" said Sherlock Holmes, turning upon his heel. \"I hope before very long to be able to introduce you to the pair of them.—A word with you, Watson.\"",
+    "context": {
+      "next": {
+        "content": "He led me out to the head of the stair. \"This unexpected occurrence,\" he said, \"has caused us rather to lose sight of the original purpose of our journey.\"",
+        "objectID": "7b23670a35450c752439bb041e6b4809"
+      },
+      "previous": {
+        "content": "\"Ah! the other man—?\" asked Athelney Jones, in a sneering voice, but impressed none the less, as I could easily see, by the precision of the other's manner.",
+        "objectID": "4dc9c2dc25a3b0e23547f7d26d96418d"
+      }
+    },
+    "objectID": "f5f6e4377615eeeedf8317ef4c37d497",
+    "order": 86,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "He led me out to the head of the stair. \"This unexpected occurrence,\" he said, \"has caused us rather to lose sight of the original purpose of our journey.\"",
+    "context": {
+      "next": {
+        "content": "\"I have just been thinking so,\" I answered. \"It is not right that Miss Morstan should remain in this stricken house.\"",
+        "objectID": "d0e661ee6010989443718ad8df0716d2"
+      },
+      "previous": {
+        "content": "\"Is a rather curious person,\" said Sherlock Holmes, turning upon his heel. \"I hope before very long to be able to introduce you to the pair of them.—A word with you, Watson.\"",
+        "objectID": "f5f6e4377615eeeedf8317ef4c37d497"
+      }
+    },
+    "objectID": "7b23670a35450c752439bb041e6b4809",
+    "order": 87,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"I have just been thinking so,\" I answered. \"It is not right that Miss Morstan should remain in this stricken house.\"",
+    "context": {
+      "next": {
+        "content": "\"No. You must escort her home. She lives with Mrs. Cecil Forrester, in Lower Camberwell: so it is not very far. I will wait for you here if you will drive out again. Or perhaps you are too tired?\"",
+        "objectID": "a9799ee590e7ae9be75db480cd3c483f"
+      },
+      "previous": {
+        "content": "He led me out to the head of the stair. \"This unexpected occurrence,\" he said, \"has caused us rather to lose sight of the original purpose of our journey.\"",
+        "objectID": "7b23670a35450c752439bb041e6b4809"
+      }
+    },
+    "objectID": "d0e661ee6010989443718ad8df0716d2",
+    "order": 88,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"No. You must escort her home. She lives with Mrs. Cecil Forrester, in Lower Camberwell: so it is not very far. I will wait for you here if you will drive out again. Or perhaps you are too tired?\"",
+    "context": {
+      "next": {
+        "content": "\"By no means. I don't think I could rest until I know more of this fantastic business. I have seen something of the rough side of life, but I give you my word that this quick succession of strange surprises to-night has shaken my nerve completely. I should like, however, to see the matter through with you, now that I have got so far.",
+        "objectID": "ee289bc6dced236b8cd3e892c37146ec"
+      },
+      "previous": {
+        "content": "\"I have just been thinking so,\" I answered. \"It is not right that Miss Morstan should remain in this stricken house.\"",
+        "objectID": "d0e661ee6010989443718ad8df0716d2"
+      }
+    },
+    "objectID": "a9799ee590e7ae9be75db480cd3c483f",
+    "order": 89,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"By no means. I don't think I could rest until I know more of this fantastic business. I have seen something of the rough side of life, but I give you my word that this quick succession of strange surprises to-night has shaken my nerve completely. I should like, however, to see the matter through with you, now that I have got so far.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "b93318293198988c3841ed4897e2d16e"
+      },
+      "previous": {
+        "content": "\"No. You must escort her home. She lives with Mrs. Cecil Forrester, in Lower Camberwell: so it is not very far. I will wait for you here if you will drive out again. Or perhaps you are too tired?\"",
+        "objectID": "a9799ee590e7ae9be75db480cd3c483f"
+      }
+    },
+    "objectID": "ee289bc6dced236b8cd3e892c37146ec",
+    "order": 90,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Your presence will be of great service to me,\" he answered. \"We shall work the case out independently, and leave this fellow Jones to exult over any mare's-nest which he may choose to construct. When you have dropped Miss Morstan I wish you to go on to No. 3 Pinchin Lane, down near the water's edge at Lambeth.",
+        "objectID": "49ceaf98a9aa60f3b21c21c118b03d16"
+      },
+      "previous": {
+        "content": "\"By no means. I don't think I could rest until I know more of this fantastic business. I have seen something of the rough side of life, but I give you my word that this quick succession of strange surprises to-night has shaken my nerve completely. I should like, however, to see the matter through with you, now that I have got so far.",
+        "objectID": "ee289bc6dced236b8cd3e892c37146ec"
+      }
+    },
+    "objectID": "b93318293198988c3841ed4897e2d16e",
+    "order": 91,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Your presence will be of great service to me,\" he answered. \"We shall work the case out independently, and leave this fellow Jones to exult over any mare's-nest which he may choose to construct. When you have dropped Miss Morstan I wish you to go on to No. 3 Pinchin Lane, down near the water's edge at Lambeth.",
+    "context": {
+      "next": {
+        "content": "The third house on the right-hand side is a bird-stuffer's: Sherman is the name. You will see a weasel holding a young rabbit in the window. Knock old Sherman up, and tell him, with my compliments, that I want Toby at once. You will bring Toby back in the cab with you.\"",
+        "objectID": "883261c89088ba6408e2104606f5557e"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "b93318293198988c3841ed4897e2d16e"
+      }
+    },
+    "objectID": "49ceaf98a9aa60f3b21c21c118b03d16",
+    "order": 92,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "The third house on the right-hand side is a bird-stuffer's: Sherman is the name. You will see a weasel holding a young rabbit in the window. Knock old Sherman up, and tell him, with my compliments, that I want Toby at once. You will bring Toby back in the cab with you.\"",
+    "context": {
+      "next": {
+        "content": "\"A dog, I suppose.\"",
+        "objectID": "a1141c84d8c9e7b4d8562b5d551107a2"
+      },
+      "previous": {
+        "content": "\"Your presence will be of great service to me,\" he answered. \"We shall work the case out independently, and leave this fellow Jones to exult over any mare's-nest which he may choose to construct. When you have dropped Miss Morstan I wish you to go on to No. 3 Pinchin Lane, down near the water's edge at Lambeth.",
+        "objectID": "49ceaf98a9aa60f3b21c21c118b03d16"
+      }
+    },
+    "objectID": "883261c89088ba6408e2104606f5557e",
+    "order": 93,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"A dog, I suppose.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes,—a queer mongrel, with a most amazing power of scent. I would rather have Toby's help than that of the whole detective force of London.\"",
+        "objectID": "7e580818ec3fb4e2e6bc2ac38c8baff8"
+      },
+      "previous": {
+        "content": "The third house on the right-hand side is a bird-stuffer's: Sherman is the name. You will see a weasel holding a young rabbit in the window. Knock old Sherman up, and tell him, with my compliments, that I want Toby at once. You will bring Toby back in the cab with you.\"",
+        "objectID": "883261c89088ba6408e2104606f5557e"
+      }
+    },
+    "objectID": "a1141c84d8c9e7b4d8562b5d551107a2",
+    "order": 94,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"Yes,—a queer mongrel, with a most amazing power of scent. I would rather have Toby's help than that of the whole detective force of London.\"",
+    "context": {
+      "next": {
+        "content": "\"I shall bring him, then,\" said I. \"It is one now. I ought to be back before three, if I can get a fresh horse.\"",
+        "objectID": "fe868082a3b8d4aaf0e5a12d91de7578"
+      },
+      "previous": {
+        "content": "\"A dog, I suppose.\"",
+        "objectID": "a1141c84d8c9e7b4d8562b5d551107a2"
+      }
+    },
+    "objectID": "7e580818ec3fb4e2e6bc2ac38c8baff8",
+    "order": 95,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"I shall bring him, then,\" said I. \"It is one now. I ought to be back before three, if I can get a fresh horse.\"",
+    "context": {
+      "next": {
+        "content": "\"And I,\" said Holmes, \"shall see what I can learn from Mrs. Bernstone, and from the Indian servant, who, Mr. Thaddeus tell me, sleeps in the next garret. Then I shall study the great Jones's methods and listen to his not too delicate sarcasms. 'Wir sind gewohnt das die Menschen verhoehnen was sie nicht verstehen.",
+        "objectID": "948537be8ff4f74ec23b9fa6dc79f63f"
+      },
+      "previous": {
+        "content": "\"Yes,—a queer mongrel, with a most amazing power of scent. I would rather have Toby's help than that of the whole detective force of London.\"",
+        "objectID": "7e580818ec3fb4e2e6bc2ac38c8baff8"
+      }
+    },
+    "objectID": "fe868082a3b8d4aaf0e5a12d91de7578",
+    "order": 96,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "\"And I,\" said Holmes, \"shall see what I can learn from Mrs. Bernstone, and from the Indian servant, who, Mr. Thaddeus tell me, sleeps in the next garret. Then I shall study the great Jones's methods and listen to his not too delicate sarcasms. 'Wir sind gewohnt das die Menschen verhoehnen was sie nicht verstehen.",
+    "context": {
+      "next": {
+        "content": "' Goethe is always pithy.\"",
+        "objectID": "d9df97d599cc180e113db70acc9f049a"
+      },
+      "previous": {
+        "content": "\"I shall bring him, then,\" said I. \"It is one now. I ought to be back before three, if I can get a fresh horse.\"",
+        "objectID": "fe868082a3b8d4aaf0e5a12d91de7578"
+      }
+    },
+    "objectID": "948537be8ff4f74ec23b9fa6dc79f63f",
+    "order": 97,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter VI. Sherlock Holmes Gives a Demonstration",
+    "chapterOrder": 6,
+    "content": "' Goethe is always pithy.\"",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "\"And I,\" said Holmes, \"shall see what I can learn from Mrs. Bernstone, and from the Indian servant, who, Mr. Thaddeus tell me, sleeps in the next garret. Then I shall study the great Jones's methods and listen to his not too delicate sarcasms. 'Wir sind gewohnt das die Menschen verhoehnen was sie nicht verstehen.",
+        "objectID": "948537be8ff4f74ec23b9fa6dc79f63f"
+      }
+    },
+    "objectID": "d9df97d599cc180e113db70acc9f049a",
+    "order": 98,
+    "tagName": "P"
+  }
+]

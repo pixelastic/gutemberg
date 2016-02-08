@@ -1,8 +1,4 @@
 #!/usr/bin/env sh
-npm run import -- "./books/a-study-in-scarlet.htm" \
-  --bookOrder=1 \
-  --strategy "scarlet" \
-&& \
-npm run import -- "./books/the-adventures-of-sherlock-holmes.htm" \
-  --bookOrder=2 \
-  --strategy "adventures"
+npm run import -- "./books/a-study-in-scarlet.htm" --bookOrder=1 --strategy "stud"
+npm run import -- "./books/the-sign-of-the-four.htm" --bookOrder=2 --strategy "sign"
+npm run import -- "./books/the-adventures-of-sherlock-holmes.htm" --bookOrder=3 --strategy "adve"

@@ -1,0 +1,2432 @@
+[
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "It was late in the afternoon before I woke, strengthened and refreshed. Sherlock Holmes still sat exactly as I had left him, save that he had laid aside his violin and was deep in a book. He looked across at me, as I stirred, and I noticed that his face was dark and troubled.",
+    "context": {
+      "next": {
+        "content": "\"You have slept soundly,\" he said. \"I feared that our talk would wake you.\"",
+        "objectID": "0dd2454fef64b8ded40a781167a94835"
+      },
+      "previous": null
+    },
+    "objectID": "4b7a0bb37883919ac286629659616e44",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"You have slept soundly,\" he said. \"I feared that our talk would wake you.\"",
+    "context": {
+      "next": {
+        "content": "\"I heard nothing,\" I answered. \"Have you had fresh news, then?\"",
+        "objectID": "69c4741545b4340bc27d2ad3e49ef43c"
+      },
+      "previous": {
+        "content": "It was late in the afternoon before I woke, strengthened and refreshed. Sherlock Holmes still sat exactly as I had left him, save that he had laid aside his violin and was deep in a book. He looked across at me, as I stirred, and I noticed that his face was dark and troubled.",
+        "objectID": "4b7a0bb37883919ac286629659616e44"
+      }
+    },
+    "objectID": "0dd2454fef64b8ded40a781167a94835",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"I heard nothing,\" I answered. \"Have you had fresh news, then?\"",
+    "context": {
+      "next": {
+        "content": "\"Unfortunately, no. I confess that I am surprised and disappointed. I expected something definite by this time. Wiggins has just been up to report. He says that no trace can be found of the launch. It is a provoking check, for every hour is of importance.\"",
+        "objectID": "732db734599b6549b70356df4e07530d"
+      },
+      "previous": {
+        "content": "\"You have slept soundly,\" he said. \"I feared that our talk would wake you.\"",
+        "objectID": "0dd2454fef64b8ded40a781167a94835"
+      }
+    },
+    "objectID": "69c4741545b4340bc27d2ad3e49ef43c",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Unfortunately, no. I confess that I am surprised and disappointed. I expected something definite by this time. Wiggins has just been up to report. He says that no trace can be found of the launch. It is a provoking check, for every hour is of importance.\"",
+    "context": {
+      "next": {
+        "content": "\"Can I do anything? I am perfectly fresh now, and quite ready for another night's outing.\"",
+        "objectID": "070ede8b891cd9def55f12dde17f3299"
+      },
+      "previous": {
+        "content": "\"I heard nothing,\" I answered. \"Have you had fresh news, then?\"",
+        "objectID": "69c4741545b4340bc27d2ad3e49ef43c"
+      }
+    },
+    "objectID": "732db734599b6549b70356df4e07530d",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Can I do anything? I am perfectly fresh now, and quite ready for another night's outing.\"",
+    "context": {
+      "next": {
+        "content": "\"No, we can do nothing. We can only wait. If we go ourselves, the message might come in our absence, and delay be caused. You can do what you will, but I must remain on guard.\"",
+        "objectID": "915949dd9531a5026a5bebdb357e932e"
+      },
+      "previous": {
+        "content": "\"Unfortunately, no. I confess that I am surprised and disappointed. I expected something definite by this time. Wiggins has just been up to report. He says that no trace can be found of the launch. It is a provoking check, for every hour is of importance.\"",
+        "objectID": "732db734599b6549b70356df4e07530d"
+      }
+    },
+    "objectID": "070ede8b891cd9def55f12dde17f3299",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"No, we can do nothing. We can only wait. If we go ourselves, the message might come in our absence, and delay be caused. You can do what you will, but I must remain on guard.\"",
+    "context": {
+      "next": {
+        "content": "\"Then I shall run over to Camberwell and call upon Mrs. Cecil Forrester. She asked me to, yesterday.\"",
+        "objectID": "7f38d10083b3f28e6d735492dbfefbcd"
+      },
+      "previous": {
+        "content": "\"Can I do anything? I am perfectly fresh now, and quite ready for another night's outing.\"",
+        "objectID": "070ede8b891cd9def55f12dde17f3299"
+      }
+    },
+    "objectID": "915949dd9531a5026a5bebdb357e932e",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Then I shall run over to Camberwell and call upon Mrs. Cecil Forrester. She asked me to, yesterday.\"",
+    "context": {
+      "next": {
+        "content": "\"On Mrs. Cecil Forrester?\" asked Holmes, with the twinkle of a smile in his eyes.",
+        "objectID": "df75f36afe17afae5e73da2e322d933c"
+      },
+      "previous": {
+        "content": "\"No, we can do nothing. We can only wait. If we go ourselves, the message might come in our absence, and delay be caused. You can do what you will, but I must remain on guard.\"",
+        "objectID": "915949dd9531a5026a5bebdb357e932e"
+      }
+    },
+    "objectID": "7f38d10083b3f28e6d735492dbfefbcd",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"On Mrs. Cecil Forrester?\" asked Holmes, with the twinkle of a smile in his eyes.",
+    "context": {
+      "next": {
+        "content": "\"Well, of course Miss Morstan too. They were anxious to hear what happened.\"",
+        "objectID": "f77976c0303cc527d21f0f4a6d0f449d"
+      },
+      "previous": {
+        "content": "\"Then I shall run over to Camberwell and call upon Mrs. Cecil Forrester. She asked me to, yesterday.\"",
+        "objectID": "7f38d10083b3f28e6d735492dbfefbcd"
+      }
+    },
+    "objectID": "df75f36afe17afae5e73da2e322d933c",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Well, of course Miss Morstan too. They were anxious to hear what happened.\"",
+    "context": {
+      "next": {
+        "content": "\"I would not tell them too much,\" said Holmes. \"Women are never to be entirely trusted,—not the best of them.\"",
+        "objectID": "4bc45f805c700449ff5f9fe843ae4ae1"
+      },
+      "previous": {
+        "content": "\"On Mrs. Cecil Forrester?\" asked Holmes, with the twinkle of a smile in his eyes.",
+        "objectID": "df75f36afe17afae5e73da2e322d933c"
+      }
+    },
+    "objectID": "f77976c0303cc527d21f0f4a6d0f449d",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"I would not tell them too much,\" said Holmes. \"Women are never to be entirely trusted,—not the best of them.\"",
+    "context": {
+      "next": {
+        "content": "I did not pause to argue over this atrocious sentiment. \"I shall be back in an hour or two,\" I remarked.",
+        "objectID": "956e62c2e6b80bcaf7aebec7065926d4"
+      },
+      "previous": {
+        "content": "\"Well, of course Miss Morstan too. They were anxious to hear what happened.\"",
+        "objectID": "f77976c0303cc527d21f0f4a6d0f449d"
+      }
+    },
+    "objectID": "4bc45f805c700449ff5f9fe843ae4ae1",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "I did not pause to argue over this atrocious sentiment. \"I shall be back in an hour or two,\" I remarked.",
+    "context": {
+      "next": {
+        "content": "\"All right! Good luck! But, I say, if you are crossing the river you may as well return Toby, for I don't think it is at all likely that we shall have any use for him now.\"",
+        "objectID": "d51d43e79e533d6aeca659711bae5fe3"
+      },
+      "previous": {
+        "content": "\"I would not tell them too much,\" said Holmes. \"Women are never to be entirely trusted,—not the best of them.\"",
+        "objectID": "4bc45f805c700449ff5f9fe843ae4ae1"
+      }
+    },
+    "objectID": "956e62c2e6b80bcaf7aebec7065926d4",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"All right! Good luck! But, I say, if you are crossing the river you may as well return Toby, for I don't think it is at all likely that we shall have any use for him now.\"",
+    "context": {
+      "next": {
+        "content": "I took our mongrel accordingly, and left him, together with a half-sovereign, at the old naturalist's in Pinchin Lane. At Camberwell I found Miss Morstan a little weary after her night's adventures, but very eager to hear the news. Mrs. Forrester, too, was full of curiosity. I told them all that we had done, suppressing, however, the more dreadful parts of the tragedy.",
+        "objectID": "2b530c5ba275bd7e988eb4e0fe5777b4"
+      },
+      "previous": {
+        "content": "I did not pause to argue over this atrocious sentiment. \"I shall be back in an hour or two,\" I remarked.",
+        "objectID": "956e62c2e6b80bcaf7aebec7065926d4"
+      }
+    },
+    "objectID": "d51d43e79e533d6aeca659711bae5fe3",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "I took our mongrel accordingly, and left him, together with a half-sovereign, at the old naturalist's in Pinchin Lane. At Camberwell I found Miss Morstan a little weary after her night's adventures, but very eager to hear the news. Mrs. Forrester, too, was full of curiosity. I told them all that we had done, suppressing, however, the more dreadful parts of the tragedy.",
+    "context": {
+      "next": {
+        "content": "Thus, although I spoke of Mr. Sholto's death, I said nothing of the exact manner and method of it. With all my omissions, however, there was enough to startle and amaze them.",
+        "objectID": "d59b14f3ccdb9ce137986c7ebcd49a3f"
+      },
+      "previous": {
+        "content": "\"All right! Good luck! But, I say, if you are crossing the river you may as well return Toby, for I don't think it is at all likely that we shall have any use for him now.\"",
+        "objectID": "d51d43e79e533d6aeca659711bae5fe3"
+      }
+    },
+    "objectID": "2b530c5ba275bd7e988eb4e0fe5777b4",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "Thus, although I spoke of Mr. Sholto's death, I said nothing of the exact manner and method of it. With all my omissions, however, there was enough to startle and amaze them.",
+    "context": {
+      "next": {
+        "content": "\"It is a romance!\" cried Mrs. Forrester. \"An injured lady, half a million in treasure, a black cannibal, and a wooden-legged ruffian. They take the place of the conventional dragon or wicked earl.\"",
+        "objectID": "be15af53abde994d885067c499e57f7d"
+      },
+      "previous": {
+        "content": "I took our mongrel accordingly, and left him, together with a half-sovereign, at the old naturalist's in Pinchin Lane. At Camberwell I found Miss Morstan a little weary after her night's adventures, but very eager to hear the news. Mrs. Forrester, too, was full of curiosity. I told them all that we had done, suppressing, however, the more dreadful parts of the tragedy.",
+        "objectID": "2b530c5ba275bd7e988eb4e0fe5777b4"
+      }
+    },
+    "objectID": "d59b14f3ccdb9ce137986c7ebcd49a3f",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"It is a romance!\" cried Mrs. Forrester. \"An injured lady, half a million in treasure, a black cannibal, and a wooden-legged ruffian. They take the place of the conventional dragon or wicked earl.\"",
+    "context": {
+      "next": {
+        "content": "\"And two knight-errants to the rescue,\" added Miss Morstan, with a bright glance at me.",
+        "objectID": "da321aad240eb4ec023fea0606e78428"
+      },
+      "previous": {
+        "content": "Thus, although I spoke of Mr. Sholto's death, I said nothing of the exact manner and method of it. With all my omissions, however, there was enough to startle and amaze them.",
+        "objectID": "d59b14f3ccdb9ce137986c7ebcd49a3f"
+      }
+    },
+    "objectID": "be15af53abde994d885067c499e57f7d",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"And two knight-errants to the rescue,\" added Miss Morstan, with a bright glance at me.",
+    "context": {
+      "next": {
+        "content": "\"Why, Mary, your fortune depends upon the issue of this search. I don't think that you are nearly excited enough. Just imagine what it must be to be so rich, and to have the world at your feet!\"",
+        "objectID": "97c59c1cd0c96c96b5f3ad25d9937f47"
+      },
+      "previous": {
+        "content": "\"It is a romance!\" cried Mrs. Forrester. \"An injured lady, half a million in treasure, a black cannibal, and a wooden-legged ruffian. They take the place of the conventional dragon or wicked earl.\"",
+        "objectID": "be15af53abde994d885067c499e57f7d"
+      }
+    },
+    "objectID": "da321aad240eb4ec023fea0606e78428",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Why, Mary, your fortune depends upon the issue of this search. I don't think that you are nearly excited enough. Just imagine what it must be to be so rich, and to have the world at your feet!\"",
+    "context": {
+      "next": {
+        "content": "It sent a little thrill of joy to my heart to notice that she showed no sign of elation at the prospect. On the contrary, she gave a toss of her proud head, as though the matter were one in which she took small interest.",
+        "objectID": "6659ee273c90119f3406bb5e731d9d05"
+      },
+      "previous": {
+        "content": "\"And two knight-errants to the rescue,\" added Miss Morstan, with a bright glance at me.",
+        "objectID": "da321aad240eb4ec023fea0606e78428"
+      }
+    },
+    "objectID": "97c59c1cd0c96c96b5f3ad25d9937f47",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "It sent a little thrill of joy to my heart to notice that she showed no sign of elation at the prospect. On the contrary, she gave a toss of her proud head, as though the matter were one in which she took small interest.",
+    "context": {
+      "next": {
+        "content": "\"It is for Mr. Thaddeus Sholto that I am anxious,\" she said. \"Nothing else is of any consequence; but I think that he has behaved most kindly and honorably throughout. It is our duty to clear him of this dreadful and unfounded charge.\"",
+        "objectID": "b478ee5c775906e0933c49585cd272b6"
+      },
+      "previous": {
+        "content": "\"Why, Mary, your fortune depends upon the issue of this search. I don't think that you are nearly excited enough. Just imagine what it must be to be so rich, and to have the world at your feet!\"",
+        "objectID": "97c59c1cd0c96c96b5f3ad25d9937f47"
+      }
+    },
+    "objectID": "6659ee273c90119f3406bb5e731d9d05",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"It is for Mr. Thaddeus Sholto that I am anxious,\" she said. \"Nothing else is of any consequence; but I think that he has behaved most kindly and honorably throughout. It is our duty to clear him of this dreadful and unfounded charge.\"",
+    "context": {
+      "next": {
+        "content": "It was evening before I left Camberwell, and quite dark by the time I reached home. My companion's book and pipe lay by his chair, but he had disappeared. I looked about in the hope of seeing a note, but there was none.",
+        "objectID": "73ee73b7ab44e62facc3541228740cb7"
+      },
+      "previous": {
+        "content": "It sent a little thrill of joy to my heart to notice that she showed no sign of elation at the prospect. On the contrary, she gave a toss of her proud head, as though the matter were one in which she took small interest.",
+        "objectID": "6659ee273c90119f3406bb5e731d9d05"
+      }
+    },
+    "objectID": "b478ee5c775906e0933c49585cd272b6",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "It was evening before I left Camberwell, and quite dark by the time I reached home. My companion's book and pipe lay by his chair, but he had disappeared. I looked about in the hope of seeing a note, but there was none.",
+    "context": {
+      "next": {
+        "content": "\"I suppose that Mr. Sherlock Holmes has gone out,\" I said to Mrs. Hudson as she came up to lower the blinds.",
+        "objectID": "4a974b46bbe7e5787944b31e56c14ddb"
+      },
+      "previous": {
+        "content": "\"It is for Mr. Thaddeus Sholto that I am anxious,\" she said. \"Nothing else is of any consequence; but I think that he has behaved most kindly and honorably throughout. It is our duty to clear him of this dreadful and unfounded charge.\"",
+        "objectID": "b478ee5c775906e0933c49585cd272b6"
+      }
+    },
+    "objectID": "73ee73b7ab44e62facc3541228740cb7",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"I suppose that Mr. Sherlock Holmes has gone out,\" I said to Mrs. Hudson as she came up to lower the blinds.",
+    "context": {
+      "next": {
+        "content": "\"No, sir. He has gone to his room, sir. Do you know, sir,\" sinking her voice into an impressive whisper, \"I am afraid for his health?\"",
+        "objectID": "b2faf33bff90786a917ef110e8b6af7f"
+      },
+      "previous": {
+        "content": "It was evening before I left Camberwell, and quite dark by the time I reached home. My companion's book and pipe lay by his chair, but he had disappeared. I looked about in the hope of seeing a note, but there was none.",
+        "objectID": "73ee73b7ab44e62facc3541228740cb7"
+      }
+    },
+    "objectID": "4a974b46bbe7e5787944b31e56c14ddb",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"No, sir. He has gone to his room, sir. Do you know, sir,\" sinking her voice into an impressive whisper, \"I am afraid for his health?\"",
+    "context": {
+      "next": {
+        "content": "\"Why so, Mrs. Hudson?\"",
+        "objectID": "8611bd892d69a6ff85381e17b6370765"
+      },
+      "previous": {
+        "content": "\"I suppose that Mr. Sherlock Holmes has gone out,\" I said to Mrs. Hudson as she came up to lower the blinds.",
+        "objectID": "4a974b46bbe7e5787944b31e56c14ddb"
+      }
+    },
+    "objectID": "b2faf33bff90786a917ef110e8b6af7f",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Why so, Mrs. Hudson?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, he's that strange, sir. After you was gone he walked and he walked, up and down, and up and down, until I was weary of the sound of his footstep. Then I heard him talking to himself and muttering, and every time the bell rang out he came on the stairhead, with 'What is that, Mrs. Hudson?' And now he has slammed off to his room, but I can hear him walking away the same as ever.",
+        "objectID": "eb1173dbeb6756f5cdcaf8afe50116cd"
+      },
+      "previous": {
+        "content": "\"No, sir. He has gone to his room, sir. Do you know, sir,\" sinking her voice into an impressive whisper, \"I am afraid for his health?\"",
+        "objectID": "b2faf33bff90786a917ef110e8b6af7f"
+      }
+    },
+    "objectID": "8611bd892d69a6ff85381e17b6370765",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Well, he's that strange, sir. After you was gone he walked and he walked, up and down, and up and down, until I was weary of the sound of his footstep. Then I heard him talking to himself and muttering, and every time the bell rang out he came on the stairhead, with 'What is that, Mrs. Hudson?' And now he has slammed off to his room, but I can hear him walking away the same as ever.",
+    "context": {
+      "next": {
+        "content": "I hope he's not going to be ill, sir. I ventured to say something to him about cooling medicine, but he turned on me, sir, with such a look that I don't know how ever I got out of the room.\"",
+        "objectID": "5bda4fbc47c59d450a8ecdd2869421c9"
+      },
+      "previous": {
+        "content": "\"Why so, Mrs. Hudson?\"",
+        "objectID": "8611bd892d69a6ff85381e17b6370765"
+      }
+    },
+    "objectID": "eb1173dbeb6756f5cdcaf8afe50116cd",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "I hope he's not going to be ill, sir. I ventured to say something to him about cooling medicine, but he turned on me, sir, with such a look that I don't know how ever I got out of the room.\"",
+    "context": {
+      "next": {
+        "content": "\"I don't think that you have any cause to be uneasy, Mrs. Hudson,\" I answered. \"I have seen him like this before. He has some small matter upon his mind which makes him restless.\" I tried to speak lightly to our worthy landlady, but I was myself somewhat uneasy when through the long night I still from time to time heard the dull sound of his tread, and knew how his keen spirit was chafing against this involuntary inaction.",
+        "objectID": "dc5f37508e3866e745957005dc905d19"
+      },
+      "previous": {
+        "content": "\"Well, he's that strange, sir. After you was gone he walked and he walked, up and down, and up and down, until I was weary of the sound of his footstep. Then I heard him talking to himself and muttering, and every time the bell rang out he came on the stairhead, with 'What is that, Mrs. Hudson?' And now he has slammed off to his room, but I can hear him walking away the same as ever.",
+        "objectID": "eb1173dbeb6756f5cdcaf8afe50116cd"
+      }
+    },
+    "objectID": "5bda4fbc47c59d450a8ecdd2869421c9",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"I don't think that you have any cause to be uneasy, Mrs. Hudson,\" I answered. \"I have seen him like this before. He has some small matter upon his mind which makes him restless.\" I tried to speak lightly to our worthy landlady, but I was myself somewhat uneasy when through the long night I still from time to time heard the dull sound of his tread, and knew how his keen spirit was chafing against this involuntary inaction.",
+    "context": {
+      "next": {
+        "content": "At breakfast-time he looked worn and haggard, with a little fleck of feverish color upon either cheek.",
+        "objectID": "f6fb29d6c681e367993ff5a88c062050"
+      },
+      "previous": {
+        "content": "I hope he's not going to be ill, sir. I ventured to say something to him about cooling medicine, but he turned on me, sir, with such a look that I don't know how ever I got out of the room.\"",
+        "objectID": "5bda4fbc47c59d450a8ecdd2869421c9"
+      }
+    },
+    "objectID": "dc5f37508e3866e745957005dc905d19",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "At breakfast-time he looked worn and haggard, with a little fleck of feverish color upon either cheek.",
+    "context": {
+      "next": {
+        "content": "\"You are knocking yourself up, old man,\" I remarked. \"I heard you marching about in the night.\"",
+        "objectID": "35e294c8570129a1689c439e2b731bf5"
+      },
+      "previous": {
+        "content": "\"I don't think that you have any cause to be uneasy, Mrs. Hudson,\" I answered. \"I have seen him like this before. He has some small matter upon his mind which makes him restless.\" I tried to speak lightly to our worthy landlady, but I was myself somewhat uneasy when through the long night I still from time to time heard the dull sound of his tread, and knew how his keen spirit was chafing against this involuntary inaction.",
+        "objectID": "dc5f37508e3866e745957005dc905d19"
+      }
+    },
+    "objectID": "f6fb29d6c681e367993ff5a88c062050",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"You are knocking yourself up, old man,\" I remarked. \"I heard you marching about in the night.\"",
+    "context": {
+      "next": {
+        "content": "\"No, I could not sleep,\" he answered. \"This infernal problem is consuming me. It is too much to be balked by so petty an obstacle, when all else had been overcome. I know the men, the launch, everything; and yet I can get no news. I have set other agencies at work, and used every means at my disposal.",
+        "objectID": "cb5b99b967d16d80c678a3e831b7ea95"
+      },
+      "previous": {
+        "content": "At breakfast-time he looked worn and haggard, with a little fleck of feverish color upon either cheek.",
+        "objectID": "f6fb29d6c681e367993ff5a88c062050"
+      }
+    },
+    "objectID": "35e294c8570129a1689c439e2b731bf5",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"No, I could not sleep,\" he answered. \"This infernal problem is consuming me. It is too much to be balked by so petty an obstacle, when all else had been overcome. I know the men, the launch, everything; and yet I can get no news. I have set other agencies at work, and used every means at my disposal.",
+    "context": {
+      "next": {
+        "content": "The whole river has been searched on either side, but there is no news, nor has Mrs. Smith heard of her husband. I shall come to the conclusion soon that they have scuttled the craft. But there are objections to that.\"",
+        "objectID": "836ebb9a3d510c91f907097a49c74fed"
+      },
+      "previous": {
+        "content": "\"You are knocking yourself up, old man,\" I remarked. \"I heard you marching about in the night.\"",
+        "objectID": "35e294c8570129a1689c439e2b731bf5"
+      }
+    },
+    "objectID": "cb5b99b967d16d80c678a3e831b7ea95",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "The whole river has been searched on either side, but there is no news, nor has Mrs. Smith heard of her husband. I shall come to the conclusion soon that they have scuttled the craft. But there are objections to that.\"",
+    "context": {
+      "next": {
+        "content": "\"Or that Mrs. Smith has put us on a wrong scent.\"",
+        "objectID": "ecd7918f0f5d1afd5e509b28786310bc"
+      },
+      "previous": {
+        "content": "\"No, I could not sleep,\" he answered. \"This infernal problem is consuming me. It is too much to be balked by so petty an obstacle, when all else had been overcome. I know the men, the launch, everything; and yet I can get no news. I have set other agencies at work, and used every means at my disposal.",
+        "objectID": "cb5b99b967d16d80c678a3e831b7ea95"
+      }
+    },
+    "objectID": "836ebb9a3d510c91f907097a49c74fed",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Or that Mrs. Smith has put us on a wrong scent.\"",
+    "context": {
+      "next": {
+        "content": "\"No, I think that may be dismissed. I had inquiries made, and there is a launch of that description.\"",
+        "objectID": "4a71f580368ad2a53b5bd29cd5ee75af"
+      },
+      "previous": {
+        "content": "The whole river has been searched on either side, but there is no news, nor has Mrs. Smith heard of her husband. I shall come to the conclusion soon that they have scuttled the craft. But there are objections to that.\"",
+        "objectID": "836ebb9a3d510c91f907097a49c74fed"
+      }
+    },
+    "objectID": "ecd7918f0f5d1afd5e509b28786310bc",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"No, I think that may be dismissed. I had inquiries made, and there is a launch of that description.\"",
+    "context": {
+      "next": {
+        "content": "\"Could it have gone up the river?\"",
+        "objectID": "12a176efae51de967f13b21336005459"
+      },
+      "previous": {
+        "content": "\"Or that Mrs. Smith has put us on a wrong scent.\"",
+        "objectID": "ecd7918f0f5d1afd5e509b28786310bc"
+      }
+    },
+    "objectID": "4a71f580368ad2a53b5bd29cd5ee75af",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Could it have gone up the river?\"",
+    "context": {
+      "next": {
+        "content": "\"I have considered that possibility too, and there is a search-party who will work up as far as Richmond. If no news comes to-day, I shall start off myself to-morrow, and go for the men rather than the boat. But surely, surely, we shall hear something.\"",
+        "objectID": "3ba525105dd1022b0b058e0fae17b9de"
+      },
+      "previous": {
+        "content": "\"No, I think that may be dismissed. I had inquiries made, and there is a launch of that description.\"",
+        "objectID": "4a71f580368ad2a53b5bd29cd5ee75af"
+      }
+    },
+    "objectID": "12a176efae51de967f13b21336005459",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"I have considered that possibility too, and there is a search-party who will work up as far as Richmond. If no news comes to-day, I shall start off myself to-morrow, and go for the men rather than the boat. But surely, surely, we shall hear something.\"",
+    "context": {
+      "next": {
+        "content": "We did not, however. Not a word came to us either from Wiggins or from the other agencies. There were articles in most of the papers upon the Norwood tragedy. They all appeared to be rather hostile to the unfortunate Thaddeus Sholto. No fresh details were to be found, however, in any of them, save that an inquest was to be held upon the following day.",
+        "objectID": "9ab123096320b3129b4ca6e455d47d96"
+      },
+      "previous": {
+        "content": "\"Could it have gone up the river?\"",
+        "objectID": "12a176efae51de967f13b21336005459"
+      }
+    },
+    "objectID": "3ba525105dd1022b0b058e0fae17b9de",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "We did not, however. Not a word came to us either from Wiggins or from the other agencies. There were articles in most of the papers upon the Norwood tragedy. They all appeared to be rather hostile to the unfortunate Thaddeus Sholto. No fresh details were to be found, however, in any of them, save that an inquest was to be held upon the following day.",
+    "context": {
+      "next": {
+        "content": "I walked over to Camberwell in the evening to report our ill success to the ladies, and on my return I found Holmes dejected and somewhat morose. He would hardly reply to my questions, and busied himself all evening in an abstruse chemical analysis which involved much heating of retorts and distilling of vapors, ending at last in a smell which fairly drove me out of the apartment.",
+        "objectID": "82684b4c4167abbbf5b5be58a47f1768"
+      },
+      "previous": {
+        "content": "\"I have considered that possibility too, and there is a search-party who will work up as far as Richmond. If no news comes to-day, I shall start off myself to-morrow, and go for the men rather than the boat. But surely, surely, we shall hear something.\"",
+        "objectID": "3ba525105dd1022b0b058e0fae17b9de"
+      }
+    },
+    "objectID": "9ab123096320b3129b4ca6e455d47d96",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "I walked over to Camberwell in the evening to report our ill success to the ladies, and on my return I found Holmes dejected and somewhat morose. He would hardly reply to my questions, and busied himself all evening in an abstruse chemical analysis which involved much heating of retorts and distilling of vapors, ending at last in a smell which fairly drove me out of the apartment.",
+    "context": {
+      "next": {
+        "content": "Up to the small hours of the morning I could hear the clinking of his test-tubes which told me that he was still engaged in his malodorous experiment.",
+        "objectID": "d06ad07be78c2f68bd27db9dbfc895de"
+      },
+      "previous": {
+        "content": "We did not, however. Not a word came to us either from Wiggins or from the other agencies. There were articles in most of the papers upon the Norwood tragedy. They all appeared to be rather hostile to the unfortunate Thaddeus Sholto. No fresh details were to be found, however, in any of them, save that an inquest was to be held upon the following day.",
+        "objectID": "9ab123096320b3129b4ca6e455d47d96"
+      }
+    },
+    "objectID": "82684b4c4167abbbf5b5be58a47f1768",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "Up to the small hours of the morning I could hear the clinking of his test-tubes which told me that he was still engaged in his malodorous experiment.",
+    "context": {
+      "next": {
+        "content": "In the early dawn I woke with a start, and was surprised to find him standing by my bedside, clad in a rude sailor dress with a pea-jacket, and a coarse red scarf round his neck.",
+        "objectID": "8d7d4b1432e417e6f68ac55d385da9ca"
+      },
+      "previous": {
+        "content": "I walked over to Camberwell in the evening to report our ill success to the ladies, and on my return I found Holmes dejected and somewhat morose. He would hardly reply to my questions, and busied himself all evening in an abstruse chemical analysis which involved much heating of retorts and distilling of vapors, ending at last in a smell which fairly drove me out of the apartment.",
+        "objectID": "82684b4c4167abbbf5b5be58a47f1768"
+      }
+    },
+    "objectID": "d06ad07be78c2f68bd27db9dbfc895de",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "In the early dawn I woke with a start, and was surprised to find him standing by my bedside, clad in a rude sailor dress with a pea-jacket, and a coarse red scarf round his neck.",
+    "context": {
+      "next": {
+        "content": "\"I am off down the river, Watson,\" said he. \"I have been turning it over in my mind, and I can see only one way out of it. It is worth trying, at all events.\"",
+        "objectID": "2124d4398cac1cc87f6e05e1f3a342dc"
+      },
+      "previous": {
+        "content": "Up to the small hours of the morning I could hear the clinking of his test-tubes which told me that he was still engaged in his malodorous experiment.",
+        "objectID": "d06ad07be78c2f68bd27db9dbfc895de"
+      }
+    },
+    "objectID": "8d7d4b1432e417e6f68ac55d385da9ca",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"I am off down the river, Watson,\" said he. \"I have been turning it over in my mind, and I can see only one way out of it. It is worth trying, at all events.\"",
+    "context": {
+      "next": {
+        "content": "\"Surely I can come with you, then?\" said I.",
+        "objectID": "07a8dcd77f8179a4003a6ae04101edcb"
+      },
+      "previous": {
+        "content": "In the early dawn I woke with a start, and was surprised to find him standing by my bedside, clad in a rude sailor dress with a pea-jacket, and a coarse red scarf round his neck.",
+        "objectID": "8d7d4b1432e417e6f68ac55d385da9ca"
+      }
+    },
+    "objectID": "2124d4398cac1cc87f6e05e1f3a342dc",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Surely I can come with you, then?\" said I.",
+    "context": {
+      "next": {
+        "content": "\"No; you can be much more useful if you will remain here as my representative. I am loath to go, for it is quite on the cards that some message may come during the day, though Wiggins was despondent about it last night. I want you to open all notes and telegrams, and to act on your own judgment if any news should come.",
+        "objectID": "4e4c3720d52c8577eefe271af8612720"
+      },
+      "previous": {
+        "content": "\"I am off down the river, Watson,\" said he. \"I have been turning it over in my mind, and I can see only one way out of it. It is worth trying, at all events.\"",
+        "objectID": "2124d4398cac1cc87f6e05e1f3a342dc"
+      }
+    },
+    "objectID": "07a8dcd77f8179a4003a6ae04101edcb",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"No; you can be much more useful if you will remain here as my representative. I am loath to go, for it is quite on the cards that some message may come during the day, though Wiggins was despondent about it last night. I want you to open all notes and telegrams, and to act on your own judgment if any news should come.",
+    "context": {
+      "next": {
+        "content": "Can I rely upon you?\"",
+        "objectID": "ff6f579a2fa2bf28d542a771601309a8"
+      },
+      "previous": {
+        "content": "\"Surely I can come with you, then?\" said I.",
+        "objectID": "07a8dcd77f8179a4003a6ae04101edcb"
+      }
+    },
+    "objectID": "4e4c3720d52c8577eefe271af8612720",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "Can I rely upon you?\"",
+    "context": {
+      "next": {
+        "content": "\"Most certainly.\"",
+        "objectID": "a29fd97debdb64a4e6caa4aaf32efb06"
+      },
+      "previous": {
+        "content": "\"No; you can be much more useful if you will remain here as my representative. I am loath to go, for it is quite on the cards that some message may come during the day, though Wiggins was despondent about it last night. I want you to open all notes and telegrams, and to act on your own judgment if any news should come.",
+        "objectID": "4e4c3720d52c8577eefe271af8612720"
+      }
+    },
+    "objectID": "ff6f579a2fa2bf28d542a771601309a8",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Most certainly.\"",
+    "context": {
+      "next": {
+        "content": "\"I am afraid that you will not be able to wire to me, for I can hardly tell yet where I may find myself. If I am in luck, however, I may not be gone so very long. I shall have news of some sort or other before I get back.\"",
+        "objectID": "99dba5c2bae9c4e3ff03dcb41d107245"
+      },
+      "previous": {
+        "content": "Can I rely upon you?\"",
+        "objectID": "ff6f579a2fa2bf28d542a771601309a8"
+      }
+    },
+    "objectID": "a29fd97debdb64a4e6caa4aaf32efb06",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"I am afraid that you will not be able to wire to me, for I can hardly tell yet where I may find myself. If I am in luck, however, I may not be gone so very long. I shall have news of some sort or other before I get back.\"",
+    "context": {
+      "next": {
+        "content": "I had heard nothing of him by breakfast-time. On opening the Standard, however, I found that there was a fresh allusion to the business. \"With reference to the Upper Norwood tragedy,\" it remarked, \"we have reason to believe that the matter promises to be even more complex and mysterious than was originally supposed.",
+        "objectID": "4c735dfd35e97c55f44d30318d0fe78b"
+      },
+      "previous": {
+        "content": "\"Most certainly.\"",
+        "objectID": "a29fd97debdb64a4e6caa4aaf32efb06"
+      }
+    },
+    "objectID": "99dba5c2bae9c4e3ff03dcb41d107245",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "I had heard nothing of him by breakfast-time. On opening the Standard, however, I found that there was a fresh allusion to the business. \"With reference to the Upper Norwood tragedy,\" it remarked, \"we have reason to believe that the matter promises to be even more complex and mysterious than was originally supposed.",
+    "context": {
+      "next": {
+        "content": "Fresh evidence has shown that it is quite impossible that Mr. Thaddeus Sholto could have been in any way concerned in the matter. He and the housekeeper, Mrs. Bernstone, were both released yesterday evening. It is believed, however, that the police have a clue as to the real culprits, and that it is being prosecuted by Mr.",
+        "objectID": "165e67e5232bac6e7b2096162e5a2076"
+      },
+      "previous": {
+        "content": "\"I am afraid that you will not be able to wire to me, for I can hardly tell yet where I may find myself. If I am in luck, however, I may not be gone so very long. I shall have news of some sort or other before I get back.\"",
+        "objectID": "99dba5c2bae9c4e3ff03dcb41d107245"
+      }
+    },
+    "objectID": "4c735dfd35e97c55f44d30318d0fe78b",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "Fresh evidence has shown that it is quite impossible that Mr. Thaddeus Sholto could have been in any way concerned in the matter. He and the housekeeper, Mrs. Bernstone, were both released yesterday evening. It is believed, however, that the police have a clue as to the real culprits, and that it is being prosecuted by Mr.",
+    "context": {
+      "next": {
+        "content": "Athelney Jones, of Scotland Yard, with all his well-known energy and sagacity. Further arrests may be expected at any moment.\"",
+        "objectID": "7bdc5ea65ceb33f8b9347f8904663e08"
+      },
+      "previous": {
+        "content": "I had heard nothing of him by breakfast-time. On opening the Standard, however, I found that there was a fresh allusion to the business. \"With reference to the Upper Norwood tragedy,\" it remarked, \"we have reason to believe that the matter promises to be even more complex and mysterious than was originally supposed.",
+        "objectID": "4c735dfd35e97c55f44d30318d0fe78b"
+      }
+    },
+    "objectID": "165e67e5232bac6e7b2096162e5a2076",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "Athelney Jones, of Scotland Yard, with all his well-known energy and sagacity. Further arrests may be expected at any moment.\"",
+    "context": {
+      "next": {
+        "content": "\"That is satisfactory so far as it goes,\" thought I. \"Friend Sholto is safe, at any rate. I wonder what the fresh clue may be; though it seems to be a stereotyped form whenever the police have made a blunder.\"",
+        "objectID": "44137e3bb542371107deaf03b7be6f7b"
+      },
+      "previous": {
+        "content": "Fresh evidence has shown that it is quite impossible that Mr. Thaddeus Sholto could have been in any way concerned in the matter. He and the housekeeper, Mrs. Bernstone, were both released yesterday evening. It is believed, however, that the police have a clue as to the real culprits, and that it is being prosecuted by Mr.",
+        "objectID": "165e67e5232bac6e7b2096162e5a2076"
+      }
+    },
+    "objectID": "7bdc5ea65ceb33f8b9347f8904663e08",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"That is satisfactory so far as it goes,\" thought I. \"Friend Sholto is safe, at any rate. I wonder what the fresh clue may be; though it seems to be a stereotyped form whenever the police have made a blunder.\"",
+    "context": {
+      "next": {
+        "content": "I tossed the paper down upon the table, but at that moment my eye caught an advertisement in the agony column. It ran in this way:",
+        "objectID": "681ebb7a0d6264984d0f8b4d7ed7ea20"
+      },
+      "previous": {
+        "content": "Athelney Jones, of Scotland Yard, with all his well-known energy and sagacity. Further arrests may be expected at any moment.\"",
+        "objectID": "7bdc5ea65ceb33f8b9347f8904663e08"
+      }
+    },
+    "objectID": "44137e3bb542371107deaf03b7be6f7b",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "I tossed the paper down upon the table, but at that moment my eye caught an advertisement in the agony column. It ran in this way:",
+    "context": {
+      "next": {
+        "content": "\"Lost.—Whereas Mordecai Smith, boatman, and his son, Jim, left Smith's Wharf at or about three o'clock last Tuesday morning in the steam launch Aurora, black with two red stripes, funnel black with a white band, the sum of five pounds will be paid to any one who can give information to Mrs. Smith, at Smith's Wharf, or at 221b Baker Street, as to the whereabouts of the said Mordecai Smith and the launch Aurora.",
+        "objectID": "b8650ba28087e3df2f92d253d453861b"
+      },
+      "previous": {
+        "content": "\"That is satisfactory so far as it goes,\" thought I. \"Friend Sholto is safe, at any rate. I wonder what the fresh clue may be; though it seems to be a stereotyped form whenever the police have made a blunder.\"",
+        "objectID": "44137e3bb542371107deaf03b7be6f7b"
+      }
+    },
+    "objectID": "681ebb7a0d6264984d0f8b4d7ed7ea20",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Lost.—Whereas Mordecai Smith, boatman, and his son, Jim, left Smith's Wharf at or about three o'clock last Tuesday morning in the steam launch Aurora, black with two red stripes, funnel black with a white band, the sum of five pounds will be paid to any one who can give information to Mrs. Smith, at Smith's Wharf, or at 221b Baker Street, as to the whereabouts of the said Mordecai Smith and the launch Aurora.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "7c38b959abd4a72d671df2e1755be51e"
+      },
+      "previous": {
+        "content": "I tossed the paper down upon the table, but at that moment my eye caught an advertisement in the agony column. It ran in this way:",
+        "objectID": "681ebb7a0d6264984d0f8b4d7ed7ea20"
+      }
+    },
+    "objectID": "b8650ba28087e3df2f92d253d453861b",
+    "order": 50,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "This was clearly Holmes's doing. The Baker Street address was enough to prove that. It struck me as rather ingenious, because it might be read by the fugitives without their seeing in it more than the natural anxiety of a wife for her missing husband.",
+        "objectID": "8333c4355191f4af01601939bf5b0c66"
+      },
+      "previous": {
+        "content": "\"Lost.—Whereas Mordecai Smith, boatman, and his son, Jim, left Smith's Wharf at or about three o'clock last Tuesday morning in the steam launch Aurora, black with two red stripes, funnel black with a white band, the sum of five pounds will be paid to any one who can give information to Mrs. Smith, at Smith's Wharf, or at 221b Baker Street, as to the whereabouts of the said Mordecai Smith and the launch Aurora.",
+        "objectID": "b8650ba28087e3df2f92d253d453861b"
+      }
+    },
+    "objectID": "7c38b959abd4a72d671df2e1755be51e",
+    "order": 51,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "This was clearly Holmes's doing. The Baker Street address was enough to prove that. It struck me as rather ingenious, because it might be read by the fugitives without their seeing in it more than the natural anxiety of a wife for her missing husband.",
+    "context": {
+      "next": {
+        "content": "It was a long day. Every time that a knock came to the door, or a sharp step passed in the street, I imagined that it was either Holmes returning or an answer to his advertisement. I tried to read, but my thoughts would wander off to our strange quest and to the ill-assorted and villainous pair whom we were pursuing.",
+        "objectID": "d6b0627ecb2e6be7f0489e39809e804a"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "7c38b959abd4a72d671df2e1755be51e"
+      }
+    },
+    "objectID": "8333c4355191f4af01601939bf5b0c66",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "It was a long day. Every time that a knock came to the door, or a sharp step passed in the street, I imagined that it was either Holmes returning or an answer to his advertisement. I tried to read, but my thoughts would wander off to our strange quest and to the ill-assorted and villainous pair whom we were pursuing.",
+    "context": {
+      "next": {
+        "content": "Could there be, I wondered, some radical flaw in my companion's reasoning. Might he be suffering from some huge self-deception? Was it not possible that his nimble and speculative mind had built up this wild theory upon faulty premises? I had never known him to be wrong; and yet the keenest reasoner may occasionally be deceived.",
+        "objectID": "83f720cc5d91fab79d651ab48e1c4c0c"
+      },
+      "previous": {
+        "content": "This was clearly Holmes's doing. The Baker Street address was enough to prove that. It struck me as rather ingenious, because it might be read by the fugitives without their seeing in it more than the natural anxiety of a wife for her missing husband.",
+        "objectID": "8333c4355191f4af01601939bf5b0c66"
+      }
+    },
+    "objectID": "d6b0627ecb2e6be7f0489e39809e804a",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "Could there be, I wondered, some radical flaw in my companion's reasoning. Might he be suffering from some huge self-deception? Was it not possible that his nimble and speculative mind had built up this wild theory upon faulty premises? I had never known him to be wrong; and yet the keenest reasoner may occasionally be deceived.",
+    "context": {
+      "next": {
+        "content": "He was likely, I thought, to fall into error through the over-refinement of his logic,—his preference for a subtle and bizarre explanation when a plainer and more commonplace one lay ready to his hand. Yet, on the other hand, I had myself seen the evidence, and I had heard the reasons for his deductions.",
+        "objectID": "8a350a12e618476592cf29399ec07793"
+      },
+      "previous": {
+        "content": "It was a long day. Every time that a knock came to the door, or a sharp step passed in the street, I imagined that it was either Holmes returning or an answer to his advertisement. I tried to read, but my thoughts would wander off to our strange quest and to the ill-assorted and villainous pair whom we were pursuing.",
+        "objectID": "d6b0627ecb2e6be7f0489e39809e804a"
+      }
+    },
+    "objectID": "83f720cc5d91fab79d651ab48e1c4c0c",
+    "order": 54,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "He was likely, I thought, to fall into error through the over-refinement of his logic,—his preference for a subtle and bizarre explanation when a plainer and more commonplace one lay ready to his hand. Yet, on the other hand, I had myself seen the evidence, and I had heard the reasons for his deductions.",
+    "context": {
+      "next": {
+        "content": "When I looked back on the long chain of curious circumstances, many of them trivial in themselves, but all tending in the same direction, I could not disguise from myself that even if Holmes's explanation were incorrect the true theory must be equally outre and startling.",
+        "objectID": "e86552afd54db14632bc6efef97db44d"
+      },
+      "previous": {
+        "content": "Could there be, I wondered, some radical flaw in my companion's reasoning. Might he be suffering from some huge self-deception? Was it not possible that his nimble and speculative mind had built up this wild theory upon faulty premises? I had never known him to be wrong; and yet the keenest reasoner may occasionally be deceived.",
+        "objectID": "83f720cc5d91fab79d651ab48e1c4c0c"
+      }
+    },
+    "objectID": "8a350a12e618476592cf29399ec07793",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "When I looked back on the long chain of curious circumstances, many of them trivial in themselves, but all tending in the same direction, I could not disguise from myself that even if Holmes's explanation were incorrect the true theory must be equally outre and startling.",
+    "context": {
+      "next": {
+        "content": "At three o'clock in the afternoon there was a loud peal at the bell, an authoritative voice in the hall, and, to my surprise, no less a person than Mr. Athelney Jones was shown up to me. Very different was he, however, from the brusque and masterful professor of common sense who had taken over the case so confidently at Upper Norwood.",
+        "objectID": "dfe5f1bfca7d3ae32d511f26134004c6"
+      },
+      "previous": {
+        "content": "He was likely, I thought, to fall into error through the over-refinement of his logic,—his preference for a subtle and bizarre explanation when a plainer and more commonplace one lay ready to his hand. Yet, on the other hand, I had myself seen the evidence, and I had heard the reasons for his deductions.",
+        "objectID": "8a350a12e618476592cf29399ec07793"
+      }
+    },
+    "objectID": "e86552afd54db14632bc6efef97db44d",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "At three o'clock in the afternoon there was a loud peal at the bell, an authoritative voice in the hall, and, to my surprise, no less a person than Mr. Athelney Jones was shown up to me. Very different was he, however, from the brusque and masterful professor of common sense who had taken over the case so confidently at Upper Norwood.",
+    "context": {
+      "next": {
+        "content": "His expression was downcast, and his bearing meek and even apologetic.",
+        "objectID": "7e8f7d0905b60a5d1091f7a8ef9559c6"
+      },
+      "previous": {
+        "content": "When I looked back on the long chain of curious circumstances, many of them trivial in themselves, but all tending in the same direction, I could not disguise from myself that even if Holmes's explanation were incorrect the true theory must be equally outre and startling.",
+        "objectID": "e86552afd54db14632bc6efef97db44d"
+      }
+    },
+    "objectID": "dfe5f1bfca7d3ae32d511f26134004c6",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "His expression was downcast, and his bearing meek and even apologetic.",
+    "context": {
+      "next": {
+        "content": "\"Good-day, sir; good-day,\" said he. \"Mr. Sherlock Holmes is out, I understand.\"",
+        "objectID": "829380f2161ee13ee54ebd9863d7277d"
+      },
+      "previous": {
+        "content": "At three o'clock in the afternoon there was a loud peal at the bell, an authoritative voice in the hall, and, to my surprise, no less a person than Mr. Athelney Jones was shown up to me. Very different was he, however, from the brusque and masterful professor of common sense who had taken over the case so confidently at Upper Norwood.",
+        "objectID": "dfe5f1bfca7d3ae32d511f26134004c6"
+      }
+    },
+    "objectID": "7e8f7d0905b60a5d1091f7a8ef9559c6",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Good-day, sir; good-day,\" said he. \"Mr. Sherlock Holmes is out, I understand.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, and I cannot be sure when he will be back. But perhaps you would care to wait. Take that chair and try one of these cigars.\"",
+        "objectID": "2573fccd43315c0896aa9ea168edf9aa"
+      },
+      "previous": {
+        "content": "His expression was downcast, and his bearing meek and even apologetic.",
+        "objectID": "7e8f7d0905b60a5d1091f7a8ef9559c6"
+      }
+    },
+    "objectID": "829380f2161ee13ee54ebd9863d7277d",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Yes, and I cannot be sure when he will be back. But perhaps you would care to wait. Take that chair and try one of these cigars.\"",
+    "context": {
+      "next": {
+        "content": "\"Thank you; I don't mind if I do,\" said he, mopping his face with a red bandanna handkerchief.",
+        "objectID": "841136a7716ad2638bfbec7052586379"
+      },
+      "previous": {
+        "content": "\"Good-day, sir; good-day,\" said he. \"Mr. Sherlock Holmes is out, I understand.\"",
+        "objectID": "829380f2161ee13ee54ebd9863d7277d"
+      }
+    },
+    "objectID": "2573fccd43315c0896aa9ea168edf9aa",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Thank you; I don't mind if I do,\" said he, mopping his face with a red bandanna handkerchief.",
+    "context": {
+      "next": {
+        "content": "\"And a whiskey-and-soda?\"",
+        "objectID": "062d025957e3be242a406f99892b4fb2"
+      },
+      "previous": {
+        "content": "\"Yes, and I cannot be sure when he will be back. But perhaps you would care to wait. Take that chair and try one of these cigars.\"",
+        "objectID": "2573fccd43315c0896aa9ea168edf9aa"
+      }
+    },
+    "objectID": "841136a7716ad2638bfbec7052586379",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"And a whiskey-and-soda?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, half a glass. It is very hot for the time of year; and I have had a good deal to worry and try me. You know my theory about this Norwood case?\"",
+        "objectID": "50862bd23b8893448eba43fc1c4d4d2b"
+      },
+      "previous": {
+        "content": "\"Thank you; I don't mind if I do,\" said he, mopping his face with a red bandanna handkerchief.",
+        "objectID": "841136a7716ad2638bfbec7052586379"
+      }
+    },
+    "objectID": "062d025957e3be242a406f99892b4fb2",
+    "order": 62,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Well, half a glass. It is very hot for the time of year; and I have had a good deal to worry and try me. You know my theory about this Norwood case?\"",
+    "context": {
+      "next": {
+        "content": "\"I remember that you expressed one.\"",
+        "objectID": "9747dbbf6802c8f879d9a758ba7ac925"
+      },
+      "previous": {
+        "content": "\"And a whiskey-and-soda?\"",
+        "objectID": "062d025957e3be242a406f99892b4fb2"
+      }
+    },
+    "objectID": "50862bd23b8893448eba43fc1c4d4d2b",
+    "order": 63,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"I remember that you expressed one.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, I have been obliged to reconsider it. I had my net drawn tightly round Mr. Sholto, sir, when pop he went through a hole in the middle of it. He was able to prove an alibi which could not be shaken. From the time that he left his brother's room he was never out of sight of some one or other. So it could not be he who climbed over roofs and through trap-doors.",
+        "objectID": "6975694b3179fb9efeb1ca5d7e8a75ab"
+      },
+      "previous": {
+        "content": "\"Well, half a glass. It is very hot for the time of year; and I have had a good deal to worry and try me. You know my theory about this Norwood case?\"",
+        "objectID": "50862bd23b8893448eba43fc1c4d4d2b"
+      }
+    },
+    "objectID": "9747dbbf6802c8f879d9a758ba7ac925",
+    "order": 64,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Well, I have been obliged to reconsider it. I had my net drawn tightly round Mr. Sholto, sir, when pop he went through a hole in the middle of it. He was able to prove an alibi which could not be shaken. From the time that he left his brother's room he was never out of sight of some one or other. So it could not be he who climbed over roofs and through trap-doors.",
+    "context": {
+      "next": {
+        "content": "It's a very dark case, and my professional credit is at stake. I should be very glad of a little assistance.\"",
+        "objectID": "da057d3ac95b36cbe71e5af57aad87ca"
+      },
+      "previous": {
+        "content": "\"I remember that you expressed one.\"",
+        "objectID": "9747dbbf6802c8f879d9a758ba7ac925"
+      }
+    },
+    "objectID": "6975694b3179fb9efeb1ca5d7e8a75ab",
+    "order": 65,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "It's a very dark case, and my professional credit is at stake. I should be very glad of a little assistance.\"",
+    "context": {
+      "next": {
+        "content": "\"We all need help sometimes,\" said I.",
+        "objectID": "79ac108387404b476c74e9ad15dbd213"
+      },
+      "previous": {
+        "content": "\"Well, I have been obliged to reconsider it. I had my net drawn tightly round Mr. Sholto, sir, when pop he went through a hole in the middle of it. He was able to prove an alibi which could not be shaken. From the time that he left his brother's room he was never out of sight of some one or other. So it could not be he who climbed over roofs and through trap-doors.",
+        "objectID": "6975694b3179fb9efeb1ca5d7e8a75ab"
+      }
+    },
+    "objectID": "da057d3ac95b36cbe71e5af57aad87ca",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"We all need help sometimes,\" said I.",
+    "context": {
+      "next": {
+        "content": "\"Your friend Mr. Sherlock Holmes is a wonderful man, sir,\" said he, in a husky and confidential voice. \"He's a man who is not to be beat. I have known that young man go into a good many cases, but I never saw the case yet that he could not throw a light upon. He is irregular in his methods, and a little quick perhaps in jumping at theories, but, on the whole, I think he would have made a most promising officer, and I don't care who knows it.",
+        "objectID": "6714348a6d3e760789fbcd7a0cb1a791"
+      },
+      "previous": {
+        "content": "It's a very dark case, and my professional credit is at stake. I should be very glad of a little assistance.\"",
+        "objectID": "da057d3ac95b36cbe71e5af57aad87ca"
+      }
+    },
+    "objectID": "79ac108387404b476c74e9ad15dbd213",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Your friend Mr. Sherlock Holmes is a wonderful man, sir,\" said he, in a husky and confidential voice. \"He's a man who is not to be beat. I have known that young man go into a good many cases, but I never saw the case yet that he could not throw a light upon. He is irregular in his methods, and a little quick perhaps in jumping at theories, but, on the whole, I think he would have made a most promising officer, and I don't care who knows it.",
+    "context": {
+      "next": {
+        "content": "I have had a wire from him this morning, by which I understand that he has got some clue to this Sholto business. Here is the message.\"",
+        "objectID": "4779ac74cbf2d384661a9b0f46b0a177"
+      },
+      "previous": {
+        "content": "\"We all need help sometimes,\" said I.",
+        "objectID": "79ac108387404b476c74e9ad15dbd213"
+      }
+    },
+    "objectID": "6714348a6d3e760789fbcd7a0cb1a791",
+    "order": 68,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "I have had a wire from him this morning, by which I understand that he has got some clue to this Sholto business. Here is the message.\"",
+    "context": {
+      "next": {
+        "content": "He took the telegram out of his pocket, and handed it to me. It was dated from Poplar at twelve o'clock. \"Go to Baker Street at once,\" it said. \"If I have not returned, wait for me. I am close on the track of the Sholto gang. You can come with us to-night if you want to be in at the finish.\"",
+        "objectID": "8e3e15b0f9732908c679ad7956ddd77e"
+      },
+      "previous": {
+        "content": "\"Your friend Mr. Sherlock Holmes is a wonderful man, sir,\" said he, in a husky and confidential voice. \"He's a man who is not to be beat. I have known that young man go into a good many cases, but I never saw the case yet that he could not throw a light upon. He is irregular in his methods, and a little quick perhaps in jumping at theories, but, on the whole, I think he would have made a most promising officer, and I don't care who knows it.",
+        "objectID": "6714348a6d3e760789fbcd7a0cb1a791"
+      }
+    },
+    "objectID": "4779ac74cbf2d384661a9b0f46b0a177",
+    "order": 69,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "He took the telegram out of his pocket, and handed it to me. It was dated from Poplar at twelve o'clock. \"Go to Baker Street at once,\" it said. \"If I have not returned, wait for me. I am close on the track of the Sholto gang. You can come with us to-night if you want to be in at the finish.\"",
+    "context": {
+      "next": {
+        "content": "\"This sounds well. He has evidently picked up the scent again,\" said I.",
+        "objectID": "d48108d399ca45eb2bac027b9240f343"
+      },
+      "previous": {
+        "content": "I have had a wire from him this morning, by which I understand that he has got some clue to this Sholto business. Here is the message.\"",
+        "objectID": "4779ac74cbf2d384661a9b0f46b0a177"
+      }
+    },
+    "objectID": "8e3e15b0f9732908c679ad7956ddd77e",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"This sounds well. He has evidently picked up the scent again,\" said I.",
+    "context": {
+      "next": {
+        "content": "\"Ah, then he has been at fault too,\" exclaimed Jones, with evident satisfaction. \"Even the best of us are thrown off sometimes. Of course this may prove to be a false alarm; but it is my duty as an officer of the law to allow no chance to slip. But there is some one at the door. Perhaps this is he.\"",
+        "objectID": "a80b9b5e8af88737bd0a3493985bb62e"
+      },
+      "previous": {
+        "content": "He took the telegram out of his pocket, and handed it to me. It was dated from Poplar at twelve o'clock. \"Go to Baker Street at once,\" it said. \"If I have not returned, wait for me. I am close on the track of the Sholto gang. You can come with us to-night if you want to be in at the finish.\"",
+        "objectID": "8e3e15b0f9732908c679ad7956ddd77e"
+      }
+    },
+    "objectID": "d48108d399ca45eb2bac027b9240f343",
+    "order": 71,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Ah, then he has been at fault too,\" exclaimed Jones, with evident satisfaction. \"Even the best of us are thrown off sometimes. Of course this may prove to be a false alarm; but it is my duty as an officer of the law to allow no chance to slip. But there is some one at the door. Perhaps this is he.\"",
+    "context": {
+      "next": {
+        "content": "A heavy step was heard ascending the stair, with a great wheezing and rattling as from a man who was sorely put to it for breath. Once or twice he stopped, as though the climb were too much for him, but at last he made his way to our door and entered. His appearance corresponded to the sounds which we had heard.",
+        "objectID": "51246261ed42d7cd38e976985cbbfe20"
+      },
+      "previous": {
+        "content": "\"This sounds well. He has evidently picked up the scent again,\" said I.",
+        "objectID": "d48108d399ca45eb2bac027b9240f343"
+      }
+    },
+    "objectID": "a80b9b5e8af88737bd0a3493985bb62e",
+    "order": 72,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "A heavy step was heard ascending the stair, with a great wheezing and rattling as from a man who was sorely put to it for breath. Once or twice he stopped, as though the climb were too much for him, but at last he made his way to our door and entered. His appearance corresponded to the sounds which we had heard.",
+    "context": {
+      "next": {
+        "content": "He was an aged man, clad in seafaring garb, with an old pea-jacket buttoned up to his throat. His back was bowed, his knees were shaky, and his breathing was painfully asthmatic. As he leaned upon a thick oaken cudgel his shoulders heaved in the effort to draw the air into his lungs. He had a colored scarf round his chin, and I could see little of his face save a pair of keen dark eyes, overhung by bushy white brows, and long gray side-whiskers.",
+        "objectID": "7e929ee84fcf9252b6105627bade2891"
+      },
+      "previous": {
+        "content": "\"Ah, then he has been at fault too,\" exclaimed Jones, with evident satisfaction. \"Even the best of us are thrown off sometimes. Of course this may prove to be a false alarm; but it is my duty as an officer of the law to allow no chance to slip. But there is some one at the door. Perhaps this is he.\"",
+        "objectID": "a80b9b5e8af88737bd0a3493985bb62e"
+      }
+    },
+    "objectID": "51246261ed42d7cd38e976985cbbfe20",
+    "order": 73,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "He was an aged man, clad in seafaring garb, with an old pea-jacket buttoned up to his throat. His back was bowed, his knees were shaky, and his breathing was painfully asthmatic. As he leaned upon a thick oaken cudgel his shoulders heaved in the effort to draw the air into his lungs. He had a colored scarf round his chin, and I could see little of his face save a pair of keen dark eyes, overhung by bushy white brows, and long gray side-whiskers.",
+    "context": {
+      "next": {
+        "content": "Altogether he gave me the impression of a respectable master mariner who had fallen into years and poverty.",
+        "objectID": "f857965daa6178c343910641e2e58f4f"
+      },
+      "previous": {
+        "content": "A heavy step was heard ascending the stair, with a great wheezing and rattling as from a man who was sorely put to it for breath. Once or twice he stopped, as though the climb were too much for him, but at last he made his way to our door and entered. His appearance corresponded to the sounds which we had heard.",
+        "objectID": "51246261ed42d7cd38e976985cbbfe20"
+      }
+    },
+    "objectID": "7e929ee84fcf9252b6105627bade2891",
+    "order": 74,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "Altogether he gave me the impression of a respectable master mariner who had fallen into years and poverty.",
+    "context": {
+      "next": {
+        "content": "\"What is it, my man?\" I asked.",
+        "objectID": "ae93b1e66372dfe61f8f5ca041604060"
+      },
+      "previous": {
+        "content": "He was an aged man, clad in seafaring garb, with an old pea-jacket buttoned up to his throat. His back was bowed, his knees were shaky, and his breathing was painfully asthmatic. As he leaned upon a thick oaken cudgel his shoulders heaved in the effort to draw the air into his lungs. He had a colored scarf round his chin, and I could see little of his face save a pair of keen dark eyes, overhung by bushy white brows, and long gray side-whiskers.",
+        "objectID": "7e929ee84fcf9252b6105627bade2891"
+      }
+    },
+    "objectID": "f857965daa6178c343910641e2e58f4f",
+    "order": 75,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"What is it, my man?\" I asked.",
+    "context": {
+      "next": {
+        "content": "He looked about him in the slow methodical fashion of old age.",
+        "objectID": "a8764d825d4e30099c23f173a4a94619"
+      },
+      "previous": {
+        "content": "Altogether he gave me the impression of a respectable master mariner who had fallen into years and poverty.",
+        "objectID": "f857965daa6178c343910641e2e58f4f"
+      }
+    },
+    "objectID": "ae93b1e66372dfe61f8f5ca041604060",
+    "order": 76,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "He looked about him in the slow methodical fashion of old age.",
+    "context": {
+      "next": {
+        "content": "\"Is Mr. Sherlock Holmes here?\" said he.",
+        "objectID": "5729f779b4f96954a8ba35ff537a479a"
+      },
+      "previous": {
+        "content": "\"What is it, my man?\" I asked.",
+        "objectID": "ae93b1e66372dfe61f8f5ca041604060"
+      }
+    },
+    "objectID": "a8764d825d4e30099c23f173a4a94619",
+    "order": 77,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Is Mr. Sherlock Holmes here?\" said he.",
+    "context": {
+      "next": {
+        "content": "\"No; but I am acting for him. You can tell me any message you have for him.\"",
+        "objectID": "d0e7524f31575bdbc825bbc2100ed10c"
+      },
+      "previous": {
+        "content": "He looked about him in the slow methodical fashion of old age.",
+        "objectID": "a8764d825d4e30099c23f173a4a94619"
+      }
+    },
+    "objectID": "5729f779b4f96954a8ba35ff537a479a",
+    "order": 78,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"No; but I am acting for him. You can tell me any message you have for him.\"",
+    "context": {
+      "next": {
+        "content": "\"It was to him himself I was to tell it,\" said he.",
+        "objectID": "8e0d1a154e115111015d86e2bd447bd4"
+      },
+      "previous": {
+        "content": "\"Is Mr. Sherlock Holmes here?\" said he.",
+        "objectID": "5729f779b4f96954a8ba35ff537a479a"
+      }
+    },
+    "objectID": "d0e7524f31575bdbc825bbc2100ed10c",
+    "order": 79,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"It was to him himself I was to tell it,\" said he.",
+    "context": {
+      "next": {
+        "content": "\"But I tell you that I am acting for him. Was it about Mordecai Smith's boat?\"",
+        "objectID": "acb06da8a6ba6f84096f0d0ba628c2c5"
+      },
+      "previous": {
+        "content": "\"No; but I am acting for him. You can tell me any message you have for him.\"",
+        "objectID": "d0e7524f31575bdbc825bbc2100ed10c"
+      }
+    },
+    "objectID": "8e0d1a154e115111015d86e2bd447bd4",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"But I tell you that I am acting for him. Was it about Mordecai Smith's boat?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes. I knows well where it is. An' I knows where the men he is after are. An' I knows where the treasure is. I knows all about it.\"",
+        "objectID": "e27f387338e034dd353676ba9dbbfc79"
+      },
+      "previous": {
+        "content": "\"It was to him himself I was to tell it,\" said he.",
+        "objectID": "8e0d1a154e115111015d86e2bd447bd4"
+      }
+    },
+    "objectID": "acb06da8a6ba6f84096f0d0ba628c2c5",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Yes. I knows well where it is. An' I knows where the men he is after are. An' I knows where the treasure is. I knows all about it.\"",
+    "context": {
+      "next": {
+        "content": "\"Then tell me, and I shall let him know.\"",
+        "objectID": "f457b6b3016d7811347b74e31119ca81"
+      },
+      "previous": {
+        "content": "\"But I tell you that I am acting for him. Was it about Mordecai Smith's boat?\"",
+        "objectID": "acb06da8a6ba6f84096f0d0ba628c2c5"
+      }
+    },
+    "objectID": "e27f387338e034dd353676ba9dbbfc79",
+    "order": 82,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Then tell me, and I shall let him know.\"",
+    "context": {
+      "next": {
+        "content": "\"It was to him I was to tell it,\" he repeated, with the petulant obstinacy of a very old man.",
+        "objectID": "4ec1e457af3d58df86a6ace17b74500f"
+      },
+      "previous": {
+        "content": "\"Yes. I knows well where it is. An' I knows where the men he is after are. An' I knows where the treasure is. I knows all about it.\"",
+        "objectID": "e27f387338e034dd353676ba9dbbfc79"
+      }
+    },
+    "objectID": "f457b6b3016d7811347b74e31119ca81",
+    "order": 83,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"It was to him I was to tell it,\" he repeated, with the petulant obstinacy of a very old man.",
+    "context": {
+      "next": {
+        "content": "\"Well, you must wait for him.\"",
+        "objectID": "eb6811d589b1f1915e228cb6cb93b6b0"
+      },
+      "previous": {
+        "content": "\"Then tell me, and I shall let him know.\"",
+        "objectID": "f457b6b3016d7811347b74e31119ca81"
+      }
+    },
+    "objectID": "4ec1e457af3d58df86a6ace17b74500f",
+    "order": 84,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Well, you must wait for him.\"",
+    "context": {
+      "next": {
+        "content": "\"No, no; I ain't goin' to lose a whole day to please no one. If Mr. Holmes ain't here, then Mr. Holmes must find it all out for himself. I don't care about the look of either of you, and I won't tell a word.\"",
+        "objectID": "fcb8526988c0ccb77edb801147af575d"
+      },
+      "previous": {
+        "content": "\"It was to him I was to tell it,\" he repeated, with the petulant obstinacy of a very old man.",
+        "objectID": "4ec1e457af3d58df86a6ace17b74500f"
+      }
+    },
+    "objectID": "eb6811d589b1f1915e228cb6cb93b6b0",
+    "order": 85,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"No, no; I ain't goin' to lose a whole day to please no one. If Mr. Holmes ain't here, then Mr. Holmes must find it all out for himself. I don't care about the look of either of you, and I won't tell a word.\"",
+    "context": {
+      "next": {
+        "content": "He shuffled towards the door, but Athelney Jones got in front of him.",
+        "objectID": "2b6c11d15b0f7ed1e306f3598a0ceeaa"
+      },
+      "previous": {
+        "content": "\"Well, you must wait for him.\"",
+        "objectID": "eb6811d589b1f1915e228cb6cb93b6b0"
+      }
+    },
+    "objectID": "fcb8526988c0ccb77edb801147af575d",
+    "order": 86,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "He shuffled towards the door, but Athelney Jones got in front of him.",
+    "context": {
+      "next": {
+        "content": "\"Wait a bit, my friend,\" said he. \"You have important information, and you must not walk off. We shall keep you, whether you like or not, until our friend returns.\"",
+        "objectID": "3fd24edf03292b8778a25754808fe2a8"
+      },
+      "previous": {
+        "content": "\"No, no; I ain't goin' to lose a whole day to please no one. If Mr. Holmes ain't here, then Mr. Holmes must find it all out for himself. I don't care about the look of either of you, and I won't tell a word.\"",
+        "objectID": "fcb8526988c0ccb77edb801147af575d"
+      }
+    },
+    "objectID": "2b6c11d15b0f7ed1e306f3598a0ceeaa",
+    "order": 87,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Wait a bit, my friend,\" said he. \"You have important information, and you must not walk off. We shall keep you, whether you like or not, until our friend returns.\"",
+    "context": {
+      "next": {
+        "content": "The old man made a little run towards the door, but, as Athelney Jones put his broad back up against it, he recognized the uselessness of resistance.",
+        "objectID": "fe415e4843436de634810d35cbb3b555"
+      },
+      "previous": {
+        "content": "He shuffled towards the door, but Athelney Jones got in front of him.",
+        "objectID": "2b6c11d15b0f7ed1e306f3598a0ceeaa"
+      }
+    },
+    "objectID": "3fd24edf03292b8778a25754808fe2a8",
+    "order": 88,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "The old man made a little run towards the door, but, as Athelney Jones put his broad back up against it, he recognized the uselessness of resistance.",
+    "context": {
+      "next": {
+        "content": "\"Pretty sort o' treatment this!\" he cried, stamping his stick. \"I come here to see a gentleman, and you two, who I never saw in my life, seize me and treat me in this fashion!\"",
+        "objectID": "16ccf8ba1c947cda7eef66470af18139"
+      },
+      "previous": {
+        "content": "\"Wait a bit, my friend,\" said he. \"You have important information, and you must not walk off. We shall keep you, whether you like or not, until our friend returns.\"",
+        "objectID": "3fd24edf03292b8778a25754808fe2a8"
+      }
+    },
+    "objectID": "fe415e4843436de634810d35cbb3b555",
+    "order": 89,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Pretty sort o' treatment this!\" he cried, stamping his stick. \"I come here to see a gentleman, and you two, who I never saw in my life, seize me and treat me in this fashion!\"",
+    "context": {
+      "next": {
+        "content": "\"You will be none the worse,\" I said. \"We shall recompense you for the loss of your time. Sit over here on the sofa, and you will not have long to wait.\"",
+        "objectID": "6c23d70ae9fc5131011fe6eea3fc72e5"
+      },
+      "previous": {
+        "content": "The old man made a little run towards the door, but, as Athelney Jones put his broad back up against it, he recognized the uselessness of resistance.",
+        "objectID": "fe415e4843436de634810d35cbb3b555"
+      }
+    },
+    "objectID": "16ccf8ba1c947cda7eef66470af18139",
+    "order": 90,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"You will be none the worse,\" I said. \"We shall recompense you for the loss of your time. Sit over here on the sofa, and you will not have long to wait.\"",
+    "context": {
+      "next": {
+        "content": "He came across sullenly enough, and seated himself with his face resting on his hands. Jones and I resumed our cigars and our talk. Suddenly, however, Holmes's voice broke in upon us.",
+        "objectID": "d88ba92c17c6f950d2ac5e7de3c7ee6c"
+      },
+      "previous": {
+        "content": "\"Pretty sort o' treatment this!\" he cried, stamping his stick. \"I come here to see a gentleman, and you two, who I never saw in my life, seize me and treat me in this fashion!\"",
+        "objectID": "16ccf8ba1c947cda7eef66470af18139"
+      }
+    },
+    "objectID": "6c23d70ae9fc5131011fe6eea3fc72e5",
+    "order": 91,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "He came across sullenly enough, and seated himself with his face resting on his hands. Jones and I resumed our cigars and our talk. Suddenly, however, Holmes's voice broke in upon us.",
+    "context": {
+      "next": {
+        "content": "\"I think that you might offer me a cigar too,\" he said.",
+        "objectID": "6ebef3e6ac0677247446569082c9a938"
+      },
+      "previous": {
+        "content": "\"You will be none the worse,\" I said. \"We shall recompense you for the loss of your time. Sit over here on the sofa, and you will not have long to wait.\"",
+        "objectID": "6c23d70ae9fc5131011fe6eea3fc72e5"
+      }
+    },
+    "objectID": "d88ba92c17c6f950d2ac5e7de3c7ee6c",
+    "order": 92,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"I think that you might offer me a cigar too,\" he said.",
+    "context": {
+      "next": {
+        "content": "We both started in our chairs. There was Holmes sitting close to us with an air of quiet amusement.",
+        "objectID": "40f0cc3bbee23e185e8cbd6b43ded208"
+      },
+      "previous": {
+        "content": "He came across sullenly enough, and seated himself with his face resting on his hands. Jones and I resumed our cigars and our talk. Suddenly, however, Holmes's voice broke in upon us.",
+        "objectID": "d88ba92c17c6f950d2ac5e7de3c7ee6c"
+      }
+    },
+    "objectID": "6ebef3e6ac0677247446569082c9a938",
+    "order": 93,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "We both started in our chairs. There was Holmes sitting close to us with an air of quiet amusement.",
+    "context": {
+      "next": {
+        "content": "\"Holmes!\" I exclaimed. \"You here! But where is the old man?\"",
+        "objectID": "d121f78868eb32aae3a53b2d4840a4fb"
+      },
+      "previous": {
+        "content": "\"I think that you might offer me a cigar too,\" he said.",
+        "objectID": "6ebef3e6ac0677247446569082c9a938"
+      }
+    },
+    "objectID": "40f0cc3bbee23e185e8cbd6b43ded208",
+    "order": 94,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Holmes!\" I exclaimed. \"You here! But where is the old man?\"",
+    "context": {
+      "next": {
+        "content": "\"Here is the old man,\" said he, holding out a heap of white hair. \"Here he is,—wig, whiskers, eyebrows, and all. I thought my disguise was pretty good, but I hardly expected that it would stand that test.\"",
+        "objectID": "c528de560ac3be0ff776adb02f62c3f7"
+      },
+      "previous": {
+        "content": "We both started in our chairs. There was Holmes sitting close to us with an air of quiet amusement.",
+        "objectID": "40f0cc3bbee23e185e8cbd6b43ded208"
+      }
+    },
+    "objectID": "d121f78868eb32aae3a53b2d4840a4fb",
+    "order": 95,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Here is the old man,\" said he, holding out a heap of white hair. \"Here he is,—wig, whiskers, eyebrows, and all. I thought my disguise was pretty good, but I hardly expected that it would stand that test.\"",
+    "context": {
+      "next": {
+        "content": "\"Ah, You rogue!\" cried Jones, highly delighted. \"You would have made an actor, and a rare one. You had the proper workhouse cough, and those weak legs of yours are worth ten pound a week. I thought I knew the glint of your eye, though. You didn't get away from us so easily, You see.\"",
+        "objectID": "6bba45c21816c017445f19ad441c47be"
+      },
+      "previous": {
+        "content": "\"Holmes!\" I exclaimed. \"You here! But where is the old man?\"",
+        "objectID": "d121f78868eb32aae3a53b2d4840a4fb"
+      }
+    },
+    "objectID": "c528de560ac3be0ff776adb02f62c3f7",
+    "order": 96,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Ah, You rogue!\" cried Jones, highly delighted. \"You would have made an actor, and a rare one. You had the proper workhouse cough, and those weak legs of yours are worth ten pound a week. I thought I knew the glint of your eye, though. You didn't get away from us so easily, You see.\"",
+    "context": {
+      "next": {
+        "content": "\"I have been working in that get-up all day,\" said he, lighting his cigar. \"You see, a good many of the criminal classes begin to know me,—especially since our friend here took to publishing some of my cases: so I can only go on the war-path under some simple disguise like this. You got my wire?\"",
+        "objectID": "95779e09e516efd7caef4285e331b222"
+      },
+      "previous": {
+        "content": "\"Here is the old man,\" said he, holding out a heap of white hair. \"Here he is,—wig, whiskers, eyebrows, and all. I thought my disguise was pretty good, but I hardly expected that it would stand that test.\"",
+        "objectID": "c528de560ac3be0ff776adb02f62c3f7"
+      }
+    },
+    "objectID": "6bba45c21816c017445f19ad441c47be",
+    "order": 97,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"I have been working in that get-up all day,\" said he, lighting his cigar. \"You see, a good many of the criminal classes begin to know me,—especially since our friend here took to publishing some of my cases: so I can only go on the war-path under some simple disguise like this. You got my wire?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes; that was what brought me here.\"",
+        "objectID": "b6c6f74f6f38e619e4232b29876838d2"
+      },
+      "previous": {
+        "content": "\"Ah, You rogue!\" cried Jones, highly delighted. \"You would have made an actor, and a rare one. You had the proper workhouse cough, and those weak legs of yours are worth ten pound a week. I thought I knew the glint of your eye, though. You didn't get away from us so easily, You see.\"",
+        "objectID": "6bba45c21816c017445f19ad441c47be"
+      }
+    },
+    "objectID": "95779e09e516efd7caef4285e331b222",
+    "order": 98,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Yes; that was what brought me here.\"",
+    "context": {
+      "next": {
+        "content": "\"How has your case prospered?\"",
+        "objectID": "2bcf08853beef26f0677b357a1f57b51"
+      },
+      "previous": {
+        "content": "\"I have been working in that get-up all day,\" said he, lighting his cigar. \"You see, a good many of the criminal classes begin to know me,—especially since our friend here took to publishing some of my cases: so I can only go on the war-path under some simple disguise like this. You got my wire?\"",
+        "objectID": "95779e09e516efd7caef4285e331b222"
+      }
+    },
+    "objectID": "b6c6f74f6f38e619e4232b29876838d2",
+    "order": 99,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"How has your case prospered?\"",
+    "context": {
+      "next": {
+        "content": "\"It has all come to nothing. I have had to release two of my prisoners, and there is no evidence against the other two.\"",
+        "objectID": "1110fed03f5376258f8e5e7ee6144500"
+      },
+      "previous": {
+        "content": "\"Yes; that was what brought me here.\"",
+        "objectID": "b6c6f74f6f38e619e4232b29876838d2"
+      }
+    },
+    "objectID": "2bcf08853beef26f0677b357a1f57b51",
+    "order": 100,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"It has all come to nothing. I have had to release two of my prisoners, and there is no evidence against the other two.\"",
+    "context": {
+      "next": {
+        "content": "\"Never mind. We shall give you two others in the place of them. But you must put yourself under my orders. You are welcome to all the official credit, but you must act on the line that I point out. Is that agreed?\"",
+        "objectID": "5f16172d01ec603149770825fed1e529"
+      },
+      "previous": {
+        "content": "\"How has your case prospered?\"",
+        "objectID": "2bcf08853beef26f0677b357a1f57b51"
+      }
+    },
+    "objectID": "1110fed03f5376258f8e5e7ee6144500",
+    "order": 101,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Never mind. We shall give you two others in the place of them. But you must put yourself under my orders. You are welcome to all the official credit, but you must act on the line that I point out. Is that agreed?\"",
+    "context": {
+      "next": {
+        "content": "\"Entirely, if you will help me to the men.\"",
+        "objectID": "0141dd422b7f2ee1baf6115369c87455"
+      },
+      "previous": {
+        "content": "\"It has all come to nothing. I have had to release two of my prisoners, and there is no evidence against the other two.\"",
+        "objectID": "1110fed03f5376258f8e5e7ee6144500"
+      }
+    },
+    "objectID": "5f16172d01ec603149770825fed1e529",
+    "order": 102,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Entirely, if you will help me to the men.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, then, in the first place I shall want a fast police-boat—a steam launch—to be at the Westminster Stairs at seven o'clock.\"",
+        "objectID": "bb42dcc56ffb2dd32b34131344442ca4"
+      },
+      "previous": {
+        "content": "\"Never mind. We shall give you two others in the place of them. But you must put yourself under my orders. You are welcome to all the official credit, but you must act on the line that I point out. Is that agreed?\"",
+        "objectID": "5f16172d01ec603149770825fed1e529"
+      }
+    },
+    "objectID": "0141dd422b7f2ee1baf6115369c87455",
+    "order": 103,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Well, then, in the first place I shall want a fast police-boat—a steam launch—to be at the Westminster Stairs at seven o'clock.\"",
+    "context": {
+      "next": {
+        "content": "\"That is easily managed. There is always one about there; but I can step across the road and telephone to make sure.\"",
+        "objectID": "46c065d2165ae788ccf298e881673fb0"
+      },
+      "previous": {
+        "content": "\"Entirely, if you will help me to the men.\"",
+        "objectID": "0141dd422b7f2ee1baf6115369c87455"
+      }
+    },
+    "objectID": "bb42dcc56ffb2dd32b34131344442ca4",
+    "order": 104,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"That is easily managed. There is always one about there; but I can step across the road and telephone to make sure.\"",
+    "context": {
+      "next": {
+        "content": "\"Then I shall want two stanch men, in case of resistance.\"",
+        "objectID": "690cdbbd8c9be602e03f9ef43148e614"
+      },
+      "previous": {
+        "content": "\"Well, then, in the first place I shall want a fast police-boat—a steam launch—to be at the Westminster Stairs at seven o'clock.\"",
+        "objectID": "bb42dcc56ffb2dd32b34131344442ca4"
+      }
+    },
+    "objectID": "46c065d2165ae788ccf298e881673fb0",
+    "order": 105,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Then I shall want two stanch men, in case of resistance.\"",
+    "context": {
+      "next": {
+        "content": "\"There will be two or three in the boat. What else?\"",
+        "objectID": "0973b65c8b61052ae6eba66f5269c87a"
+      },
+      "previous": {
+        "content": "\"That is easily managed. There is always one about there; but I can step across the road and telephone to make sure.\"",
+        "objectID": "46c065d2165ae788ccf298e881673fb0"
+      }
+    },
+    "objectID": "690cdbbd8c9be602e03f9ef43148e614",
+    "order": 106,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"There will be two or three in the boat. What else?\"",
+    "context": {
+      "next": {
+        "content": "\"When we secure the men we shall get the treasure. I think that it would be a pleasure to my friend here to take the box round to the young lady to whom half of it rightfully belongs. Let her be the first to open it.—Eh, Watson?\"",
+        "objectID": "b437b92d6ac4a4d255975a26df78bca3"
+      },
+      "previous": {
+        "content": "\"Then I shall want two stanch men, in case of resistance.\"",
+        "objectID": "690cdbbd8c9be602e03f9ef43148e614"
+      }
+    },
+    "objectID": "0973b65c8b61052ae6eba66f5269c87a",
+    "order": 107,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"When we secure the men we shall get the treasure. I think that it would be a pleasure to my friend here to take the box round to the young lady to whom half of it rightfully belongs. Let her be the first to open it.—Eh, Watson?\"",
+    "context": {
+      "next": {
+        "content": "\"It would be a great pleasure to me.\"",
+        "objectID": "4e74f697ed1497c0a2da9bed1b6f269c"
+      },
+      "previous": {
+        "content": "\"There will be two or three in the boat. What else?\"",
+        "objectID": "0973b65c8b61052ae6eba66f5269c87a"
+      }
+    },
+    "objectID": "b437b92d6ac4a4d255975a26df78bca3",
+    "order": 108,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"It would be a great pleasure to me.\"",
+    "context": {
+      "next": {
+        "content": "\"Rather an irregular proceeding,\" said Jones, shaking his head. \"However, the whole thing is irregular, and I suppose we must wink at it. The treasure must afterwards be handed over to the authorities until after the official investigation.\"",
+        "objectID": "4fac649a2bb672f5aaf9ddd40dec63d3"
+      },
+      "previous": {
+        "content": "\"When we secure the men we shall get the treasure. I think that it would be a pleasure to my friend here to take the box round to the young lady to whom half of it rightfully belongs. Let her be the first to open it.—Eh, Watson?\"",
+        "objectID": "b437b92d6ac4a4d255975a26df78bca3"
+      }
+    },
+    "objectID": "4e74f697ed1497c0a2da9bed1b6f269c",
+    "order": 109,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Rather an irregular proceeding,\" said Jones, shaking his head. \"However, the whole thing is irregular, and I suppose we must wink at it. The treasure must afterwards be handed over to the authorities until after the official investigation.\"",
+    "context": {
+      "next": {
+        "content": "\"Certainly. That is easily managed. One other point. I should much like to have a few details about this matter from the lips of Jonathan Small himself. You know I like to work the detail of my cases out. There is no objection to my having an unofficial interview with him, either here in my rooms or",
+        "objectID": "2348f94295a205ddf845856335a3b248"
+      },
+      "previous": {
+        "content": "\"It would be a great pleasure to me.\"",
+        "objectID": "4e74f697ed1497c0a2da9bed1b6f269c"
+      }
+    },
+    "objectID": "4fac649a2bb672f5aaf9ddd40dec63d3",
+    "order": 110,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Certainly. That is easily managed. One other point. I should much like to have a few details about this matter from the lips of Jonathan Small himself. You know I like to work the detail of my cases out. There is no objection to my having an unofficial interview with him, either here in my rooms or",
+    "context": {
+      "next": {
+        "content": "elsewhere, as long as he is efficiently guarded?\"",
+        "objectID": "64ac0f05ef27f3aa5aa2c2b6f9b582bf"
+      },
+      "previous": {
+        "content": "\"Rather an irregular proceeding,\" said Jones, shaking his head. \"However, the whole thing is irregular, and I suppose we must wink at it. The treasure must afterwards be handed over to the authorities until after the official investigation.\"",
+        "objectID": "4fac649a2bb672f5aaf9ddd40dec63d3"
+      }
+    },
+    "objectID": "2348f94295a205ddf845856335a3b248",
+    "order": 111,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "elsewhere, as long as he is efficiently guarded?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, you are master of the situation. I have had no proof yet of the existence of this Jonathan Small. However, if you can catch him I don't see how I can refuse you an interview with him.\"",
+        "objectID": "ae25d5f022bfc1eda3197db137cc95cc"
+      },
+      "previous": {
+        "content": "\"Certainly. That is easily managed. One other point. I should much like to have a few details about this matter from the lips of Jonathan Small himself. You know I like to work the detail of my cases out. There is no objection to my having an unofficial interview with him, either here in my rooms or",
+        "objectID": "2348f94295a205ddf845856335a3b248"
+      }
+    },
+    "objectID": "64ac0f05ef27f3aa5aa2c2b6f9b582bf",
+    "order": 112,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Well, you are master of the situation. I have had no proof yet of the existence of this Jonathan Small. However, if you can catch him I don't see how I can refuse you an interview with him.\"",
+    "context": {
+      "next": {
+        "content": "\"That is understood, then?\"",
+        "objectID": "343073ead6668318299c8c697186c4b7"
+      },
+      "previous": {
+        "content": "elsewhere, as long as he is efficiently guarded?\"",
+        "objectID": "64ac0f05ef27f3aa5aa2c2b6f9b582bf"
+      }
+    },
+    "objectID": "ae25d5f022bfc1eda3197db137cc95cc",
+    "order": 113,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"That is understood, then?\"",
+    "context": {
+      "next": {
+        "content": "\"Perfectly. Is there anything else?\"",
+        "objectID": "b4600bae546931ca4cffdb160ced10b9"
+      },
+      "previous": {
+        "content": "\"Well, you are master of the situation. I have had no proof yet of the existence of this Jonathan Small. However, if you can catch him I don't see how I can refuse you an interview with him.\"",
+        "objectID": "ae25d5f022bfc1eda3197db137cc95cc"
+      }
+    },
+    "objectID": "343073ead6668318299c8c697186c4b7",
+    "order": 114,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Perfectly. Is there anything else?\"",
+    "context": {
+      "next": {
+        "content": "\"Only that I insist upon your dining with us. It will be ready in half an hour. I have oysters and a brace of grouse, with something a little choice in white wines.—Watson, you have never yet recognized my merits as a housekeeper.\"",
+        "objectID": "7ede604b2493037ae0ae1cc1d9309d2b"
+      },
+      "previous": {
+        "content": "\"That is understood, then?\"",
+        "objectID": "343073ead6668318299c8c697186c4b7"
+      }
+    },
+    "objectID": "b4600bae546931ca4cffdb160ced10b9",
+    "order": 115,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "The Sign of the Four",
+    "bookOrder": 2,
+    "chapterName": "Chapter IX. A Break in the Chain",
+    "chapterOrder": 9,
+    "content": "\"Only that I insist upon your dining with us. It will be ready in half an hour. I have oysters and a brace of grouse, with something a little choice in white wines.—Watson, you have never yet recognized my merits as a housekeeper.\"",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "\"Perfectly. Is there anything else?\"",
+        "objectID": "b4600bae546931ca4cffdb160ced10b9"
+      }
+    },
+    "objectID": "7ede604b2493037ae0ae1cc1d9309d2b",
+    "order": 116,
+    "tagName": "P"
+  }
+]
