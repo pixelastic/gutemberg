@@ -5,7 +5,7 @@ let Sherlock = {
       apiKey: '315734cd612e89d2c548256293799f0c',
       indexName: 'gutenberg'
       // searchParameters: {
-      //   distinct: 2
+      //   distinct: 10
       // }
     });
 
@@ -21,34 +21,46 @@ let Sherlock = {
 
     $('#q').focus();
   },
-  transformHit(data) {
-    console.info(data);
-    // Context
-    let previous = data.context.previous ? data.context.previous.content : null;
-    let next = data.context.next ? data.context.next.content : null;
+  // Simplify hits to be used in a Hogan template. Merge sequential elements
+  // into one.
+  transformAllHits(data) {
+    let hits = [];
+    let previousHit = {nextId: null};
+    _.each(data.hits, (hit) => {
+      // Context
+      let previous = hit.context.previous ? hit.context.previous.content : null;
+      let next = hit.context.next ? hit.context.next.content : null;
+      let nextID = hit.context.next ? hit.context.next.objectID : null;
+      // Content
+      let content = Sherlock.getHighlightedValue(hit, 'content');
+      // Book and chapter
+      let book = hit.book;
+      let chapter = hit.chapterName;
 
-    // Book and chapter
-    let book = data.book;
-    let chapter = data.chapterName;
+      // This hit is directly following the previous one, so we just update the
+      // previous one
+      if (hit.objectID === previousHit.nextID) {
+        previousHit.content.push(content);
+        previousHit.nextID = nextID;
+        previousHit.next = next;
+        return;
+      }
 
-    // Content
-    let content = Sherlock.getHighlightedValue(data, 'content');
+      let cleanHit = {
+        previous,
+        content: [content],
+        next,
+        nextID,
+        book,
+        chapter
+      };
+      previousHit = cleanHit;
 
-    return {
-      previous,
-      content,
-      next,
-      book,
-      chapter
-    };
-    // var book = getHighlightedValue(data, 'book');
-    // var chapter = getHighlightedValue(data, 'chapter');
-    // var content = getHighlightedValue(data, 'content');
-    // return {
-    //   book: book,
-    //   chapter: chapter,
-    //   content: content
-    // };
+      hits.push(cleanHit);
+    });
+
+    data.hits = hits;
+    return data;
   },
   getHighlightedValue(object, property) {
     if (!_.has(object, `_highlightResult.${property}.value`)) {
@@ -107,7 +119,7 @@ let Sherlock = {
     );
   },
   addHitsWidget() {
-    let hitTemplate = $('#hitTemplate').html();
+    let hitsTemplate = $('#hitsTemplate').html();
     let emptyTemplate = $('#noResultsTemplate').html();
     this.search.addWidget(
       instantsearch.widgets.hits({
@@ -115,10 +127,10 @@ let Sherlock = {
         hitsPerPage: 40,
         templates: {
           empty: emptyTemplate,
-          item: hitTemplate
+          allItems: hitsTemplate
         },
         transformData: {
-          item: Sherlock.transformHit
+          allItems: Sherlock.transformAllHits
         }
       })
     );

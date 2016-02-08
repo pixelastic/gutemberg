@@ -46,22 +46,26 @@
     </div>
   </div>
 
-  <script id="hitTemplate" language="x-template">
-    <blockquote class="hit">
-      {{#previous}}
-        <p class="hit--context">{{{previous}}}</p>
-      {{/previous}}
+  <script id="hitsTemplate" language="x-template">
+    {{#hits}}
+      <blockquote class="hit">
+        {{#previous}}
+          <p class="hit--context">{{{previous}}}</p>
+        {{/previous}}
 
-      <p class="hit--content">{{{content}}}</p>
+        {{#content}}
+          <p class="hit--content">{{{.}}}</p>
+        {{/content}}
 
-      {{#next}}
-        <p class="hit--context">{{{next}}}</p>
-      {{/next}}
+        {{#next}}
+          <p class="hit--context">{{{next}}}</p>
+        {{/next}}
 
-      <footer class="hit--source">
-      <div class="hit--book">{{{book}}}, <span class="hit--chapter">{{{chapter}}}</span></div>
-        </footer>
-    </blockquote>
+        <footer class="hit--source">
+        <div class="hit--book">{{{book}}}, <span class="hit--chapter">{{{chapter}}}</span></div>
+          </footer>
+      </blockquote>
+    {{/hits}}
   </script>
 
   <script id="noResultsTemplate" language="x-template">
