@@ -6,3 +6,4 @@ npm run import -- "./books/the-memoirs-of-sherlock-holmes.htm" --bookOrder=4 --s
 npm run import -- "./books/the-hound-of-the-baskervilles.htm" --bookOrder=5 --strategy "houn"
 npm run import -- "./books/the-return-of-sherlock-holmes.htm" --bookOrder=6 --strategy "retu"
 npm run import -- "./books/his-last-bow.htm" --bookOrder=7 --strategy "last"
+npm run import -- "./books/the-valley-of-fear.htm" --bookOrder=8 --strategy "fear"

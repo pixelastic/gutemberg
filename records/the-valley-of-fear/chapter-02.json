@@ -1,0 +1,2306 @@
+[
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "It was one of those dramatic moments for which my friend existed. It would be an overstatement to say that he was shocked or even excited by the amazing announcement. Without having a tinge of cruelty in his singular composition, he was undoubtedly callous from long overstimulation. Yet, if his emotions were dulled, his intellectual perceptions were exceedingly active.",
+    "context": {
+      "next": {
+        "content": "There was no trace then of the horror which I had myself felt at this curt declaration; but his face showed rather the quiet and interested composure of the chemist who sees the crystals falling into position from his oversaturated solution.",
+        "objectID": "3ff2441ca1914db385fd1fe237ba3579"
+      },
+      "previous": null
+    },
+    "objectID": "cd35952b093fffaa9e4e45d6aabb833f",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "There was no trace then of the horror which I had myself felt at this curt declaration; but his face showed rather the quiet and interested composure of the chemist who sees the crystals falling into position from his oversaturated solution.",
+    "context": {
+      "next": {
+        "content": "\"Remarkable!\" said he. \"Remarkable!\"",
+        "objectID": "adcb4cf0858e94c67ef607ddef5d7532"
+      },
+      "previous": {
+        "content": "It was one of those dramatic moments for which my friend existed. It would be an overstatement to say that he was shocked or even excited by the amazing announcement. Without having a tinge of cruelty in his singular composition, he was undoubtedly callous from long overstimulation. Yet, if his emotions were dulled, his intellectual perceptions were exceedingly active.",
+        "objectID": "cd35952b093fffaa9e4e45d6aabb833f"
+      }
+    },
+    "objectID": "3ff2441ca1914db385fd1fe237ba3579",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Remarkable!\" said he. \"Remarkable!\"",
+    "context": {
+      "next": {
+        "content": "\"You don't seem surprised.\"",
+        "objectID": "67facba7f3bd32f985c507914160b135"
+      },
+      "previous": {
+        "content": "There was no trace then of the horror which I had myself felt at this curt declaration; but his face showed rather the quiet and interested composure of the chemist who sees the crystals falling into position from his oversaturated solution.",
+        "objectID": "3ff2441ca1914db385fd1fe237ba3579"
+      }
+    },
+    "objectID": "adcb4cf0858e94c67ef607ddef5d7532",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"You don't seem surprised.\"",
+    "context": {
+      "next": {
+        "content": "\"Interested, Mr. Mac, but hardly surprised. Why should I be surprised? I receive an anonymous communication from a quarter which I know to be important, warning me that danger threatens a certain person. Within an hour I learn that this danger has actually materialized and that the person is dead. I am interested; but, as you observe, I am not surprised.",
+        "objectID": "c85db47f684d66071921ac9c4d98c39a"
+      },
+      "previous": {
+        "content": "\"Remarkable!\" said he. \"Remarkable!\"",
+        "objectID": "adcb4cf0858e94c67ef607ddef5d7532"
+      }
+    },
+    "objectID": "67facba7f3bd32f985c507914160b135",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Interested, Mr. Mac, but hardly surprised. Why should I be surprised? I receive an anonymous communication from a quarter which I know to be important, warning me that danger threatens a certain person. Within an hour I learn that this danger has actually materialized and that the person is dead. I am interested; but, as you observe, I am not surprised.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "1cf73942c946a05749348a21526c052d"
+      },
+      "previous": {
+        "content": "\"You don't seem surprised.\"",
+        "objectID": "67facba7f3bd32f985c507914160b135"
+      }
+    },
+    "objectID": "c85db47f684d66071921ac9c4d98c39a",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "In a few short sentences he explained to the inspector the facts about the letter and the cipher. MacDonald sat with his chin on his hands and his great sandy eyebrows bunched into a yellow tangle.",
+        "objectID": "eaced5c14f137a077eaf5716789249c2"
+      },
+      "previous": {
+        "content": "\"Interested, Mr. Mac, but hardly surprised. Why should I be surprised? I receive an anonymous communication from a quarter which I know to be important, warning me that danger threatens a certain person. Within an hour I learn that this danger has actually materialized and that the person is dead. I am interested; but, as you observe, I am not surprised.",
+        "objectID": "c85db47f684d66071921ac9c4d98c39a"
+      }
+    },
+    "objectID": "1cf73942c946a05749348a21526c052d",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "In a few short sentences he explained to the inspector the facts about the letter and the cipher. MacDonald sat with his chin on his hands and his great sandy eyebrows bunched into a yellow tangle.",
+    "context": {
+      "next": {
+        "content": "\"I was going down to Birlstone this morning,\" said he. \"I had come to ask you if you cared to come with me—you and your friend here. But from what you say we might perhaps be doing better work in London.\"",
+        "objectID": "fcb64443227b931794054753de699a06"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "1cf73942c946a05749348a21526c052d"
+      }
+    },
+    "objectID": "eaced5c14f137a077eaf5716789249c2",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"I was going down to Birlstone this morning,\" said he. \"I had come to ask you if you cared to come with me—you and your friend here. But from what you say we might perhaps be doing better work in London.\"",
+    "context": {
+      "next": {
+        "content": "\"I rather think not,\" said Holmes.",
+        "objectID": "e48c83271bb2bae9c9974622c0291031"
+      },
+      "previous": {
+        "content": "In a few short sentences he explained to the inspector the facts about the letter and the cipher. MacDonald sat with his chin on his hands and his great sandy eyebrows bunched into a yellow tangle.",
+        "objectID": "eaced5c14f137a077eaf5716789249c2"
+      }
+    },
+    "objectID": "fcb64443227b931794054753de699a06",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"I rather think not,\" said Holmes.",
+    "context": {
+      "next": {
+        "content": "\"Hang it all, Mr. Holmes!\" cried the inspector. \"The papers will be full of the Birlstone mystery in a day or two; but where's the mystery if there is a man in London who prophesied the crime before ever it occurred? We have only to lay our hands on that man, and the rest will follow.\"",
+        "objectID": "577f9424192cf6c4c53b03ecf30bc327"
+      },
+      "previous": {
+        "content": "\"I was going down to Birlstone this morning,\" said he. \"I had come to ask you if you cared to come with me—you and your friend here. But from what you say we might perhaps be doing better work in London.\"",
+        "objectID": "fcb64443227b931794054753de699a06"
+      }
+    },
+    "objectID": "e48c83271bb2bae9c9974622c0291031",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Hang it all, Mr. Holmes!\" cried the inspector. \"The papers will be full of the Birlstone mystery in a day or two; but where's the mystery if there is a man in London who prophesied the crime before ever it occurred? We have only to lay our hands on that man, and the rest will follow.\"",
+    "context": {
+      "next": {
+        "content": "\"No doubt, Mr. Mac. But how do you propose to lay your hands on the so-called Porlock?\"",
+        "objectID": "71e8cccb84ede1d28d1228c215f96b66"
+      },
+      "previous": {
+        "content": "\"I rather think not,\" said Holmes.",
+        "objectID": "e48c83271bb2bae9c9974622c0291031"
+      }
+    },
+    "objectID": "577f9424192cf6c4c53b03ecf30bc327",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"No doubt, Mr. Mac. But how do you propose to lay your hands on the so-called Porlock?\"",
+    "context": {
+      "next": {
+        "content": "MacDonald turned over the letter which Holmes had handed him. \"Posted in Camberwell—that doesn't help us much. Name, you say, is assumed. Not much to go on, certainly. Didn't you say that you have sent him money?\"",
+        "objectID": "36c205a9b00f8a88caab45572bf4f352"
+      },
+      "previous": {
+        "content": "\"Hang it all, Mr. Holmes!\" cried the inspector. \"The papers will be full of the Birlstone mystery in a day or two; but where's the mystery if there is a man in London who prophesied the crime before ever it occurred? We have only to lay our hands on that man, and the rest will follow.\"",
+        "objectID": "577f9424192cf6c4c53b03ecf30bc327"
+      }
+    },
+    "objectID": "71e8cccb84ede1d28d1228c215f96b66",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "MacDonald turned over the letter which Holmes had handed him. \"Posted in Camberwell—that doesn't help us much. Name, you say, is assumed. Not much to go on, certainly. Didn't you say that you have sent him money?\"",
+    "context": {
+      "next": {
+        "content": "\"Twice.\"",
+        "objectID": "f1c121a0118804ac05984437acf3649d"
+      },
+      "previous": {
+        "content": "\"No doubt, Mr. Mac. But how do you propose to lay your hands on the so-called Porlock?\"",
+        "objectID": "71e8cccb84ede1d28d1228c215f96b66"
+      }
+    },
+    "objectID": "36c205a9b00f8a88caab45572bf4f352",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Twice.\"",
+    "context": {
+      "next": {
+        "content": "\"And how?\"",
+        "objectID": "1bb4429ddecee62e9bb7b6d8fedf0ea4"
+      },
+      "previous": {
+        "content": "MacDonald turned over the letter which Holmes had handed him. \"Posted in Camberwell—that doesn't help us much. Name, you say, is assumed. Not much to go on, certainly. Didn't you say that you have sent him money?\"",
+        "objectID": "36c205a9b00f8a88caab45572bf4f352"
+      }
+    },
+    "objectID": "f1c121a0118804ac05984437acf3649d",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"And how?\"",
+    "context": {
+      "next": {
+        "content": "\"In notes to Camberwell post office.\"",
+        "objectID": "3d74e0f393cdf87ede63d651f38a43a6"
+      },
+      "previous": {
+        "content": "\"Twice.\"",
+        "objectID": "f1c121a0118804ac05984437acf3649d"
+      }
+    },
+    "objectID": "1bb4429ddecee62e9bb7b6d8fedf0ea4",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"In notes to Camberwell post office.\"",
+    "context": {
+      "next": {
+        "content": "\"Did you ever trouble to see who called for them?\"",
+        "objectID": "eab0c7a3eefee0902071b7456a61bd21"
+      },
+      "previous": {
+        "content": "\"And how?\"",
+        "objectID": "1bb4429ddecee62e9bb7b6d8fedf0ea4"
+      }
+    },
+    "objectID": "3d74e0f393cdf87ede63d651f38a43a6",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Did you ever trouble to see who called for them?\"",
+    "context": {
+      "next": {
+        "content": "\"No.\"",
+        "objectID": "6015ae910874b761b5431d7e6c28dd2e"
+      },
+      "previous": {
+        "content": "\"In notes to Camberwell post office.\"",
+        "objectID": "3d74e0f393cdf87ede63d651f38a43a6"
+      }
+    },
+    "objectID": "eab0c7a3eefee0902071b7456a61bd21",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"No.\"",
+    "context": {
+      "next": {
+        "content": "The inspector looked surprised and a little shocked. \"Why not?\"",
+        "objectID": "eb65bf5cede663a656a73237e18dacda"
+      },
+      "previous": {
+        "content": "\"Did you ever trouble to see who called for them?\"",
+        "objectID": "eab0c7a3eefee0902071b7456a61bd21"
+      }
+    },
+    "objectID": "6015ae910874b761b5431d7e6c28dd2e",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "The inspector looked surprised and a little shocked. \"Why not?\"",
+    "context": {
+      "next": {
+        "content": "\"Because I always keep faith. I had promised when he first wrote that I would not try to trace him.\"",
+        "objectID": "870c707af911d711a7d9b5049c625962"
+      },
+      "previous": {
+        "content": "\"No.\"",
+        "objectID": "6015ae910874b761b5431d7e6c28dd2e"
+      }
+    },
+    "objectID": "eb65bf5cede663a656a73237e18dacda",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Because I always keep faith. I had promised when he first wrote that I would not try to trace him.\"",
+    "context": {
+      "next": {
+        "content": "\"You think there is someone behind him?\"",
+        "objectID": "65f1dcda9fdf2b2ff79b28f35e14c6f4"
+      },
+      "previous": {
+        "content": "The inspector looked surprised and a little shocked. \"Why not?\"",
+        "objectID": "eb65bf5cede663a656a73237e18dacda"
+      }
+    },
+    "objectID": "870c707af911d711a7d9b5049c625962",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"You think there is someone behind him?\"",
+    "context": {
+      "next": {
+        "content": "\"I know there is.\"",
+        "objectID": "4f373954232158856a73e4c5e979a21e"
+      },
+      "previous": {
+        "content": "\"Because I always keep faith. I had promised when he first wrote that I would not try to trace him.\"",
+        "objectID": "870c707af911d711a7d9b5049c625962"
+      }
+    },
+    "objectID": "65f1dcda9fdf2b2ff79b28f35e14c6f4",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"I know there is.\"",
+    "context": {
+      "next": {
+        "content": "\"This professor that I've heard you mention?\"",
+        "objectID": "50457614fe16f56497dd7015026975f0"
+      },
+      "previous": {
+        "content": "\"You think there is someone behind him?\"",
+        "objectID": "65f1dcda9fdf2b2ff79b28f35e14c6f4"
+      }
+    },
+    "objectID": "4f373954232158856a73e4c5e979a21e",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"This professor that I've heard you mention?\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly!\"",
+        "objectID": "52e1b02f0387d8acff86999c7b4e0417"
+      },
+      "previous": {
+        "content": "\"I know there is.\"",
+        "objectID": "4f373954232158856a73e4c5e979a21e"
+      }
+    },
+    "objectID": "50457614fe16f56497dd7015026975f0",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Exactly!\"",
+    "context": {
+      "next": {
+        "content": "Inspector MacDonald smiled, and his eyelid quivered as he glanced towards me. \"I won't conceal from you, Mr. Holmes, that we think in the C.I.D. that you have a wee bit of a bee in your bonnet over this professor. I made some inquiries myself about the matter. He seems to be a very respectable, learned, and talented sort of man.",
+        "objectID": "2011771e04923d633b5b56363574d872"
+      },
+      "previous": {
+        "content": "\"This professor that I've heard you mention?\"",
+        "objectID": "50457614fe16f56497dd7015026975f0"
+      }
+    },
+    "objectID": "52e1b02f0387d8acff86999c7b4e0417",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "Inspector MacDonald smiled, and his eyelid quivered as he glanced towards me. \"I won't conceal from you, Mr. Holmes, that we think in the C.I.D. that you have a wee bit of a bee in your bonnet over this professor. I made some inquiries myself about the matter. He seems to be a very respectable, learned, and talented sort of man.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "ade27ff5edb3dd2a36ddfbcd99a12684"
+      },
+      "previous": {
+        "content": "\"Exactly!\"",
+        "objectID": "52e1b02f0387d8acff86999c7b4e0417"
+      }
+    },
+    "objectID": "2011771e04923d633b5b56363574d872",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"I'm glad you've got so far as to recognize the talent.\"",
+        "objectID": "ca1acb9cd88c951cbb6b5943ae11dbf8"
+      },
+      "previous": {
+        "content": "Inspector MacDonald smiled, and his eyelid quivered as he glanced towards me. \"I won't conceal from you, Mr. Holmes, that we think in the C.I.D. that you have a wee bit of a bee in your bonnet over this professor. I made some inquiries myself about the matter. He seems to be a very respectable, learned, and talented sort of man.",
+        "objectID": "2011771e04923d633b5b56363574d872"
+      }
+    },
+    "objectID": "ade27ff5edb3dd2a36ddfbcd99a12684",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"I'm glad you've got so far as to recognize the talent.\"",
+    "context": {
+      "next": {
+        "content": "\"Man, you can't but recognize it! After I heard your view I made it my business to see him. I had a chat with him on eclipses. How the talk got that way I canna think; but he had out a reflector lantern and a globe, and made it all clear in a minute. He lent me a book; but I don't mind saying that it was a bit above my head, though I had a good Aberdeen upbringing.",
+        "objectID": "44f9c4ee88ff5699bc852903d9fcb89c"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "ade27ff5edb3dd2a36ddfbcd99a12684"
+      }
+    },
+    "objectID": "ca1acb9cd88c951cbb6b5943ae11dbf8",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Man, you can't but recognize it! After I heard your view I made it my business to see him. I had a chat with him on eclipses. How the talk got that way I canna think; but he had out a reflector lantern and a globe, and made it all clear in a minute. He lent me a book; but I don't mind saying that it was a bit above my head, though I had a good Aberdeen upbringing.",
+    "context": {
+      "next": {
+        "content": "He'd have made a grand meenister with his thin face and gray hair and solemn-like way of talking. When he put his hand on my shoulder as we were parting, it was like a father's blessing before you go out into the cold, cruel world.\"",
+        "objectID": "3435c12a39afa6ded39f4bcd83da463d"
+      },
+      "previous": {
+        "content": "\"I'm glad you've got so far as to recognize the talent.\"",
+        "objectID": "ca1acb9cd88c951cbb6b5943ae11dbf8"
+      }
+    },
+    "objectID": "44f9c4ee88ff5699bc852903d9fcb89c",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "He'd have made a grand meenister with his thin face and gray hair and solemn-like way of talking. When he put his hand on my shoulder as we were parting, it was like a father's blessing before you go out into the cold, cruel world.\"",
+    "context": {
+      "next": {
+        "content": "Holmes chuckled and rubbed his hands. \"Great!\" he said. \"Great! Tell me, Friend MacDonald, this pleasing and touching interview was, I suppose, in the professor's study?\"",
+        "objectID": "d2b181973c07a39216a3915bbd1c2236"
+      },
+      "previous": {
+        "content": "\"Man, you can't but recognize it! After I heard your view I made it my business to see him. I had a chat with him on eclipses. How the talk got that way I canna think; but he had out a reflector lantern and a globe, and made it all clear in a minute. He lent me a book; but I don't mind saying that it was a bit above my head, though I had a good Aberdeen upbringing.",
+        "objectID": "44f9c4ee88ff5699bc852903d9fcb89c"
+      }
+    },
+    "objectID": "3435c12a39afa6ded39f4bcd83da463d",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "Holmes chuckled and rubbed his hands. \"Great!\" he said. \"Great! Tell me, Friend MacDonald, this pleasing and touching interview was, I suppose, in the professor's study?\"",
+    "context": {
+      "next": {
+        "content": "\"That's so.\"",
+        "objectID": "e9269ade7c7f37f8d7e6f9b05deb50c1"
+      },
+      "previous": {
+        "content": "He'd have made a grand meenister with his thin face and gray hair and solemn-like way of talking. When he put his hand on my shoulder as we were parting, it was like a father's blessing before you go out into the cold, cruel world.\"",
+        "objectID": "3435c12a39afa6ded39f4bcd83da463d"
+      }
+    },
+    "objectID": "d2b181973c07a39216a3915bbd1c2236",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"That's so.\"",
+    "context": {
+      "next": {
+        "content": "\"A fine room, is it not?\"",
+        "objectID": "222833e4e74a84025ddc0967e647f76b"
+      },
+      "previous": {
+        "content": "Holmes chuckled and rubbed his hands. \"Great!\" he said. \"Great! Tell me, Friend MacDonald, this pleasing and touching interview was, I suppose, in the professor's study?\"",
+        "objectID": "d2b181973c07a39216a3915bbd1c2236"
+      }
+    },
+    "objectID": "e9269ade7c7f37f8d7e6f9b05deb50c1",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"A fine room, is it not?\"",
+    "context": {
+      "next": {
+        "content": "\"Very fine—very handsome indeed, Mr. Holmes.\"",
+        "objectID": "6303a84d61b91d5b5154caf654ebeb23"
+      },
+      "previous": {
+        "content": "\"That's so.\"",
+        "objectID": "e9269ade7c7f37f8d7e6f9b05deb50c1"
+      }
+    },
+    "objectID": "222833e4e74a84025ddc0967e647f76b",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Very fine—very handsome indeed, Mr. Holmes.\"",
+    "context": {
+      "next": {
+        "content": "\"You sat in front of his writing desk?\"",
+        "objectID": "939175945525f0878fcb1933f0b29f26"
+      },
+      "previous": {
+        "content": "\"A fine room, is it not?\"",
+        "objectID": "222833e4e74a84025ddc0967e647f76b"
+      }
+    },
+    "objectID": "6303a84d61b91d5b5154caf654ebeb23",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"You sat in front of his writing desk?\"",
+    "context": {
+      "next": {
+        "content": "\"Just so.\"",
+        "objectID": "00765a2a340aafde0b6924b5b295d4fa"
+      },
+      "previous": {
+        "content": "\"Very fine—very handsome indeed, Mr. Holmes.\"",
+        "objectID": "6303a84d61b91d5b5154caf654ebeb23"
+      }
+    },
+    "objectID": "939175945525f0878fcb1933f0b29f26",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Just so.\"",
+    "context": {
+      "next": {
+        "content": "\"Sun in your eyes and his face in the shadow?\"",
+        "objectID": "9c5d149dc65990be03fd84728837825e"
+      },
+      "previous": {
+        "content": "\"You sat in front of his writing desk?\"",
+        "objectID": "939175945525f0878fcb1933f0b29f26"
+      }
+    },
+    "objectID": "00765a2a340aafde0b6924b5b295d4fa",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Sun in your eyes and his face in the shadow?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, it was evening; but I mind that the lamp was turned on my face.\"",
+        "objectID": "68f6e5ada55f50166bf0c68690d78ca5"
+      },
+      "previous": {
+        "content": "\"Just so.\"",
+        "objectID": "00765a2a340aafde0b6924b5b295d4fa"
+      }
+    },
+    "objectID": "9c5d149dc65990be03fd84728837825e",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Well, it was evening; but I mind that the lamp was turned on my face.\"",
+    "context": {
+      "next": {
+        "content": "\"It would be. Did you happen to observe a picture over the professor's head?\"",
+        "objectID": "76f837b1eb2f4e1473a2e6e936fe3df5"
+      },
+      "previous": {
+        "content": "\"Sun in your eyes and his face in the shadow?\"",
+        "objectID": "9c5d149dc65990be03fd84728837825e"
+      }
+    },
+    "objectID": "68f6e5ada55f50166bf0c68690d78ca5",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"It would be. Did you happen to observe a picture over the professor's head?\"",
+    "context": {
+      "next": {
+        "content": "\"I don't miss much, Mr. Holmes. Maybe I learned that from you. Yes, I saw the picture—a young woman with her head on her hands, peeping at you sideways.\"",
+        "objectID": "e48b818edc9bbf3228d2f7e20e0ebaea"
+      },
+      "previous": {
+        "content": "\"Well, it was evening; but I mind that the lamp was turned on my face.\"",
+        "objectID": "68f6e5ada55f50166bf0c68690d78ca5"
+      }
+    },
+    "objectID": "76f837b1eb2f4e1473a2e6e936fe3df5",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"I don't miss much, Mr. Holmes. Maybe I learned that from you. Yes, I saw the picture—a young woman with her head on her hands, peeping at you sideways.\"",
+    "context": {
+      "next": {
+        "content": "\"That painting was by Jean Baptiste Greuze.\"",
+        "objectID": "5fbd4d7c4c3f727a8daa1ac04a5084f2"
+      },
+      "previous": {
+        "content": "\"It would be. Did you happen to observe a picture over the professor's head?\"",
+        "objectID": "76f837b1eb2f4e1473a2e6e936fe3df5"
+      }
+    },
+    "objectID": "e48b818edc9bbf3228d2f7e20e0ebaea",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"That painting was by Jean Baptiste Greuze.\"",
+    "context": {
+      "next": {
+        "content": "The inspector endeavoured to look interested.",
+        "objectID": "87a7f938963d31aa330eea016fb6e4a2"
+      },
+      "previous": {
+        "content": "\"I don't miss much, Mr. Holmes. Maybe I learned that from you. Yes, I saw the picture—a young woman with her head on her hands, peeping at you sideways.\"",
+        "objectID": "e48b818edc9bbf3228d2f7e20e0ebaea"
+      }
+    },
+    "objectID": "5fbd4d7c4c3f727a8daa1ac04a5084f2",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "The inspector endeavoured to look interested.",
+    "context": {
+      "next": {
+        "content": "\"Jean Baptiste Greuze,\" Holmes continued, joining his finger tips and leaning well back in his chair, \"was a French artist who flourished between the years 1750 and 1800. I allude, of course to his working career. Modern criticism has more than indorsed the high opinion formed of him by his contemporaries.",
+        "objectID": "5fd139740b719194e048b563648b4534"
+      },
+      "previous": {
+        "content": "\"That painting was by Jean Baptiste Greuze.\"",
+        "objectID": "5fbd4d7c4c3f727a8daa1ac04a5084f2"
+      }
+    },
+    "objectID": "87a7f938963d31aa330eea016fb6e4a2",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Jean Baptiste Greuze,\" Holmes continued, joining his finger tips and leaning well back in his chair, \"was a French artist who flourished between the years 1750 and 1800. I allude, of course to his working career. Modern criticism has more than indorsed the high opinion formed of him by his contemporaries.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "895c264dd2cc90d1f5ddf49e674a4d9e"
+      },
+      "previous": {
+        "content": "The inspector endeavoured to look interested.",
+        "objectID": "87a7f938963d31aa330eea016fb6e4a2"
+      }
+    },
+    "objectID": "5fd139740b719194e048b563648b4534",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "The inspector's eyes grew abstracted. \"Hadn't we better—\" he said.",
+        "objectID": "dc86477b29a033b3fc59e825bbd3fc03"
+      },
+      "previous": {
+        "content": "\"Jean Baptiste Greuze,\" Holmes continued, joining his finger tips and leaning well back in his chair, \"was a French artist who flourished between the years 1750 and 1800. I allude, of course to his working career. Modern criticism has more than indorsed the high opinion formed of him by his contemporaries.",
+        "objectID": "5fd139740b719194e048b563648b4534"
+      }
+    },
+    "objectID": "895c264dd2cc90d1f5ddf49e674a4d9e",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "The inspector's eyes grew abstracted. \"Hadn't we better—\" he said.",
+    "context": {
+      "next": {
+        "content": "\"We are doing so,\" Holmes interrupted. \"All that I am saying has a very direct and vital bearing upon what you have called the Birlstone Mystery. In fact, it may in a sense be called the very centre of it.\"",
+        "objectID": "92fe199c12ed9c497058bd4da4e18c3e"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "895c264dd2cc90d1f5ddf49e674a4d9e"
+      }
+    },
+    "objectID": "dc86477b29a033b3fc59e825bbd3fc03",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"We are doing so,\" Holmes interrupted. \"All that I am saying has a very direct and vital bearing upon what you have called the Birlstone Mystery. In fact, it may in a sense be called the very centre of it.\"",
+    "context": {
+      "next": {
+        "content": "MacDonald smiled feebly, and looked appealingly to me. \"Your thoughts move a bit too quick for me, Mr. Holmes. You leave out a link or two, and I can't get over the gap. What in the whole wide world can be the connection between this dead painting man and the affair at Birlstone?\"",
+        "objectID": "aec14640a0c307108abf2e15c2040fc2"
+      },
+      "previous": {
+        "content": "The inspector's eyes grew abstracted. \"Hadn't we better—\" he said.",
+        "objectID": "dc86477b29a033b3fc59e825bbd3fc03"
+      }
+    },
+    "objectID": "92fe199c12ed9c497058bd4da4e18c3e",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "MacDonald smiled feebly, and looked appealingly to me. \"Your thoughts move a bit too quick for me, Mr. Holmes. You leave out a link or two, and I can't get over the gap. What in the whole wide world can be the connection between this dead painting man and the affair at Birlstone?\"",
+    "context": {
+      "next": {
+        "content": "\"All knowledge comes useful to the detective,\" remarked Holmes. \"Even the trivial fact that in the year 1865 a picture by Greuze entitled La Jeune Fille a l'Agneau fetched one million two hundred thousand francs—more than forty thousand pounds—at the Portalis sale may start a train of reflection in your mind.",
+        "objectID": "b281ecf019faf6d7f8cb3ca90b447af6"
+      },
+      "previous": {
+        "content": "\"We are doing so,\" Holmes interrupted. \"All that I am saying has a very direct and vital bearing upon what you have called the Birlstone Mystery. In fact, it may in a sense be called the very centre of it.\"",
+        "objectID": "92fe199c12ed9c497058bd4da4e18c3e"
+      }
+    },
+    "objectID": "aec14640a0c307108abf2e15c2040fc2",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"All knowledge comes useful to the detective,\" remarked Holmes. \"Even the trivial fact that in the year 1865 a picture by Greuze entitled La Jeune Fille a l'Agneau fetched one million two hundred thousand francs—more than forty thousand pounds—at the Portalis sale may start a train of reflection in your mind.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "f7e6cea13f54a63f1cdb53fd7b5d2ba8"
+      },
+      "previous": {
+        "content": "MacDonald smiled feebly, and looked appealingly to me. \"Your thoughts move a bit too quick for me, Mr. Holmes. You leave out a link or two, and I can't get over the gap. What in the whole wide world can be the connection between this dead painting man and the affair at Birlstone?\"",
+        "objectID": "aec14640a0c307108abf2e15c2040fc2"
+      }
+    },
+    "objectID": "b281ecf019faf6d7f8cb3ca90b447af6",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "It was clear that it did. The inspector looked honestly interested.",
+        "objectID": "ae4a98eac954186cbcaa7e8617c40731"
+      },
+      "previous": {
+        "content": "\"All knowledge comes useful to the detective,\" remarked Holmes. \"Even the trivial fact that in the year 1865 a picture by Greuze entitled La Jeune Fille a l'Agneau fetched one million two hundred thousand francs—more than forty thousand pounds—at the Portalis sale may start a train of reflection in your mind.",
+        "objectID": "b281ecf019faf6d7f8cb3ca90b447af6"
+      }
+    },
+    "objectID": "f7e6cea13f54a63f1cdb53fd7b5d2ba8",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "It was clear that it did. The inspector looked honestly interested.",
+    "context": {
+      "next": {
+        "content": "\"I may remind you,\" Holmes continued, \"that the professor's salary can be ascertained in several trustworthy books of reference. It is seven hundred a year.\"",
+        "objectID": "620dc0d72a59d3d88c88b31d64909a8e"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "f7e6cea13f54a63f1cdb53fd7b5d2ba8"
+      }
+    },
+    "objectID": "ae4a98eac954186cbcaa7e8617c40731",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"I may remind you,\" Holmes continued, \"that the professor's salary can be ascertained in several trustworthy books of reference. It is seven hundred a year.\"",
+    "context": {
+      "next": {
+        "content": "\"Then how could he buy—\"",
+        "objectID": "aa564989239b9e80edca3d739e5b8d1a"
+      },
+      "previous": {
+        "content": "It was clear that it did. The inspector looked honestly interested.",
+        "objectID": "ae4a98eac954186cbcaa7e8617c40731"
+      }
+    },
+    "objectID": "620dc0d72a59d3d88c88b31d64909a8e",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Then how could he buy—\"",
+    "context": {
+      "next": {
+        "content": "\"Quite so! How could he?\"",
+        "objectID": "8c0dcdfcac395300437af319289adcea"
+      },
+      "previous": {
+        "content": "\"I may remind you,\" Holmes continued, \"that the professor's salary can be ascertained in several trustworthy books of reference. It is seven hundred a year.\"",
+        "objectID": "620dc0d72a59d3d88c88b31d64909a8e"
+      }
+    },
+    "objectID": "aa564989239b9e80edca3d739e5b8d1a",
+    "order": 50,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Quite so! How could he?\"",
+    "context": {
+      "next": {
+        "content": "\"Ay, that's remarkable,\" said the inspector thoughtfully. \"Talk away, Mr. Holmes. I'm just loving it. It's fine!\"",
+        "objectID": "a84490e56b67f980575d2ef00d5549b8"
+      },
+      "previous": {
+        "content": "\"Then how could he buy—\"",
+        "objectID": "aa564989239b9e80edca3d739e5b8d1a"
+      }
+    },
+    "objectID": "8c0dcdfcac395300437af319289adcea",
+    "order": 51,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Ay, that's remarkable,\" said the inspector thoughtfully. \"Talk away, Mr. Holmes. I'm just loving it. It's fine!\"",
+    "context": {
+      "next": {
+        "content": "Holmes smiled. He was always warmed by genuine admiration—the characteristic of the real artist. \"What about Birlstone?\" he asked.",
+        "objectID": "42aa0dd30f80c8a5fead640b7e7caa9f"
+      },
+      "previous": {
+        "content": "\"Quite so! How could he?\"",
+        "objectID": "8c0dcdfcac395300437af319289adcea"
+      }
+    },
+    "objectID": "a84490e56b67f980575d2ef00d5549b8",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "Holmes smiled. He was always warmed by genuine admiration—the characteristic of the real artist. \"What about Birlstone?\" he asked.",
+    "context": {
+      "next": {
+        "content": "\"We've time yet,\" said the inspector, glancing at his watch. \"I've a cab at the door, and it won't take us twenty minutes to Victoria. But about this picture: I thought you told me once, Mr. Holmes, that you had never met Professor Moriarty.\"",
+        "objectID": "bad75bf532128178de84f835e15e3a1a"
+      },
+      "previous": {
+        "content": "\"Ay, that's remarkable,\" said the inspector thoughtfully. \"Talk away, Mr. Holmes. I'm just loving it. It's fine!\"",
+        "objectID": "a84490e56b67f980575d2ef00d5549b8"
+      }
+    },
+    "objectID": "42aa0dd30f80c8a5fead640b7e7caa9f",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"We've time yet,\" said the inspector, glancing at his watch. \"I've a cab at the door, and it won't take us twenty minutes to Victoria. But about this picture: I thought you told me once, Mr. Holmes, that you had never met Professor Moriarty.\"",
+    "context": {
+      "next": {
+        "content": "\"No, I never have.\"",
+        "objectID": "ab922e1923f043ea654debcdf3963a64"
+      },
+      "previous": {
+        "content": "Holmes smiled. He was always warmed by genuine admiration—the characteristic of the real artist. \"What about Birlstone?\" he asked.",
+        "objectID": "42aa0dd30f80c8a5fead640b7e7caa9f"
+      }
+    },
+    "objectID": "bad75bf532128178de84f835e15e3a1a",
+    "order": 54,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"No, I never have.\"",
+    "context": {
+      "next": {
+        "content": "\"Then how do you know about his rooms?\"",
+        "objectID": "e86ed3fe82ae3c055e9d519d78ce2234"
+      },
+      "previous": {
+        "content": "\"We've time yet,\" said the inspector, glancing at his watch. \"I've a cab at the door, and it won't take us twenty minutes to Victoria. But about this picture: I thought you told me once, Mr. Holmes, that you had never met Professor Moriarty.\"",
+        "objectID": "bad75bf532128178de84f835e15e3a1a"
+      }
+    },
+    "objectID": "ab922e1923f043ea654debcdf3963a64",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Then how do you know about his rooms?\"",
+    "context": {
+      "next": {
+        "content": "\"Ah, that's another matter. I have been three times in his rooms, twice waiting for him under different pretexts and leaving before he came. Once—well, I can hardly tell about the once to an official detective. It was on the last occasion that I took the liberty of running over his papers—with the most unexpected results.",
+        "objectID": "ef5ceac2ca5d83a392278ca869b608c8"
+      },
+      "previous": {
+        "content": "\"No, I never have.\"",
+        "objectID": "ab922e1923f043ea654debcdf3963a64"
+      }
+    },
+    "objectID": "e86ed3fe82ae3c055e9d519d78ce2234",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Ah, that's another matter. I have been three times in his rooms, twice waiting for him under different pretexts and leaving before he came. Once—well, I can hardly tell about the once to an official detective. It was on the last occasion that I took the liberty of running over his papers—with the most unexpected results.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "eb86b68d70efb93af5423dfeeb6f1ee3"
+      },
+      "previous": {
+        "content": "\"Then how do you know about his rooms?\"",
+        "objectID": "e86ed3fe82ae3c055e9d519d78ce2234"
+      }
+    },
+    "objectID": "ef5ceac2ca5d83a392278ca869b608c8",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"You found something compromising?\"",
+        "objectID": "5f5b4bf28b45832c9ed6d5cc8051cb14"
+      },
+      "previous": {
+        "content": "\"Ah, that's another matter. I have been three times in his rooms, twice waiting for him under different pretexts and leaving before he came. Once—well, I can hardly tell about the once to an official detective. It was on the last occasion that I took the liberty of running over his papers—with the most unexpected results.",
+        "objectID": "ef5ceac2ca5d83a392278ca869b608c8"
+      }
+    },
+    "objectID": "eb86b68d70efb93af5423dfeeb6f1ee3",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"You found something compromising?\"",
+    "context": {
+      "next": {
+        "content": "\"Absolutely nothing. That was what amazed me. However, you have now seen the point of the picture. It shows him to be a very wealthy man. How did he acquire wealth? He is unmarried. His younger brother is a station master in the west of England. His chair is worth seven hundred a year. And he owns a Greuze.",
+        "objectID": "b8eafcc91c5093781f1742c2d769e418"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "eb86b68d70efb93af5423dfeeb6f1ee3"
+      }
+    },
+    "objectID": "5f5b4bf28b45832c9ed6d5cc8051cb14",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Absolutely nothing. That was what amazed me. However, you have now seen the point of the picture. It shows him to be a very wealthy man. How did he acquire wealth? He is unmarried. His younger brother is a station master in the west of England. His chair is worth seven hundred a year. And he owns a Greuze.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "8a22a6bedabfdc703055f52ea21c15d1"
+      },
+      "previous": {
+        "content": "\"You found something compromising?\"",
+        "objectID": "5f5b4bf28b45832c9ed6d5cc8051cb14"
+      }
+    },
+    "objectID": "b8eafcc91c5093781f1742c2d769e418",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Well?\"",
+        "objectID": "a1f93148c0e1a360d5fb7defd0399f8a"
+      },
+      "previous": {
+        "content": "\"Absolutely nothing. That was what amazed me. However, you have now seen the point of the picture. It shows him to be a very wealthy man. How did he acquire wealth? He is unmarried. His younger brother is a station master in the west of England. His chair is worth seven hundred a year. And he owns a Greuze.",
+        "objectID": "b8eafcc91c5093781f1742c2d769e418"
+      }
+    },
+    "objectID": "8a22a6bedabfdc703055f52ea21c15d1",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Well?\"",
+    "context": {
+      "next": {
+        "content": "\"Surely the inference is plain.\"",
+        "objectID": "ba187126c9cd51e58bcdcfdb644b1326"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "8a22a6bedabfdc703055f52ea21c15d1"
+      }
+    },
+    "objectID": "a1f93148c0e1a360d5fb7defd0399f8a",
+    "order": 62,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Surely the inference is plain.\"",
+    "context": {
+      "next": {
+        "content": "\"You mean that he has a great income and that he must earn it in an illegal fashion?\"",
+        "objectID": "217f016eb72b24da1ee19ae6a9caee88"
+      },
+      "previous": {
+        "content": "\"Well?\"",
+        "objectID": "a1f93148c0e1a360d5fb7defd0399f8a"
+      }
+    },
+    "objectID": "ba187126c9cd51e58bcdcfdb644b1326",
+    "order": 63,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"You mean that he has a great income and that he must earn it in an illegal fashion?\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly. Of course I have other reasons for thinking so—dozens of exiguous threads which lead vaguely up towards the centre of the web where the poisonous, motionless creature is lurking. I only mention the Greuze because it brings the matter within the range of your own observation.\"",
+        "objectID": "1fe65d9180b61dec190a00f5a283c2c3"
+      },
+      "previous": {
+        "content": "\"Surely the inference is plain.\"",
+        "objectID": "ba187126c9cd51e58bcdcfdb644b1326"
+      }
+    },
+    "objectID": "217f016eb72b24da1ee19ae6a9caee88",
+    "order": 64,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Exactly. Of course I have other reasons for thinking so—dozens of exiguous threads which lead vaguely up towards the centre of the web where the poisonous, motionless creature is lurking. I only mention the Greuze because it brings the matter within the range of your own observation.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, Mr. Holmes, I admit that what you say is interesting: it's more than interesting—it's just wonderful. But let us have it a little clearer if you can. Is it forgery, coining, burglary—where does the money come from?\"",
+        "objectID": "91493414ef0b941a100dcce3c33326dd"
+      },
+      "previous": {
+        "content": "\"You mean that he has a great income and that he must earn it in an illegal fashion?\"",
+        "objectID": "217f016eb72b24da1ee19ae6a9caee88"
+      }
+    },
+    "objectID": "1fe65d9180b61dec190a00f5a283c2c3",
+    "order": 65,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Well, Mr. Holmes, I admit that what you say is interesting: it's more than interesting—it's just wonderful. But let us have it a little clearer if you can. Is it forgery, coining, burglary—where does the money come from?\"",
+    "context": {
+      "next": {
+        "content": "\"Have you ever read of Jonathan Wild?\"",
+        "objectID": "c377edd34dff8fd53f228e2e8e9a26d9"
+      },
+      "previous": {
+        "content": "\"Exactly. Of course I have other reasons for thinking so—dozens of exiguous threads which lead vaguely up towards the centre of the web where the poisonous, motionless creature is lurking. I only mention the Greuze because it brings the matter within the range of your own observation.\"",
+        "objectID": "1fe65d9180b61dec190a00f5a283c2c3"
+      }
+    },
+    "objectID": "91493414ef0b941a100dcce3c33326dd",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Have you ever read of Jonathan Wild?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, the name has a familiar sound. Someone in a novel, was he not? I don't take much stock of detectives in novels—chaps that do things and never let you see how they do them. That's just inspiration: not business.\"",
+        "objectID": "c7c9ed7d7a025495d1911751cd3e4ef0"
+      },
+      "previous": {
+        "content": "\"Well, Mr. Holmes, I admit that what you say is interesting: it's more than interesting—it's just wonderful. But let us have it a little clearer if you can. Is it forgery, coining, burglary—where does the money come from?\"",
+        "objectID": "91493414ef0b941a100dcce3c33326dd"
+      }
+    },
+    "objectID": "c377edd34dff8fd53f228e2e8e9a26d9",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Well, the name has a familiar sound. Someone in a novel, was he not? I don't take much stock of detectives in novels—chaps that do things and never let you see how they do them. That's just inspiration: not business.\"",
+    "context": {
+      "next": {
+        "content": "\"Jonathan Wild wasn't a detective, and he wasn't in a novel. He was a master criminal, and he lived last century—1750 or thereabouts.\"",
+        "objectID": "729c72feeee676655b836f1765e14f93"
+      },
+      "previous": {
+        "content": "\"Have you ever read of Jonathan Wild?\"",
+        "objectID": "c377edd34dff8fd53f228e2e8e9a26d9"
+      }
+    },
+    "objectID": "c7c9ed7d7a025495d1911751cd3e4ef0",
+    "order": 68,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Jonathan Wild wasn't a detective, and he wasn't in a novel. He was a master criminal, and he lived last century—1750 or thereabouts.\"",
+    "context": {
+      "next": {
+        "content": "\"Then he's no use to me. I'm a practical man.\"",
+        "objectID": "938e7f1a98f8aecba680a2698c66f0b0"
+      },
+      "previous": {
+        "content": "\"Well, the name has a familiar sound. Someone in a novel, was he not? I don't take much stock of detectives in novels—chaps that do things and never let you see how they do them. That's just inspiration: not business.\"",
+        "objectID": "c7c9ed7d7a025495d1911751cd3e4ef0"
+      }
+    },
+    "objectID": "729c72feeee676655b836f1765e14f93",
+    "order": 69,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Then he's no use to me. I'm a practical man.\"",
+    "context": {
+      "next": {
+        "content": "\"Mr. Mac, the most practical thing that you ever did in your life would be to shut yourself up for three months and read twelve hours a day at the annals of crime. Everything comes in circles—even Professor Moriarty. Jonathan Wild was the hidden force of the London criminals, to whom he sold his brains and his organization on a fifteen per cent.",
+        "objectID": "87b1d797c2a2b4149e8666abcf689e2d"
+      },
+      "previous": {
+        "content": "\"Jonathan Wild wasn't a detective, and he wasn't in a novel. He was a master criminal, and he lived last century—1750 or thereabouts.\"",
+        "objectID": "729c72feeee676655b836f1765e14f93"
+      }
+    },
+    "objectID": "938e7f1a98f8aecba680a2698c66f0b0",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Mr. Mac, the most practical thing that you ever did in your life would be to shut yourself up for three months and read twelve hours a day at the annals of crime. Everything comes in circles—even Professor Moriarty. Jonathan Wild was the hidden force of the London criminals, to whom he sold his brains and his organization on a fifteen per cent.",
+    "context": {
+      "next": {
+        "content": "commission. The old wheel turns, and the same spoke comes up. It's all been done before, and will be again. I'll tell you one or two things about Moriarty which may interest you.\"",
+        "objectID": "209927b1a5933fc926aa2b5b1386309d"
+      },
+      "previous": {
+        "content": "\"Then he's no use to me. I'm a practical man.\"",
+        "objectID": "938e7f1a98f8aecba680a2698c66f0b0"
+      }
+    },
+    "objectID": "87b1d797c2a2b4149e8666abcf689e2d",
+    "order": 71,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "commission. The old wheel turns, and the same spoke comes up. It's all been done before, and will be again. I'll tell you one or two things about Moriarty which may interest you.\"",
+    "context": {
+      "next": {
+        "content": "\"You'll interest me, right enough.\"",
+        "objectID": "14f0474507957fc5244625cc94ca1bfd"
+      },
+      "previous": {
+        "content": "\"Mr. Mac, the most practical thing that you ever did in your life would be to shut yourself up for three months and read twelve hours a day at the annals of crime. Everything comes in circles—even Professor Moriarty. Jonathan Wild was the hidden force of the London criminals, to whom he sold his brains and his organization on a fifteen per cent.",
+        "objectID": "87b1d797c2a2b4149e8666abcf689e2d"
+      }
+    },
+    "objectID": "209927b1a5933fc926aa2b5b1386309d",
+    "order": 72,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"You'll interest me, right enough.\"",
+    "context": {
+      "next": {
+        "content": "\"I happen to know who is the first link in his chain—a chain with this Napoleon-gone-wrong at one end, and a hundred broken fighting men, pickpockets, blackmailers, and card sharpers at the other, with every sort of crime in between. His chief of staff is Colonel Sebastian Moran, as aloof and guarded and inaccessible to the law as himself.",
+        "objectID": "108b4407556e5275d9cbd28aabbb26ff"
+      },
+      "previous": {
+        "content": "commission. The old wheel turns, and the same spoke comes up. It's all been done before, and will be again. I'll tell you one or two things about Moriarty which may interest you.\"",
+        "objectID": "209927b1a5933fc926aa2b5b1386309d"
+      }
+    },
+    "objectID": "14f0474507957fc5244625cc94ca1bfd",
+    "order": 73,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"I happen to know who is the first link in his chain—a chain with this Napoleon-gone-wrong at one end, and a hundred broken fighting men, pickpockets, blackmailers, and card sharpers at the other, with every sort of crime in between. His chief of staff is Colonel Sebastian Moran, as aloof and guarded and inaccessible to the law as himself.",
+    "context": {
+      "next": {
+        "content": "What do you think he pays him?\"",
+        "objectID": "769258b626c827bc23b87c0d6346b7ef"
+      },
+      "previous": {
+        "content": "\"You'll interest me, right enough.\"",
+        "objectID": "14f0474507957fc5244625cc94ca1bfd"
+      }
+    },
+    "objectID": "108b4407556e5275d9cbd28aabbb26ff",
+    "order": 74,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "What do you think he pays him?\"",
+    "context": {
+      "next": {
+        "content": "\"I'd like to hear.\"",
+        "objectID": "87314a7deb775cda802b9a8ef89b722e"
+      },
+      "previous": {
+        "content": "\"I happen to know who is the first link in his chain—a chain with this Napoleon-gone-wrong at one end, and a hundred broken fighting men, pickpockets, blackmailers, and card sharpers at the other, with every sort of crime in between. His chief of staff is Colonel Sebastian Moran, as aloof and guarded and inaccessible to the law as himself.",
+        "objectID": "108b4407556e5275d9cbd28aabbb26ff"
+      }
+    },
+    "objectID": "769258b626c827bc23b87c0d6346b7ef",
+    "order": 75,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"I'd like to hear.\"",
+    "context": {
+      "next": {
+        "content": "\"Six thousand a year. That's paying for brains, you see—the American business principle. I learned that detail quite by chance. It's more than the Prime Minister gets. That gives you an idea of Moriarty's gains and of the scale on which he works. Another point: I made it my business to hunt down some of Moriarty's checks lately—just common innocent checks that he pays his household bills with.",
+        "objectID": "bb3e7df3fa7bc93d9ed6732358fe69b2"
+      },
+      "previous": {
+        "content": "What do you think he pays him?\"",
+        "objectID": "769258b626c827bc23b87c0d6346b7ef"
+      }
+    },
+    "objectID": "87314a7deb775cda802b9a8ef89b722e",
+    "order": 76,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Six thousand a year. That's paying for brains, you see—the American business principle. I learned that detail quite by chance. It's more than the Prime Minister gets. That gives you an idea of Moriarty's gains and of the scale on which he works. Another point: I made it my business to hunt down some of Moriarty's checks lately—just common innocent checks that he pays his household bills with.",
+    "context": {
+      "next": {
+        "content": "They were drawn on six different banks. Does that make any impression on your mind?\"",
+        "objectID": "2fc467fb67308e105a1004c0ad7393ea"
+      },
+      "previous": {
+        "content": "\"I'd like to hear.\"",
+        "objectID": "87314a7deb775cda802b9a8ef89b722e"
+      }
+    },
+    "objectID": "bb3e7df3fa7bc93d9ed6732358fe69b2",
+    "order": 77,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "They were drawn on six different banks. Does that make any impression on your mind?\"",
+    "context": {
+      "next": {
+        "content": "\"Queer, certainly! But what do you gather from it?\"",
+        "objectID": "d33e4563fdaa0e9d793be964b4d7a333"
+      },
+      "previous": {
+        "content": "\"Six thousand a year. That's paying for brains, you see—the American business principle. I learned that detail quite by chance. It's more than the Prime Minister gets. That gives you an idea of Moriarty's gains and of the scale on which he works. Another point: I made it my business to hunt down some of Moriarty's checks lately—just common innocent checks that he pays his household bills with.",
+        "objectID": "bb3e7df3fa7bc93d9ed6732358fe69b2"
+      }
+    },
+    "objectID": "2fc467fb67308e105a1004c0ad7393ea",
+    "order": 78,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Queer, certainly! But what do you gather from it?\"",
+    "context": {
+      "next": {
+        "content": "\"That he wanted no gossip about his wealth. No single man should know what he had. I have no doubt that he has twenty banking accounts; the bulk of his fortune abroad in the Deutsche Bank or the Credit Lyonnais as likely as not. Sometime when you have a year or two to spare I commend to you the study of Professor Moriarty.",
+        "objectID": "09dbbced92ddcc6965d0fdde99f9f4b0"
+      },
+      "previous": {
+        "content": "They were drawn on six different banks. Does that make any impression on your mind?\"",
+        "objectID": "2fc467fb67308e105a1004c0ad7393ea"
+      }
+    },
+    "objectID": "d33e4563fdaa0e9d793be964b4d7a333",
+    "order": 79,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"That he wanted no gossip about his wealth. No single man should know what he had. I have no doubt that he has twenty banking accounts; the bulk of his fortune abroad in the Deutsche Bank or the Credit Lyonnais as likely as not. Sometime when you have a year or two to spare I commend to you the study of Professor Moriarty.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "0360834d24abc32fa137fbe50065df82"
+      },
+      "previous": {
+        "content": "\"Queer, certainly! But what do you gather from it?\"",
+        "objectID": "d33e4563fdaa0e9d793be964b4d7a333"
+      }
+    },
+    "objectID": "09dbbced92ddcc6965d0fdde99f9f4b0",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "Inspector MacDonald had grown steadily more impressed as the conversation proceeded. He had lost himself in his interest. Now his practical Scotch intelligence brought him back with a snap to the matter in hand.",
+        "objectID": "eaa5f5ec7dc603aea62fca17f34666b9"
+      },
+      "previous": {
+        "content": "\"That he wanted no gossip about his wealth. No single man should know what he had. I have no doubt that he has twenty banking accounts; the bulk of his fortune abroad in the Deutsche Bank or the Credit Lyonnais as likely as not. Sometime when you have a year or two to spare I commend to you the study of Professor Moriarty.",
+        "objectID": "09dbbced92ddcc6965d0fdde99f9f4b0"
+      }
+    },
+    "objectID": "0360834d24abc32fa137fbe50065df82",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "Inspector MacDonald had grown steadily more impressed as the conversation proceeded. He had lost himself in his interest. Now his practical Scotch intelligence brought him back with a snap to the matter in hand.",
+    "context": {
+      "next": {
+        "content": "\"He can keep, anyhow,\" said he. \"You've got us side-tracked with your interesting anecdotes, Mr. Holmes. What really counts is your remark that there is some connection between the professor and the crime. That you get from the warning received through the man Porlock. Can we for our present practic",
+        "objectID": "2b0ed308103d7ee20b71a435c763f182"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "0360834d24abc32fa137fbe50065df82"
+      }
+    },
+    "objectID": "eaa5f5ec7dc603aea62fca17f34666b9",
+    "order": 82,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"He can keep, anyhow,\" said he. \"You've got us side-tracked with your interesting anecdotes, Mr. Holmes. What really counts is your remark that there is some connection between the professor and the crime. That you get from the warning received through the man Porlock. Can we for our present practic",
+    "context": {
+      "next": {
+        "content": "al needs get any further than that?\"",
+        "objectID": "9ee129b5b752802f1531b3f6be4cfb9a"
+      },
+      "previous": {
+        "content": "Inspector MacDonald had grown steadily more impressed as the conversation proceeded. He had lost himself in his interest. Now his practical Scotch intelligence brought him back with a snap to the matter in hand.",
+        "objectID": "eaa5f5ec7dc603aea62fca17f34666b9"
+      }
+    },
+    "objectID": "2b0ed308103d7ee20b71a435c763f182",
+    "order": 83,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "al needs get any further than that?\"",
+    "context": {
+      "next": {
+        "content": "\"We may form some conception as to the motives of the crime. It is, as I gather from your original remarks, an inexplicable, or at least an unexplained, murder. Now, presuming that the source of the crime is as we suspect it to be, there might be two different motives. In the first place, I may tell you that Moriarty rules with a rod of iron over his people.",
+        "objectID": "11a4dc789d537a5ea8c4059fd79fbd8b"
+      },
+      "previous": {
+        "content": "\"He can keep, anyhow,\" said he. \"You've got us side-tracked with your interesting anecdotes, Mr. Holmes. What really counts is your remark that there is some connection between the professor and the crime. That you get from the warning received through the man Porlock. Can we for our present practic",
+        "objectID": "2b0ed308103d7ee20b71a435c763f182"
+      }
+    },
+    "objectID": "9ee129b5b752802f1531b3f6be4cfb9a",
+    "order": 84,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"We may form some conception as to the motives of the crime. It is, as I gather from your original remarks, an inexplicable, or at least an unexplained, murder. Now, presuming that the source of the crime is as we suspect it to be, there might be two different motives. In the first place, I may tell you that Moriarty rules with a rod of iron over his people.",
+    "context": {
+      "next": {
+        "content": "His discipline is tremendous. There is only one punishment in his code. It is death. Now we might suppose that this murdered man—this Douglas whose approaching fate was known by one of the arch-criminal's subordinates—had in some way betrayed the chief. His punishment followed, and would be known to all—if only to put the fear of death into them.",
+        "objectID": "45f3dacf448982c6f357acc774182bf4"
+      },
+      "previous": {
+        "content": "al needs get any further than that?\"",
+        "objectID": "9ee129b5b752802f1531b3f6be4cfb9a"
+      }
+    },
+    "objectID": "11a4dc789d537a5ea8c4059fd79fbd8b",
+    "order": 85,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "His discipline is tremendous. There is only one punishment in his code. It is death. Now we might suppose that this murdered man—this Douglas whose approaching fate was known by one of the arch-criminal's subordinates—had in some way betrayed the chief. His punishment followed, and would be known to all—if only to put the fear of death into them.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "39a07d83e7df3517130bedeb586a040a"
+      },
+      "previous": {
+        "content": "\"We may form some conception as to the motives of the crime. It is, as I gather from your original remarks, an inexplicable, or at least an unexplained, murder. Now, presuming that the source of the crime is as we suspect it to be, there might be two different motives. In the first place, I may tell you that Moriarty rules with a rod of iron over his people.",
+        "objectID": "11a4dc789d537a5ea8c4059fd79fbd8b"
+      }
+    },
+    "objectID": "45f3dacf448982c6f357acc774182bf4",
+    "order": 86,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Well, that is one suggestion, Mr. Holmes.\"",
+        "objectID": "f59132ec1569b218f7ec62de91fbd0ac"
+      },
+      "previous": {
+        "content": "His discipline is tremendous. There is only one punishment in his code. It is death. Now we might suppose that this murdered man—this Douglas whose approaching fate was known by one of the arch-criminal's subordinates—had in some way betrayed the chief. His punishment followed, and would be known to all—if only to put the fear of death into them.",
+        "objectID": "45f3dacf448982c6f357acc774182bf4"
+      }
+    },
+    "objectID": "39a07d83e7df3517130bedeb586a040a",
+    "order": 87,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Well, that is one suggestion, Mr. Holmes.\"",
+    "context": {
+      "next": {
+        "content": "\"The other is that it has been engineered by Moriarty in the ordinary course of business. Was there any robbery?\"",
+        "objectID": "4413c9ce2018b8f158435a564fd09cb2"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "39a07d83e7df3517130bedeb586a040a"
+      }
+    },
+    "objectID": "f59132ec1569b218f7ec62de91fbd0ac",
+    "order": 88,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"The other is that it has been engineered by Moriarty in the ordinary course of business. Was there any robbery?\"",
+    "context": {
+      "next": {
+        "content": "\"I have not heard.\"",
+        "objectID": "b4bc5be4d442d73c40879c45ae361307"
+      },
+      "previous": {
+        "content": "\"Well, that is one suggestion, Mr. Holmes.\"",
+        "objectID": "f59132ec1569b218f7ec62de91fbd0ac"
+      }
+    },
+    "objectID": "4413c9ce2018b8f158435a564fd09cb2",
+    "order": 89,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"I have not heard.\"",
+    "context": {
+      "next": {
+        "content": "\"If so, it would, of course, be against the first hypothesis and in favour of the second. Moriarty may have been engaged to engineer it on a promise of part spoils, or he may have been paid so much down to manage it. Either is possible. But whichever it may be, or if it is some third combination, it is down at Birlstone that we must seek the solution.",
+        "objectID": "75fd18da9da17faba4a3523482bbd8b7"
+      },
+      "previous": {
+        "content": "\"The other is that it has been engineered by Moriarty in the ordinary course of business. Was there any robbery?\"",
+        "objectID": "4413c9ce2018b8f158435a564fd09cb2"
+      }
+    },
+    "objectID": "b4bc5be4d442d73c40879c45ae361307",
+    "order": 90,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"If so, it would, of course, be against the first hypothesis and in favour of the second. Moriarty may have been engaged to engineer it on a promise of part spoils, or he may have been paid so much down to manage it. Either is possible. But whichever it may be, or if it is some third combination, it is down at Birlstone that we must seek the solution.",
+    "context": {
+      "next": {
+        "content": "I know our man too well to suppose that he has left anything up here which may lead us to him.\"",
+        "objectID": "e6453d6f2e1e27e2c0242e12553272fe"
+      },
+      "previous": {
+        "content": "\"I have not heard.\"",
+        "objectID": "b4bc5be4d442d73c40879c45ae361307"
+      }
+    },
+    "objectID": "75fd18da9da17faba4a3523482bbd8b7",
+    "order": 91,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "I know our man too well to suppose that he has left anything up here which may lead us to him.\"",
+    "context": {
+      "next": {
+        "content": "\"Then to Birlstone we must go!\" cried MacDonald, jumping from his chair. \"My word! it's later than I thought. I can give you, gentlemen, five minutes for preparation, and that is all.\"",
+        "objectID": "2db2b1bff70eb515d5bbbf1c38d64d83"
+      },
+      "previous": {
+        "content": "\"If so, it would, of course, be against the first hypothesis and in favour of the second. Moriarty may have been engaged to engineer it on a promise of part spoils, or he may have been paid so much down to manage it. Either is possible. But whichever it may be, or if it is some third combination, it is down at Birlstone that we must seek the solution.",
+        "objectID": "75fd18da9da17faba4a3523482bbd8b7"
+      }
+    },
+    "objectID": "e6453d6f2e1e27e2c0242e12553272fe",
+    "order": 92,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Then to Birlstone we must go!\" cried MacDonald, jumping from his chair. \"My word! it's later than I thought. I can give you, gentlemen, five minutes for preparation, and that is all.\"",
+    "context": {
+      "next": {
+        "content": "\"And ample for us both,\" said Holmes, as he sprang up and hastened to change from his dressing gown to his coat. \"While we are on our way, Mr. Mac, I will ask you to be good enough to tell me all about it.\"",
+        "objectID": "4814ade56224c6ebbcd2ce51c0921e16"
+      },
+      "previous": {
+        "content": "I know our man too well to suppose that he has left anything up here which may lead us to him.\"",
+        "objectID": "e6453d6f2e1e27e2c0242e12553272fe"
+      }
+    },
+    "objectID": "2db2b1bff70eb515d5bbbf1c38d64d83",
+    "order": 93,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"And ample for us both,\" said Holmes, as he sprang up and hastened to change from his dressing gown to his coat. \"While we are on our way, Mr. Mac, I will ask you to be good enough to tell me all about it.\"",
+    "context": {
+      "next": {
+        "content": "\"All about it\" proved to be disappointingly little, and yet there was enough to assure us that the case before us might well be worthy of the expert's closest attention. He brightened and rubbed his thin hands together as he listened to the meagre but remarkable details. A long series of sterile weeks lay behind us, and here at last there was a fitting object for those remarkable powers which, like all special gifts, become irksome to their owner when they are not in use.",
+        "objectID": "cc8a8a9da03cc9f7ad383419b34df17b"
+      },
+      "previous": {
+        "content": "\"Then to Birlstone we must go!\" cried MacDonald, jumping from his chair. \"My word! it's later than I thought. I can give you, gentlemen, five minutes for preparation, and that is all.\"",
+        "objectID": "2db2b1bff70eb515d5bbbf1c38d64d83"
+      }
+    },
+    "objectID": "4814ade56224c6ebbcd2ce51c0921e16",
+    "order": 94,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"All about it\" proved to be disappointingly little, and yet there was enough to assure us that the case before us might well be worthy of the expert's closest attention. He brightened and rubbed his thin hands together as he listened to the meagre but remarkable details. A long series of sterile weeks lay behind us, and here at last there was a fitting object for those remarkable powers which, like all special gifts, become irksome to their owner when they are not in use.",
+    "context": {
+      "next": {
+        "content": "That razor brain blunted and rusted with inaction.",
+        "objectID": "3d1bf49d1c480bfcd5ea0318b24c0ef6"
+      },
+      "previous": {
+        "content": "\"And ample for us both,\" said Holmes, as he sprang up and hastened to change from his dressing gown to his coat. \"While we are on our way, Mr. Mac, I will ask you to be good enough to tell me all about it.\"",
+        "objectID": "4814ade56224c6ebbcd2ce51c0921e16"
+      }
+    },
+    "objectID": "cc8a8a9da03cc9f7ad383419b34df17b",
+    "order": 95,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "That razor brain blunted and rusted with inaction.",
+    "context": {
+      "next": {
+        "content": "Sherlock Holmes's eyes glistened, his pale cheeks took a warmer hue, and his whole eager face shone with an inward light when the call for work reached him. Leaning forward in the cab, he listened intently to MacDonald's short sketch of the problem which awaited us in Sussex. The inspector was himself dependent, as he explained to us, upon a scribbled account forwarded to him by the milk train in the early hours of the morning.",
+        "objectID": "03a48df7b7189fde21d1218269c24c6a"
+      },
+      "previous": {
+        "content": "\"All about it\" proved to be disappointingly little, and yet there was enough to assure us that the case before us might well be worthy of the expert's closest attention. He brightened and rubbed his thin hands together as he listened to the meagre but remarkable details. A long series of sterile weeks lay behind us, and here at last there was a fitting object for those remarkable powers which, like all special gifts, become irksome to their owner when they are not in use.",
+        "objectID": "cc8a8a9da03cc9f7ad383419b34df17b"
+      }
+    },
+    "objectID": "3d1bf49d1c480bfcd5ea0318b24c0ef6",
+    "order": 96,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "Sherlock Holmes's eyes glistened, his pale cheeks took a warmer hue, and his whole eager face shone with an inward light when the call for work reached him. Leaning forward in the cab, he listened intently to MacDonald's short sketch of the problem which awaited us in Sussex. The inspector was himself dependent, as he explained to us, upon a scribbled account forwarded to him by the milk train in the early hours of the morning.",
+    "context": {
+      "next": {
+        "content": "White Mason, the local officer, was a personal friend, and hence MacDonald had been notified much more promptly than is usual at Scotland Yard when provincials need their assistance. It is a very cold scent upon which the Metropolitan expert is generally asked to run.",
+        "objectID": "b189ccf5ffdf4989b64d30fa4a41d91d"
+      },
+      "previous": {
+        "content": "That razor brain blunted and rusted with inaction.",
+        "objectID": "3d1bf49d1c480bfcd5ea0318b24c0ef6"
+      }
+    },
+    "objectID": "03a48df7b7189fde21d1218269c24c6a",
+    "order": 97,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "White Mason, the local officer, was a personal friend, and hence MacDonald had been notified much more promptly than is usual at Scotland Yard when provincials need their assistance. It is a very cold scent upon which the Metropolitan expert is generally asked to run.",
+    "context": {
+      "next": {
+        "content": "\"DEAR INSPECTOR MACDONALD [said the letter which he read to us]:",
+        "objectID": "796f0ed50688c39a17898aea097b845a"
+      },
+      "previous": {
+        "content": "Sherlock Holmes's eyes glistened, his pale cheeks took a warmer hue, and his whole eager face shone with an inward light when the call for work reached him. Leaning forward in the cab, he listened intently to MacDonald's short sketch of the problem which awaited us in Sussex. The inspector was himself dependent, as he explained to us, upon a scribbled account forwarded to him by the milk train in the early hours of the morning.",
+        "objectID": "03a48df7b7189fde21d1218269c24c6a"
+      }
+    },
+    "objectID": "b189ccf5ffdf4989b64d30fa4a41d91d",
+    "order": 98,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"DEAR INSPECTOR MACDONALD [said the letter which he read to us]:",
+    "context": {
+      "next": {
+        "content": "\"Official requisition for your services is in separate envelope. This is for your private eye. Wire me what train in the morning you can get for Birlstone, and I will meet it—or have it met if I am too occupied. This case is a snorter. Don't waste a moment in getting started. If you can bring Mr. Holmes, please do so; for he will find something after his own heart.",
+        "objectID": "fc530d1af2e6b83b100666b8624b9b7e"
+      },
+      "previous": {
+        "content": "White Mason, the local officer, was a personal friend, and hence MacDonald had been notified much more promptly than is usual at Scotland Yard when provincials need their assistance. It is a very cold scent upon which the Metropolitan expert is generally asked to run.",
+        "objectID": "b189ccf5ffdf4989b64d30fa4a41d91d"
+      }
+    },
+    "objectID": "796f0ed50688c39a17898aea097b845a",
+    "order": 99,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Official requisition for your services is in separate envelope. This is for your private eye. Wire me what train in the morning you can get for Birlstone, and I will meet it—or have it met if I am too occupied. This case is a snorter. Don't waste a moment in getting started. If you can bring Mr. Holmes, please do so; for he will find something after his own heart.",
+    "context": {
+      "next": {
+        "content": "We would think the whole had been fixed up for theatrical effect if there wasn't a dead man in the middle of it. My word! it IS a snorter.\"",
+        "objectID": "1dd10b7b3a8f443bcc7397302324306e"
+      },
+      "previous": {
+        "content": "\"DEAR INSPECTOR MACDONALD [said the letter which he read to us]:",
+        "objectID": "796f0ed50688c39a17898aea097b845a"
+      }
+    },
+    "objectID": "fc530d1af2e6b83b100666b8624b9b7e",
+    "order": 100,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "We would think the whole had been fixed up for theatrical effect if there wasn't a dead man in the middle of it. My word! it IS a snorter.\"",
+    "context": {
+      "next": {
+        "content": "\"Your friend seems to be no fool,\" remarked Holmes.",
+        "objectID": "e7986b23aad24f1434572c07b3956184"
+      },
+      "previous": {
+        "content": "\"Official requisition for your services is in separate envelope. This is for your private eye. Wire me what train in the morning you can get for Birlstone, and I will meet it—or have it met if I am too occupied. This case is a snorter. Don't waste a moment in getting started. If you can bring Mr. Holmes, please do so; for he will find something after his own heart.",
+        "objectID": "fc530d1af2e6b83b100666b8624b9b7e"
+      }
+    },
+    "objectID": "1dd10b7b3a8f443bcc7397302324306e",
+    "order": 101,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Your friend seems to be no fool,\" remarked Holmes.",
+    "context": {
+      "next": {
+        "content": "\"No, sir, White Mason is a very live man, if I am any judge.\"",
+        "objectID": "98252586813110e82f5db92ed7e438aa"
+      },
+      "previous": {
+        "content": "We would think the whole had been fixed up for theatrical effect if there wasn't a dead man in the middle of it. My word! it IS a snorter.\"",
+        "objectID": "1dd10b7b3a8f443bcc7397302324306e"
+      }
+    },
+    "objectID": "e7986b23aad24f1434572c07b3956184",
+    "order": 102,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"No, sir, White Mason is a very live man, if I am any judge.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, have you anything more?\"",
+        "objectID": "af1f29bb11377055a80235912e2ada87"
+      },
+      "previous": {
+        "content": "\"Your friend seems to be no fool,\" remarked Holmes.",
+        "objectID": "e7986b23aad24f1434572c07b3956184"
+      }
+    },
+    "objectID": "98252586813110e82f5db92ed7e438aa",
+    "order": 103,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Well, have you anything more?\"",
+    "context": {
+      "next": {
+        "content": "\"Only that he will give us every detail when we meet.\"",
+        "objectID": "569a645308d5db1af1baf75d266bd26f"
+      },
+      "previous": {
+        "content": "\"No, sir, White Mason is a very live man, if I am any judge.\"",
+        "objectID": "98252586813110e82f5db92ed7e438aa"
+      }
+    },
+    "objectID": "af1f29bb11377055a80235912e2ada87",
+    "order": 104,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Only that he will give us every detail when we meet.\"",
+    "context": {
+      "next": {
+        "content": "\"Then how did you get at Mr. Douglas and the fact that he had been horribly murdered?\"",
+        "objectID": "a77b519b9f42a40695db1606436703a2"
+      },
+      "previous": {
+        "content": "\"Well, have you anything more?\"",
+        "objectID": "af1f29bb11377055a80235912e2ada87"
+      }
+    },
+    "objectID": "569a645308d5db1af1baf75d266bd26f",
+    "order": 105,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Then how did you get at Mr. Douglas and the fact that he had been horribly murdered?\"",
+    "context": {
+      "next": {
+        "content": "\"That was in the inclosed official report. It didn't say 'horrible': that's not a recognized official term. It gave the name John Douglas. It mentioned that his injuries had been in the head, from the discharge of a shotgun. It also mentioned the hour of the alarm, which was close on to midnight last night.",
+        "objectID": "f626e2a798fa29e2d159cae08afff214"
+      },
+      "previous": {
+        "content": "\"Only that he will give us every detail when we meet.\"",
+        "objectID": "569a645308d5db1af1baf75d266bd26f"
+      }
+    },
+    "objectID": "a77b519b9f42a40695db1606436703a2",
+    "order": 106,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"That was in the inclosed official report. It didn't say 'horrible': that's not a recognized official term. It gave the name John Douglas. It mentioned that his injuries had been in the head, from the discharge of a shotgun. It also mentioned the hour of the alarm, which was close on to midnight last night.",
+    "context": {
+      "next": {
+        "content": "It added that the case was undoubtedly one of murder, but that no arrest had been made, and that the case was one which presented some very perplexing and extraordinary features. That's absolutely all we have at present, Mr. Holmes.\"",
+        "objectID": "357243df09fbb759c72d3e6097b37ee5"
+      },
+      "previous": {
+        "content": "\"Then how did you get at Mr. Douglas and the fact that he had been horribly murdered?\"",
+        "objectID": "a77b519b9f42a40695db1606436703a2"
+      }
+    },
+    "objectID": "f626e2a798fa29e2d159cae08afff214",
+    "order": 107,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "It added that the case was undoubtedly one of murder, but that no arrest had been made, and that the case was one which presented some very perplexing and extraordinary features. That's absolutely all we have at present, Mr. Holmes.\"",
+    "context": {
+      "next": {
+        "content": "\"Then, with your permission, we will leave it at that, Mr. Mac. The temptation to form premature theories upon insufficient data is the bane of our profession. I can see only two things for certain at present—a great brain in London, and a dead man in Sussex. It's the chain between that we are going to trace.",
+        "objectID": "1eb7ea4e8871af1b137ea491c7776f20"
+      },
+      "previous": {
+        "content": "\"That was in the inclosed official report. It didn't say 'horrible': that's not a recognized official term. It gave the name John Douglas. It mentioned that his injuries had been in the head, from the discharge of a shotgun. It also mentioned the hour of the alarm, which was close on to midnight last night.",
+        "objectID": "f626e2a798fa29e2d159cae08afff214"
+      }
+    },
+    "objectID": "357243df09fbb759c72d3e6097b37ee5",
+    "order": 108,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"Then, with your permission, we will leave it at that, Mr. Mac. The temptation to form premature theories upon insufficient data is the bane of our profession. I can see only two things for certain at present—a great brain in London, and a dead man in Sussex. It's the chain between that we are going to trace.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "0c836a3f3dac093e28d76a8deaef627d"
+      },
+      "previous": {
+        "content": "It added that the case was undoubtedly one of murder, but that no arrest had been made, and that the case was one which presented some very perplexing and extraordinary features. That's absolutely all we have at present, Mr. Holmes.\"",
+        "objectID": "357243df09fbb759c72d3e6097b37ee5"
+      }
+    },
+    "objectID": "1eb7ea4e8871af1b137ea491c7776f20",
+    "order": 109,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 2—Sherlock Holmes Discourses",
+    "chapterOrder": 2,
+    "content": "\"",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "\"Then, with your permission, we will leave it at that, Mr. Mac. The temptation to form premature theories upon insufficient data is the bane of our profession. I can see only two things for certain at present—a great brain in London, and a dead man in Sussex. It's the chain between that we are going to trace.",
+        "objectID": "1eb7ea4e8871af1b137ea491c7776f20"
+      }
+    },
+    "objectID": "0c836a3f3dac093e28d76a8deaef627d",
+    "order": 110,
+    "tagName": "P"
+  }
+]

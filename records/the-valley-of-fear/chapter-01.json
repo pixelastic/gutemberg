@@ -1,0 +1,2138 @@
+[
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"I am inclined to think—\" said I.",
+    "context": {
+      "next": {
+        "content": "\"I should do so,\" Sherlock Holmes remarked impatiently.",
+        "objectID": "9834a808db395b6b4f2bf1d459d4f88c"
+      },
+      "previous": null
+    },
+    "objectID": "326659ab038fa7591f66ed951237709e",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"I should do so,\" Sherlock Holmes remarked impatiently.",
+    "context": {
+      "next": {
+        "content": "I believe that I am one of the most long-suffering of mortals; but I'll admit that I was annoyed at the sardonic interruption. \"Really, Holmes,\" said I severely, \"you are a little trying at times.\"",
+        "objectID": "9507019d290246a62f5520286322b671"
+      },
+      "previous": {
+        "content": "\"I am inclined to think—\" said I.",
+        "objectID": "326659ab038fa7591f66ed951237709e"
+      }
+    },
+    "objectID": "9834a808db395b6b4f2bf1d459d4f88c",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "I believe that I am one of the most long-suffering of mortals; but I'll admit that I was annoyed at the sardonic interruption. \"Really, Holmes,\" said I severely, \"you are a little trying at times.\"",
+    "context": {
+      "next": {
+        "content": "He was too much absorbed with his own thoughts to give any immediate answer to my remonstrance. He leaned upon his hand, with his untasted breakfast before him, and he stared at the slip of paper which he had just drawn from its envelope. Then he took the envelope itself, held it up to the light, and very carefully studied both the exterior and the flap.",
+        "objectID": "e8523d7a9be0e448831b8852246eb8dd"
+      },
+      "previous": {
+        "content": "\"I should do so,\" Sherlock Holmes remarked impatiently.",
+        "objectID": "9834a808db395b6b4f2bf1d459d4f88c"
+      }
+    },
+    "objectID": "9507019d290246a62f5520286322b671",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "He was too much absorbed with his own thoughts to give any immediate answer to my remonstrance. He leaned upon his hand, with his untasted breakfast before him, and he stared at the slip of paper which he had just drawn from its envelope. Then he took the envelope itself, held it up to the light, and very carefully studied both the exterior and the flap.",
+    "context": {
+      "next": {
+        "content": "\"It is Porlock's writing,\" said he thoughtfully. \"I can hardly doubt that it is Porlock's writing, though I have seen it only twice before. The Greek e with the peculiar top flourish is distinctive. But if it is Porlock, then it must be something of the very first importance.\"",
+        "objectID": "4f2b532ea8de60b7dd7666b888420d60"
+      },
+      "previous": {
+        "content": "I believe that I am one of the most long-suffering of mortals; but I'll admit that I was annoyed at the sardonic interruption. \"Really, Holmes,\" said I severely, \"you are a little trying at times.\"",
+        "objectID": "9507019d290246a62f5520286322b671"
+      }
+    },
+    "objectID": "e8523d7a9be0e448831b8852246eb8dd",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"It is Porlock's writing,\" said he thoughtfully. \"I can hardly doubt that it is Porlock's writing, though I have seen it only twice before. The Greek e with the peculiar top flourish is distinctive. But if it is Porlock, then it must be something of the very first importance.\"",
+    "context": {
+      "next": {
+        "content": "He was speaking to himself rather than to me; but my vexation disappeared in the interest which the words awakened.",
+        "objectID": "08ac3adf3fca413c3194e283a3417248"
+      },
+      "previous": {
+        "content": "He was too much absorbed with his own thoughts to give any immediate answer to my remonstrance. He leaned upon his hand, with his untasted breakfast before him, and he stared at the slip of paper which he had just drawn from its envelope. Then he took the envelope itself, held it up to the light, and very carefully studied both the exterior and the flap.",
+        "objectID": "e8523d7a9be0e448831b8852246eb8dd"
+      }
+    },
+    "objectID": "4f2b532ea8de60b7dd7666b888420d60",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "He was speaking to himself rather than to me; but my vexation disappeared in the interest which the words awakened.",
+    "context": {
+      "next": {
+        "content": "\"Who then is Porlock?\" I asked.",
+        "objectID": "70104e9d88c0fed469d86059ff207c6b"
+      },
+      "previous": {
+        "content": "\"It is Porlock's writing,\" said he thoughtfully. \"I can hardly doubt that it is Porlock's writing, though I have seen it only twice before. The Greek e with the peculiar top flourish is distinctive. But if it is Porlock, then it must be something of the very first importance.\"",
+        "objectID": "4f2b532ea8de60b7dd7666b888420d60"
+      }
+    },
+    "objectID": "08ac3adf3fca413c3194e283a3417248",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Who then is Porlock?\" I asked.",
+    "context": {
+      "next": {
+        "content": "\"Porlock, Watson, is a nom-de-plume, a mere identification mark; but behind it lies a shifty and evasive personality. In a former letter he frankly informed me that the name was not his own, and defied me ever to trace him among the teeming millions of this great city. Porlock is important, not for himself, but for the great man with whom he is in touch.",
+        "objectID": "e8b8b7caa9b6875bf1a96129137f1d9f"
+      },
+      "previous": {
+        "content": "He was speaking to himself rather than to me; but my vexation disappeared in the interest which the words awakened.",
+        "objectID": "08ac3adf3fca413c3194e283a3417248"
+      }
+    },
+    "objectID": "70104e9d88c0fed469d86059ff207c6b",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Porlock, Watson, is a nom-de-plume, a mere identification mark; but behind it lies a shifty and evasive personality. In a former letter he frankly informed me that the name was not his own, and defied me ever to trace him among the teeming millions of this great city. Porlock is important, not for himself, but for the great man with whom he is in touch.",
+    "context": {
+      "next": {
+        "content": "Picture to yourself the pilot fish with the shark, the jackal with the lion—anything that is insignificant in companionship with what is formidable: not only formidable, Watson, but sinister—in the highest degree sinister. That is where he comes within my purview. You have heard me speak of Profess",
+        "objectID": "210c178ccc6e9af1b74b106f25d5c1cc"
+      },
+      "previous": {
+        "content": "\"Who then is Porlock?\" I asked.",
+        "objectID": "70104e9d88c0fed469d86059ff207c6b"
+      }
+    },
+    "objectID": "e8b8b7caa9b6875bf1a96129137f1d9f",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Picture to yourself the pilot fish with the shark, the jackal with the lion—anything that is insignificant in companionship with what is formidable: not only formidable, Watson, but sinister—in the highest degree sinister. That is where he comes within my purview. You have heard me speak of Profess",
+    "context": {
+      "next": {
+        "content": "or Moriarty?\"",
+        "objectID": "d2856d6ddb26856af01738eb88ead882"
+      },
+      "previous": {
+        "content": "\"Porlock, Watson, is a nom-de-plume, a mere identification mark; but behind it lies a shifty and evasive personality. In a former letter he frankly informed me that the name was not his own, and defied me ever to trace him among the teeming millions of this great city. Porlock is important, not for himself, but for the great man with whom he is in touch.",
+        "objectID": "e8b8b7caa9b6875bf1a96129137f1d9f"
+      }
+    },
+    "objectID": "210c178ccc6e9af1b74b106f25d5c1cc",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "or Moriarty?\"",
+    "context": {
+      "next": {
+        "content": "\"The famous scientific criminal, as famous among crooks as—\"",
+        "objectID": "2945f5ac96e5a7557266fefa5735f03f"
+      },
+      "previous": {
+        "content": "Picture to yourself the pilot fish with the shark, the jackal with the lion—anything that is insignificant in companionship with what is formidable: not only formidable, Watson, but sinister—in the highest degree sinister. That is where he comes within my purview. You have heard me speak of Profess",
+        "objectID": "210c178ccc6e9af1b74b106f25d5c1cc"
+      }
+    },
+    "objectID": "d2856d6ddb26856af01738eb88ead882",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"The famous scientific criminal, as famous among crooks as—\"",
+    "context": {
+      "next": {
+        "content": "\"My blushes, Watson!\" Holmes murmured in a deprecating voice.",
+        "objectID": "70d41df1061c065ef1a59e55f5c7dabc"
+      },
+      "previous": {
+        "content": "or Moriarty?\"",
+        "objectID": "d2856d6ddb26856af01738eb88ead882"
+      }
+    },
+    "objectID": "2945f5ac96e5a7557266fefa5735f03f",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"My blushes, Watson!\" Holmes murmured in a deprecating voice.",
+    "context": {
+      "next": {
+        "content": "\"I was about to say, as he is unknown to the public.\"",
+        "objectID": "538dfdd53a4a76f7caaaf08832c254a7"
+      },
+      "previous": {
+        "content": "\"The famous scientific criminal, as famous among crooks as—\"",
+        "objectID": "2945f5ac96e5a7557266fefa5735f03f"
+      }
+    },
+    "objectID": "70d41df1061c065ef1a59e55f5c7dabc",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"I was about to say, as he is unknown to the public.\"",
+    "context": {
+      "next": {
+        "content": "\"A touch! A distinct touch!\" cried Holmes. \"You are developing a certain unexpected vein of pawky humour, Watson, against which I must learn to guard myself. But in calling Moriarty a criminal you are uttering libel in the eyes of the law—and there lie the glory and the wonder of it! The greatest schemer of all time, the organizer of every deviltry, the controlling brain of the underworld, a brain which might have made or marred the destiny of nations—that's the man! But so aloof is he from general suspicion, so immune from criticism, so admirable in his management and self-effacement, that for those very words that you have uttered he could hale you to a court and emerge with your year's pension as a solatium for his wounded character.",
+        "objectID": "6841ce6c785f7911ecee843ad8003240"
+      },
+      "previous": {
+        "content": "\"My blushes, Watson!\" Holmes murmured in a deprecating voice.",
+        "objectID": "70d41df1061c065ef1a59e55f5c7dabc"
+      }
+    },
+    "objectID": "538dfdd53a4a76f7caaaf08832c254a7",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"A touch! A distinct touch!\" cried Holmes. \"You are developing a certain unexpected vein of pawky humour, Watson, against which I must learn to guard myself. But in calling Moriarty a criminal you are uttering libel in the eyes of the law—and there lie the glory and the wonder of it! The greatest schemer of all time, the organizer of every deviltry, the controlling brain of the underworld, a brain which might have made or marred the destiny of nations—that's the man! But so aloof is he from general suspicion, so immune from criticism, so admirable in his management and self-effacement, that for those very words that you have uttered he could hale you to a court and emerge with your year's pension as a solatium for his wounded character.",
+    "context": {
+      "next": {
+        "content": "Is he not the celebrated author of The Dynamics of an Asteroid, a book which ascends to such rarefied heights of pure mathematics that it is said that there was no man in the scientific press capable of criticizing it? Is this a man to traduce? Foul-mouthed doctor and slandered professor—such would be your respective roles! That's genius, Watson.",
+        "objectID": "fb31b71e70c61730cdf2c890b1142aea"
+      },
+      "previous": {
+        "content": "\"I was about to say, as he is unknown to the public.\"",
+        "objectID": "538dfdd53a4a76f7caaaf08832c254a7"
+      }
+    },
+    "objectID": "6841ce6c785f7911ecee843ad8003240",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Is he not the celebrated author of The Dynamics of an Asteroid, a book which ascends to such rarefied heights of pure mathematics that it is said that there was no man in the scientific press capable of criticizing it? Is this a man to traduce? Foul-mouthed doctor and slandered professor—such would be your respective roles! That's genius, Watson.",
+    "context": {
+      "next": {
+        "content": "But if I am spared by lesser men, our day will surely come.\"",
+        "objectID": "5088e639f970a1b88497cc23a03a8f1b"
+      },
+      "previous": {
+        "content": "\"A touch! A distinct touch!\" cried Holmes. \"You are developing a certain unexpected vein of pawky humour, Watson, against which I must learn to guard myself. But in calling Moriarty a criminal you are uttering libel in the eyes of the law—and there lie the glory and the wonder of it! The greatest schemer of all time, the organizer of every deviltry, the controlling brain of the underworld, a brain which might have made or marred the destiny of nations—that's the man! But so aloof is he from general suspicion, so immune from criticism, so admirable in his management and self-effacement, that for those very words that you have uttered he could hale you to a court and emerge with your year's pension as a solatium for his wounded character.",
+        "objectID": "6841ce6c785f7911ecee843ad8003240"
+      }
+    },
+    "objectID": "fb31b71e70c61730cdf2c890b1142aea",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "But if I am spared by lesser men, our day will surely come.\"",
+    "context": {
+      "next": {
+        "content": "\"May I be there to see!\" I exclaimed devoutly. \"But you were speaking of this man Porlock.\"",
+        "objectID": "44b81476550871cbf6be6250075c2482"
+      },
+      "previous": {
+        "content": "Is he not the celebrated author of The Dynamics of an Asteroid, a book which ascends to such rarefied heights of pure mathematics that it is said that there was no man in the scientific press capable of criticizing it? Is this a man to traduce? Foul-mouthed doctor and slandered professor—such would be your respective roles! That's genius, Watson.",
+        "objectID": "fb31b71e70c61730cdf2c890b1142aea"
+      }
+    },
+    "objectID": "5088e639f970a1b88497cc23a03a8f1b",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"May I be there to see!\" I exclaimed devoutly. \"But you were speaking of this man Porlock.\"",
+    "context": {
+      "next": {
+        "content": "\"Ah, yes—the so-called Porlock is a link in the chain some little way from its great attachment. Porlock is not quite a sound link—between ourselves. He is the only flaw in that chain so far as I have been able to test it.\"",
+        "objectID": "41da2f53a912d98d0527c8e814463994"
+      },
+      "previous": {
+        "content": "But if I am spared by lesser men, our day will surely come.\"",
+        "objectID": "5088e639f970a1b88497cc23a03a8f1b"
+      }
+    },
+    "objectID": "44b81476550871cbf6be6250075c2482",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Ah, yes—the so-called Porlock is a link in the chain some little way from its great attachment. Porlock is not quite a sound link—between ourselves. He is the only flaw in that chain so far as I have been able to test it.\"",
+    "context": {
+      "next": {
+        "content": "\"But no chain is stronger than its weakest link.\"",
+        "objectID": "adece5b0328da3cfa052a5f284b35bfc"
+      },
+      "previous": {
+        "content": "\"May I be there to see!\" I exclaimed devoutly. \"But you were speaking of this man Porlock.\"",
+        "objectID": "44b81476550871cbf6be6250075c2482"
+      }
+    },
+    "objectID": "41da2f53a912d98d0527c8e814463994",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"But no chain is stronger than its weakest link.\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly, my dear Watson! Hence the extreme importance of Porlock. Led on by some rudimentary aspirations towards right, and encouraged by the judicious stimulation of an occasional ten-pound note sent to him by devious methods, he has once or twice given me advance information which has been of value—that highest value which anticipates and prevents rather than avenges crime.",
+        "objectID": "4373a814cf1b5176698439b4cfc0b521"
+      },
+      "previous": {
+        "content": "\"Ah, yes—the so-called Porlock is a link in the chain some little way from its great attachment. Porlock is not quite a sound link—between ourselves. He is the only flaw in that chain so far as I have been able to test it.\"",
+        "objectID": "41da2f53a912d98d0527c8e814463994"
+      }
+    },
+    "objectID": "adece5b0328da3cfa052a5f284b35bfc",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Exactly, my dear Watson! Hence the extreme importance of Porlock. Led on by some rudimentary aspirations towards right, and encouraged by the judicious stimulation of an occasional ten-pound note sent to him by devious methods, he has once or twice given me advance information which has been of value—that highest value which anticipates and prevents rather than avenges crime.",
+    "context": {
+      "next": {
+        "content": "I cannot doubt that, if we had the cipher, we should find that this communication is of the nature that I indicate.\"",
+        "objectID": "82f97ebfee5089bad9f80b14320ef84f"
+      },
+      "previous": {
+        "content": "\"But no chain is stronger than its weakest link.\"",
+        "objectID": "adece5b0328da3cfa052a5f284b35bfc"
+      }
+    },
+    "objectID": "4373a814cf1b5176698439b4cfc0b521",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "I cannot doubt that, if we had the cipher, we should find that this communication is of the nature that I indicate.\"",
+    "context": {
+      "next": {
+        "content": "Again Holmes flattened out the paper upon his unused plate. I rose and, leaning over him, stared down at the curious inscription, which ran as follows:",
+        "objectID": "2329b3b06d5e852c34b5d520ea159e5b"
+      },
+      "previous": {
+        "content": "\"Exactly, my dear Watson! Hence the extreme importance of Porlock. Led on by some rudimentary aspirations towards right, and encouraged by the judicious stimulation of an occasional ten-pound note sent to him by devious methods, he has once or twice given me advance information which has been of value—that highest value which anticipates and prevents rather than avenges crime.",
+        "objectID": "4373a814cf1b5176698439b4cfc0b521"
+      }
+    },
+    "objectID": "82f97ebfee5089bad9f80b14320ef84f",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Again Holmes flattened out the paper upon his unused plate. I rose and, leaning over him, stared down at the curious inscription, which ran as follows:",
+    "context": {
+      "next": {
+        "content": "534 C2 13 127 36 31 4 17 21 41 DOUGLAS 109 293 5 37 BIRLSTONE 26 BIRLSTONE 9 47 171",
+        "objectID": "5ed8514085ecc039357e8fcff9090b51"
+      },
+      "previous": {
+        "content": "I cannot doubt that, if we had the cipher, we should find that this communication is of the nature that I indicate.\"",
+        "objectID": "82f97ebfee5089bad9f80b14320ef84f"
+      }
+    },
+    "objectID": "2329b3b06d5e852c34b5d520ea159e5b",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "534 C2 13 127 36 31 4 17 21 41 DOUGLAS 109 293 5 37 BIRLSTONE 26 BIRLSTONE 9 47 171",
+    "context": {
+      "next": {
+        "content": "\"What do you make of it, Holmes?\"",
+        "objectID": "32315606056af44d77917b3ee2b417b2"
+      },
+      "previous": {
+        "content": "Again Holmes flattened out the paper upon his unused plate. I rose and, leaning over him, stared down at the curious inscription, which ran as follows:",
+        "objectID": "2329b3b06d5e852c34b5d520ea159e5b"
+      }
+    },
+    "objectID": "5ed8514085ecc039357e8fcff9090b51",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"What do you make of it, Holmes?\"",
+    "context": {
+      "next": {
+        "content": "\"It is obviously an attempt to convey secret information.\"",
+        "objectID": "8185245213bb02c9abf9e86a828229dd"
+      },
+      "previous": {
+        "content": "534 C2 13 127 36 31 4 17 21 41 DOUGLAS 109 293 5 37 BIRLSTONE 26 BIRLSTONE 9 47 171",
+        "objectID": "5ed8514085ecc039357e8fcff9090b51"
+      }
+    },
+    "objectID": "32315606056af44d77917b3ee2b417b2",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"It is obviously an attempt to convey secret information.\"",
+    "context": {
+      "next": {
+        "content": "\"But what is the use of a cipher message without the cipher?\"",
+        "objectID": "3289ebb4bf1e708352c0474b4b35a35e"
+      },
+      "previous": {
+        "content": "\"What do you make of it, Holmes?\"",
+        "objectID": "32315606056af44d77917b3ee2b417b2"
+      }
+    },
+    "objectID": "8185245213bb02c9abf9e86a828229dd",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"But what is the use of a cipher message without the cipher?\"",
+    "context": {
+      "next": {
+        "content": "\"In this instance, none at all.\"",
+        "objectID": "c64a8aaab0506f2ce002d40a23327693"
+      },
+      "previous": {
+        "content": "\"It is obviously an attempt to convey secret information.\"",
+        "objectID": "8185245213bb02c9abf9e86a828229dd"
+      }
+    },
+    "objectID": "3289ebb4bf1e708352c0474b4b35a35e",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"In this instance, none at all.\"",
+    "context": {
+      "next": {
+        "content": "\"Why do you say 'in this instance'?\"",
+        "objectID": "74b16e1d44e55790f3fe0fa3e74c809f"
+      },
+      "previous": {
+        "content": "\"But what is the use of a cipher message without the cipher?\"",
+        "objectID": "3289ebb4bf1e708352c0474b4b35a35e"
+      }
+    },
+    "objectID": "c64a8aaab0506f2ce002d40a23327693",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Why do you say 'in this instance'?\"",
+    "context": {
+      "next": {
+        "content": "\"Because there are many ciphers which I would read as easily as I do the apocrypha of the agony column: such crude devices amuse the intelligence without fatiguing it. But this is different. It is clearly a reference to the words in a page of some book. Until I am told which page and which book I am powerless.",
+        "objectID": "9c11564ddd24c4818a217c234d21c85e"
+      },
+      "previous": {
+        "content": "\"In this instance, none at all.\"",
+        "objectID": "c64a8aaab0506f2ce002d40a23327693"
+      }
+    },
+    "objectID": "74b16e1d44e55790f3fe0fa3e74c809f",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Because there are many ciphers which I would read as easily as I do the apocrypha of the agony column: such crude devices amuse the intelligence without fatiguing it. But this is different. It is clearly a reference to the words in a page of some book. Until I am told which page and which book I am powerless.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "eb86afcd6f6471175e9ac4d90398ce81"
+      },
+      "previous": {
+        "content": "\"Why do you say 'in this instance'?\"",
+        "objectID": "74b16e1d44e55790f3fe0fa3e74c809f"
+      }
+    },
+    "objectID": "9c11564ddd24c4818a217c234d21c85e",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"But why 'Douglas' and 'Birlstone'?\"",
+        "objectID": "66d8ede4c1d10b41a9dde47922cfe5c0"
+      },
+      "previous": {
+        "content": "\"Because there are many ciphers which I would read as easily as I do the apocrypha of the agony column: such crude devices amuse the intelligence without fatiguing it. But this is different. It is clearly a reference to the words in a page of some book. Until I am told which page and which book I am powerless.",
+        "objectID": "9c11564ddd24c4818a217c234d21c85e"
+      }
+    },
+    "objectID": "eb86afcd6f6471175e9ac4d90398ce81",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"But why 'Douglas' and 'Birlstone'?\"",
+    "context": {
+      "next": {
+        "content": "\"Clearly because those are words which were not contained in the page in question.\"",
+        "objectID": "0a1b6a37af1798227b0661286c56bcb4"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "eb86afcd6f6471175e9ac4d90398ce81"
+      }
+    },
+    "objectID": "66d8ede4c1d10b41a9dde47922cfe5c0",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Clearly because those are words which were not contained in the page in question.\"",
+    "context": {
+      "next": {
+        "content": "\"Then why has he not indicated the book?\"",
+        "objectID": "d580ee6c4202e4f3ac155adf1ff2dd76"
+      },
+      "previous": {
+        "content": "\"But why 'Douglas' and 'Birlstone'?\"",
+        "objectID": "66d8ede4c1d10b41a9dde47922cfe5c0"
+      }
+    },
+    "objectID": "0a1b6a37af1798227b0661286c56bcb4",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Then why has he not indicated the book?\"",
+    "context": {
+      "next": {
+        "content": "\"Your native shrewdness, my dear Watson, that innate cunning which is the delight of your friends, would surely prevent you from inclosing cipher and message in the same envelope. Should it miscarry, you are undone. As it is, both have to go wrong before any harm comes from it. Our second post is now overdue, and I shall be surprised if it does not bring us either a further letter of explanation, or, as is more probable, the very volume to which these figures refer.",
+        "objectID": "0784094c731669965bce5aa1a74d9267"
+      },
+      "previous": {
+        "content": "\"Clearly because those are words which were not contained in the page in question.\"",
+        "objectID": "0a1b6a37af1798227b0661286c56bcb4"
+      }
+    },
+    "objectID": "d580ee6c4202e4f3ac155adf1ff2dd76",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Your native shrewdness, my dear Watson, that innate cunning which is the delight of your friends, would surely prevent you from inclosing cipher and message in the same envelope. Should it miscarry, you are undone. As it is, both have to go wrong before any harm comes from it. Our second post is now overdue, and I shall be surprised if it does not bring us either a further letter of explanation, or, as is more probable, the very volume to which these figures refer.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "8ea6f900f0f9066257754cf53f5f471d"
+      },
+      "previous": {
+        "content": "\"Then why has he not indicated the book?\"",
+        "objectID": "d580ee6c4202e4f3ac155adf1ff2dd76"
+      }
+    },
+    "objectID": "0784094c731669965bce5aa1a74d9267",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "Holmes's calculation was fulfilled within a very few minutes by the appearance of Billy, the page, with the very letter which we were expecting.",
+        "objectID": "048b43b62196ee3eedf3358694a07b8a"
+      },
+      "previous": {
+        "content": "\"Your native shrewdness, my dear Watson, that innate cunning which is the delight of your friends, would surely prevent you from inclosing cipher and message in the same envelope. Should it miscarry, you are undone. As it is, both have to go wrong before any harm comes from it. Our second post is now overdue, and I shall be surprised if it does not bring us either a further letter of explanation, or, as is more probable, the very volume to which these figures refer.",
+        "objectID": "0784094c731669965bce5aa1a74d9267"
+      }
+    },
+    "objectID": "8ea6f900f0f9066257754cf53f5f471d",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Holmes's calculation was fulfilled within a very few minutes by the appearance of Billy, the page, with the very letter which we were expecting.",
+    "context": {
+      "next": {
+        "content": "\"The same writing,\" remarked Holmes, as he opened the envelope, \"and actually signed,\" he added in an exultant voice as he unfolded the epistle. \"Come, we are getting on, Watson.\" His brow clouded, however, as he glanced over the contents.",
+        "objectID": "144bdd9dd58bb0268a5acd332ca2156e"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "8ea6f900f0f9066257754cf53f5f471d"
+      }
+    },
+    "objectID": "048b43b62196ee3eedf3358694a07b8a",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"The same writing,\" remarked Holmes, as he opened the envelope, \"and actually signed,\" he added in an exultant voice as he unfolded the epistle. \"Come, we are getting on, Watson.\" His brow clouded, however, as he glanced over the contents.",
+    "context": {
+      "next": {
+        "content": "\"Dear me, this is very disappointing! I fear, Watson, that all our expectations come to nothing. I trust that the man Porlock will come to no harm.",
+        "objectID": "8bb52661a603bec5d72f42915525ad46"
+      },
+      "previous": {
+        "content": "Holmes's calculation was fulfilled within a very few minutes by the appearance of Billy, the page, with the very letter which we were expecting.",
+        "objectID": "048b43b62196ee3eedf3358694a07b8a"
+      }
+    },
+    "objectID": "144bdd9dd58bb0268a5acd332ca2156e",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Dear me, this is very disappointing! I fear, Watson, that all our expectations come to nothing. I trust that the man Porlock will come to no harm.",
+    "context": {
+      "next": {
+        "content": "\"DEAR MR. HOLMES [he says]:",
+        "objectID": "9644ac4e197b47b3e11b14bc2b23a885"
+      },
+      "previous": {
+        "content": "\"The same writing,\" remarked Holmes, as he opened the envelope, \"and actually signed,\" he added in an exultant voice as he unfolded the epistle. \"Come, we are getting on, Watson.\" His brow clouded, however, as he glanced over the contents.",
+        "objectID": "144bdd9dd58bb0268a5acd332ca2156e"
+      }
+    },
+    "objectID": "8bb52661a603bec5d72f42915525ad46",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"DEAR MR. HOLMES [he says]:",
+    "context": {
+      "next": {
+        "content": "\"I will go no further in this matter. It is too dangerous—he suspects me. I can see that he suspects me. He came to me quite unexpectedly after I had actually addressed this envelope with the intention of sending you the key to the cipher. I was able to cover it up. If he had seen it, it would have gone hard with me.",
+        "objectID": "e767d2cb3b94eb0e091090b7ad11372a"
+      },
+      "previous": {
+        "content": "\"Dear me, this is very disappointing! I fear, Watson, that all our expectations come to nothing. I trust that the man Porlock will come to no harm.",
+        "objectID": "8bb52661a603bec5d72f42915525ad46"
+      }
+    },
+    "objectID": "9644ac4e197b47b3e11b14bc2b23a885",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"I will go no further in this matter. It is too dangerous—he suspects me. I can see that he suspects me. He came to me quite unexpectedly after I had actually addressed this envelope with the intention of sending you the key to the cipher. I was able to cover it up. If he had seen it, it would have gone hard with me.",
+    "context": {
+      "next": {
+        "content": "But I read suspicion in his eyes. Please burn the cipher message, which can now be of no use to you.",
+        "objectID": "c1168e6bbcea6a6afd49b6f017238446"
+      },
+      "previous": {
+        "content": "\"DEAR MR. HOLMES [he says]:",
+        "objectID": "9644ac4e197b47b3e11b14bc2b23a885"
+      }
+    },
+    "objectID": "e767d2cb3b94eb0e091090b7ad11372a",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "But I read suspicion in his eyes. Please burn the cipher message, which can now be of no use to you.",
+    "context": {
+      "next": {
+        "content": "\"FRED PORLOCK.\"",
+        "objectID": "ad532b650de822ebcb7a0455cccb9e1a"
+      },
+      "previous": {
+        "content": "\"I will go no further in this matter. It is too dangerous—he suspects me. I can see that he suspects me. He came to me quite unexpectedly after I had actually addressed this envelope with the intention of sending you the key to the cipher. I was able to cover it up. If he had seen it, it would have gone hard with me.",
+        "objectID": "e767d2cb3b94eb0e091090b7ad11372a"
+      }
+    },
+    "objectID": "c1168e6bbcea6a6afd49b6f017238446",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"FRED PORLOCK.\"",
+    "context": {
+      "next": {
+        "content": "Holmes sat for some little time twisting this letter between his fingers, and frowning, as he stared into the fire.",
+        "objectID": "d7b9d1fb7acf4c9647f763518146e5ca"
+      },
+      "previous": {
+        "content": "But I read suspicion in his eyes. Please burn the cipher message, which can now be of no use to you.",
+        "objectID": "c1168e6bbcea6a6afd49b6f017238446"
+      }
+    },
+    "objectID": "ad532b650de822ebcb7a0455cccb9e1a",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Holmes sat for some little time twisting this letter between his fingers, and frowning, as he stared into the fire.",
+    "context": {
+      "next": {
+        "content": "\"After all,\" he said at last, \"there may be nothing in it. It may be only his guilty conscience. Knowing himself to be a traitor, he may have read the accusation in the other's eyes.\"",
+        "objectID": "1fd5eacb7a9f8069d7c99f0d30f076fc"
+      },
+      "previous": {
+        "content": "\"FRED PORLOCK.\"",
+        "objectID": "ad532b650de822ebcb7a0455cccb9e1a"
+      }
+    },
+    "objectID": "d7b9d1fb7acf4c9647f763518146e5ca",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"After all,\" he said at last, \"there may be nothing in it. It may be only his guilty conscience. Knowing himself to be a traitor, he may have read the accusation in the other's eyes.\"",
+    "context": {
+      "next": {
+        "content": "\"The other being, I presume, Professor Moriarty.\"",
+        "objectID": "ff4022946fa98533703f4773fed5ceec"
+      },
+      "previous": {
+        "content": "Holmes sat for some little time twisting this letter between his fingers, and frowning, as he stared into the fire.",
+        "objectID": "d7b9d1fb7acf4c9647f763518146e5ca"
+      }
+    },
+    "objectID": "1fd5eacb7a9f8069d7c99f0d30f076fc",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"The other being, I presume, Professor Moriarty.\"",
+    "context": {
+      "next": {
+        "content": "\"No less! When any of that party talk about 'He' you know whom they mean. There is one predominant 'He' for all of them.\"",
+        "objectID": "5fbaddf872b0d9d44cd96a9f7283d86d"
+      },
+      "previous": {
+        "content": "\"After all,\" he said at last, \"there may be nothing in it. It may be only his guilty conscience. Knowing himself to be a traitor, he may have read the accusation in the other's eyes.\"",
+        "objectID": "1fd5eacb7a9f8069d7c99f0d30f076fc"
+      }
+    },
+    "objectID": "ff4022946fa98533703f4773fed5ceec",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"No less! When any of that party talk about 'He' you know whom they mean. There is one predominant 'He' for all of them.\"",
+    "context": {
+      "next": {
+        "content": "\"But what can he do?\"",
+        "objectID": "df9aebe219cdf6fcd382d93239b8df3f"
+      },
+      "previous": {
+        "content": "\"The other being, I presume, Professor Moriarty.\"",
+        "objectID": "ff4022946fa98533703f4773fed5ceec"
+      }
+    },
+    "objectID": "5fbaddf872b0d9d44cd96a9f7283d86d",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"But what can he do?\"",
+    "context": {
+      "next": {
+        "content": "\"Hum! That's a large question. When you have one of the first brains of Europe up against you, and all the powers of darkness at his back, there are infinite possibilities. Anyhow, Friend Porlock is evidently scared out of his senses—kindly compare the writing in the note to that upon its envelope; which was done, he tells us, before this ill-omened visit.",
+        "objectID": "16b4f2aae554f7b3c741dfb6f852ad6f"
+      },
+      "previous": {
+        "content": "\"No less! When any of that party talk about 'He' you know whom they mean. There is one predominant 'He' for all of them.\"",
+        "objectID": "5fbaddf872b0d9d44cd96a9f7283d86d"
+      }
+    },
+    "objectID": "df9aebe219cdf6fcd382d93239b8df3f",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Hum! That's a large question. When you have one of the first brains of Europe up against you, and all the powers of darkness at his back, there are infinite possibilities. Anyhow, Friend Porlock is evidently scared out of his senses—kindly compare the writing in the note to that upon its envelope; which was done, he tells us, before this ill-omened visit.",
+    "context": {
+      "next": {
+        "content": "The one is clear and firm. The other hardly legible.\"",
+        "objectID": "0a1e62a20a43401ab285db11afd086dd"
+      },
+      "previous": {
+        "content": "\"But what can he do?\"",
+        "objectID": "df9aebe219cdf6fcd382d93239b8df3f"
+      }
+    },
+    "objectID": "16b4f2aae554f7b3c741dfb6f852ad6f",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "The one is clear and firm. The other hardly legible.\"",
+    "context": {
+      "next": {
+        "content": "\"Why did he write at all? Why did he not simply drop it?\"",
+        "objectID": "cfe66ed197d893ea742e5e41ef7a5a36"
+      },
+      "previous": {
+        "content": "\"Hum! That's a large question. When you have one of the first brains of Europe up against you, and all the powers of darkness at his back, there are infinite possibilities. Anyhow, Friend Porlock is evidently scared out of his senses—kindly compare the writing in the note to that upon its envelope; which was done, he tells us, before this ill-omened visit.",
+        "objectID": "16b4f2aae554f7b3c741dfb6f852ad6f"
+      }
+    },
+    "objectID": "0a1e62a20a43401ab285db11afd086dd",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Why did he write at all? Why did he not simply drop it?\"",
+    "context": {
+      "next": {
+        "content": "\"Because he feared I would make some inquiry after him in that case, and possibly bring trouble on him.\"",
+        "objectID": "915f642a759197a8ca8dab589a1b7bd3"
+      },
+      "previous": {
+        "content": "The one is clear and firm. The other hardly legible.\"",
+        "objectID": "0a1e62a20a43401ab285db11afd086dd"
+      }
+    },
+    "objectID": "cfe66ed197d893ea742e5e41ef7a5a36",
+    "order": 50,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Because he feared I would make some inquiry after him in that case, and possibly bring trouble on him.\"",
+    "context": {
+      "next": {
+        "content": "\"No doubt,\" said I. \"Of course.\" I had picked up the original cipher message and was bending my brows over it. \"It's pretty maddening to think that an important secret may lie here on this slip of paper, and that it is beyond human power to penetrate it.\"",
+        "objectID": "c083f7089cced4e19c37617396906896"
+      },
+      "previous": {
+        "content": "\"Why did he write at all? Why did he not simply drop it?\"",
+        "objectID": "cfe66ed197d893ea742e5e41ef7a5a36"
+      }
+    },
+    "objectID": "915f642a759197a8ca8dab589a1b7bd3",
+    "order": 51,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"No doubt,\" said I. \"Of course.\" I had picked up the original cipher message and was bending my brows over it. \"It's pretty maddening to think that an important secret may lie here on this slip of paper, and that it is beyond human power to penetrate it.\"",
+    "context": {
+      "next": {
+        "content": "Sherlock Holmes had pushed away his untasted breakfast and lit the unsavoury pipe which was the companion of his deepest meditations. \"I wonder!\" said he, leaning back and staring at the ceiling. \"Perhaps there are points which have escaped your Machiavellian intellect. Let us consider the problem in the light of pure reason.",
+        "objectID": "c11f558705e5abe6d1623ba6ac80aa4c"
+      },
+      "previous": {
+        "content": "\"Because he feared I would make some inquiry after him in that case, and possibly bring trouble on him.\"",
+        "objectID": "915f642a759197a8ca8dab589a1b7bd3"
+      }
+    },
+    "objectID": "c083f7089cced4e19c37617396906896",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Sherlock Holmes had pushed away his untasted breakfast and lit the unsavoury pipe which was the companion of his deepest meditations. \"I wonder!\" said he, leaning back and staring at the ceiling. \"Perhaps there are points which have escaped your Machiavellian intellect. Let us consider the problem in the light of pure reason.",
+    "context": {
+      "next": {
+        "content": "This man's reference is to a book. That is our point of departure.\"",
+        "objectID": "4bca3fc5feae912628694f8595b3295b"
+      },
+      "previous": {
+        "content": "\"No doubt,\" said I. \"Of course.\" I had picked up the original cipher message and was bending my brows over it. \"It's pretty maddening to think that an important secret may lie here on this slip of paper, and that it is beyond human power to penetrate it.\"",
+        "objectID": "c083f7089cced4e19c37617396906896"
+      }
+    },
+    "objectID": "c11f558705e5abe6d1623ba6ac80aa4c",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "This man's reference is to a book. That is our point of departure.\"",
+    "context": {
+      "next": {
+        "content": "\"A somewhat vague one.\"",
+        "objectID": "1892f0012701b0fcdbe4527e008c4b60"
+      },
+      "previous": {
+        "content": "Sherlock Holmes had pushed away his untasted breakfast and lit the unsavoury pipe which was the companion of his deepest meditations. \"I wonder!\" said he, leaning back and staring at the ceiling. \"Perhaps there are points which have escaped your Machiavellian intellect. Let us consider the problem in the light of pure reason.",
+        "objectID": "c11f558705e5abe6d1623ba6ac80aa4c"
+      }
+    },
+    "objectID": "4bca3fc5feae912628694f8595b3295b",
+    "order": 54,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"A somewhat vague one.\"",
+    "context": {
+      "next": {
+        "content": "\"Let us see then if we can narrow it down. As I focus my mind upon it, it seems rather less impenetrable. What indications have we as to this book?\"",
+        "objectID": "cd410e58a28a4c74951d9898a53ab3d1"
+      },
+      "previous": {
+        "content": "This man's reference is to a book. That is our point of departure.\"",
+        "objectID": "4bca3fc5feae912628694f8595b3295b"
+      }
+    },
+    "objectID": "1892f0012701b0fcdbe4527e008c4b60",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Let us see then if we can narrow it down. As I focus my mind upon it, it seems rather less impenetrable. What indications have we as to this book?\"",
+    "context": {
+      "next": {
+        "content": "\"None.\"",
+        "objectID": "bd77d60486bdcce61347f8640eb2536b"
+      },
+      "previous": {
+        "content": "\"A somewhat vague one.\"",
+        "objectID": "1892f0012701b0fcdbe4527e008c4b60"
+      }
+    },
+    "objectID": "cd410e58a28a4c74951d9898a53ab3d1",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"None.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, well, it is surely not quite so bad as that. The cipher message begins with a large 534, does it not? We may take it as a working hypothesis that 534 is the particular page to which the cipher refers. So our book has already become a LARGE book, which is surely something gained. What other indications have we as to the nature of this large book? The next sign is C2.",
+        "objectID": "150aa13b0519c740640f092548574f69"
+      },
+      "previous": {
+        "content": "\"Let us see then if we can narrow it down. As I focus my mind upon it, it seems rather less impenetrable. What indications have we as to this book?\"",
+        "objectID": "cd410e58a28a4c74951d9898a53ab3d1"
+      }
+    },
+    "objectID": "bd77d60486bdcce61347f8640eb2536b",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Well, well, it is surely not quite so bad as that. The cipher message begins with a large 534, does it not? We may take it as a working hypothesis that 534 is the particular page to which the cipher refers. So our book has already become a LARGE book, which is surely something gained. What other indications have we as to the nature of this large book? The next sign is C2.",
+    "context": {
+      "next": {
+        "content": "What do you make of that, Watson?\"",
+        "objectID": "e11236870f4fb35bdb342f44dc6e7e21"
+      },
+      "previous": {
+        "content": "\"None.\"",
+        "objectID": "bd77d60486bdcce61347f8640eb2536b"
+      }
+    },
+    "objectID": "150aa13b0519c740640f092548574f69",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "What do you make of that, Watson?\"",
+    "context": {
+      "next": {
+        "content": "\"Chapter the second, no doubt.\"",
+        "objectID": "afb95e5eb0a6a3ddb1c4c0b5c935e6b9"
+      },
+      "previous": {
+        "content": "\"Well, well, it is surely not quite so bad as that. The cipher message begins with a large 534, does it not? We may take it as a working hypothesis that 534 is the particular page to which the cipher refers. So our book has already become a LARGE book, which is surely something gained. What other indications have we as to the nature of this large book? The next sign is C2.",
+        "objectID": "150aa13b0519c740640f092548574f69"
+      }
+    },
+    "objectID": "e11236870f4fb35bdb342f44dc6e7e21",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Chapter the second, no doubt.\"",
+    "context": {
+      "next": {
+        "content": "\"Hardly that, Watson. You will, I am sure, agree with me that if the page be given, the number of the chapter is immaterial. Also that if page 534 finds us only in the second chapter, the length of the first one must have been really intolerable.\"",
+        "objectID": "19286226d775b78e7a91642cf4d2f22c"
+      },
+      "previous": {
+        "content": "What do you make of that, Watson?\"",
+        "objectID": "e11236870f4fb35bdb342f44dc6e7e21"
+      }
+    },
+    "objectID": "afb95e5eb0a6a3ddb1c4c0b5c935e6b9",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Hardly that, Watson. You will, I am sure, agree with me that if the page be given, the number of the chapter is immaterial. Also that if page 534 finds us only in the second chapter, the length of the first one must have been really intolerable.\"",
+    "context": {
+      "next": {
+        "content": "\"Column!\" I cried.",
+        "objectID": "2238cc7c0e8f177f7a35fb8008bc7747"
+      },
+      "previous": {
+        "content": "\"Chapter the second, no doubt.\"",
+        "objectID": "afb95e5eb0a6a3ddb1c4c0b5c935e6b9"
+      }
+    },
+    "objectID": "19286226d775b78e7a91642cf4d2f22c",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Column!\" I cried.",
+    "context": {
+      "next": {
+        "content": "\"Brilliant, Watson. You are scintillating this morning. If it is not column, then I am very much deceived. So now, you see, we begin to visualize a large book printed in double columns which are each of a considerable length, since one of the words is numbered in the document as the two hundred and ninety-third.",
+        "objectID": "34a60cb82cbda62c66d0d33eb7b8ca6e"
+      },
+      "previous": {
+        "content": "\"Hardly that, Watson. You will, I am sure, agree with me that if the page be given, the number of the chapter is immaterial. Also that if page 534 finds us only in the second chapter, the length of the first one must have been really intolerable.\"",
+        "objectID": "19286226d775b78e7a91642cf4d2f22c"
+      }
+    },
+    "objectID": "2238cc7c0e8f177f7a35fb8008bc7747",
+    "order": 62,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Brilliant, Watson. You are scintillating this morning. If it is not column, then I am very much deceived. So now, you see, we begin to visualize a large book printed in double columns which are each of a considerable length, since one of the words is numbered in the document as the two hundred and ninety-third.",
+    "context": {
+      "next": {
+        "content": "Have we reached the limits of what reason can supply?\"",
+        "objectID": "ec05fba27cc71ad6001237b13612343d"
+      },
+      "previous": {
+        "content": "\"Column!\" I cried.",
+        "objectID": "2238cc7c0e8f177f7a35fb8008bc7747"
+      }
+    },
+    "objectID": "34a60cb82cbda62c66d0d33eb7b8ca6e",
+    "order": 63,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Have we reached the limits of what reason can supply?\"",
+    "context": {
+      "next": {
+        "content": "\"I fear that we have.\"",
+        "objectID": "f5975602e291da185db2e45ef717d14e"
+      },
+      "previous": {
+        "content": "\"Brilliant, Watson. You are scintillating this morning. If it is not column, then I am very much deceived. So now, you see, we begin to visualize a large book printed in double columns which are each of a considerable length, since one of the words is numbered in the document as the two hundred and ninety-third.",
+        "objectID": "34a60cb82cbda62c66d0d33eb7b8ca6e"
+      }
+    },
+    "objectID": "ec05fba27cc71ad6001237b13612343d",
+    "order": 64,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"I fear that we have.\"",
+    "context": {
+      "next": {
+        "content": "\"Surely you do yourself an injustice. One more coruscation, my dear Watson—yet another brain-wave! Had the volume been an unusual one, he would have sent it to me. Instead of that, he had intended, before his plans were nipped, to send me the clue in this envelope. He says so in his note. This would seem to indicate that the book is one which he thought I would have no difficulty in finding for myself.",
+        "objectID": "2dd945634e29ba55ea141a36f8c6023a"
+      },
+      "previous": {
+        "content": "Have we reached the limits of what reason can supply?\"",
+        "objectID": "ec05fba27cc71ad6001237b13612343d"
+      }
+    },
+    "objectID": "f5975602e291da185db2e45ef717d14e",
+    "order": 65,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Surely you do yourself an injustice. One more coruscation, my dear Watson—yet another brain-wave! Had the volume been an unusual one, he would have sent it to me. Instead of that, he had intended, before his plans were nipped, to send me the clue in this envelope. He says so in his note. This would seem to indicate that the book is one which he thought I would have no difficulty in finding for myself.",
+    "context": {
+      "next": {
+        "content": "He had it—and he imagined that I would have it, too. In short, Watson, it is a very common book.\"",
+        "objectID": "ad1774b7470f283ccde4a275882943b6"
+      },
+      "previous": {
+        "content": "\"I fear that we have.\"",
+        "objectID": "f5975602e291da185db2e45ef717d14e"
+      }
+    },
+    "objectID": "2dd945634e29ba55ea141a36f8c6023a",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "He had it—and he imagined that I would have it, too. In short, Watson, it is a very common book.\"",
+    "context": {
+      "next": {
+        "content": "\"What you say certainly sounds plausible.\"",
+        "objectID": "ad2c0e05e6fc8ab6b280cda6a9661aab"
+      },
+      "previous": {
+        "content": "\"Surely you do yourself an injustice. One more coruscation, my dear Watson—yet another brain-wave! Had the volume been an unusual one, he would have sent it to me. Instead of that, he had intended, before his plans were nipped, to send me the clue in this envelope. He says so in his note. This would seem to indicate that the book is one which he thought I would have no difficulty in finding for myself.",
+        "objectID": "2dd945634e29ba55ea141a36f8c6023a"
+      }
+    },
+    "objectID": "ad1774b7470f283ccde4a275882943b6",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"What you say certainly sounds plausible.\"",
+    "context": {
+      "next": {
+        "content": "\"So we have contracted our field of search to a large book, printed in double columns and in common use.\"",
+        "objectID": "13bb4062103888cb8464bde7157e2e28"
+      },
+      "previous": {
+        "content": "He had it—and he imagined that I would have it, too. In short, Watson, it is a very common book.\"",
+        "objectID": "ad1774b7470f283ccde4a275882943b6"
+      }
+    },
+    "objectID": "ad2c0e05e6fc8ab6b280cda6a9661aab",
+    "order": 68,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"So we have contracted our field of search to a large book, printed in double columns and in common use.\"",
+    "context": {
+      "next": {
+        "content": "\"The Bible!\" I cried triumphantly.",
+        "objectID": "cf55ce1711fdf32b01286d89612b20bf"
+      },
+      "previous": {
+        "content": "\"What you say certainly sounds plausible.\"",
+        "objectID": "ad2c0e05e6fc8ab6b280cda6a9661aab"
+      }
+    },
+    "objectID": "13bb4062103888cb8464bde7157e2e28",
+    "order": 69,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"The Bible!\" I cried triumphantly.",
+    "context": {
+      "next": {
+        "content": "\"Good, Watson, good! But not, if I may say so, quite good enough! Even if I accepted the compliment for myself I could hardly name any volume which would be less likely to lie at the elbow of one of Moriarty's associates. Besides, the editions of Holy Writ are so numerous that he could hardly suppose that two copies would have the same pagination.",
+        "objectID": "3fa28be11854b67631c3f20dc1fc05b2"
+      },
+      "previous": {
+        "content": "\"So we have contracted our field of search to a large book, printed in double columns and in common use.\"",
+        "objectID": "13bb4062103888cb8464bde7157e2e28"
+      }
+    },
+    "objectID": "cf55ce1711fdf32b01286d89612b20bf",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Good, Watson, good! But not, if I may say so, quite good enough! Even if I accepted the compliment for myself I could hardly name any volume which would be less likely to lie at the elbow of one of Moriarty's associates. Besides, the editions of Holy Writ are so numerous that he could hardly suppose that two copies would have the same pagination.",
+    "context": {
+      "next": {
+        "content": "This is clearly a book which is standardized. He knows for certain that his page 534 will exactly agree with my page 534.\"",
+        "objectID": "a00e099b3f887290fa60b6ac81f7618c"
+      },
+      "previous": {
+        "content": "\"The Bible!\" I cried triumphantly.",
+        "objectID": "cf55ce1711fdf32b01286d89612b20bf"
+      }
+    },
+    "objectID": "3fa28be11854b67631c3f20dc1fc05b2",
+    "order": 71,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "This is clearly a book which is standardized. He knows for certain that his page 534 will exactly agree with my page 534.\"",
+    "context": {
+      "next": {
+        "content": "\"But very few books would correspond with that.\"",
+        "objectID": "4ee79ce5f8d68139fdb2a109f406bd0f"
+      },
+      "previous": {
+        "content": "\"Good, Watson, good! But not, if I may say so, quite good enough! Even if I accepted the compliment for myself I could hardly name any volume which would be less likely to lie at the elbow of one of Moriarty's associates. Besides, the editions of Holy Writ are so numerous that he could hardly suppose that two copies would have the same pagination.",
+        "objectID": "3fa28be11854b67631c3f20dc1fc05b2"
+      }
+    },
+    "objectID": "a00e099b3f887290fa60b6ac81f7618c",
+    "order": 72,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"But very few books would correspond with that.\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly. Therein lies our salvation. Our search is narrowed down to standardized books which anyone may be supposed to possess.\"",
+        "objectID": "33c0ed93aa8f3d6cf18103c0e73cdda4"
+      },
+      "previous": {
+        "content": "This is clearly a book which is standardized. He knows for certain that his page 534 will exactly agree with my page 534.\"",
+        "objectID": "a00e099b3f887290fa60b6ac81f7618c"
+      }
+    },
+    "objectID": "4ee79ce5f8d68139fdb2a109f406bd0f",
+    "order": 73,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Exactly. Therein lies our salvation. Our search is narrowed down to standardized books which anyone may be supposed to possess.\"",
+    "context": {
+      "next": {
+        "content": "\"Bradshaw!\"",
+        "objectID": "493d971c0cb731f5119f2ef5f4e79622"
+      },
+      "previous": {
+        "content": "\"But very few books would correspond with that.\"",
+        "objectID": "4ee79ce5f8d68139fdb2a109f406bd0f"
+      }
+    },
+    "objectID": "33c0ed93aa8f3d6cf18103c0e73cdda4",
+    "order": 74,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Bradshaw!\"",
+    "context": {
+      "next": {
+        "content": "\"There are difficulties, Watson. The vocabulary of Bradshaw is nervous and terse, but limited. The selection of words would hardly lend itself to the sending of general messages. We will eliminate Bradshaw. The dictionary is, I fear, inadmissible for the same reason. What then is left?\"",
+        "objectID": "4714fafaf36f11459cb645c53d6d7ab7"
+      },
+      "previous": {
+        "content": "\"Exactly. Therein lies our salvation. Our search is narrowed down to standardized books which anyone may be supposed to possess.\"",
+        "objectID": "33c0ed93aa8f3d6cf18103c0e73cdda4"
+      }
+    },
+    "objectID": "493d971c0cb731f5119f2ef5f4e79622",
+    "order": 75,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"There are difficulties, Watson. The vocabulary of Bradshaw is nervous and terse, but limited. The selection of words would hardly lend itself to the sending of general messages. We will eliminate Bradshaw. The dictionary is, I fear, inadmissible for the same reason. What then is left?\"",
+    "context": {
+      "next": {
+        "content": "\"An almanac!\"",
+        "objectID": "be5f14a14cc1d3222b8bacf5cedf2bfa"
+      },
+      "previous": {
+        "content": "\"Bradshaw!\"",
+        "objectID": "493d971c0cb731f5119f2ef5f4e79622"
+      }
+    },
+    "objectID": "4714fafaf36f11459cb645c53d6d7ab7",
+    "order": 76,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"An almanac!\"",
+    "context": {
+      "next": {
+        "content": "\"Excellent, Watson! I am very much mistaken if you have not touched the spot. An almanac! Let us consider the claims of Whitaker's Almanac. It is in common use. It has the requisite number of pages. It is in double column. Though reserved in its earlier vocabulary, it becomes, if I remember right, quite garrulous towards the end.",
+        "objectID": "a3dcac9ef423cb1b627f89a81c91f480"
+      },
+      "previous": {
+        "content": "\"There are difficulties, Watson. The vocabulary of Bradshaw is nervous and terse, but limited. The selection of words would hardly lend itself to the sending of general messages. We will eliminate Bradshaw. The dictionary is, I fear, inadmissible for the same reason. What then is left?\"",
+        "objectID": "4714fafaf36f11459cb645c53d6d7ab7"
+      }
+    },
+    "objectID": "be5f14a14cc1d3222b8bacf5cedf2bfa",
+    "order": 77,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Excellent, Watson! I am very much mistaken if you have not touched the spot. An almanac! Let us consider the claims of Whitaker's Almanac. It is in common use. It has the requisite number of pages. It is in double column. Though reserved in its earlier vocabulary, it becomes, if I remember right, quite garrulous towards the end.",
+    "context": {
+      "next": {
+        "content": "\" He picked the volume from his desk. \"Here is page 534, column two, a substantial block of print dealing, I perceive, with the trade and resources of British India. Jot down the words, Watson! Number thirteen is 'Mahratta.' Not, I fear, a very auspicious beginning. Number one hundred and twenty-seven is 'Government'; which at least makes sense, though somewhat irrelevant to ourselves and Professor Moriarty.",
+        "objectID": "a2125a791d414df0630b27286fb5414a"
+      },
+      "previous": {
+        "content": "\"An almanac!\"",
+        "objectID": "be5f14a14cc1d3222b8bacf5cedf2bfa"
+      }
+    },
+    "objectID": "a3dcac9ef423cb1b627f89a81c91f480",
+    "order": 78,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\" He picked the volume from his desk. \"Here is page 534, column two, a substantial block of print dealing, I perceive, with the trade and resources of British India. Jot down the words, Watson! Number thirteen is 'Mahratta.' Not, I fear, a very auspicious beginning. Number one hundred and twenty-seven is 'Government'; which at least makes sense, though somewhat irrelevant to ourselves and Professor Moriarty.",
+    "context": {
+      "next": {
+        "content": "Now let us try again. What does the Mahratta government do? Alas! the next word is 'pig's-bristles.' We are undone, my good Watson! It is finished!\"",
+        "objectID": "5481388971f40ba7216d3ad04a0a09bc"
+      },
+      "previous": {
+        "content": "\"Excellent, Watson! I am very much mistaken if you have not touched the spot. An almanac! Let us consider the claims of Whitaker's Almanac. It is in common use. It has the requisite number of pages. It is in double column. Though reserved in its earlier vocabulary, it becomes, if I remember right, quite garrulous towards the end.",
+        "objectID": "a3dcac9ef423cb1b627f89a81c91f480"
+      }
+    },
+    "objectID": "a2125a791d414df0630b27286fb5414a",
+    "order": 79,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Now let us try again. What does the Mahratta government do? Alas! the next word is 'pig's-bristles.' We are undone, my good Watson! It is finished!\"",
+    "context": {
+      "next": {
+        "content": "He had spoken in jesting vein, but the twitching of his bushy eyebrows bespoke his disappointment and irritation. I sat helpless and unhappy, staring into the fire. A long silence was broken by a sudden exclamation from Holmes, who dashed at a cupboard, from which he emerged with a second yellow-covered volume in his hand.",
+        "objectID": "6dbc9cd5f1f72ecf8ab00262840bb1a5"
+      },
+      "previous": {
+        "content": "\" He picked the volume from his desk. \"Here is page 534, column two, a substantial block of print dealing, I perceive, with the trade and resources of British India. Jot down the words, Watson! Number thirteen is 'Mahratta.' Not, I fear, a very auspicious beginning. Number one hundred and twenty-seven is 'Government'; which at least makes sense, though somewhat irrelevant to ourselves and Professor Moriarty.",
+        "objectID": "a2125a791d414df0630b27286fb5414a"
+      }
+    },
+    "objectID": "5481388971f40ba7216d3ad04a0a09bc",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "He had spoken in jesting vein, but the twitching of his bushy eyebrows bespoke his disappointment and irritation. I sat helpless and unhappy, staring into the fire. A long silence was broken by a sudden exclamation from Holmes, who dashed at a cupboard, from which he emerged with a second yellow-covered volume in his hand.",
+    "context": {
+      "next": {
+        "content": "\"We pay the price, Watson, for being too up-to-date!\" he cried. \"We are before our time, and suffer the usual penalties. Being the seventh of January, we have very properly laid in the new almanac. It is more than likely that Porlock took his message from the old one. No doubt he would have told us so had his letter of explanation been written.",
+        "objectID": "d50672a931bcf77f6e438906d04f6246"
+      },
+      "previous": {
+        "content": "Now let us try again. What does the Mahratta government do? Alas! the next word is 'pig's-bristles.' We are undone, my good Watson! It is finished!\"",
+        "objectID": "5481388971f40ba7216d3ad04a0a09bc"
+      }
+    },
+    "objectID": "6dbc9cd5f1f72ecf8ab00262840bb1a5",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"We pay the price, Watson, for being too up-to-date!\" he cried. \"We are before our time, and suffer the usual penalties. Being the seventh of January, we have very properly laid in the new almanac. It is more than likely that Porlock took his message from the old one. No doubt he would have told us so had his letter of explanation been written.",
+    "context": {
+      "next": {
+        "content": "Now let us see what page 534 has in store for us. Number thirteen is 'There,' which is much more promising. Number one hundred and twenty-seven is 'is'—'There is' \"—Holmes's eyes were gleaming with excitement, and his thin, nervous fingers twitched as he counted the words—\"'danger.' Ha! Ha! Capital! Put that down, Watson.",
+        "objectID": "548854bdde37475cf0eaa1b9062b4d37"
+      },
+      "previous": {
+        "content": "He had spoken in jesting vein, but the twitching of his bushy eyebrows bespoke his disappointment and irritation. I sat helpless and unhappy, staring into the fire. A long silence was broken by a sudden exclamation from Holmes, who dashed at a cupboard, from which he emerged with a second yellow-covered volume in his hand.",
+        "objectID": "6dbc9cd5f1f72ecf8ab00262840bb1a5"
+      }
+    },
+    "objectID": "d50672a931bcf77f6e438906d04f6246",
+    "order": 82,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Now let us see what page 534 has in store for us. Number thirteen is 'There,' which is much more promising. Number one hundred and twenty-seven is 'is'—'There is' \"—Holmes's eyes were gleaming with excitement, and his thin, nervous fingers twitched as he counted the words—\"'danger.' Ha! Ha! Capital! Put that down, Watson.",
+    "context": {
+      "next": {
+        "content": "'There is danger—may—come—very soon—one.' Then we have the name 'Douglas'—'rich—country—now—at Birlstone—House—Birlstone—confidence—is—pressing.' There, Watson! What do you think of pure reason and its fruit? If the green-grocer had such a thing as a laurel wreath, I should send Billy round for it.",
+        "objectID": "e2ce824393ed9732f9115e57409517a4"
+      },
+      "previous": {
+        "content": "\"We pay the price, Watson, for being too up-to-date!\" he cried. \"We are before our time, and suffer the usual penalties. Being the seventh of January, we have very properly laid in the new almanac. It is more than likely that Porlock took his message from the old one. No doubt he would have told us so had his letter of explanation been written.",
+        "objectID": "d50672a931bcf77f6e438906d04f6246"
+      }
+    },
+    "objectID": "548854bdde37475cf0eaa1b9062b4d37",
+    "order": 83,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "'There is danger—may—come—very soon—one.' Then we have the name 'Douglas'—'rich—country—now—at Birlstone—House—Birlstone—confidence—is—pressing.' There, Watson! What do you think of pure reason and its fruit? If the green-grocer had such a thing as a laurel wreath, I should send Billy round for it.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "caf917a722073bc5222d4ab859e31434"
+      },
+      "previous": {
+        "content": "Now let us see what page 534 has in store for us. Number thirteen is 'There,' which is much more promising. Number one hundred and twenty-seven is 'is'—'There is' \"—Holmes's eyes were gleaming with excitement, and his thin, nervous fingers twitched as he counted the words—\"'danger.' Ha! Ha! Capital! Put that down, Watson.",
+        "objectID": "548854bdde37475cf0eaa1b9062b4d37"
+      }
+    },
+    "objectID": "e2ce824393ed9732f9115e57409517a4",
+    "order": 84,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "I was staring at the strange message which I had scrawled, as he deciphered it, upon a sheet of foolscap on my knee.",
+        "objectID": "a92ce48b39eeddd4deaa82e29c265b74"
+      },
+      "previous": {
+        "content": "'There is danger—may—come—very soon—one.' Then we have the name 'Douglas'—'rich—country—now—at Birlstone—House—Birlstone—confidence—is—pressing.' There, Watson! What do you think of pure reason and its fruit? If the green-grocer had such a thing as a laurel wreath, I should send Billy round for it.",
+        "objectID": "e2ce824393ed9732f9115e57409517a4"
+      }
+    },
+    "objectID": "caf917a722073bc5222d4ab859e31434",
+    "order": 85,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "I was staring at the strange message which I had scrawled, as he deciphered it, upon a sheet of foolscap on my knee.",
+    "context": {
+      "next": {
+        "content": "\"What a queer, scrambling way of expressing his meaning!\" said I.",
+        "objectID": "1cdfa381649095594845bed41682dde0"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "caf917a722073bc5222d4ab859e31434"
+      }
+    },
+    "objectID": "a92ce48b39eeddd4deaa82e29c265b74",
+    "order": 86,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"What a queer, scrambling way of expressing his meaning!\" said I.",
+    "context": {
+      "next": {
+        "content": "\"On the contrary, he has done quite remarkably well,\" said Holmes. \"When you search a single column for words with which to express your meaning, you can hardly expect to get everything you want. You are bound to leave something to the intelligence of your correspondent. The purport is perfectly clear.",
+        "objectID": "2a1fd75d938a672e6ea180aae82bba79"
+      },
+      "previous": {
+        "content": "I was staring at the strange message which I had scrawled, as he deciphered it, upon a sheet of foolscap on my knee.",
+        "objectID": "a92ce48b39eeddd4deaa82e29c265b74"
+      }
+    },
+    "objectID": "1cdfa381649095594845bed41682dde0",
+    "order": 87,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"On the contrary, he has done quite remarkably well,\" said Holmes. \"When you search a single column for words with which to express your meaning, you can hardly expect to get everything you want. You are bound to leave something to the intelligence of your correspondent. The purport is perfectly clear.",
+    "context": {
+      "next": {
+        "content": "Some deviltry is intended against one Douglas, whoever he may be, residing as stated, a rich country gentleman. He is sure—'confidence' was as near as he could get to 'confident'—that it is pressing. There is our result—and a very workmanlike little bit of analysis it was!\"",
+        "objectID": "cf65962094d451b49eb68ee6e5077c20"
+      },
+      "previous": {
+        "content": "\"What a queer, scrambling way of expressing his meaning!\" said I.",
+        "objectID": "1cdfa381649095594845bed41682dde0"
+      }
+    },
+    "objectID": "2a1fd75d938a672e6ea180aae82bba79",
+    "order": 88,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Some deviltry is intended against one Douglas, whoever he may be, residing as stated, a rich country gentleman. He is sure—'confidence' was as near as he could get to 'confident'—that it is pressing. There is our result—and a very workmanlike little bit of analysis it was!\"",
+    "context": {
+      "next": {
+        "content": "Holmes had the impersonal joy of the true artist in his better work, even as he mourned darkly when it fell below the high level to which he aspired. He was still chuckling over his success when Billy swung open the door and Inspector MacDonald of Scotland Yard was ushered into the room.",
+        "objectID": "34d09466b7e389cda3ee6caa2d7b954b"
+      },
+      "previous": {
+        "content": "\"On the contrary, he has done quite remarkably well,\" said Holmes. \"When you search a single column for words with which to express your meaning, you can hardly expect to get everything you want. You are bound to leave something to the intelligence of your correspondent. The purport is perfectly clear.",
+        "objectID": "2a1fd75d938a672e6ea180aae82bba79"
+      }
+    },
+    "objectID": "cf65962094d451b49eb68ee6e5077c20",
+    "order": 89,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Holmes had the impersonal joy of the true artist in his better work, even as he mourned darkly when it fell below the high level to which he aspired. He was still chuckling over his success when Billy swung open the door and Inspector MacDonald of Scotland Yard was ushered into the room.",
+    "context": {
+      "next": {
+        "content": "Those were the early days at the end of the '80's, when Alec MacDonald was far from having attained the national fame which he has now achieved. He was a young but trusted member of the detective force, who had distinguished himself in several cases which had been intrusted to him. His tall, bony figure gave promise of exceptional physical strength, while his great cranium and deep-set, lustrous eyes spoke no less clearly of the keen intelligence which twinkled out from behind his bushy eyebrows.",
+        "objectID": "92ede223d9641b3281c7eae5f07f921f"
+      },
+      "previous": {
+        "content": "Some deviltry is intended against one Douglas, whoever he may be, residing as stated, a rich country gentleman. He is sure—'confidence' was as near as he could get to 'confident'—that it is pressing. There is our result—and a very workmanlike little bit of analysis it was!\"",
+        "objectID": "cf65962094d451b49eb68ee6e5077c20"
+      }
+    },
+    "objectID": "34d09466b7e389cda3ee6caa2d7b954b",
+    "order": 90,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Those were the early days at the end of the '80's, when Alec MacDonald was far from having attained the national fame which he has now achieved. He was a young but trusted member of the detective force, who had distinguished himself in several cases which had been intrusted to him. His tall, bony figure gave promise of exceptional physical strength, while his great cranium and deep-set, lustrous eyes spoke no less clearly of the keen intelligence which twinkled out from behind his bushy eyebrows.",
+    "context": {
+      "next": {
+        "content": "He was a silent, precise man with a dour nature and a hard Aberdonian accent.",
+        "objectID": "1bcd3979614c050237f10cb036a59deb"
+      },
+      "previous": {
+        "content": "Holmes had the impersonal joy of the true artist in his better work, even as he mourned darkly when it fell below the high level to which he aspired. He was still chuckling over his success when Billy swung open the door and Inspector MacDonald of Scotland Yard was ushered into the room.",
+        "objectID": "34d09466b7e389cda3ee6caa2d7b954b"
+      }
+    },
+    "objectID": "92ede223d9641b3281c7eae5f07f921f",
+    "order": 91,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "He was a silent, precise man with a dour nature and a hard Aberdonian accent.",
+    "context": {
+      "next": {
+        "content": "Twice already in his career had Holmes helped him to attain success, his own sole reward being the intellectual joy of the problem. For this reason the affection and respect of the Scotchman for his amateur colleague were profound, and he showed them by the frankness with which he consulted Holmes in every difficulty.",
+        "objectID": "e920278b23fcc1b4aca9a66d842f8062"
+      },
+      "previous": {
+        "content": "Those were the early days at the end of the '80's, when Alec MacDonald was far from having attained the national fame which he has now achieved. He was a young but trusted member of the detective force, who had distinguished himself in several cases which had been intrusted to him. His tall, bony figure gave promise of exceptional physical strength, while his great cranium and deep-set, lustrous eyes spoke no less clearly of the keen intelligence which twinkled out from behind his bushy eyebrows.",
+        "objectID": "92ede223d9641b3281c7eae5f07f921f"
+      }
+    },
+    "objectID": "1bcd3979614c050237f10cb036a59deb",
+    "order": 92,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Twice already in his career had Holmes helped him to attain success, his own sole reward being the intellectual joy of the problem. For this reason the affection and respect of the Scotchman for his amateur colleague were profound, and he showed them by the frankness with which he consulted Holmes in every difficulty.",
+    "context": {
+      "next": {
+        "content": "Mediocrity knows nothing higher than itself; but talent instantly recognizes genius, and MacDonald had talent enough for his profession to enable him to perceive that there was no humiliation in seeking the assistance of one who already stood alone in Europe, both in his gifts and in his experience.",
+        "objectID": "b8f4a01d2f71eaef3259d976f6376b6a"
+      },
+      "previous": {
+        "content": "He was a silent, precise man with a dour nature and a hard Aberdonian accent.",
+        "objectID": "1bcd3979614c050237f10cb036a59deb"
+      }
+    },
+    "objectID": "e920278b23fcc1b4aca9a66d842f8062",
+    "order": 93,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Mediocrity knows nothing higher than itself; but talent instantly recognizes genius, and MacDonald had talent enough for his profession to enable him to perceive that there was no humiliation in seeking the assistance of one who already stood alone in Europe, both in his gifts and in his experience.",
+    "context": {
+      "next": {
+        "content": "Holmes was not prone to friendship, but he was tolerant of the big Scotchman, and smiled at the sight of him.",
+        "objectID": "f6e2e612cf617f3dc6076c3bd1e964ca"
+      },
+      "previous": {
+        "content": "Twice already in his career had Holmes helped him to attain success, his own sole reward being the intellectual joy of the problem. For this reason the affection and respect of the Scotchman for his amateur colleague were profound, and he showed them by the frankness with which he consulted Holmes in every difficulty.",
+        "objectID": "e920278b23fcc1b4aca9a66d842f8062"
+      }
+    },
+    "objectID": "b8f4a01d2f71eaef3259d976f6376b6a",
+    "order": 94,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "Holmes was not prone to friendship, but he was tolerant of the big Scotchman, and smiled at the sight of him.",
+    "context": {
+      "next": {
+        "content": "\"You are an early bird, Mr. Mac,\" said he. \"I wish you luck with your worm. I fear this means that there is some mischief afoot.\"",
+        "objectID": "a6d09c772a2862a673a52ba670743ff6"
+      },
+      "previous": {
+        "content": "Mediocrity knows nothing higher than itself; but talent instantly recognizes genius, and MacDonald had talent enough for his profession to enable him to perceive that there was no humiliation in seeking the assistance of one who already stood alone in Europe, both in his gifts and in his experience.",
+        "objectID": "b8f4a01d2f71eaef3259d976f6376b6a"
+      }
+    },
+    "objectID": "f6e2e612cf617f3dc6076c3bd1e964ca",
+    "order": 95,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"You are an early bird, Mr. Mac,\" said he. \"I wish you luck with your worm. I fear this means that there is some mischief afoot.\"",
+    "context": {
+      "next": {
+        "content": "\"If you said 'hope' instead of 'fear,' it would be nearer the truth, I'm thinking, Mr. Holmes,\" the inspector answered, with a knowing grin. \"Well, maybe a wee nip would keep out the raw morning chill. No, I won't smoke, I thank you. I'll have to be pushing on my way; for the early hours of a case are the precious ones, as no man knows better than your own self.",
+        "objectID": "c8fb1f31635957ee6cf9d296e73ae490"
+      },
+      "previous": {
+        "content": "Holmes was not prone to friendship, but he was tolerant of the big Scotchman, and smiled at the sight of him.",
+        "objectID": "f6e2e612cf617f3dc6076c3bd1e964ca"
+      }
+    },
+    "objectID": "a6d09c772a2862a673a52ba670743ff6",
+    "order": 96,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"If you said 'hope' instead of 'fear,' it would be nearer the truth, I'm thinking, Mr. Holmes,\" the inspector answered, with a knowing grin. \"Well, maybe a wee nip would keep out the raw morning chill. No, I won't smoke, I thank you. I'll have to be pushing on my way; for the early hours of a case are the precious ones, as no man knows better than your own self.",
+    "context": {
+      "next": {
+        "content": "But—but—\"",
+        "objectID": "1ea3e78ab61a621a42435bd2c257f259"
+      },
+      "previous": {
+        "content": "\"You are an early bird, Mr. Mac,\" said he. \"I wish you luck with your worm. I fear this means that there is some mischief afoot.\"",
+        "objectID": "a6d09c772a2862a673a52ba670743ff6"
+      }
+    },
+    "objectID": "c8fb1f31635957ee6cf9d296e73ae490",
+    "order": 97,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "But—but—\"",
+    "context": {
+      "next": {
+        "content": "The inspector had stopped suddenly, and was staring with a look of absolute amazement at a paper upon the table. It was the sheet upon which I had scrawled the enigmatic message.",
+        "objectID": "075b42783be888d4b94dc9dc8b4a443a"
+      },
+      "previous": {
+        "content": "\"If you said 'hope' instead of 'fear,' it would be nearer the truth, I'm thinking, Mr. Holmes,\" the inspector answered, with a knowing grin. \"Well, maybe a wee nip would keep out the raw morning chill. No, I won't smoke, I thank you. I'll have to be pushing on my way; for the early hours of a case are the precious ones, as no man knows better than your own self.",
+        "objectID": "c8fb1f31635957ee6cf9d296e73ae490"
+      }
+    },
+    "objectID": "1ea3e78ab61a621a42435bd2c257f259",
+    "order": 98,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "The inspector had stopped suddenly, and was staring with a look of absolute amazement at a paper upon the table. It was the sheet upon which I had scrawled the enigmatic message.",
+    "context": {
+      "next": {
+        "content": "\"Douglas!\" he stammered. \"Birlstone! What's this, Mr. Holmes? Man, it's witchcraft! Where in the name of all that is wonderful did you get those names?\"",
+        "objectID": "ed7aded343d37c63bfc64ce05c0ecc41"
+      },
+      "previous": {
+        "content": "But—but—\"",
+        "objectID": "1ea3e78ab61a621a42435bd2c257f259"
+      }
+    },
+    "objectID": "075b42783be888d4b94dc9dc8b4a443a",
+    "order": 99,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"Douglas!\" he stammered. \"Birlstone! What's this, Mr. Holmes? Man, it's witchcraft! Where in the name of all that is wonderful did you get those names?\"",
+    "context": {
+      "next": {
+        "content": "\"It is a cipher that Dr. Watson and I have had occasion to solve. But why—what's amiss with the names?\"",
+        "objectID": "9273b801427cae4a3d2dd12e4b988ccd"
+      },
+      "previous": {
+        "content": "The inspector had stopped suddenly, and was staring with a look of absolute amazement at a paper upon the table. It was the sheet upon which I had scrawled the enigmatic message.",
+        "objectID": "075b42783be888d4b94dc9dc8b4a443a"
+      }
+    },
+    "objectID": "ed7aded343d37c63bfc64ce05c0ecc41",
+    "order": 100,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "\"It is a cipher that Dr. Watson and I have had occasion to solve. But why—what's amiss with the names?\"",
+    "context": {
+      "next": {
+        "content": "The inspector looked from one to the other of us in dazed astonishment. \"Just this,\" said he, \"that Mr. Douglas of Birlstone Manor House was horribly murdered last night!\"",
+        "objectID": "ffe5e4ff3a5226d5a7236384f3149d47"
+      },
+      "previous": {
+        "content": "\"Douglas!\" he stammered. \"Birlstone! What's this, Mr. Holmes? Man, it's witchcraft! Where in the name of all that is wonderful did you get those names?\"",
+        "objectID": "ed7aded343d37c63bfc64ce05c0ecc41"
+      }
+    },
+    "objectID": "9273b801427cae4a3d2dd12e4b988ccd",
+    "order": 101,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 1—The Warning",
+    "chapterOrder": 1,
+    "content": "The inspector looked from one to the other of us in dazed astonishment. \"Just this,\" said he, \"that Mr. Douglas of Birlstone Manor House was horribly murdered last night!\"",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "\"It is a cipher that Dr. Watson and I have had occasion to solve. But why—what's amiss with the names?\"",
+        "objectID": "9273b801427cae4a3d2dd12e4b988ccd"
+      }
+    },
+    "objectID": "ffe5e4ff3a5226d5a7236384f3149d47",
+    "order": 102,
+    "tagName": "P"
+  }
+]

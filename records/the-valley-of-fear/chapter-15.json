@@ -1,0 +1,647 @@
+[
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "The police trial had passed, in which the case of John Douglas was referred to a higher court. So had the Quarter Sessions, at which he was acquitted as having acted in self-defense.",
+    "context": {
+      "next": {
+        "content": "\"Get him out of England at any cost,\" wrote Holmes to the wife. \"There are forces here which may be more dangerous than those he has escaped. There is no safety for your husband in England.\"",
+        "objectID": "dae8a21868ac9e9dbe92aca43d1bf93f"
+      },
+      "previous": null
+    },
+    "objectID": "87b29b45c361f1ccc3999bc226a2fb9a",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"Get him out of England at any cost,\" wrote Holmes to the wife. \"There are forces here which may be more dangerous than those he has escaped. There is no safety for your husband in England.\"",
+    "context": {
+      "next": {
+        "content": "Two months had gone by, and the case had to some extent passed from our minds. Then one morning there came an enigmatic note slipped into our letter box. \"Dear me, Mr. Holmes. Dear me!\" said this singular epistle. There was neither superscription nor signature. I laughed at the quaint message; but Holmes showed unwonted seriousness.",
+        "objectID": "0d00be94964a16875d4ababd17676268"
+      },
+      "previous": {
+        "content": "The police trial had passed, in which the case of John Douglas was referred to a higher court. So had the Quarter Sessions, at which he was acquitted as having acted in self-defense.",
+        "objectID": "87b29b45c361f1ccc3999bc226a2fb9a"
+      }
+    },
+    "objectID": "dae8a21868ac9e9dbe92aca43d1bf93f",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "Two months had gone by, and the case had to some extent passed from our minds. Then one morning there came an enigmatic note slipped into our letter box. \"Dear me, Mr. Holmes. Dear me!\" said this singular epistle. There was neither superscription nor signature. I laughed at the quaint message; but Holmes showed unwonted seriousness.",
+    "context": {
+      "next": {
+        "content": "\"Deviltry, Watson!\" he remarked, and sat long with a clouded brow.",
+        "objectID": "ee0b1937fd910fff4e8432d51b7ebad8"
+      },
+      "previous": {
+        "content": "\"Get him out of England at any cost,\" wrote Holmes to the wife. \"There are forces here which may be more dangerous than those he has escaped. There is no safety for your husband in England.\"",
+        "objectID": "dae8a21868ac9e9dbe92aca43d1bf93f"
+      }
+    },
+    "objectID": "0d00be94964a16875d4ababd17676268",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"Deviltry, Watson!\" he remarked, and sat long with a clouded brow.",
+    "context": {
+      "next": {
+        "content": "Late last night Mrs. Hudson, our landlady, brought up a message that a gentleman wished to see Mr. Holmes, and that the matter was of the utmost importance. Close at the heels of his messenger came Cecil Barker, our friend of the moated Manor House. His face was drawn and haggard.",
+        "objectID": "2ee05819725a025908a64e124345f3fc"
+      },
+      "previous": {
+        "content": "Two months had gone by, and the case had to some extent passed from our minds. Then one morning there came an enigmatic note slipped into our letter box. \"Dear me, Mr. Holmes. Dear me!\" said this singular epistle. There was neither superscription nor signature. I laughed at the quaint message; but Holmes showed unwonted seriousness.",
+        "objectID": "0d00be94964a16875d4ababd17676268"
+      }
+    },
+    "objectID": "ee0b1937fd910fff4e8432d51b7ebad8",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "Late last night Mrs. Hudson, our landlady, brought up a message that a gentleman wished to see Mr. Holmes, and that the matter was of the utmost importance. Close at the heels of his messenger came Cecil Barker, our friend of the moated Manor House. His face was drawn and haggard.",
+    "context": {
+      "next": {
+        "content": "\"I've had bad news—terrible news, Mr. Holmes,\" said he.",
+        "objectID": "c7b7167f7b2de88631aa0fc4e57ca33c"
+      },
+      "previous": {
+        "content": "\"Deviltry, Watson!\" he remarked, and sat long with a clouded brow.",
+        "objectID": "ee0b1937fd910fff4e8432d51b7ebad8"
+      }
+    },
+    "objectID": "2ee05819725a025908a64e124345f3fc",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"I've had bad news—terrible news, Mr. Holmes,\" said he.",
+    "context": {
+      "next": {
+        "content": "\"I feared as much,\" said Holmes.",
+        "objectID": "80860a3155fae415e03c8532c9a973e4"
+      },
+      "previous": {
+        "content": "Late last night Mrs. Hudson, our landlady, brought up a message that a gentleman wished to see Mr. Holmes, and that the matter was of the utmost importance. Close at the heels of his messenger came Cecil Barker, our friend of the moated Manor House. His face was drawn and haggard.",
+        "objectID": "2ee05819725a025908a64e124345f3fc"
+      }
+    },
+    "objectID": "c7b7167f7b2de88631aa0fc4e57ca33c",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"I feared as much,\" said Holmes.",
+    "context": {
+      "next": {
+        "content": "\"You have not had a cable, have you?\"",
+        "objectID": "19e6bfa9fa237f901df8d49faf20e716"
+      },
+      "previous": {
+        "content": "\"I've had bad news—terrible news, Mr. Holmes,\" said he.",
+        "objectID": "c7b7167f7b2de88631aa0fc4e57ca33c"
+      }
+    },
+    "objectID": "80860a3155fae415e03c8532c9a973e4",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"You have not had a cable, have you?\"",
+    "context": {
+      "next": {
+        "content": "\"I have had a note from someone who has.\"",
+        "objectID": "5727002317aef6862d3e261a0b5888da"
+      },
+      "previous": {
+        "content": "\"I feared as much,\" said Holmes.",
+        "objectID": "80860a3155fae415e03c8532c9a973e4"
+      }
+    },
+    "objectID": "19e6bfa9fa237f901df8d49faf20e716",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"I have had a note from someone who has.\"",
+    "context": {
+      "next": {
+        "content": "\"It's poor Douglas. They tell me his name is Edwards; but he will always be Jack Douglas of Benito Canyon to me. I told you that they started together for South Africa in the Palmyra three weeks ago.\"",
+        "objectID": "c201afc7f04ffdf077870bb9da35fb39"
+      },
+      "previous": {
+        "content": "\"You have not had a cable, have you?\"",
+        "objectID": "19e6bfa9fa237f901df8d49faf20e716"
+      }
+    },
+    "objectID": "5727002317aef6862d3e261a0b5888da",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"It's poor Douglas. They tell me his name is Edwards; but he will always be Jack Douglas of Benito Canyon to me. I told you that they started together for South Africa in the Palmyra three weeks ago.\"",
+    "context": {
+      "next": {
+        "content": "\"Exactly.\"",
+        "objectID": "4403a34627943b3b35e1300b432c9f21"
+      },
+      "previous": {
+        "content": "\"I have had a note from someone who has.\"",
+        "objectID": "5727002317aef6862d3e261a0b5888da"
+      }
+    },
+    "objectID": "c201afc7f04ffdf077870bb9da35fb39",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"Exactly.\"",
+    "context": {
+      "next": {
+        "content": "\"The ship reached Cape Town last night. I received this cable from Mrs. Douglas this morning:",
+        "objectID": "22af0e5f7ca21844c77c634cb89ba18b"
+      },
+      "previous": {
+        "content": "\"It's poor Douglas. They tell me his name is Edwards; but he will always be Jack Douglas of Benito Canyon to me. I told you that they started together for South Africa in the Palmyra three weeks ago.\"",
+        "objectID": "c201afc7f04ffdf077870bb9da35fb39"
+      }
+    },
+    "objectID": "4403a34627943b3b35e1300b432c9f21",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"The ship reached Cape Town last night. I received this cable from Mrs. Douglas this morning:",
+    "context": {
+      "next": {
+        "content": "\"'Jack has been lost overboard in gale off St. Helena. No one knows how accident occurred.'",
+        "objectID": "cd9f7c3f5207b31ac348c602a3536fa4"
+      },
+      "previous": {
+        "content": "\"Exactly.\"",
+        "objectID": "4403a34627943b3b35e1300b432c9f21"
+      }
+    },
+    "objectID": "22af0e5f7ca21844c77c634cb89ba18b",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"'Jack has been lost overboard in gale off St. Helena. No one knows how accident occurred.'",
+    "context": {
+      "next": {
+        "content": "\"'IVY DOUGLAS.'\"",
+        "objectID": "0ec04cf0f143dcbec8e408cbe8448889"
+      },
+      "previous": {
+        "content": "\"The ship reached Cape Town last night. I received this cable from Mrs. Douglas this morning:",
+        "objectID": "22af0e5f7ca21844c77c634cb89ba18b"
+      }
+    },
+    "objectID": "cd9f7c3f5207b31ac348c602a3536fa4",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"'IVY DOUGLAS.'\"",
+    "context": {
+      "next": {
+        "content": "\"Ha! It came like that, did it?\" said Holmes thoughtfully. \"Well, I've no doubt it was well stage-managed.\"",
+        "objectID": "c3e126bd235ef63f830d783747e03efb"
+      },
+      "previous": {
+        "content": "\"'Jack has been lost overboard in gale off St. Helena. No one knows how accident occurred.'",
+        "objectID": "cd9f7c3f5207b31ac348c602a3536fa4"
+      }
+    },
+    "objectID": "0ec04cf0f143dcbec8e408cbe8448889",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"Ha! It came like that, did it?\" said Holmes thoughtfully. \"Well, I've no doubt it was well stage-managed.\"",
+    "context": {
+      "next": {
+        "content": "\"You mean that you think there was no accident?\"",
+        "objectID": "753826ca2df2f660630a6dc041ee7480"
+      },
+      "previous": {
+        "content": "\"'IVY DOUGLAS.'\"",
+        "objectID": "0ec04cf0f143dcbec8e408cbe8448889"
+      }
+    },
+    "objectID": "c3e126bd235ef63f830d783747e03efb",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"You mean that you think there was no accident?\"",
+    "context": {
+      "next": {
+        "content": "\"None in the world.\"",
+        "objectID": "b10990f7f346c01986f6e8ee3884a285"
+      },
+      "previous": {
+        "content": "\"Ha! It came like that, did it?\" said Holmes thoughtfully. \"Well, I've no doubt it was well stage-managed.\"",
+        "objectID": "c3e126bd235ef63f830d783747e03efb"
+      }
+    },
+    "objectID": "753826ca2df2f660630a6dc041ee7480",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"None in the world.\"",
+    "context": {
+      "next": {
+        "content": "\"He was murdered?\"",
+        "objectID": "a0f51f5f02486ac8262f229f4c472d7f"
+      },
+      "previous": {
+        "content": "\"You mean that you think there was no accident?\"",
+        "objectID": "753826ca2df2f660630a6dc041ee7480"
+      }
+    },
+    "objectID": "b10990f7f346c01986f6e8ee3884a285",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"He was murdered?\"",
+    "context": {
+      "next": {
+        "content": "\"Surely!\"",
+        "objectID": "44498822d27c52e3f77b417fa9c6021b"
+      },
+      "previous": {
+        "content": "\"None in the world.\"",
+        "objectID": "b10990f7f346c01986f6e8ee3884a285"
+      }
+    },
+    "objectID": "a0f51f5f02486ac8262f229f4c472d7f",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"Surely!\"",
+    "context": {
+      "next": {
+        "content": "\"So I think also. These infernal Scowrers, this cursed vindictive nest of criminals—\"",
+        "objectID": "78d8516817e4162306ba1bfb4100bc51"
+      },
+      "previous": {
+        "content": "\"He was murdered?\"",
+        "objectID": "a0f51f5f02486ac8262f229f4c472d7f"
+      }
+    },
+    "objectID": "44498822d27c52e3f77b417fa9c6021b",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"So I think also. These infernal Scowrers, this cursed vindictive nest of criminals—\"",
+    "context": {
+      "next": {
+        "content": "\"No, no, my good sir,\" said Holmes. \"There is a master hand here. It is no case of sawed-off shotguns and clumsy six-shooters. You can tell an old master by the sweep of his brush. I can tell a Moriarty when I see one. This crime is from London, not from America.\"",
+        "objectID": "bd228728c1ee4fcd7df6ce61fecf3d2b"
+      },
+      "previous": {
+        "content": "\"Surely!\"",
+        "objectID": "44498822d27c52e3f77b417fa9c6021b"
+      }
+    },
+    "objectID": "78d8516817e4162306ba1bfb4100bc51",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"No, no, my good sir,\" said Holmes. \"There is a master hand here. It is no case of sawed-off shotguns and clumsy six-shooters. You can tell an old master by the sweep of his brush. I can tell a Moriarty when I see one. This crime is from London, not from America.\"",
+    "context": {
+      "next": {
+        "content": "\"But for what motive?\"",
+        "objectID": "5875032fe998902e3cb96761da09dbd5"
+      },
+      "previous": {
+        "content": "\"So I think also. These infernal Scowrers, this cursed vindictive nest of criminals—\"",
+        "objectID": "78d8516817e4162306ba1bfb4100bc51"
+      }
+    },
+    "objectID": "bd228728c1ee4fcd7df6ce61fecf3d2b",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"But for what motive?\"",
+    "context": {
+      "next": {
+        "content": "\"Because it is done by a man who cannot afford to fail, one whose whole unique position depends upon the fact that all he does must succeed. A great brain and a huge organization have been turned to the extinction of one man. It is crushing the nut with the triphammer—an absurd extravagance of energy—but the nut is very effectually crushed all the same.",
+        "objectID": "efba356b66a8eb98b6338feeb879d6fc"
+      },
+      "previous": {
+        "content": "\"No, no, my good sir,\" said Holmes. \"There is a master hand here. It is no case of sawed-off shotguns and clumsy six-shooters. You can tell an old master by the sweep of his brush. I can tell a Moriarty when I see one. This crime is from London, not from America.\"",
+        "objectID": "bd228728c1ee4fcd7df6ce61fecf3d2b"
+      }
+    },
+    "objectID": "5875032fe998902e3cb96761da09dbd5",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"Because it is done by a man who cannot afford to fail, one whose whole unique position depends upon the fact that all he does must succeed. A great brain and a huge organization have been turned to the extinction of one man. It is crushing the nut with the triphammer—an absurd extravagance of energy—but the nut is very effectually crushed all the same.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "2da260bd7ddb7f27e4d2708f5a79e895"
+      },
+      "previous": {
+        "content": "\"But for what motive?\"",
+        "objectID": "5875032fe998902e3cb96761da09dbd5"
+      }
+    },
+    "objectID": "efba356b66a8eb98b6338feeb879d6fc",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"How came this man to have anything to do with it?\"",
+        "objectID": "768f845f25b9433b46117d4443195468"
+      },
+      "previous": {
+        "content": "\"Because it is done by a man who cannot afford to fail, one whose whole unique position depends upon the fact that all he does must succeed. A great brain and a huge organization have been turned to the extinction of one man. It is crushing the nut with the triphammer—an absurd extravagance of energy—but the nut is very effectually crushed all the same.",
+        "objectID": "efba356b66a8eb98b6338feeb879d6fc"
+      }
+    },
+    "objectID": "2da260bd7ddb7f27e4d2708f5a79e895",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"How came this man to have anything to do with it?\"",
+    "context": {
+      "next": {
+        "content": "\"I can only say that the first word that ever came to us of the business was from one of his lieutenants. These Americans were well advised. Having an English job to do, they took into partnership, as any foreign criminal could do, this great consultant in crime. From that moment their man was doomed.",
+        "objectID": "e2cb8f7b7c671a83be9d8b0ac218d331"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "2da260bd7ddb7f27e4d2708f5a79e895"
+      }
+    },
+    "objectID": "768f845f25b9433b46117d4443195468",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"I can only say that the first word that ever came to us of the business was from one of his lieutenants. These Americans were well advised. Having an English job to do, they took into partnership, as any foreign criminal could do, this great consultant in crime. From that moment their man was doomed.",
+    "context": {
+      "next": {
+        "content": "At first he would content himself by using his machinery in order to find their victim. Then he would indicate how the matter might be treated. Finally, when he read in the reports of the failure of this agent, he would step in himself with a master touch. You heard me warn this man at Birlstone Manor House that the coming danger was greater than the past.",
+        "objectID": "83193d44186ce364cdf9166c94ad34c6"
+      },
+      "previous": {
+        "content": "\"How came this man to have anything to do with it?\"",
+        "objectID": "768f845f25b9433b46117d4443195468"
+      }
+    },
+    "objectID": "e2cb8f7b7c671a83be9d8b0ac218d331",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "At first he would content himself by using his machinery in order to find their victim. Then he would indicate how the matter might be treated. Finally, when he read in the reports of the failure of this agent, he would step in himself with a master touch. You heard me warn this man at Birlstone Manor House that the coming danger was greater than the past.",
+    "context": {
+      "next": {
+        "content": "Was I right?\"",
+        "objectID": "05dbd4cd5bc08a7265095392581093f7"
+      },
+      "previous": {
+        "content": "\"I can only say that the first word that ever came to us of the business was from one of his lieutenants. These Americans were well advised. Having an English job to do, they took into partnership, as any foreign criminal could do, this great consultant in crime. From that moment their man was doomed.",
+        "objectID": "e2cb8f7b7c671a83be9d8b0ac218d331"
+      }
+    },
+    "objectID": "83193d44186ce364cdf9166c94ad34c6",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "Was I right?\"",
+    "context": {
+      "next": {
+        "content": "Barker beat his head with his clenched fist in his impotent anger. \"Do not tell me that we have to sit down under this? Do you say that no one can ever get level with this king devil?\"",
+        "objectID": "4f98766a8a3ed0c8c1bf09d1adca512f"
+      },
+      "previous": {
+        "content": "At first he would content himself by using his machinery in order to find their victim. Then he would indicate how the matter might be treated. Finally, when he read in the reports of the failure of this agent, he would step in himself with a master touch. You heard me warn this man at Birlstone Manor House that the coming danger was greater than the past.",
+        "objectID": "83193d44186ce364cdf9166c94ad34c6"
+      }
+    },
+    "objectID": "05dbd4cd5bc08a7265095392581093f7",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "Barker beat his head with his clenched fist in his impotent anger. \"Do not tell me that we have to sit down under this? Do you say that no one can ever get level with this king devil?\"",
+    "context": {
+      "next": {
+        "content": "\"No, I don't say that,\" said Holmes, and his eyes seemed to be looking far into the future. \"I don't say that he can't be beat. But you must give me time—you must give me time!\"",
+        "objectID": "7ddd75a3783b320e96d856b5a807f230"
+      },
+      "previous": {
+        "content": "Was I right?\"",
+        "objectID": "05dbd4cd5bc08a7265095392581093f7"
+      }
+    },
+    "objectID": "4f98766a8a3ed0c8c1bf09d1adca512f",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "\"No, I don't say that,\" said Holmes, and his eyes seemed to be looking far into the future. \"I don't say that he can't be beat. But you must give me time—you must give me time!\"",
+    "context": {
+      "next": {
+        "content": "We all sat in silence for some minutes while those fateful eyes still strained to pierce the veil.",
+        "objectID": "359e8d09a316727dc5f3109862618161"
+      },
+      "previous": {
+        "content": "Barker beat his head with his clenched fist in his impotent anger. \"Do not tell me that we have to sit down under this? Do you say that no one can ever get level with this king devil?\"",
+        "objectID": "4f98766a8a3ed0c8c1bf09d1adca512f"
+      }
+    },
+    "objectID": "7ddd75a3783b320e96d856b5a807f230",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 2. Epilogue",
+    "chapterOrder": 15,
+    "content": "We all sat in silence for some minutes while those fateful eyes still strained to pierce the veil.",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "\"No, I don't say that,\" said Holmes, and his eyes seemed to be looking far into the future. \"I don't say that he can't be beat. But you must give me time—you must give me time!\"",
+        "objectID": "7ddd75a3783b320e96d856b5a807f230"
+      }
+    },
+    "objectID": "359e8d09a316727dc5f3109862618161",
+    "order": 31,
+    "tagName": "P"
+  }
+]

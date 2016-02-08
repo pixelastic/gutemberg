@@ -1,0 +1,3419 @@
+[
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Next morning, after breakfast, we found Inspector MacDonald and White Mason seated in close consultation in the small parlour of the local police sergeant. On the table in front of them were piled a number of letters and telegrams, which they were carefully sorting and docketing. Three had been placed on one side.",
+    "context": {
+      "next": {
+        "content": "\"Still on the track of the elusive bicyclist?\" Holmes asked cheerfully. \"What is the latest news of the ruffian?\"",
+        "objectID": "9306bbac882ce4353cfebf12e8afc1d4"
+      },
+      "previous": null
+    },
+    "objectID": "ccac50f27973c244b1dff373e7afb18a",
+    "order": 1,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Still on the track of the elusive bicyclist?\" Holmes asked cheerfully. \"What is the latest news of the ruffian?\"",
+    "context": {
+      "next": {
+        "content": "MacDonald pointed ruefully to his heap of correspondence.",
+        "objectID": "de40348667540186ccf770cce1f1ee22"
+      },
+      "previous": {
+        "content": "Next morning, after breakfast, we found Inspector MacDonald and White Mason seated in close consultation in the small parlour of the local police sergeant. On the table in front of them were piled a number of letters and telegrams, which they were carefully sorting and docketing. Three had been placed on one side.",
+        "objectID": "ccac50f27973c244b1dff373e7afb18a"
+      }
+    },
+    "objectID": "9306bbac882ce4353cfebf12e8afc1d4",
+    "order": 2,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "MacDonald pointed ruefully to his heap of correspondence.",
+    "context": {
+      "next": {
+        "content": "\"He is at present reported from Leicester, Nottingham, Southampton, Derby, East Ham, Richmond, and fourteen other places. In three of them—East Ham, Leicester, and Liverpool—there is a clear case against him, and he has actually been arrested. The country seems to be full of the fugitives with yellow coats.",
+        "objectID": "c1835f5af35f1ed1fef691b3d25cdb67"
+      },
+      "previous": {
+        "content": "\"Still on the track of the elusive bicyclist?\" Holmes asked cheerfully. \"What is the latest news of the ruffian?\"",
+        "objectID": "9306bbac882ce4353cfebf12e8afc1d4"
+      }
+    },
+    "objectID": "de40348667540186ccf770cce1f1ee22",
+    "order": 3,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"He is at present reported from Leicester, Nottingham, Southampton, Derby, East Ham, Richmond, and fourteen other places. In three of them—East Ham, Leicester, and Liverpool—there is a clear case against him, and he has actually been arrested. The country seems to be full of the fugitives with yellow coats.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "49a63d1b21f6e0692f56d61b5174308f"
+      },
+      "previous": {
+        "content": "MacDonald pointed ruefully to his heap of correspondence.",
+        "objectID": "de40348667540186ccf770cce1f1ee22"
+      }
+    },
+    "objectID": "c1835f5af35f1ed1fef691b3d25cdb67",
+    "order": 4,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Dear me!\" said Holmes sympathetically. \"Now, Mr. Mac and you, Mr. White Mason, I wish to give you a very earnest piece of advice. When I went into this case with you I bargained, as you will no doubt remember, that I should not present you with half-proved theories, but that I should retain and work out my own ideas until I had satisfied myself that they were correct.",
+        "objectID": "3cafddba08fa33ae7c1685cc2c6570ea"
+      },
+      "previous": {
+        "content": "\"He is at present reported from Leicester, Nottingham, Southampton, Derby, East Ham, Richmond, and fourteen other places. In three of them—East Ham, Leicester, and Liverpool—there is a clear case against him, and he has actually been arrested. The country seems to be full of the fugitives with yellow coats.",
+        "objectID": "c1835f5af35f1ed1fef691b3d25cdb67"
+      }
+    },
+    "objectID": "49a63d1b21f6e0692f56d61b5174308f",
+    "order": 5,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Dear me!\" said Holmes sympathetically. \"Now, Mr. Mac and you, Mr. White Mason, I wish to give you a very earnest piece of advice. When I went into this case with you I bargained, as you will no doubt remember, that I should not present you with half-proved theories, but that I should retain and work out my own ideas until I had satisfied myself that they were correct.",
+    "context": {
+      "next": {
+        "content": "For this reason I am not at the present moment telling you all that is in my mind. On the other hand, I said that I would play the game fairly by you, and I do not think it is a fair game to allow you for one unnecessary moment to waste your energies upon a profitless task. Therefore I am here to advise you this morning, and my advice to you is summed up in three words—abandon the case.",
+        "objectID": "3e92a5e74383b56cedfff8c9fb5f3996"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "49a63d1b21f6e0692f56d61b5174308f"
+      }
+    },
+    "objectID": "3cafddba08fa33ae7c1685cc2c6570ea",
+    "order": 6,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "For this reason I am not at the present moment telling you all that is in my mind. On the other hand, I said that I would play the game fairly by you, and I do not think it is a fair game to allow you for one unnecessary moment to waste your energies upon a profitless task. Therefore I am here to advise you this morning, and my advice to you is summed up in three words—abandon the case.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "ae3e3170c5a4decac76f7d2d0e68cbff"
+      },
+      "previous": {
+        "content": "\"Dear me!\" said Holmes sympathetically. \"Now, Mr. Mac and you, Mr. White Mason, I wish to give you a very earnest piece of advice. When I went into this case with you I bargained, as you will no doubt remember, that I should not present you with half-proved theories, but that I should retain and work out my own ideas until I had satisfied myself that they were correct.",
+        "objectID": "3cafddba08fa33ae7c1685cc2c6570ea"
+      }
+    },
+    "objectID": "3e92a5e74383b56cedfff8c9fb5f3996",
+    "order": 7,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "MacDonald and White Mason stared in amazement at their celebrated colleague.",
+        "objectID": "9d3d1b07cfe115e4c4f5ca1f5eded35c"
+      },
+      "previous": {
+        "content": "For this reason I am not at the present moment telling you all that is in my mind. On the other hand, I said that I would play the game fairly by you, and I do not think it is a fair game to allow you for one unnecessary moment to waste your energies upon a profitless task. Therefore I am here to advise you this morning, and my advice to you is summed up in three words—abandon the case.",
+        "objectID": "3e92a5e74383b56cedfff8c9fb5f3996"
+      }
+    },
+    "objectID": "ae3e3170c5a4decac76f7d2d0e68cbff",
+    "order": 8,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "MacDonald and White Mason stared in amazement at their celebrated colleague.",
+    "context": {
+      "next": {
+        "content": "\"You consider it hopeless!\" cried the inspector.",
+        "objectID": "e59f2852c5b78d864ca0a84d039b1b97"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "ae3e3170c5a4decac76f7d2d0e68cbff"
+      }
+    },
+    "objectID": "9d3d1b07cfe115e4c4f5ca1f5eded35c",
+    "order": 9,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"You consider it hopeless!\" cried the inspector.",
+    "context": {
+      "next": {
+        "content": "\"I consider your case to be hopeless. I do not consider that it is hopeless to arrive at the truth.\"",
+        "objectID": "a751e3f4fc84e45e328ed6befd26560c"
+      },
+      "previous": {
+        "content": "MacDonald and White Mason stared in amazement at their celebrated colleague.",
+        "objectID": "9d3d1b07cfe115e4c4f5ca1f5eded35c"
+      }
+    },
+    "objectID": "e59f2852c5b78d864ca0a84d039b1b97",
+    "order": 10,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I consider your case to be hopeless. I do not consider that it is hopeless to arrive at the truth.\"",
+    "context": {
+      "next": {
+        "content": "\"But this cyclist. He is not an invention. We have his description, his valise, his bicycle. The fellow must be somewhere. Why should we not get him?\"",
+        "objectID": "0efaae3f90bd499c975112a8fcd06b42"
+      },
+      "previous": {
+        "content": "\"You consider it hopeless!\" cried the inspector.",
+        "objectID": "e59f2852c5b78d864ca0a84d039b1b97"
+      }
+    },
+    "objectID": "a751e3f4fc84e45e328ed6befd26560c",
+    "order": 11,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"But this cyclist. He is not an invention. We have his description, his valise, his bicycle. The fellow must be somewhere. Why should we not get him?\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, yes, no doubt he is somewhere, and no doubt we shall get him; but I would not have you waste your energies in East Ham or Liverpool. I am sure that we can find some shorter cut to a result.\"",
+        "objectID": "ddc93d3555865bb956887fcd4d9d083d"
+      },
+      "previous": {
+        "content": "\"I consider your case to be hopeless. I do not consider that it is hopeless to arrive at the truth.\"",
+        "objectID": "a751e3f4fc84e45e328ed6befd26560c"
+      }
+    },
+    "objectID": "0efaae3f90bd499c975112a8fcd06b42",
+    "order": 12,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Yes, yes, no doubt he is somewhere, and no doubt we shall get him; but I would not have you waste your energies in East Ham or Liverpool. I am sure that we can find some shorter cut to a result.\"",
+    "context": {
+      "next": {
+        "content": "\"You are holding something back. It's hardly fair of you, Mr. Holmes.\" The inspector was annoyed.",
+        "objectID": "8cc775490220c25285f33ab8b059d9d1"
+      },
+      "previous": {
+        "content": "\"But this cyclist. He is not an invention. We have his description, his valise, his bicycle. The fellow must be somewhere. Why should we not get him?\"",
+        "objectID": "0efaae3f90bd499c975112a8fcd06b42"
+      }
+    },
+    "objectID": "ddc93d3555865bb956887fcd4d9d083d",
+    "order": 13,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"You are holding something back. It's hardly fair of you, Mr. Holmes.\" The inspector was annoyed.",
+    "context": {
+      "next": {
+        "content": "\"You know my methods of work, Mr. Mac. But I will hold it back for the shortest time possible. I only wish to verify my details in one way, which can very readily be done, and then I make my bow and return to London, leaving my results entirely at your service. I owe you too much to act otherwise; for in all my experience I cannot recall any more singular and interesting study.",
+        "objectID": "14e09f7128f504277f904e8c369d850a"
+      },
+      "previous": {
+        "content": "\"Yes, yes, no doubt he is somewhere, and no doubt we shall get him; but I would not have you waste your energies in East Ham or Liverpool. I am sure that we can find some shorter cut to a result.\"",
+        "objectID": "ddc93d3555865bb956887fcd4d9d083d"
+      }
+    },
+    "objectID": "8cc775490220c25285f33ab8b059d9d1",
+    "order": 14,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"You know my methods of work, Mr. Mac. But I will hold it back for the shortest time possible. I only wish to verify my details in one way, which can very readily be done, and then I make my bow and return to London, leaving my results entirely at your service. I owe you too much to act otherwise; for in all my experience I cannot recall any more singular and interesting study.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "1b2a4c1fb65d8785cd5f7085866157f7"
+      },
+      "previous": {
+        "content": "\"You are holding something back. It's hardly fair of you, Mr. Holmes.\" The inspector was annoyed.",
+        "objectID": "8cc775490220c25285f33ab8b059d9d1"
+      }
+    },
+    "objectID": "14e09f7128f504277f904e8c369d850a",
+    "order": 15,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"This is clean beyond me, Mr. Holmes. We saw you when we returned from Tunbridge Wells last night, and you were in general agreement with our results. What has happened since then to give you a completely new idea of the case?\"",
+        "objectID": "000cf16b5653c689ddd6966f1559202a"
+      },
+      "previous": {
+        "content": "\"You know my methods of work, Mr. Mac. But I will hold it back for the shortest time possible. I only wish to verify my details in one way, which can very readily be done, and then I make my bow and return to London, leaving my results entirely at your service. I owe you too much to act otherwise; for in all my experience I cannot recall any more singular and interesting study.",
+        "objectID": "14e09f7128f504277f904e8c369d850a"
+      }
+    },
+    "objectID": "1b2a4c1fb65d8785cd5f7085866157f7",
+    "order": 16,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"This is clean beyond me, Mr. Holmes. We saw you when we returned from Tunbridge Wells last night, and you were in general agreement with our results. What has happened since then to give you a completely new idea of the case?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, since you ask me, I spent, as I told you that I would, some hours last night at the Manor House.\"",
+        "objectID": "aa9f56e3858cfed21c54c22eae43c2f5"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "1b2a4c1fb65d8785cd5f7085866157f7"
+      }
+    },
+    "objectID": "000cf16b5653c689ddd6966f1559202a",
+    "order": 17,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, since you ask me, I spent, as I told you that I would, some hours last night at the Manor House.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, what happened?\"",
+        "objectID": "c096f6a36dff8837db12a03a591ebabc"
+      },
+      "previous": {
+        "content": "\"This is clean beyond me, Mr. Holmes. We saw you when we returned from Tunbridge Wells last night, and you were in general agreement with our results. What has happened since then to give you a completely new idea of the case?\"",
+        "objectID": "000cf16b5653c689ddd6966f1559202a"
+      }
+    },
+    "objectID": "aa9f56e3858cfed21c54c22eae43c2f5",
+    "order": 18,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, what happened?\"",
+    "context": {
+      "next": {
+        "content": "\"Ah, I can only give you a very general answer to that for the moment. By the way, I have been reading a short but clear and interesting account of the old building, purchasable at the modest sum of one penny from the local tobacconist.\"",
+        "objectID": "51e5dff3978244c4e5ad393c67f2b185"
+      },
+      "previous": {
+        "content": "\"Well, since you ask me, I spent, as I told you that I would, some hours last night at the Manor House.\"",
+        "objectID": "aa9f56e3858cfed21c54c22eae43c2f5"
+      }
+    },
+    "objectID": "c096f6a36dff8837db12a03a591ebabc",
+    "order": 19,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Ah, I can only give you a very general answer to that for the moment. By the way, I have been reading a short but clear and interesting account of the old building, purchasable at the modest sum of one penny from the local tobacconist.\"",
+    "context": {
+      "next": {
+        "content": "Here Holmes drew a small tract, embellished with a rude engraving of the ancient Manor House, from his waistcoat pocket.",
+        "objectID": "e084eadee1b89134c60d780228c5d306"
+      },
+      "previous": {
+        "content": "\"Well, what happened?\"",
+        "objectID": "c096f6a36dff8837db12a03a591ebabc"
+      }
+    },
+    "objectID": "51e5dff3978244c4e5ad393c67f2b185",
+    "order": 20,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Here Holmes drew a small tract, embellished with a rude engraving of the ancient Manor House, from his waistcoat pocket.",
+    "context": {
+      "next": {
+        "content": "\"It immensely adds to the zest of an investigation, my dear Mr. Mac, when one is in conscious sympathy with the historical atmosphere of one's surroundings. Don't look so impatient; for I assure you that even so bald an account as this raises some sort of picture of the past in one's mind. Permit me to give you a sample.",
+        "objectID": "e2e99c152fe5d2b0e80b37577c26cd6d"
+      },
+      "previous": {
+        "content": "\"Ah, I can only give you a very general answer to that for the moment. By the way, I have been reading a short but clear and interesting account of the old building, purchasable at the modest sum of one penny from the local tobacconist.\"",
+        "objectID": "51e5dff3978244c4e5ad393c67f2b185"
+      }
+    },
+    "objectID": "e084eadee1b89134c60d780228c5d306",
+    "order": 21,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"It immensely adds to the zest of an investigation, my dear Mr. Mac, when one is in conscious sympathy with the historical atmosphere of one's surroundings. Don't look so impatient; for I assure you that even so bald an account as this raises some sort of picture of the past in one's mind. Permit me to give you a sample.",
+    "context": {
+      "next": {
+        "content": "'Erected in the fifth year of the reign of James I, and standing upon the site of a much older building, the Manor House of Birlstone presents one of the finest surviving examples of the moated Jacobean residence—'\"",
+        "objectID": "c8747ee53937afc927f1462bf4cbbbf4"
+      },
+      "previous": {
+        "content": "Here Holmes drew a small tract, embellished with a rude engraving of the ancient Manor House, from his waistcoat pocket.",
+        "objectID": "e084eadee1b89134c60d780228c5d306"
+      }
+    },
+    "objectID": "e2e99c152fe5d2b0e80b37577c26cd6d",
+    "order": 22,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "'Erected in the fifth year of the reign of James I, and standing upon the site of a much older building, the Manor House of Birlstone presents one of the finest surviving examples of the moated Jacobean residence—'\"",
+    "context": {
+      "next": {
+        "content": "\"You are making fools of us, Mr. Holmes!\"",
+        "objectID": "89a150ad9285d0f32a175360d3479301"
+      },
+      "previous": {
+        "content": "\"It immensely adds to the zest of an investigation, my dear Mr. Mac, when one is in conscious sympathy with the historical atmosphere of one's surroundings. Don't look so impatient; for I assure you that even so bald an account as this raises some sort of picture of the past in one's mind. Permit me to give you a sample.",
+        "objectID": "e2e99c152fe5d2b0e80b37577c26cd6d"
+      }
+    },
+    "objectID": "c8747ee53937afc927f1462bf4cbbbf4",
+    "order": 23,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"You are making fools of us, Mr. Holmes!\"",
+    "context": {
+      "next": {
+        "content": "\"Tut, tut, Mr. Mac!—the first sign of temper I have detected in you. Well, I won't read it verbatim, since you feel so strongly upon the subject. But when I tell you that there is some account of the taking of the place by a parliamentary colonel in 1644, of the concealment of Charles for several days in the course of the Civil War, and finally of a visit there by the second George, you will admit that there are various associations of interest connected with this ancient house.",
+        "objectID": "50a4a8c6cb07754409eebb34a0c64520"
+      },
+      "previous": {
+        "content": "'Erected in the fifth year of the reign of James I, and standing upon the site of a much older building, the Manor House of Birlstone presents one of the finest surviving examples of the moated Jacobean residence—'\"",
+        "objectID": "c8747ee53937afc927f1462bf4cbbbf4"
+      }
+    },
+    "objectID": "89a150ad9285d0f32a175360d3479301",
+    "order": 24,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Tut, tut, Mr. Mac!—the first sign of temper I have detected in you. Well, I won't read it verbatim, since you feel so strongly upon the subject. But when I tell you that there is some account of the taking of the place by a parliamentary colonel in 1644, of the concealment of Charles for several days in the course of the Civil War, and finally of a visit there by the second George, you will admit that there are various associations of interest connected with this ancient house.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "afd27ee62acc0dd237ad614f24bb920b"
+      },
+      "previous": {
+        "content": "\"You are making fools of us, Mr. Holmes!\"",
+        "objectID": "89a150ad9285d0f32a175360d3479301"
+      }
+    },
+    "objectID": "50a4a8c6cb07754409eebb34a0c64520",
+    "order": 25,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"I don't doubt it, Mr. Holmes; but that is no business of ours.\"",
+        "objectID": "f0b322a3534b6531fcdb96b5cb52185c"
+      },
+      "previous": {
+        "content": "\"Tut, tut, Mr. Mac!—the first sign of temper I have detected in you. Well, I won't read it verbatim, since you feel so strongly upon the subject. But when I tell you that there is some account of the taking of the place by a parliamentary colonel in 1644, of the concealment of Charles for several days in the course of the Civil War, and finally of a visit there by the second George, you will admit that there are various associations of interest connected with this ancient house.",
+        "objectID": "50a4a8c6cb07754409eebb34a0c64520"
+      }
+    },
+    "objectID": "afd27ee62acc0dd237ad614f24bb920b",
+    "order": 26,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I don't doubt it, Mr. Holmes; but that is no business of ours.\"",
+    "context": {
+      "next": {
+        "content": "\"Is it not? Is it not? Breadth of view, my dear Mr. Mac, is one of the essentials of our profession. The interplay of ideas and the oblique uses of knowledge are often of extraordinary interest. You will excuse these remarks from one who, though a mere connoisseur of crime, is still rather older and perhaps more experienced than yourself.",
+        "objectID": "0438cc86b37075cf94f2787542abd31d"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "afd27ee62acc0dd237ad614f24bb920b"
+      }
+    },
+    "objectID": "f0b322a3534b6531fcdb96b5cb52185c",
+    "order": 27,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Is it not? Is it not? Breadth of view, my dear Mr. Mac, is one of the essentials of our profession. The interplay of ideas and the oblique uses of knowledge are often of extraordinary interest. You will excuse these remarks from one who, though a mere connoisseur of crime, is still rather older and perhaps more experienced than yourself.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "b087e39c55653e6d29ca47b209059497"
+      },
+      "previous": {
+        "content": "\"I don't doubt it, Mr. Holmes; but that is no business of ours.\"",
+        "objectID": "f0b322a3534b6531fcdb96b5cb52185c"
+      }
+    },
+    "objectID": "0438cc86b37075cf94f2787542abd31d",
+    "order": 28,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"I'm the first to admit that,\" said the detective heartily. \"You get to your point, I admit; but you have such a deuced round-the-corner way of doing it.\"",
+        "objectID": "931e491c8f708e8eac5c9ad2ef25eb20"
+      },
+      "previous": {
+        "content": "\"Is it not? Is it not? Breadth of view, my dear Mr. Mac, is one of the essentials of our profession. The interplay of ideas and the oblique uses of knowledge are often of extraordinary interest. You will excuse these remarks from one who, though a mere connoisseur of crime, is still rather older and perhaps more experienced than yourself.",
+        "objectID": "0438cc86b37075cf94f2787542abd31d"
+      }
+    },
+    "objectID": "b087e39c55653e6d29ca47b209059497",
+    "order": 29,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I'm the first to admit that,\" said the detective heartily. \"You get to your point, I admit; but you have such a deuced round-the-corner way of doing it.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, well, I'll drop past history and get down to present-day facts. I called last night, as I have already said, at the Manor House. I did not see either Barker or Mrs. Douglas. I saw no necessity to disturb them; but I was pleased to hear that the lady was not visibly pining and that she had partaken of an excellent dinner.",
+        "objectID": "1eb4a15680f6e51a162968d3cc29a5a1"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "b087e39c55653e6d29ca47b209059497"
+      }
+    },
+    "objectID": "931e491c8f708e8eac5c9ad2ef25eb20",
+    "order": 30,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, well, I'll drop past history and get down to present-day facts. I called last night, as I have already said, at the Manor House. I did not see either Barker or Mrs. Douglas. I saw no necessity to disturb them; but I was pleased to hear that the lady was not visibly pining and that she had partaken of an excellent dinner.",
+    "context": {
+      "next": {
+        "content": "My visit was specially made to the good Mr. Ames, with whom I exchanged some amiabilities, which culminated in his allowing me, without reference to anyone else, to sit alone for a time in the study.\"",
+        "objectID": "667e4909b79260de19667a5eba41be07"
+      },
+      "previous": {
+        "content": "\"I'm the first to admit that,\" said the detective heartily. \"You get to your point, I admit; but you have such a deuced round-the-corner way of doing it.\"",
+        "objectID": "931e491c8f708e8eac5c9ad2ef25eb20"
+      }
+    },
+    "objectID": "1eb4a15680f6e51a162968d3cc29a5a1",
+    "order": 31,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "My visit was specially made to the good Mr. Ames, with whom I exchanged some amiabilities, which culminated in his allowing me, without reference to anyone else, to sit alone for a time in the study.\"",
+    "context": {
+      "next": {
+        "content": "\"What! With that?\" I ejaculated.",
+        "objectID": "38354eadc27efdb93d983d97c3b3c3e4"
+      },
+      "previous": {
+        "content": "\"Well, well, I'll drop past history and get down to present-day facts. I called last night, as I have already said, at the Manor House. I did not see either Barker or Mrs. Douglas. I saw no necessity to disturb them; but I was pleased to hear that the lady was not visibly pining and that she had partaken of an excellent dinner.",
+        "objectID": "1eb4a15680f6e51a162968d3cc29a5a1"
+      }
+    },
+    "objectID": "667e4909b79260de19667a5eba41be07",
+    "order": 32,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"What! With that?\" I ejaculated.",
+    "context": {
+      "next": {
+        "content": "\"No, no, everything is now in order. You gave permission for that, Mr. Mac, as I am informed. The room was in its normal state, and in it I passed an instructive quarter of an hour.\"",
+        "objectID": "f817698028140124d0f2d400f42d742a"
+      },
+      "previous": {
+        "content": "My visit was specially made to the good Mr. Ames, with whom I exchanged some amiabilities, which culminated in his allowing me, without reference to anyone else, to sit alone for a time in the study.\"",
+        "objectID": "667e4909b79260de19667a5eba41be07"
+      }
+    },
+    "objectID": "38354eadc27efdb93d983d97c3b3c3e4",
+    "order": 33,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"No, no, everything is now in order. You gave permission for that, Mr. Mac, as I am informed. The room was in its normal state, and in it I passed an instructive quarter of an hour.\"",
+    "context": {
+      "next": {
+        "content": "\"What were you doing?\"",
+        "objectID": "4a81290e42bb1bd4a45f4f2219c6e507"
+      },
+      "previous": {
+        "content": "\"What! With that?\" I ejaculated.",
+        "objectID": "38354eadc27efdb93d983d97c3b3c3e4"
+      }
+    },
+    "objectID": "f817698028140124d0f2d400f42d742a",
+    "order": 34,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"What were you doing?\"",
+    "context": {
+      "next": {
+        "content": "\"Well, not to make a mystery of so simple a matter, I was looking for the missing dumb-bell. It has always bulked rather large in my estimate of the case. I ended by finding it.\"",
+        "objectID": "b82370d8519ab9ec11964899ede9fc3c"
+      },
+      "previous": {
+        "content": "\"No, no, everything is now in order. You gave permission for that, Mr. Mac, as I am informed. The room was in its normal state, and in it I passed an instructive quarter of an hour.\"",
+        "objectID": "f817698028140124d0f2d400f42d742a"
+      }
+    },
+    "objectID": "4a81290e42bb1bd4a45f4f2219c6e507",
+    "order": 35,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, not to make a mystery of so simple a matter, I was looking for the missing dumb-bell. It has always bulked rather large in my estimate of the case. I ended by finding it.\"",
+    "context": {
+      "next": {
+        "content": "\"Where?\"",
+        "objectID": "4c72078328d22484b2e8f041497b7980"
+      },
+      "previous": {
+        "content": "\"What were you doing?\"",
+        "objectID": "4a81290e42bb1bd4a45f4f2219c6e507"
+      }
+    },
+    "objectID": "b82370d8519ab9ec11964899ede9fc3c",
+    "order": 36,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Where?\"",
+    "context": {
+      "next": {
+        "content": "\"Ah, there we come to the edge of the unexplored. Let me go a little further, a very little further, and I will promise that you shall share everything that I know.\"",
+        "objectID": "a4520a1383509d62ca93b88ca26f217d"
+      },
+      "previous": {
+        "content": "\"Well, not to make a mystery of so simple a matter, I was looking for the missing dumb-bell. It has always bulked rather large in my estimate of the case. I ended by finding it.\"",
+        "objectID": "b82370d8519ab9ec11964899ede9fc3c"
+      }
+    },
+    "objectID": "4c72078328d22484b2e8f041497b7980",
+    "order": 37,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Ah, there we come to the edge of the unexplored. Let me go a little further, a very little further, and I will promise that you shall share everything that I know.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, we're bound to take you on your own terms,\" said the inspector; \"but when it comes to telling us to abandon the case—why in the name of goodness should we abandon the case?\"",
+        "objectID": "18bd1e72085b173da9cab7529000b7c6"
+      },
+      "previous": {
+        "content": "\"Where?\"",
+        "objectID": "4c72078328d22484b2e8f041497b7980"
+      }
+    },
+    "objectID": "a4520a1383509d62ca93b88ca26f217d",
+    "order": 38,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, we're bound to take you on your own terms,\" said the inspector; \"but when it comes to telling us to abandon the case—why in the name of goodness should we abandon the case?\"",
+    "context": {
+      "next": {
+        "content": "\"For the simple reason, my dear Mr. Mac, that you have not got the first idea what it is that you are investigating.\"",
+        "objectID": "a131abe83f1dce5afbb6a1f601e62f01"
+      },
+      "previous": {
+        "content": "\"Ah, there we come to the edge of the unexplored. Let me go a little further, a very little further, and I will promise that you shall share everything that I know.\"",
+        "objectID": "a4520a1383509d62ca93b88ca26f217d"
+      }
+    },
+    "objectID": "18bd1e72085b173da9cab7529000b7c6",
+    "order": 39,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"For the simple reason, my dear Mr. Mac, that you have not got the first idea what it is that you are investigating.\"",
+    "context": {
+      "next": {
+        "content": "\"We are investigating the murder of Mr. John Douglas of Birlstone Manor.\"",
+        "objectID": "8351a25ebfa0005acaaef9e21a8b4c18"
+      },
+      "previous": {
+        "content": "\"Well, we're bound to take you on your own terms,\" said the inspector; \"but when it comes to telling us to abandon the case—why in the name of goodness should we abandon the case?\"",
+        "objectID": "18bd1e72085b173da9cab7529000b7c6"
+      }
+    },
+    "objectID": "a131abe83f1dce5afbb6a1f601e62f01",
+    "order": 40,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"We are investigating the murder of Mr. John Douglas of Birlstone Manor.\"",
+    "context": {
+      "next": {
+        "content": "\"Yes, yes, so you are. But don't trouble to trace the mysterious gentleman upon the bicycle. I assure you that it won't help you.\"",
+        "objectID": "6f463cd7f7f7cb12191d57c4feb93372"
+      },
+      "previous": {
+        "content": "\"For the simple reason, my dear Mr. Mac, that you have not got the first idea what it is that you are investigating.\"",
+        "objectID": "a131abe83f1dce5afbb6a1f601e62f01"
+      }
+    },
+    "objectID": "8351a25ebfa0005acaaef9e21a8b4c18",
+    "order": 41,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Yes, yes, so you are. But don't trouble to trace the mysterious gentleman upon the bicycle. I assure you that it won't help you.\"",
+    "context": {
+      "next": {
+        "content": "\"Then what do you suggest that we do?\"",
+        "objectID": "14485bc52730a89068c72fd58a11e8e2"
+      },
+      "previous": {
+        "content": "\"We are investigating the murder of Mr. John Douglas of Birlstone Manor.\"",
+        "objectID": "8351a25ebfa0005acaaef9e21a8b4c18"
+      }
+    },
+    "objectID": "6f463cd7f7f7cb12191d57c4feb93372",
+    "order": 42,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Then what do you suggest that we do?\"",
+    "context": {
+      "next": {
+        "content": "\"I will tell you exactly what to do, if you will do it.\"",
+        "objectID": "3b63bbc7c584426a8da49bfdd4c1406c"
+      },
+      "previous": {
+        "content": "\"Yes, yes, so you are. But don't trouble to trace the mysterious gentleman upon the bicycle. I assure you that it won't help you.\"",
+        "objectID": "6f463cd7f7f7cb12191d57c4feb93372"
+      }
+    },
+    "objectID": "14485bc52730a89068c72fd58a11e8e2",
+    "order": 43,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I will tell you exactly what to do, if you will do it.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, I'm bound to say I've always found you had reason behind all your queer ways. I'll do what you advise.\"",
+        "objectID": "2062244edd3a6de3851450ef3c4474c0"
+      },
+      "previous": {
+        "content": "\"Then what do you suggest that we do?\"",
+        "objectID": "14485bc52730a89068c72fd58a11e8e2"
+      }
+    },
+    "objectID": "3b63bbc7c584426a8da49bfdd4c1406c",
+    "order": 44,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, I'm bound to say I've always found you had reason behind all your queer ways. I'll do what you advise.\"",
+    "context": {
+      "next": {
+        "content": "\"And you, Mr. White Mason?\"",
+        "objectID": "dabf25ac3487e84c48db9f2ce71cd844"
+      },
+      "previous": {
+        "content": "\"I will tell you exactly what to do, if you will do it.\"",
+        "objectID": "3b63bbc7c584426a8da49bfdd4c1406c"
+      }
+    },
+    "objectID": "2062244edd3a6de3851450ef3c4474c0",
+    "order": 45,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"And you, Mr. White Mason?\"",
+    "context": {
+      "next": {
+        "content": "The country detective looked helplessly from one to the other. Holmes and his methods were new to him. \"Well, if it is good enough for the inspector, it is good enough for me,\" he said at last.",
+        "objectID": "a59227dac1f0dbbf18788e0473d08697"
+      },
+      "previous": {
+        "content": "\"Well, I'm bound to say I've always found you had reason behind all your queer ways. I'll do what you advise.\"",
+        "objectID": "2062244edd3a6de3851450ef3c4474c0"
+      }
+    },
+    "objectID": "dabf25ac3487e84c48db9f2ce71cd844",
+    "order": 46,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "The country detective looked helplessly from one to the other. Holmes and his methods were new to him. \"Well, if it is good enough for the inspector, it is good enough for me,\" he said at last.",
+    "context": {
+      "next": {
+        "content": "\"Capital!\" said Holmes. \"Well, then, I should recommend a nice, cheery country walk for both of you. They tell me that the views from Birlstone Ridge over the Weald are very remarkable. No doubt lunch could be got at some suitable hostelry; though my ignorance of the country prevents me from recommending one.",
+        "objectID": "36adf13f5287c3eb467a111aea24d0dc"
+      },
+      "previous": {
+        "content": "\"And you, Mr. White Mason?\"",
+        "objectID": "dabf25ac3487e84c48db9f2ce71cd844"
+      }
+    },
+    "objectID": "a59227dac1f0dbbf18788e0473d08697",
+    "order": 47,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Capital!\" said Holmes. \"Well, then, I should recommend a nice, cheery country walk for both of you. They tell me that the views from Birlstone Ridge over the Weald are very remarkable. No doubt lunch could be got at some suitable hostelry; though my ignorance of the country prevents me from recommending one.",
+    "context": {
+      "next": {
+        "content": "In the evening, tired but happy—\"",
+        "objectID": "14f9b8be4d6a4614082a6f7294c0373a"
+      },
+      "previous": {
+        "content": "The country detective looked helplessly from one to the other. Holmes and his methods were new to him. \"Well, if it is good enough for the inspector, it is good enough for me,\" he said at last.",
+        "objectID": "a59227dac1f0dbbf18788e0473d08697"
+      }
+    },
+    "objectID": "36adf13f5287c3eb467a111aea24d0dc",
+    "order": 48,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "In the evening, tired but happy—\"",
+    "context": {
+      "next": {
+        "content": "\"Man, this is getting past a joke!\" cried MacDonald, rising angrily from his chair.",
+        "objectID": "6c306287295453bbee86a9c3f6b99432"
+      },
+      "previous": {
+        "content": "\"Capital!\" said Holmes. \"Well, then, I should recommend a nice, cheery country walk for both of you. They tell me that the views from Birlstone Ridge over the Weald are very remarkable. No doubt lunch could be got at some suitable hostelry; though my ignorance of the country prevents me from recommending one.",
+        "objectID": "36adf13f5287c3eb467a111aea24d0dc"
+      }
+    },
+    "objectID": "14f9b8be4d6a4614082a6f7294c0373a",
+    "order": 49,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Man, this is getting past a joke!\" cried MacDonald, rising angrily from his chair.",
+    "context": {
+      "next": {
+        "content": "\"Well, well, spend the day as you like,\" said Holmes, patting him cheerfully upon the shoulder. \"Do what you like and go where you will, but meet me here before dusk without fail—without fail, Mr. Mac.\"",
+        "objectID": "05e3deaba5b778fb934d1a1c0894d041"
+      },
+      "previous": {
+        "content": "In the evening, tired but happy—\"",
+        "objectID": "14f9b8be4d6a4614082a6f7294c0373a"
+      }
+    },
+    "objectID": "6c306287295453bbee86a9c3f6b99432",
+    "order": 50,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, well, spend the day as you like,\" said Holmes, patting him cheerfully upon the shoulder. \"Do what you like and go where you will, but meet me here before dusk without fail—without fail, Mr. Mac.\"",
+    "context": {
+      "next": {
+        "content": "\"That sounds more like sanity.\"",
+        "objectID": "1e2059174e354b934b7b8a43d951bbfd"
+      },
+      "previous": {
+        "content": "\"Man, this is getting past a joke!\" cried MacDonald, rising angrily from his chair.",
+        "objectID": "6c306287295453bbee86a9c3f6b99432"
+      }
+    },
+    "objectID": "05e3deaba5b778fb934d1a1c0894d041",
+    "order": 51,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"That sounds more like sanity.\"",
+    "context": {
+      "next": {
+        "content": "\"All of it was excellent advice; but I don't insist, so long as you are here when I need you. But now, before we part, I want you to write a note to Mr. Barker.\"",
+        "objectID": "fe10dd0732e9b7d418b4e66566b0d953"
+      },
+      "previous": {
+        "content": "\"Well, well, spend the day as you like,\" said Holmes, patting him cheerfully upon the shoulder. \"Do what you like and go where you will, but meet me here before dusk without fail—without fail, Mr. Mac.\"",
+        "objectID": "05e3deaba5b778fb934d1a1c0894d041"
+      }
+    },
+    "objectID": "1e2059174e354b934b7b8a43d951bbfd",
+    "order": 52,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"All of it was excellent advice; but I don't insist, so long as you are here when I need you. But now, before we part, I want you to write a note to Mr. Barker.\"",
+    "context": {
+      "next": {
+        "content": "\"Well?\"",
+        "objectID": "57f3c04f64d64a477324761d14c22c7a"
+      },
+      "previous": {
+        "content": "\"That sounds more like sanity.\"",
+        "objectID": "1e2059174e354b934b7b8a43d951bbfd"
+      }
+    },
+    "objectID": "fe10dd0732e9b7d418b4e66566b0d953",
+    "order": 53,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well?\"",
+    "context": {
+      "next": {
+        "content": "\"I'll dictate it, if you like. Ready?",
+        "objectID": "fb0a0d2ea528083178959ccaa8a5885e"
+      },
+      "previous": {
+        "content": "\"All of it was excellent advice; but I don't insist, so long as you are here when I need you. But now, before we part, I want you to write a note to Mr. Barker.\"",
+        "objectID": "fe10dd0732e9b7d418b4e66566b0d953"
+      }
+    },
+    "objectID": "57f3c04f64d64a477324761d14c22c7a",
+    "order": 54,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I'll dictate it, if you like. Ready?",
+    "context": {
+      "next": {
+        "content": "\"Dear Sir:",
+        "objectID": "1ce767c6d0a0b6cefe54740971be89af"
+      },
+      "previous": {
+        "content": "\"Well?\"",
+        "objectID": "57f3c04f64d64a477324761d14c22c7a"
+      }
+    },
+    "objectID": "fb0a0d2ea528083178959ccaa8a5885e",
+    "order": 55,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Dear Sir:",
+    "context": {
+      "next": {
+        "content": "\"It has struck me that it is our duty to drain the moat, in the hope that we may find some—\"",
+        "objectID": "43ccdb9e5fa1223811e786b225af7dea"
+      },
+      "previous": {
+        "content": "\"I'll dictate it, if you like. Ready?",
+        "objectID": "fb0a0d2ea528083178959ccaa8a5885e"
+      }
+    },
+    "objectID": "1ce767c6d0a0b6cefe54740971be89af",
+    "order": 56,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"It has struck me that it is our duty to drain the moat, in the hope that we may find some—\"",
+    "context": {
+      "next": {
+        "content": "\"It's impossible,\" said the inspector. \"I've made inquiry.\"",
+        "objectID": "4f61e1079541f17c0acd3d7f2acb56e6"
+      },
+      "previous": {
+        "content": "\"Dear Sir:",
+        "objectID": "1ce767c6d0a0b6cefe54740971be89af"
+      }
+    },
+    "objectID": "43ccdb9e5fa1223811e786b225af7dea",
+    "order": 57,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"It's impossible,\" said the inspector. \"I've made inquiry.\"",
+    "context": {
+      "next": {
+        "content": "\"Tut, tut! My dear sir, please do what I ask you.\"",
+        "objectID": "a841df5d4b51c84039bf29fc9eca00e2"
+      },
+      "previous": {
+        "content": "\"It has struck me that it is our duty to drain the moat, in the hope that we may find some—\"",
+        "objectID": "43ccdb9e5fa1223811e786b225af7dea"
+      }
+    },
+    "objectID": "4f61e1079541f17c0acd3d7f2acb56e6",
+    "order": 58,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Tut, tut! My dear sir, please do what I ask you.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, go on.\"",
+        "objectID": "0ff4e09c4579d7acc34b6be405bf7577"
+      },
+      "previous": {
+        "content": "\"It's impossible,\" said the inspector. \"I've made inquiry.\"",
+        "objectID": "4f61e1079541f17c0acd3d7f2acb56e6"
+      }
+    },
+    "objectID": "a841df5d4b51c84039bf29fc9eca00e2",
+    "order": 59,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, go on.\"",
+    "context": {
+      "next": {
+        "content": "\"—in the hope that we may find something which may bear upon our investigation. I have made arrangements, and the workmen will be at work early to-morrow morning diverting the stream—\"",
+        "objectID": "6cefc41f1d1adaaaba74edb4ea93e9a2"
+      },
+      "previous": {
+        "content": "\"Tut, tut! My dear sir, please do what I ask you.\"",
+        "objectID": "a841df5d4b51c84039bf29fc9eca00e2"
+      }
+    },
+    "objectID": "0ff4e09c4579d7acc34b6be405bf7577",
+    "order": 60,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"—in the hope that we may find something which may bear upon our investigation. I have made arrangements, and the workmen will be at work early to-morrow morning diverting the stream—\"",
+    "context": {
+      "next": {
+        "content": "\"Impossible!\"",
+        "objectID": "79dcb1fe2537315157ec55675046a11a"
+      },
+      "previous": {
+        "content": "\"Well, go on.\"",
+        "objectID": "0ff4e09c4579d7acc34b6be405bf7577"
+      }
+    },
+    "objectID": "6cefc41f1d1adaaaba74edb4ea93e9a2",
+    "order": 61,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Impossible!\"",
+    "context": {
+      "next": {
+        "content": "\"—diverting the stream; so I thought it best to explain matters beforehand.",
+        "objectID": "b139e2495a1e6624a6b8f93d93b41796"
+      },
+      "previous": {
+        "content": "\"—in the hope that we may find something which may bear upon our investigation. I have made arrangements, and the workmen will be at work early to-morrow morning diverting the stream—\"",
+        "objectID": "6cefc41f1d1adaaaba74edb4ea93e9a2"
+      }
+    },
+    "objectID": "79dcb1fe2537315157ec55675046a11a",
+    "order": 62,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"—diverting the stream; so I thought it best to explain matters beforehand.",
+    "context": {
+      "next": {
+        "content": "\"Now sign that, and send it by hand about four o'clock. At that hour we shall meet again in this room. Until then we may each do what we like; for I can assure you that this inquiry has come to a definite pause.\"",
+        "objectID": "c2d2eeea8a3180483625b8e427d9a69d"
+      },
+      "previous": {
+        "content": "\"Impossible!\"",
+        "objectID": "79dcb1fe2537315157ec55675046a11a"
+      }
+    },
+    "objectID": "b139e2495a1e6624a6b8f93d93b41796",
+    "order": 63,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Now sign that, and send it by hand about four o'clock. At that hour we shall meet again in this room. Until then we may each do what we like; for I can assure you that this inquiry has come to a definite pause.\"",
+    "context": {
+      "next": {
+        "content": "Evening was drawing in when we reassembled. Holmes was very serious in his manner, myself curious, and the detectives obviously critical and annoyed.",
+        "objectID": "dc2020097a500ae03017703bb2211a18"
+      },
+      "previous": {
+        "content": "\"—diverting the stream; so I thought it best to explain matters beforehand.",
+        "objectID": "b139e2495a1e6624a6b8f93d93b41796"
+      }
+    },
+    "objectID": "c2d2eeea8a3180483625b8e427d9a69d",
+    "order": 64,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Evening was drawing in when we reassembled. Holmes was very serious in his manner, myself curious, and the detectives obviously critical and annoyed.",
+    "context": {
+      "next": {
+        "content": "\"Well, gentlemen,\" said my friend gravely, \"I am asking you now to put everything to the test with me, and you will judge for yourselves whether the observations I have made justify the conclusions to which I have come. It is a chill evening, and I do not know how long our expedition may last; so I beg that you will wear your warmest coats.",
+        "objectID": "4680bab646731911b2a237eee70cbfa6"
+      },
+      "previous": {
+        "content": "\"Now sign that, and send it by hand about four o'clock. At that hour we shall meet again in this room. Until then we may each do what we like; for I can assure you that this inquiry has come to a definite pause.\"",
+        "objectID": "c2d2eeea8a3180483625b8e427d9a69d"
+      }
+    },
+    "objectID": "dc2020097a500ae03017703bb2211a18",
+    "order": 65,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, gentlemen,\" said my friend gravely, \"I am asking you now to put everything to the test with me, and you will judge for yourselves whether the observations I have made justify the conclusions to which I have come. It is a chill evening, and I do not know how long our expedition may last; so I beg that you will wear your warmest coats.",
+    "context": {
+      "next": {
+        "content": "It is of the first importance that we should be in our places before it grows dark; so with your permission we shall get started at once.\"",
+        "objectID": "9c80edffdd1e10adfe37179a942c1145"
+      },
+      "previous": {
+        "content": "Evening was drawing in when we reassembled. Holmes was very serious in his manner, myself curious, and the detectives obviously critical and annoyed.",
+        "objectID": "dc2020097a500ae03017703bb2211a18"
+      }
+    },
+    "objectID": "4680bab646731911b2a237eee70cbfa6",
+    "order": 66,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "It is of the first importance that we should be in our places before it grows dark; so with your permission we shall get started at once.\"",
+    "context": {
+      "next": {
+        "content": "We passed along the outer bounds of the Manor House park until we came to a place where there was a gap in the rails which fenced it. Through this we slipped, and then in the gathering gloom we followed Holmes until we had reached a shrubbery which lies nearly opposite to the main door and the drawbridge.",
+        "objectID": "6cf940ed81e8d033632b104efa181611"
+      },
+      "previous": {
+        "content": "\"Well, gentlemen,\" said my friend gravely, \"I am asking you now to put everything to the test with me, and you will judge for yourselves whether the observations I have made justify the conclusions to which I have come. It is a chill evening, and I do not know how long our expedition may last; so I beg that you will wear your warmest coats.",
+        "objectID": "4680bab646731911b2a237eee70cbfa6"
+      }
+    },
+    "objectID": "9c80edffdd1e10adfe37179a942c1145",
+    "order": 67,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "We passed along the outer bounds of the Manor House park until we came to a place where there was a gap in the rails which fenced it. Through this we slipped, and then in the gathering gloom we followed Holmes until we had reached a shrubbery which lies nearly opposite to the main door and the drawbridge.",
+    "context": {
+      "next": {
+        "content": "The latter had not been raised. Holmes crouched down behind the screen of laurels, and we all three followed his example.",
+        "objectID": "700f6bfc312d1209c780b5e4eb958782"
+      },
+      "previous": {
+        "content": "It is of the first importance that we should be in our places before it grows dark; so with your permission we shall get started at once.\"",
+        "objectID": "9c80edffdd1e10adfe37179a942c1145"
+      }
+    },
+    "objectID": "6cf940ed81e8d033632b104efa181611",
+    "order": 68,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "The latter had not been raised. Holmes crouched down behind the screen of laurels, and we all three followed his example.",
+    "context": {
+      "next": {
+        "content": "\"Well, what are we to do now?\" asked MacDonald with some gruffness.",
+        "objectID": "50264fdcc03e7ce0c61a886c8d57d049"
+      },
+      "previous": {
+        "content": "We passed along the outer bounds of the Manor House park until we came to a place where there was a gap in the rails which fenced it. Through this we slipped, and then in the gathering gloom we followed Holmes until we had reached a shrubbery which lies nearly opposite to the main door and the drawbridge.",
+        "objectID": "6cf940ed81e8d033632b104efa181611"
+      }
+    },
+    "objectID": "700f6bfc312d1209c780b5e4eb958782",
+    "order": 69,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, what are we to do now?\" asked MacDonald with some gruffness.",
+    "context": {
+      "next": {
+        "content": "\"Possess our souls in patience and make as little noise as possible,\" Holmes answered.",
+        "objectID": "8f9681c9452d42dc3b50980cdd7af84d"
+      },
+      "previous": {
+        "content": "The latter had not been raised. Holmes crouched down behind the screen of laurels, and we all three followed his example.",
+        "objectID": "700f6bfc312d1209c780b5e4eb958782"
+      }
+    },
+    "objectID": "50264fdcc03e7ce0c61a886c8d57d049",
+    "order": 70,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Possess our souls in patience and make as little noise as possible,\" Holmes answered.",
+    "context": {
+      "next": {
+        "content": "\"What are we here for at all? I really think that you might treat us with more frankness.\"",
+        "objectID": "e7dd0bf4df9afb7c86d45312d9067219"
+      },
+      "previous": {
+        "content": "\"Well, what are we to do now?\" asked MacDonald with some gruffness.",
+        "objectID": "50264fdcc03e7ce0c61a886c8d57d049"
+      }
+    },
+    "objectID": "8f9681c9452d42dc3b50980cdd7af84d",
+    "order": 71,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"What are we here for at all? I really think that you might treat us with more frankness.\"",
+    "context": {
+      "next": {
+        "content": "Holmes laughed. \"Watson insists that I am the dramatist in real life,\" said he. \"Some touch of the artist wells up within me, and calls insistently for a well-staged performance. Surely our profession, Mr. Mac, would be a drab and sordid one if we did not sometimes set the scene so as to glorify our results.",
+        "objectID": "24a9dfe2b3a8372a5fcd07c17ce66b44"
+      },
+      "previous": {
+        "content": "\"Possess our souls in patience and make as little noise as possible,\" Holmes answered.",
+        "objectID": "8f9681c9452d42dc3b50980cdd7af84d"
+      }
+    },
+    "objectID": "e7dd0bf4df9afb7c86d45312d9067219",
+    "order": 72,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Holmes laughed. \"Watson insists that I am the dramatist in real life,\" said he. \"Some touch of the artist wells up within me, and calls insistently for a well-staged performance. Surely our profession, Mr. Mac, would be a drab and sordid one if we did not sometimes set the scene so as to glorify our results.",
+    "context": {
+      "next": {
+        "content": "The blunt accusation, the brutal tap upon the shoulder—what can one make of such a denouement? But the quick inference, the subtle trap, the clever forecast of coming events, the triumphant vindication of bold theories—are these not the pride and the justification of our life's work? At the present moment you thrill with the glamour of the situation and the anticipation of the hunt.",
+        "objectID": "4a3cb1cab8d52a9d56c042f45666aef3"
+      },
+      "previous": {
+        "content": "\"What are we here for at all? I really think that you might treat us with more frankness.\"",
+        "objectID": "e7dd0bf4df9afb7c86d45312d9067219"
+      }
+    },
+    "objectID": "24a9dfe2b3a8372a5fcd07c17ce66b44",
+    "order": 73,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "The blunt accusation, the brutal tap upon the shoulder—what can one make of such a denouement? But the quick inference, the subtle trap, the clever forecast of coming events, the triumphant vindication of bold theories—are these not the pride and the justification of our life's work? At the present moment you thrill with the glamour of the situation and the anticipation of the hunt.",
+    "context": {
+      "next": {
+        "content": "Where would be that thrill if I had been as definite as a timetable? I only ask a little patience, Mr. Mac, and all will be clear to you.\"",
+        "objectID": "6fcb1bd4de5bc1dcbd69bfc7bde02200"
+      },
+      "previous": {
+        "content": "Holmes laughed. \"Watson insists that I am the dramatist in real life,\" said he. \"Some touch of the artist wells up within me, and calls insistently for a well-staged performance. Surely our profession, Mr. Mac, would be a drab and sordid one if we did not sometimes set the scene so as to glorify our results.",
+        "objectID": "24a9dfe2b3a8372a5fcd07c17ce66b44"
+      }
+    },
+    "objectID": "4a3cb1cab8d52a9d56c042f45666aef3",
+    "order": 74,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Where would be that thrill if I had been as definite as a timetable? I only ask a little patience, Mr. Mac, and all will be clear to you.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, I hope the pride and justification and the rest of it will come before we all get our death of cold,\" said the London detective with comic resignation.",
+        "objectID": "80b7320401b17f5b4dec071065b026da"
+      },
+      "previous": {
+        "content": "The blunt accusation, the brutal tap upon the shoulder—what can one make of such a denouement? But the quick inference, the subtle trap, the clever forecast of coming events, the triumphant vindication of bold theories—are these not the pride and the justification of our life's work? At the present moment you thrill with the glamour of the situation and the anticipation of the hunt.",
+        "objectID": "4a3cb1cab8d52a9d56c042f45666aef3"
+      }
+    },
+    "objectID": "6fcb1bd4de5bc1dcbd69bfc7bde02200",
+    "order": 75,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, I hope the pride and justification and the rest of it will come before we all get our death of cold,\" said the London detective with comic resignation.",
+    "context": {
+      "next": {
+        "content": "We all had good reason to join in the aspiration; for our vigil was a long and bitter one. Slowly the shadows darkened over the long, sombre face of the old house. A cold, damp reek from the moat chilled us to the bones and set our teeth chattering. There was a single lamp over the gateway and a steady globe of light in the fatal study.",
+        "objectID": "47f739539d16e21569c0dc7ad04cfe00"
+      },
+      "previous": {
+        "content": "Where would be that thrill if I had been as definite as a timetable? I only ask a little patience, Mr. Mac, and all will be clear to you.\"",
+        "objectID": "6fcb1bd4de5bc1dcbd69bfc7bde02200"
+      }
+    },
+    "objectID": "80b7320401b17f5b4dec071065b026da",
+    "order": 76,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "We all had good reason to join in the aspiration; for our vigil was a long and bitter one. Slowly the shadows darkened over the long, sombre face of the old house. A cold, damp reek from the moat chilled us to the bones and set our teeth chattering. There was a single lamp over the gateway and a steady globe of light in the fatal study.",
+    "context": {
+      "next": {
+        "content": "Everything else was dark and still.",
+        "objectID": "9839436cedb80ca8402a605d84829630"
+      },
+      "previous": {
+        "content": "\"Well, I hope the pride and justification and the rest of it will come before we all get our death of cold,\" said the London detective with comic resignation.",
+        "objectID": "80b7320401b17f5b4dec071065b026da"
+      }
+    },
+    "objectID": "47f739539d16e21569c0dc7ad04cfe00",
+    "order": 77,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Everything else was dark and still.",
+    "context": {
+      "next": {
+        "content": "\"How long is this to last?\" asked the inspector finally. \"And what is it we are watching for?\"",
+        "objectID": "30810cc7fa91a7eda84f613b19e3752c"
+      },
+      "previous": {
+        "content": "We all had good reason to join in the aspiration; for our vigil was a long and bitter one. Slowly the shadows darkened over the long, sombre face of the old house. A cold, damp reek from the moat chilled us to the bones and set our teeth chattering. There was a single lamp over the gateway and a steady globe of light in the fatal study.",
+        "objectID": "47f739539d16e21569c0dc7ad04cfe00"
+      }
+    },
+    "objectID": "9839436cedb80ca8402a605d84829630",
+    "order": 78,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"How long is this to last?\" asked the inspector finally. \"And what is it we are watching for?\"",
+    "context": {
+      "next": {
+        "content": "\"I have no more notion than you how long it is to last,\" Holmes answered with some asperity. \"If criminals would always schedule their movements like railway trains, it would certainly be more convenient for all of us. As to what it is we—Well, THAT'S what we are watching for!\"",
+        "objectID": "ceab782b6dacd104e2bba746a0af5da5"
+      },
+      "previous": {
+        "content": "Everything else was dark and still.",
+        "objectID": "9839436cedb80ca8402a605d84829630"
+      }
+    },
+    "objectID": "30810cc7fa91a7eda84f613b19e3752c",
+    "order": 79,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I have no more notion than you how long it is to last,\" Holmes answered with some asperity. \"If criminals would always schedule their movements like railway trains, it would certainly be more convenient for all of us. As to what it is we—Well, THAT'S what we are watching for!\"",
+    "context": {
+      "next": {
+        "content": "As he spoke the bright, yellow light in the study was obscured by somebody passing to and fro before it. The laurels among which we lay were immediately opposite the window and not more than a hundred feet from it. Presently it was thrown open with a whining of hinges, and we could dimly see the dark outline of a man's head and shoulders looking out into the gloom.",
+        "objectID": "d637cb8276a3e6383995dbebc8332ab8"
+      },
+      "previous": {
+        "content": "\"How long is this to last?\" asked the inspector finally. \"And what is it we are watching for?\"",
+        "objectID": "30810cc7fa91a7eda84f613b19e3752c"
+      }
+    },
+    "objectID": "ceab782b6dacd104e2bba746a0af5da5",
+    "order": 80,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "As he spoke the bright, yellow light in the study was obscured by somebody passing to and fro before it. The laurels among which we lay were immediately opposite the window and not more than a hundred feet from it. Presently it was thrown open with a whining of hinges, and we could dimly see the dark outline of a man's head and shoulders looking out into the gloom.",
+    "context": {
+      "next": {
+        "content": "For some minutes he peered forth in furtive, stealthy fashion, as one who wishes to be assured that he is unobserved. Then he leaned forward, and in the intense silence we were aware of the soft lapping of agitated water. He seemed to be stirring up the moat with something which he held in his hand.",
+        "objectID": "fad87c48b940f268906c470c5ac899ff"
+      },
+      "previous": {
+        "content": "\"I have no more notion than you how long it is to last,\" Holmes answered with some asperity. \"If criminals would always schedule their movements like railway trains, it would certainly be more convenient for all of us. As to what it is we—Well, THAT'S what we are watching for!\"",
+        "objectID": "ceab782b6dacd104e2bba746a0af5da5"
+      }
+    },
+    "objectID": "d637cb8276a3e6383995dbebc8332ab8",
+    "order": 81,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "For some minutes he peered forth in furtive, stealthy fashion, as one who wishes to be assured that he is unobserved. Then he leaned forward, and in the intense silence we were aware of the soft lapping of agitated water. He seemed to be stirring up the moat with something which he held in his hand.",
+    "context": {
+      "next": {
+        "content": "Then suddenly he hauled something in as a fisherman lands a fish—some large, round object which obscured the light as it was dragged through the open casement.",
+        "objectID": "3b59028f2a824fe190de7478811cd048"
+      },
+      "previous": {
+        "content": "As he spoke the bright, yellow light in the study was obscured by somebody passing to and fro before it. The laurels among which we lay were immediately opposite the window and not more than a hundred feet from it. Presently it was thrown open with a whining of hinges, and we could dimly see the dark outline of a man's head and shoulders looking out into the gloom.",
+        "objectID": "d637cb8276a3e6383995dbebc8332ab8"
+      }
+    },
+    "objectID": "fad87c48b940f268906c470c5ac899ff",
+    "order": 82,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Then suddenly he hauled something in as a fisherman lands a fish—some large, round object which obscured the light as it was dragged through the open casement.",
+    "context": {
+      "next": {
+        "content": "\"Now!\" cried Holmes. \"Now!\"",
+        "objectID": "c3fbd2d5422ddb1af1c39cbd917fc88b"
+      },
+      "previous": {
+        "content": "For some minutes he peered forth in furtive, stealthy fashion, as one who wishes to be assured that he is unobserved. Then he leaned forward, and in the intense silence we were aware of the soft lapping of agitated water. He seemed to be stirring up the moat with something which he held in his hand.",
+        "objectID": "fad87c48b940f268906c470c5ac899ff"
+      }
+    },
+    "objectID": "3b59028f2a824fe190de7478811cd048",
+    "order": 83,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Now!\" cried Holmes. \"Now!\"",
+    "context": {
+      "next": {
+        "content": "We were all upon our feet, staggering after him with our stiffened limbs, while he ran swiftly across the bridge and rang violently at the bell. There was the rasping of bolts from the other side, and the amazed Ames stood in the entrance. Holmes brushed him aside without a word and, followed by all of us, rushed into the room which had been occupied by the man whom we had been watching.",
+        "objectID": "1fef9720b20b5ba5e1b8cdf025a043ad"
+      },
+      "previous": {
+        "content": "Then suddenly he hauled something in as a fisherman lands a fish—some large, round object which obscured the light as it was dragged through the open casement.",
+        "objectID": "3b59028f2a824fe190de7478811cd048"
+      }
+    },
+    "objectID": "c3fbd2d5422ddb1af1c39cbd917fc88b",
+    "order": 84,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "We were all upon our feet, staggering after him with our stiffened limbs, while he ran swiftly across the bridge and rang violently at the bell. There was the rasping of bolts from the other side, and the amazed Ames stood in the entrance. Holmes brushed him aside without a word and, followed by all of us, rushed into the room which had been occupied by the man whom we had been watching.",
+    "context": {
+      "next": {
+        "content": "The oil lamp on the table represented the glow which we had seen from outside. It was now in the hand of Cecil Barker, who held it towards us as we entered. Its light shone upon his strong, resolute, clean-shaved face and his menacing eyes.",
+        "objectID": "31c493ca095163c3a7f2bc9dcfbe313f"
+      },
+      "previous": {
+        "content": "\"Now!\" cried Holmes. \"Now!\"",
+        "objectID": "c3fbd2d5422ddb1af1c39cbd917fc88b"
+      }
+    },
+    "objectID": "1fef9720b20b5ba5e1b8cdf025a043ad",
+    "order": 85,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "The oil lamp on the table represented the glow which we had seen from outside. It was now in the hand of Cecil Barker, who held it towards us as we entered. Its light shone upon his strong, resolute, clean-shaved face and his menacing eyes.",
+    "context": {
+      "next": {
+        "content": "\"What the devil is the meaning of all this?\" he cried. \"What are you after, anyhow?\"",
+        "objectID": "c2ffcd5a2eccce3bd36dd5c32a11165b"
+      },
+      "previous": {
+        "content": "We were all upon our feet, staggering after him with our stiffened limbs, while he ran swiftly across the bridge and rang violently at the bell. There was the rasping of bolts from the other side, and the amazed Ames stood in the entrance. Holmes brushed him aside without a word and, followed by all of us, rushed into the room which had been occupied by the man whom we had been watching.",
+        "objectID": "1fef9720b20b5ba5e1b8cdf025a043ad"
+      }
+    },
+    "objectID": "31c493ca095163c3a7f2bc9dcfbe313f",
+    "order": 86,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"What the devil is the meaning of all this?\" he cried. \"What are you after, anyhow?\"",
+    "context": {
+      "next": {
+        "content": "Holmes took a swift glance round, and then pounced upon a sodden bundle tied together with cord which lay where it had been thrust under the writing table.",
+        "objectID": "1fa14ed9386e757c47eda960995fd815"
+      },
+      "previous": {
+        "content": "The oil lamp on the table represented the glow which we had seen from outside. It was now in the hand of Cecil Barker, who held it towards us as we entered. Its light shone upon his strong, resolute, clean-shaved face and his menacing eyes.",
+        "objectID": "31c493ca095163c3a7f2bc9dcfbe313f"
+      }
+    },
+    "objectID": "c2ffcd5a2eccce3bd36dd5c32a11165b",
+    "order": 87,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Holmes took a swift glance round, and then pounced upon a sodden bundle tied together with cord which lay where it had been thrust under the writing table.",
+    "context": {
+      "next": {
+        "content": "\"This is what we are after, Mr. Barker—this bundle, weighted with a dumb-bell, which you have just raised from the bottom of the moat.\"",
+        "objectID": "f7c332c5e2a5d840243b4fc16ef4d85a"
+      },
+      "previous": {
+        "content": "\"What the devil is the meaning of all this?\" he cried. \"What are you after, anyhow?\"",
+        "objectID": "c2ffcd5a2eccce3bd36dd5c32a11165b"
+      }
+    },
+    "objectID": "1fa14ed9386e757c47eda960995fd815",
+    "order": 88,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"This is what we are after, Mr. Barker—this bundle, weighted with a dumb-bell, which you have just raised from the bottom of the moat.\"",
+    "context": {
+      "next": {
+        "content": "Barker stared at Holmes with amazement in his face. \"How in thunder came you to know anything about it?\" he asked.",
+        "objectID": "d79e2ebdcfa33358a02e1a02692891f7"
+      },
+      "previous": {
+        "content": "Holmes took a swift glance round, and then pounced upon a sodden bundle tied together with cord which lay where it had been thrust under the writing table.",
+        "objectID": "1fa14ed9386e757c47eda960995fd815"
+      }
+    },
+    "objectID": "f7c332c5e2a5d840243b4fc16ef4d85a",
+    "order": 89,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Barker stared at Holmes with amazement in his face. \"How in thunder came you to know anything about it?\" he asked.",
+    "context": {
+      "next": {
+        "content": "\"Simply that I put it there.\"",
+        "objectID": "a0c2a99e38305f23053264b4a511dcbb"
+      },
+      "previous": {
+        "content": "\"This is what we are after, Mr. Barker—this bundle, weighted with a dumb-bell, which you have just raised from the bottom of the moat.\"",
+        "objectID": "f7c332c5e2a5d840243b4fc16ef4d85a"
+      }
+    },
+    "objectID": "d79e2ebdcfa33358a02e1a02692891f7",
+    "order": 90,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Simply that I put it there.\"",
+    "context": {
+      "next": {
+        "content": "\"You put it there! You!\"",
+        "objectID": "c4b45ad2e79eafded779d0a8c5149ed6"
+      },
+      "previous": {
+        "content": "Barker stared at Holmes with amazement in his face. \"How in thunder came you to know anything about it?\" he asked.",
+        "objectID": "d79e2ebdcfa33358a02e1a02692891f7"
+      }
+    },
+    "objectID": "a0c2a99e38305f23053264b4a511dcbb",
+    "order": 91,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"You put it there! You!\"",
+    "context": {
+      "next": {
+        "content": "\"Perhaps I should have said 'replaced it there,'\" said Holmes. \"You will remember, Inspector MacDonald, that I was somewhat struck by the absence of a dumb-bell. I drew your attention to it; but with the pressure of other events you had hardly the time to give it the consideration which would have enabled you to draw deductions from it.",
+        "objectID": "c944459de984cbcb2d64e21c28114433"
+      },
+      "previous": {
+        "content": "\"Simply that I put it there.\"",
+        "objectID": "a0c2a99e38305f23053264b4a511dcbb"
+      }
+    },
+    "objectID": "c4b45ad2e79eafded779d0a8c5149ed6",
+    "order": 92,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Perhaps I should have said 'replaced it there,'\" said Holmes. \"You will remember, Inspector MacDonald, that I was somewhat struck by the absence of a dumb-bell. I drew your attention to it; but with the pressure of other events you had hardly the time to give it the consideration which would have enabled you to draw deductions from it.",
+    "context": {
+      "next": {
+        "content": "When water is near and a weight is missing it is not a very far-fetched supposition that something has been sunk in the water. The idea was at least worth testing; so with the help of Ames, who admitted me to the room, and the crook of Dr. Watson's umbrella, I was able last night to fish up and inspect this bundle.",
+        "objectID": "5a968fda26a4651c2494d87f34598b49"
+      },
+      "previous": {
+        "content": "\"You put it there! You!\"",
+        "objectID": "c4b45ad2e79eafded779d0a8c5149ed6"
+      }
+    },
+    "objectID": "c944459de984cbcb2d64e21c28114433",
+    "order": 93,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "When water is near and a weight is missing it is not a very far-fetched supposition that something has been sunk in the water. The idea was at least worth testing; so with the help of Ames, who admitted me to the room, and the crook of Dr. Watson's umbrella, I was able last night to fish up and inspect this bundle.",
+    "context": {
+      "next": {
+        "content": "\"It was of the first importance, however, that we should be able to prove who placed it there. This we accomplished by the very obvious device of announcing that the moat would be dried to-morrow, which had, of course, the effect that whoever had hidden the bundle would most certainly withdraw it the moment that darkness enabled him to do so.",
+        "objectID": "faf6c0527f5853a17f3a7f77740193c0"
+      },
+      "previous": {
+        "content": "\"Perhaps I should have said 'replaced it there,'\" said Holmes. \"You will remember, Inspector MacDonald, that I was somewhat struck by the absence of a dumb-bell. I drew your attention to it; but with the pressure of other events you had hardly the time to give it the consideration which would have enabled you to draw deductions from it.",
+        "objectID": "c944459de984cbcb2d64e21c28114433"
+      }
+    },
+    "objectID": "5a968fda26a4651c2494d87f34598b49",
+    "order": 94,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"It was of the first importance, however, that we should be able to prove who placed it there. This we accomplished by the very obvious device of announcing that the moat would be dried to-morrow, which had, of course, the effect that whoever had hidden the bundle would most certainly withdraw it the moment that darkness enabled him to do so.",
+    "context": {
+      "next": {
+        "content": "We have no less than four witnesses as to who it was who took advantage of the opportunity, and so, Mr. Barker, I think the word lies now with you.\"",
+        "objectID": "6d947d24730f09dd4efe59c4ee5cbfe9"
+      },
+      "previous": {
+        "content": "When water is near and a weight is missing it is not a very far-fetched supposition that something has been sunk in the water. The idea was at least worth testing; so with the help of Ames, who admitted me to the room, and the crook of Dr. Watson's umbrella, I was able last night to fish up and inspect this bundle.",
+        "objectID": "5a968fda26a4651c2494d87f34598b49"
+      }
+    },
+    "objectID": "faf6c0527f5853a17f3a7f77740193c0",
+    "order": 95,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "We have no less than four witnesses as to who it was who took advantage of the opportunity, and so, Mr. Barker, I think the word lies now with you.\"",
+    "context": {
+      "next": {
+        "content": "Sherlock Holmes put the sopping bundle upon the table beside the lamp and undid the cord which bound it. From within he extracted a dumb-bell, which he tossed down to its fellow in the corner. Next he drew forth a pair of boots. \"American, as you perceive,\" he remarked, pointing to the toes. Then he laid upon the table a long, deadly, sheathed knife.",
+        "objectID": "63c39b5e2351cae9fc3d26981bf9f968"
+      },
+      "previous": {
+        "content": "\"It was of the first importance, however, that we should be able to prove who placed it there. This we accomplished by the very obvious device of announcing that the moat would be dried to-morrow, which had, of course, the effect that whoever had hidden the bundle would most certainly withdraw it the moment that darkness enabled him to do so.",
+        "objectID": "faf6c0527f5853a17f3a7f77740193c0"
+      }
+    },
+    "objectID": "6d947d24730f09dd4efe59c4ee5cbfe9",
+    "order": 96,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Sherlock Holmes put the sopping bundle upon the table beside the lamp and undid the cord which bound it. From within he extracted a dumb-bell, which he tossed down to its fellow in the corner. Next he drew forth a pair of boots. \"American, as you perceive,\" he remarked, pointing to the toes. Then he laid upon the table a long, deadly, sheathed knife.",
+    "context": {
+      "next": {
+        "content": "Finally he unravelled a bundle of clothing, comprising a complete set of underclothes, socks, a gray tweed suit, and a short yellow overcoat.",
+        "objectID": "e70f9491150dfc48c0a298bd1ff46488"
+      },
+      "previous": {
+        "content": "We have no less than four witnesses as to who it was who took advantage of the opportunity, and so, Mr. Barker, I think the word lies now with you.\"",
+        "objectID": "6d947d24730f09dd4efe59c4ee5cbfe9"
+      }
+    },
+    "objectID": "63c39b5e2351cae9fc3d26981bf9f968",
+    "order": 97,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Finally he unravelled a bundle of clothing, comprising a complete set of underclothes, socks, a gray tweed suit, and a short yellow overcoat.",
+    "context": {
+      "next": {
+        "content": "\"The clothes are commonplace,\" remarked Holmes, \"save only the overcoat, which is full of suggestive touches.\" He held it tenderly towards the light. \"Here, as you perceive, is the inner pocket prolonged into the lining in such fashion as to give ample space for the truncated fowling piece. The tailor's tab is on the neck—'Neal, Outfitter, Vermissa, U.",
+        "objectID": "ebf97f303794c123da17f76a1d466af5"
+      },
+      "previous": {
+        "content": "Sherlock Holmes put the sopping bundle upon the table beside the lamp and undid the cord which bound it. From within he extracted a dumb-bell, which he tossed down to its fellow in the corner. Next he drew forth a pair of boots. \"American, as you perceive,\" he remarked, pointing to the toes. Then he laid upon the table a long, deadly, sheathed knife.",
+        "objectID": "63c39b5e2351cae9fc3d26981bf9f968"
+      }
+    },
+    "objectID": "e70f9491150dfc48c0a298bd1ff46488",
+    "order": 98,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"The clothes are commonplace,\" remarked Holmes, \"save only the overcoat, which is full of suggestive touches.\" He held it tenderly towards the light. \"Here, as you perceive, is the inner pocket prolonged into the lining in such fashion as to give ample space for the truncated fowling piece. The tailor's tab is on the neck—'Neal, Outfitter, Vermissa, U.",
+    "context": {
+      "next": {
+        "content": "S.A.' I have spent an instructive afternoon in the rector's library, and have enlarged my knowledge by adding the fact that Vermissa is a flourishing little town at the head of one of the best known coal and iron valleys in the United States. I have some recollection, Mr. Barker, that you associated the coal districts with Mr.",
+        "objectID": "b79d6efcb959f7e42a347304e1c1f71b"
+      },
+      "previous": {
+        "content": "Finally he unravelled a bundle of clothing, comprising a complete set of underclothes, socks, a gray tweed suit, and a short yellow overcoat.",
+        "objectID": "e70f9491150dfc48c0a298bd1ff46488"
+      }
+    },
+    "objectID": "ebf97f303794c123da17f76a1d466af5",
+    "order": 99,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "S.A.' I have spent an instructive afternoon in the rector's library, and have enlarged my knowledge by adding the fact that Vermissa is a flourishing little town at the head of one of the best known coal and iron valleys in the United States. I have some recollection, Mr. Barker, that you associated the coal districts with Mr.",
+    "context": {
+      "next": {
+        "content": "Douglas's first wife, and it would surely not be too far-fetched an inference that the V.V. upon the card by the dead body might stand for Vermissa Valley, or that this very valley which sends forth emissaries of murder may be that Valley of Fear of which we have heard. So much is fairly clear. And now, Mr.",
+        "objectID": "5d80e3b5e7da2fff0f78be85f36e7579"
+      },
+      "previous": {
+        "content": "\"The clothes are commonplace,\" remarked Holmes, \"save only the overcoat, which is full of suggestive touches.\" He held it tenderly towards the light. \"Here, as you perceive, is the inner pocket prolonged into the lining in such fashion as to give ample space for the truncated fowling piece. The tailor's tab is on the neck—'Neal, Outfitter, Vermissa, U.",
+        "objectID": "ebf97f303794c123da17f76a1d466af5"
+      }
+    },
+    "objectID": "b79d6efcb959f7e42a347304e1c1f71b",
+    "order": 100,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Douglas's first wife, and it would surely not be too far-fetched an inference that the V.V. upon the card by the dead body might stand for Vermissa Valley, or that this very valley which sends forth emissaries of murder may be that Valley of Fear of which we have heard. So much is fairly clear. And now, Mr.",
+    "context": {
+      "next": {
+        "content": "Barker, I seem to be standing rather in the way of your explanation.\"",
+        "objectID": "9699cac28ae2a7935d1ed7c1412fabf1"
+      },
+      "previous": {
+        "content": "S.A.' I have spent an instructive afternoon in the rector's library, and have enlarged my knowledge by adding the fact that Vermissa is a flourishing little town at the head of one of the best known coal and iron valleys in the United States. I have some recollection, Mr. Barker, that you associated the coal districts with Mr.",
+        "objectID": "b79d6efcb959f7e42a347304e1c1f71b"
+      }
+    },
+    "objectID": "5d80e3b5e7da2fff0f78be85f36e7579",
+    "order": 101,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Barker, I seem to be standing rather in the way of your explanation.\"",
+    "context": {
+      "next": {
+        "content": "It was a sight to see Cecil Barker's expressive face during this exposition of the great detective. Anger, amazement, consternation, and indecision swept over it in turn. Finally he took refuge in a somewhat acrid irony.",
+        "objectID": "ab32ba5953903b952880e9f74ce9814f"
+      },
+      "previous": {
+        "content": "Douglas's first wife, and it would surely not be too far-fetched an inference that the V.V. upon the card by the dead body might stand for Vermissa Valley, or that this very valley which sends forth emissaries of murder may be that Valley of Fear of which we have heard. So much is fairly clear. And now, Mr.",
+        "objectID": "5d80e3b5e7da2fff0f78be85f36e7579"
+      }
+    },
+    "objectID": "9699cac28ae2a7935d1ed7c1412fabf1",
+    "order": 102,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "It was a sight to see Cecil Barker's expressive face during this exposition of the great detective. Anger, amazement, consternation, and indecision swept over it in turn. Finally he took refuge in a somewhat acrid irony.",
+    "context": {
+      "next": {
+        "content": "\"You know such a lot, Mr. Holmes, perhaps you had better tell us some more,\" he sneered.",
+        "objectID": "2c2597c2f2dc0ffa5b5fc32992666436"
+      },
+      "previous": {
+        "content": "Barker, I seem to be standing rather in the way of your explanation.\"",
+        "objectID": "9699cac28ae2a7935d1ed7c1412fabf1"
+      }
+    },
+    "objectID": "ab32ba5953903b952880e9f74ce9814f",
+    "order": 103,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"You know such a lot, Mr. Holmes, perhaps you had better tell us some more,\" he sneered.",
+    "context": {
+      "next": {
+        "content": "\"I have no doubt that I could tell you a great deal more, Mr. Barker; but it would come with a better grace from you.\"",
+        "objectID": "d151c1ffdff778bc642088db9f0ab82e"
+      },
+      "previous": {
+        "content": "It was a sight to see Cecil Barker's expressive face during this exposition of the great detective. Anger, amazement, consternation, and indecision swept over it in turn. Finally he took refuge in a somewhat acrid irony.",
+        "objectID": "ab32ba5953903b952880e9f74ce9814f"
+      }
+    },
+    "objectID": "2c2597c2f2dc0ffa5b5fc32992666436",
+    "order": 104,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I have no doubt that I could tell you a great deal more, Mr. Barker; but it would come with a better grace from you.\"",
+    "context": {
+      "next": {
+        "content": "\"Oh, you think so, do you? Well, all I can say is that if there's any secret here it is not my secret, and I am not the man to give it away.\"",
+        "objectID": "63096e4ea98646c8be6a85d38acefb1a"
+      },
+      "previous": {
+        "content": "\"You know such a lot, Mr. Holmes, perhaps you had better tell us some more,\" he sneered.",
+        "objectID": "2c2597c2f2dc0ffa5b5fc32992666436"
+      }
+    },
+    "objectID": "d151c1ffdff778bc642088db9f0ab82e",
+    "order": 105,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Oh, you think so, do you? Well, all I can say is that if there's any secret here it is not my secret, and I am not the man to give it away.\"",
+    "context": {
+      "next": {
+        "content": "\"Well, if you take that line, Mr. Barker,\" said the inspector quietly, \"we must just keep you in sight until we have the warrant and can hold you.\"",
+        "objectID": "626cf2212db8d8c94d0bb30048915c7c"
+      },
+      "previous": {
+        "content": "\"I have no doubt that I could tell you a great deal more, Mr. Barker; but it would come with a better grace from you.\"",
+        "objectID": "d151c1ffdff778bc642088db9f0ab82e"
+      }
+    },
+    "objectID": "63096e4ea98646c8be6a85d38acefb1a",
+    "order": 106,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, if you take that line, Mr. Barker,\" said the inspector quietly, \"we must just keep you in sight until we have the warrant and can hold you.\"",
+    "context": {
+      "next": {
+        "content": "\"You can do what you damn please about that,\" said Barker defiantly.",
+        "objectID": "a51ffdb4bcf62e4b974f6464889eb62c"
+      },
+      "previous": {
+        "content": "\"Oh, you think so, do you? Well, all I can say is that if there's any secret here it is not my secret, and I am not the man to give it away.\"",
+        "objectID": "63096e4ea98646c8be6a85d38acefb1a"
+      }
+    },
+    "objectID": "626cf2212db8d8c94d0bb30048915c7c",
+    "order": 107,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"You can do what you damn please about that,\" said Barker defiantly.",
+    "context": {
+      "next": {
+        "content": "The proceedings seemed to have come to a definite end so far as he was concerned; for one had only to look at that granite face to realize that no peine forte et dure would ever force him to plead against his will. The deadlock was broken, however, by a woman's voice. Mrs. Douglas had been standing listening at the half opened door, and now she entered the room.",
+        "objectID": "bb7980e917a2223c53564f43471bd8a5"
+      },
+      "previous": {
+        "content": "\"Well, if you take that line, Mr. Barker,\" said the inspector quietly, \"we must just keep you in sight until we have the warrant and can hold you.\"",
+        "objectID": "626cf2212db8d8c94d0bb30048915c7c"
+      }
+    },
+    "objectID": "a51ffdb4bcf62e4b974f6464889eb62c",
+    "order": 108,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "The proceedings seemed to have come to a definite end so far as he was concerned; for one had only to look at that granite face to realize that no peine forte et dure would ever force him to plead against his will. The deadlock was broken, however, by a woman's voice. Mrs. Douglas had been standing listening at the half opened door, and now she entered the room.",
+    "context": {
+      "next": {
+        "content": "\"You have done enough for now, Cecil,\" said she. \"Whatever comes of it in the future, you have done enough.\"",
+        "objectID": "5a08676ded87fdf2723355ff036def41"
+      },
+      "previous": {
+        "content": "\"You can do what you damn please about that,\" said Barker defiantly.",
+        "objectID": "a51ffdb4bcf62e4b974f6464889eb62c"
+      }
+    },
+    "objectID": "bb7980e917a2223c53564f43471bd8a5",
+    "order": 109,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"You have done enough for now, Cecil,\" said she. \"Whatever comes of it in the future, you have done enough.\"",
+    "context": {
+      "next": {
+        "content": "\"Enough and more than enough,\" remarked Sherlock Holmes gravely. \"I have every sympathy with you, madam, and should strongly urge you to have some confidence in the common sense of our jurisdiction and to take the police voluntarily into your complete confidence. It may be that I am myself at fault for not following up the hint which you conveyed to me through my friend, Dr.",
+        "objectID": "8e173eeceb296990d86f65a4009d6c03"
+      },
+      "previous": {
+        "content": "The proceedings seemed to have come to a definite end so far as he was concerned; for one had only to look at that granite face to realize that no peine forte et dure would ever force him to plead against his will. The deadlock was broken, however, by a woman's voice. Mrs. Douglas had been standing listening at the half opened door, and now she entered the room.",
+        "objectID": "bb7980e917a2223c53564f43471bd8a5"
+      }
+    },
+    "objectID": "5a08676ded87fdf2723355ff036def41",
+    "order": 110,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Enough and more than enough,\" remarked Sherlock Holmes gravely. \"I have every sympathy with you, madam, and should strongly urge you to have some confidence in the common sense of our jurisdiction and to take the police voluntarily into your complete confidence. It may be that I am myself at fault for not following up the hint which you conveyed to me through my friend, Dr.",
+    "context": {
+      "next": {
+        "content": "Watson; but, at that time I had every reason to believe that you were directly concerned in the crime. Now I am assured that this is not so. At the same time, there is much that is unexplained, and I should strongly recommend that you ask Mr. Douglas to tell us his own story.\"",
+        "objectID": "2c2fdf05a13bf2090ee4b3112383e73b"
+      },
+      "previous": {
+        "content": "\"You have done enough for now, Cecil,\" said she. \"Whatever comes of it in the future, you have done enough.\"",
+        "objectID": "5a08676ded87fdf2723355ff036def41"
+      }
+    },
+    "objectID": "8e173eeceb296990d86f65a4009d6c03",
+    "order": 111,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Watson; but, at that time I had every reason to believe that you were directly concerned in the crime. Now I am assured that this is not so. At the same time, there is much that is unexplained, and I should strongly recommend that you ask Mr. Douglas to tell us his own story.\"",
+    "context": {
+      "next": {
+        "content": "Mrs. Douglas gave a cry of astonishment at Holmes's words. The detectives and I must have echoed it, when we were aware of a man who seemed to have emerged from the wall, who advanced now from the gloom of the corner in which he had appeared. Mrs. Douglas turned, and in an instant her arms were round him.",
+        "objectID": "2dde94ea27913819ee23f7b75c97848d"
+      },
+      "previous": {
+        "content": "\"Enough and more than enough,\" remarked Sherlock Holmes gravely. \"I have every sympathy with you, madam, and should strongly urge you to have some confidence in the common sense of our jurisdiction and to take the police voluntarily into your complete confidence. It may be that I am myself at fault for not following up the hint which you conveyed to me through my friend, Dr.",
+        "objectID": "8e173eeceb296990d86f65a4009d6c03"
+      }
+    },
+    "objectID": "2c2fdf05a13bf2090ee4b3112383e73b",
+    "order": 112,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Mrs. Douglas gave a cry of astonishment at Holmes's words. The detectives and I must have echoed it, when we were aware of a man who seemed to have emerged from the wall, who advanced now from the gloom of the corner in which he had appeared. Mrs. Douglas turned, and in an instant her arms were round him.",
+    "context": {
+      "next": {
+        "content": "Barker had seized his outstretched hand.",
+        "objectID": "7491db75584137cd19c9dc4aa867ceab"
+      },
+      "previous": {
+        "content": "Watson; but, at that time I had every reason to believe that you were directly concerned in the crime. Now I am assured that this is not so. At the same time, there is much that is unexplained, and I should strongly recommend that you ask Mr. Douglas to tell us his own story.\"",
+        "objectID": "2c2fdf05a13bf2090ee4b3112383e73b"
+      }
+    },
+    "objectID": "2dde94ea27913819ee23f7b75c97848d",
+    "order": 113,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Barker had seized his outstretched hand.",
+    "context": {
+      "next": {
+        "content": "\"It's best this way, Jack,\" his wife repeated; \"I am sure that it is best.\"",
+        "objectID": "7230e4cc372709696d0890ebe8498174"
+      },
+      "previous": {
+        "content": "Mrs. Douglas gave a cry of astonishment at Holmes's words. The detectives and I must have echoed it, when we were aware of a man who seemed to have emerged from the wall, who advanced now from the gloom of the corner in which he had appeared. Mrs. Douglas turned, and in an instant her arms were round him.",
+        "objectID": "2dde94ea27913819ee23f7b75c97848d"
+      }
+    },
+    "objectID": "7491db75584137cd19c9dc4aa867ceab",
+    "order": 114,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"It's best this way, Jack,\" his wife repeated; \"I am sure that it is best.\"",
+    "context": {
+      "next": {
+        "content": "\"Indeed, yes, Mr. Douglas,\" said Sherlock Holmes, \"I am sure that you will find it best.\"",
+        "objectID": "efe33f495858c1bdd94d24f2f705c25a"
+      },
+      "previous": {
+        "content": "Barker had seized his outstretched hand.",
+        "objectID": "7491db75584137cd19c9dc4aa867ceab"
+      }
+    },
+    "objectID": "7230e4cc372709696d0890ebe8498174",
+    "order": 115,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Indeed, yes, Mr. Douglas,\" said Sherlock Holmes, \"I am sure that you will find it best.\"",
+    "context": {
+      "next": {
+        "content": "The man stood blinking at us with the dazed look of one who comes from the dark into the light. It was a remarkable face, bold gray eyes, a strong, short-clipped, grizzled moustache, a square, projecting chin, and a humorous mouth. He took a good look at us all, and then to my amazement he advanced to me and handed me a bundle of paper.",
+        "objectID": "1d4f2b98bdbe49973ef64267029ca733"
+      },
+      "previous": {
+        "content": "\"It's best this way, Jack,\" his wife repeated; \"I am sure that it is best.\"",
+        "objectID": "7230e4cc372709696d0890ebe8498174"
+      }
+    },
+    "objectID": "efe33f495858c1bdd94d24f2f705c25a",
+    "order": 116,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "The man stood blinking at us with the dazed look of one who comes from the dark into the light. It was a remarkable face, bold gray eyes, a strong, short-clipped, grizzled moustache, a square, projecting chin, and a humorous mouth. He took a good look at us all, and then to my amazement he advanced to me and handed me a bundle of paper.",
+    "context": {
+      "next": {
+        "content": "\"I've heard of you,\" said he in a voice which was not quite English and not quite American, but was altogether mellow and pleasing. \"You are the historian of this bunch. Well, Dr. Watson, you've never had such a story as that pass through your hands before, and I'll lay my last dollar on that. Tell it your own way; but there are the facts, and you can't miss the public so long as you have those.",
+        "objectID": "3a23fbad0ef23a629d7d5fa212b9b6f7"
+      },
+      "previous": {
+        "content": "\"Indeed, yes, Mr. Douglas,\" said Sherlock Holmes, \"I am sure that you will find it best.\"",
+        "objectID": "efe33f495858c1bdd94d24f2f705c25a"
+      }
+    },
+    "objectID": "1d4f2b98bdbe49973ef64267029ca733",
+    "order": 117,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I've heard of you,\" said he in a voice which was not quite English and not quite American, but was altogether mellow and pleasing. \"You are the historian of this bunch. Well, Dr. Watson, you've never had such a story as that pass through your hands before, and I'll lay my last dollar on that. Tell it your own way; but there are the facts, and you can't miss the public so long as you have those.",
+    "context": {
+      "next": {
+        "content": "I've been cooped up two days, and I've spent the daylight hours—as much daylight as I could get in that rat trap—in putting the thing into words. You're welcome to them—you and your public. There's the story of the Valley of Fear.\"",
+        "objectID": "f3e73c0ee5b97c83be89338ab567960a"
+      },
+      "previous": {
+        "content": "The man stood blinking at us with the dazed look of one who comes from the dark into the light. It was a remarkable face, bold gray eyes, a strong, short-clipped, grizzled moustache, a square, projecting chin, and a humorous mouth. He took a good look at us all, and then to my amazement he advanced to me and handed me a bundle of paper.",
+        "objectID": "1d4f2b98bdbe49973ef64267029ca733"
+      }
+    },
+    "objectID": "3a23fbad0ef23a629d7d5fa212b9b6f7",
+    "order": 118,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "I've been cooped up two days, and I've spent the daylight hours—as much daylight as I could get in that rat trap—in putting the thing into words. You're welcome to them—you and your public. There's the story of the Valley of Fear.\"",
+    "context": {
+      "next": {
+        "content": "\"That's the past, Mr. Douglas,\" said Sherlock Holmes quietly. \"What we desire now is to hear your story of the present.\"",
+        "objectID": "9152978218e6b3e1ead67781125420d1"
+      },
+      "previous": {
+        "content": "\"I've heard of you,\" said he in a voice which was not quite English and not quite American, but was altogether mellow and pleasing. \"You are the historian of this bunch. Well, Dr. Watson, you've never had such a story as that pass through your hands before, and I'll lay my last dollar on that. Tell it your own way; but there are the facts, and you can't miss the public so long as you have those.",
+        "objectID": "3a23fbad0ef23a629d7d5fa212b9b6f7"
+      }
+    },
+    "objectID": "f3e73c0ee5b97c83be89338ab567960a",
+    "order": 119,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"That's the past, Mr. Douglas,\" said Sherlock Holmes quietly. \"What we desire now is to hear your story of the present.\"",
+    "context": {
+      "next": {
+        "content": "\"You'll have it, sir,\" said Douglas. \"May I smoke as I talk? Well, thank you, Mr. Holmes. You're a smoker yourself, if I remember right, and you'll guess what it is to be sitting for two days with tobacco in your pocket and afraid that the smell will give you away.\" He leaned against the mantelpiece and sucked at the cigar which Holmes had handed him.",
+        "objectID": "63ea88fbf20518b0adf9626558cdedd9"
+      },
+      "previous": {
+        "content": "I've been cooped up two days, and I've spent the daylight hours—as much daylight as I could get in that rat trap—in putting the thing into words. You're welcome to them—you and your public. There's the story of the Valley of Fear.\"",
+        "objectID": "f3e73c0ee5b97c83be89338ab567960a"
+      }
+    },
+    "objectID": "9152978218e6b3e1ead67781125420d1",
+    "order": 120,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"You'll have it, sir,\" said Douglas. \"May I smoke as I talk? Well, thank you, Mr. Holmes. You're a smoker yourself, if I remember right, and you'll guess what it is to be sitting for two days with tobacco in your pocket and afraid that the smell will give you away.\" He leaned against the mantelpiece and sucked at the cigar which Holmes had handed him.",
+    "context": {
+      "next": {
+        "content": "\"I've heard of you, Mr. Holmes. I never guessed that I should meet you. But before you are through with that,\" he nodded at my papers, \"you will say I've brought you something fresh.\"",
+        "objectID": "a52d8468e980299bf1fd4207ee159a0e"
+      },
+      "previous": {
+        "content": "\"That's the past, Mr. Douglas,\" said Sherlock Holmes quietly. \"What we desire now is to hear your story of the present.\"",
+        "objectID": "9152978218e6b3e1ead67781125420d1"
+      }
+    },
+    "objectID": "63ea88fbf20518b0adf9626558cdedd9",
+    "order": 121,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I've heard of you, Mr. Holmes. I never guessed that I should meet you. But before you are through with that,\" he nodded at my papers, \"you will say I've brought you something fresh.\"",
+    "context": {
+      "next": {
+        "content": "Inspector MacDonald had been staring at the newcomer with the greatest amazement. \"Well, this fairly beats me!\" he cried at last. \"If you are Mr. John Douglas of Birlstone Manor, then whose death have we been investigating for these two days, and where in the world have you sprung from now? You seemed to me to come out of the floor like a jack-in-a-box.",
+        "objectID": "12f3e6caa7778ec8548a147ab77ccb13"
+      },
+      "previous": {
+        "content": "\"You'll have it, sir,\" said Douglas. \"May I smoke as I talk? Well, thank you, Mr. Holmes. You're a smoker yourself, if I remember right, and you'll guess what it is to be sitting for two days with tobacco in your pocket and afraid that the smell will give you away.\" He leaned against the mantelpiece and sucked at the cigar which Holmes had handed him.",
+        "objectID": "63ea88fbf20518b0adf9626558cdedd9"
+      }
+    },
+    "objectID": "a52d8468e980299bf1fd4207ee159a0e",
+    "order": 122,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Inspector MacDonald had been staring at the newcomer with the greatest amazement. \"Well, this fairly beats me!\" he cried at last. \"If you are Mr. John Douglas of Birlstone Manor, then whose death have we been investigating for these two days, and where in the world have you sprung from now? You seemed to me to come out of the floor like a jack-in-a-box.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "ea284d950ba2684c27eceeecbd43ba81"
+      },
+      "previous": {
+        "content": "\"I've heard of you, Mr. Holmes. I never guessed that I should meet you. But before you are through with that,\" he nodded at my papers, \"you will say I've brought you something fresh.\"",
+        "objectID": "a52d8468e980299bf1fd4207ee159a0e"
+      }
+    },
+    "objectID": "12f3e6caa7778ec8548a147ab77ccb13",
+    "order": 123,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Ah, Mr. Mac,\" said Holmes, shaking a reproving forefinger, \"you would not read that excellent local compilation which described the concealment of King Charles. People did not hide in those days without excellent hiding places, and the hiding place that has once been used may be again. I had persuaded myself that we should find Mr.",
+        "objectID": "6da19d81d6c1404897bf395c3f16ec2d"
+      },
+      "previous": {
+        "content": "Inspector MacDonald had been staring at the newcomer with the greatest amazement. \"Well, this fairly beats me!\" he cried at last. \"If you are Mr. John Douglas of Birlstone Manor, then whose death have we been investigating for these two days, and where in the world have you sprung from now? You seemed to me to come out of the floor like a jack-in-a-box.",
+        "objectID": "12f3e6caa7778ec8548a147ab77ccb13"
+      }
+    },
+    "objectID": "ea284d950ba2684c27eceeecbd43ba81",
+    "order": 124,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Ah, Mr. Mac,\" said Holmes, shaking a reproving forefinger, \"you would not read that excellent local compilation which described the concealment of King Charles. People did not hide in those days without excellent hiding places, and the hiding place that has once been used may be again. I had persuaded myself that we should find Mr.",
+    "context": {
+      "next": {
+        "content": "Douglas under this roof.\"",
+        "objectID": "08b5e1a0bd436de3053f31f8e9ea5a1d"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "ea284d950ba2684c27eceeecbd43ba81"
+      }
+    },
+    "objectID": "6da19d81d6c1404897bf395c3f16ec2d",
+    "order": 125,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Douglas under this roof.\"",
+    "context": {
+      "next": {
+        "content": "\"And how long have you been playing this trick upon us, Mr. Holmes?\" said the inspector angrily. \"How long have you allowed us to waste ourselves upon a search that you knew to be an absurd one?\"",
+        "objectID": "c9601966e25f031e7e3fab651fcb88ce"
+      },
+      "previous": {
+        "content": "\"Ah, Mr. Mac,\" said Holmes, shaking a reproving forefinger, \"you would not read that excellent local compilation which described the concealment of King Charles. People did not hide in those days without excellent hiding places, and the hiding place that has once been used may be again. I had persuaded myself that we should find Mr.",
+        "objectID": "6da19d81d6c1404897bf395c3f16ec2d"
+      }
+    },
+    "objectID": "08b5e1a0bd436de3053f31f8e9ea5a1d",
+    "order": 126,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"And how long have you been playing this trick upon us, Mr. Holmes?\" said the inspector angrily. \"How long have you allowed us to waste ourselves upon a search that you knew to be an absurd one?\"",
+    "context": {
+      "next": {
+        "content": "\"Not one instant, my dear Mr. Mac. Only last night did I form my views of the case. As they could not be put to the proof until this evening, I invited you and your colleague to take a holiday for the day. Pray what more could I do? When I found the suit of clothes in the moat, it at once became apparent to me that the body we had found could not have been the body of Mr.",
+        "objectID": "2e86b9a361c951784b093fc52a4592d4"
+      },
+      "previous": {
+        "content": "Douglas under this roof.\"",
+        "objectID": "08b5e1a0bd436de3053f31f8e9ea5a1d"
+      }
+    },
+    "objectID": "c9601966e25f031e7e3fab651fcb88ce",
+    "order": 127,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Not one instant, my dear Mr. Mac. Only last night did I form my views of the case. As they could not be put to the proof until this evening, I invited you and your colleague to take a holiday for the day. Pray what more could I do? When I found the suit of clothes in the moat, it at once became apparent to me that the body we had found could not have been the body of Mr.",
+    "context": {
+      "next": {
+        "content": "John Douglas at all, but must be that of the bicyclist from Tunbridge Wells. No other conclusion was possible. Therefore I had to determine where Mr. John Douglas himself could be, and the balance of probability was that with the connivance of his wife and his friend he was concealed in a house which had such conveniences for a fugitive, and awaiting quieter times when he could make his final escape.",
+        "objectID": "d93ce1857eb9e8247dfd0b35965ad9e4"
+      },
+      "previous": {
+        "content": "\"And how long have you been playing this trick upon us, Mr. Holmes?\" said the inspector angrily. \"How long have you allowed us to waste ourselves upon a search that you knew to be an absurd one?\"",
+        "objectID": "c9601966e25f031e7e3fab651fcb88ce"
+      }
+    },
+    "objectID": "2e86b9a361c951784b093fc52a4592d4",
+    "order": 128,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "John Douglas at all, but must be that of the bicyclist from Tunbridge Wells. No other conclusion was possible. Therefore I had to determine where Mr. John Douglas himself could be, and the balance of probability was that with the connivance of his wife and his friend he was concealed in a house which had such conveniences for a fugitive, and awaiting quieter times when he could make his final escape.",
+    "context": {
+      "next": {
+        "content": "\"",
+        "objectID": "c74566cd380220b3e5fc226e2f7bd53f"
+      },
+      "previous": {
+        "content": "\"Not one instant, my dear Mr. Mac. Only last night did I form my views of the case. As they could not be put to the proof until this evening, I invited you and your colleague to take a holiday for the day. Pray what more could I do? When I found the suit of clothes in the moat, it at once became apparent to me that the body we had found could not have been the body of Mr.",
+        "objectID": "2e86b9a361c951784b093fc52a4592d4"
+      }
+    },
+    "objectID": "d93ce1857eb9e8247dfd0b35965ad9e4",
+    "order": 129,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"",
+    "context": {
+      "next": {
+        "content": "\"Well, you figured it out about right,\" said Douglas approvingly. \"I thought I'd dodge your British law; for I was not sure how I stood under it, and also I saw my chance to throw these hounds once for all off my track. Mind you, from first to last I have done nothing to be ashamed of, and nothing that I would not do again; but you'll judge that for yourselves when I tell you my story.",
+        "objectID": "1bfe91701e34cfc28061912fcf788ccf"
+      },
+      "previous": {
+        "content": "John Douglas at all, but must be that of the bicyclist from Tunbridge Wells. No other conclusion was possible. Therefore I had to determine where Mr. John Douglas himself could be, and the balance of probability was that with the connivance of his wife and his friend he was concealed in a house which had such conveniences for a fugitive, and awaiting quieter times when he could make his final escape.",
+        "objectID": "d93ce1857eb9e8247dfd0b35965ad9e4"
+      }
+    },
+    "objectID": "c74566cd380220b3e5fc226e2f7bd53f",
+    "order": 130,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, you figured it out about right,\" said Douglas approvingly. \"I thought I'd dodge your British law; for I was not sure how I stood under it, and also I saw my chance to throw these hounds once for all off my track. Mind you, from first to last I have done nothing to be ashamed of, and nothing that I would not do again; but you'll judge that for yourselves when I tell you my story.",
+    "context": {
+      "next": {
+        "content": "Never mind warning me, Inspector: I'm ready to stand pat upon the truth.",
+        "objectID": "5c13f886cbd417190b6decbdcdec8959"
+      },
+      "previous": {
+        "content": "\"",
+        "objectID": "c74566cd380220b3e5fc226e2f7bd53f"
+      }
+    },
+    "objectID": "1bfe91701e34cfc28061912fcf788ccf",
+    "order": 131,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Never mind warning me, Inspector: I'm ready to stand pat upon the truth.",
+    "context": {
+      "next": {
+        "content": "\"I'm not going to begin at the beginning. That's all there,\" he indicated my bundle of papers, \"and a mighty queer yarn you'll find it. It all comes down to this: That there are some men that have good cause to hate me and would give their last dollar to know that they had got me. So long as I am alive and they are alive, there is no safety in this world for me.",
+        "objectID": "1193bdefcd0b9743735e08026ed89a0c"
+      },
+      "previous": {
+        "content": "\"Well, you figured it out about right,\" said Douglas approvingly. \"I thought I'd dodge your British law; for I was not sure how I stood under it, and also I saw my chance to throw these hounds once for all off my track. Mind you, from first to last I have done nothing to be ashamed of, and nothing that I would not do again; but you'll judge that for yourselves when I tell you my story.",
+        "objectID": "1bfe91701e34cfc28061912fcf788ccf"
+      }
+    },
+    "objectID": "5c13f886cbd417190b6decbdcdec8959",
+    "order": 132,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I'm not going to begin at the beginning. That's all there,\" he indicated my bundle of papers, \"and a mighty queer yarn you'll find it. It all comes down to this: That there are some men that have good cause to hate me and would give their last dollar to know that they had got me. So long as I am alive and they are alive, there is no safety in this world for me.",
+    "context": {
+      "next": {
+        "content": "They hunted me from Chicago to California, then they chased me out of America; but when I married and settled down in this quiet spot I thought my last years were going to be peaceable.",
+        "objectID": "e4dc3588f39dee772fc52de3875f91e2"
+      },
+      "previous": {
+        "content": "Never mind warning me, Inspector: I'm ready to stand pat upon the truth.",
+        "objectID": "5c13f886cbd417190b6decbdcdec8959"
+      }
+    },
+    "objectID": "1193bdefcd0b9743735e08026ed89a0c",
+    "order": 133,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "They hunted me from Chicago to California, then they chased me out of America; but when I married and settled down in this quiet spot I thought my last years were going to be peaceable.",
+    "context": {
+      "next": {
+        "content": "\"I never explained to my wife how things were. Why should I pull her into it? She would never have a quiet moment again; but would always be imagining trouble. I fancy she knew something, for I may have dropped a word here or a word there; but until yesterday, after you gentlemen had seen her, she never knew the rights of the matter.",
+        "objectID": "d59ad389ccc40435eed9cbd2d427f170"
+      },
+      "previous": {
+        "content": "\"I'm not going to begin at the beginning. That's all there,\" he indicated my bundle of papers, \"and a mighty queer yarn you'll find it. It all comes down to this: That there are some men that have good cause to hate me and would give their last dollar to know that they had got me. So long as I am alive and they are alive, there is no safety in this world for me.",
+        "objectID": "1193bdefcd0b9743735e08026ed89a0c"
+      }
+    },
+    "objectID": "e4dc3588f39dee772fc52de3875f91e2",
+    "order": 134,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I never explained to my wife how things were. Why should I pull her into it? She would never have a quiet moment again; but would always be imagining trouble. I fancy she knew something, for I may have dropped a word here or a word there; but until yesterday, after you gentlemen had seen her, she never knew the rights of the matter.",
+    "context": {
+      "next": {
+        "content": "She told you all she knew, and so did Barker here; for on the night when this thing happened there was mighty little time for explanations. She knows everything now, and I would have been a wiser man if I had told her sooner. But it was a hard question, dear,\" he took her hand for an instant in his own, \"and I acted for the best.",
+        "objectID": "f4d397f72a2f04f79866441e917a209f"
+      },
+      "previous": {
+        "content": "They hunted me from Chicago to California, then they chased me out of America; but when I married and settled down in this quiet spot I thought my last years were going to be peaceable.",
+        "objectID": "e4dc3588f39dee772fc52de3875f91e2"
+      }
+    },
+    "objectID": "d59ad389ccc40435eed9cbd2d427f170",
+    "order": 135,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "She told you all she knew, and so did Barker here; for on the night when this thing happened there was mighty little time for explanations. She knows everything now, and I would have been a wiser man if I had told her sooner. But it was a hard question, dear,\" he took her hand for an instant in his own, \"and I acted for the best.",
+    "context": {
+      "next": {
+        "content": "\"Well, gentlemen, the day before these happenings I was over in Tunbridge Wells, and I got a glimpse of a man in the street. It was only a glimpse; but I have a quick eye for these things, and I never doubted who it was. It was the worst enemy I had among them all—one who has been after me like a hungry wolf after a caribou all these years.",
+        "objectID": "f342b03b533b0cc150d0564b4ebbcf6f"
+      },
+      "previous": {
+        "content": "\"I never explained to my wife how things were. Why should I pull her into it? She would never have a quiet moment again; but would always be imagining trouble. I fancy she knew something, for I may have dropped a word here or a word there; but until yesterday, after you gentlemen had seen her, she never knew the rights of the matter.",
+        "objectID": "d59ad389ccc40435eed9cbd2d427f170"
+      }
+    },
+    "objectID": "f4d397f72a2f04f79866441e917a209f",
+    "order": 136,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, gentlemen, the day before these happenings I was over in Tunbridge Wells, and I got a glimpse of a man in the street. It was only a glimpse; but I have a quick eye for these things, and I never doubted who it was. It was the worst enemy I had among them all—one who has been after me like a hungry wolf after a caribou all these years.",
+    "context": {
+      "next": {
+        "content": "I knew there was trouble coming, and I came home and made ready for it. I guessed I'd fight through it all right on my own, my luck was a proverb in the States about '76. I never doubted that it would be with me still.",
+        "objectID": "bdc25583b3b8806a2025bc7ebc6863d6"
+      },
+      "previous": {
+        "content": "She told you all she knew, and so did Barker here; for on the night when this thing happened there was mighty little time for explanations. She knows everything now, and I would have been a wiser man if I had told her sooner. But it was a hard question, dear,\" he took her hand for an instant in his own, \"and I acted for the best.",
+        "objectID": "f4d397f72a2f04f79866441e917a209f"
+      }
+    },
+    "objectID": "f342b03b533b0cc150d0564b4ebbcf6f",
+    "order": 137,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "I knew there was trouble coming, and I came home and made ready for it. I guessed I'd fight through it all right on my own, my luck was a proverb in the States about '76. I never doubted that it would be with me still.",
+    "context": {
+      "next": {
+        "content": "\"I was on my guard all that next day, and never went out into the park. It's as well, or he'd have had the drop on me with that buckshot gun of his before ever I could draw on him. After the bridge was up—my mind was always more restful when that bridge was up in the evenings—I put the thing clear out of my head.",
+        "objectID": "cf48679b02f0d8db0516b893fe6d09d2"
+      },
+      "previous": {
+        "content": "\"Well, gentlemen, the day before these happenings I was over in Tunbridge Wells, and I got a glimpse of a man in the street. It was only a glimpse; but I have a quick eye for these things, and I never doubted who it was. It was the worst enemy I had among them all—one who has been after me like a hungry wolf after a caribou all these years.",
+        "objectID": "f342b03b533b0cc150d0564b4ebbcf6f"
+      }
+    },
+    "objectID": "bdc25583b3b8806a2025bc7ebc6863d6",
+    "order": 138,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I was on my guard all that next day, and never went out into the park. It's as well, or he'd have had the drop on me with that buckshot gun of his before ever I could draw on him. After the bridge was up—my mind was always more restful when that bridge was up in the evenings—I put the thing clear out of my head.",
+    "context": {
+      "next": {
+        "content": "I never dreamed of his getting into the house and waiting for me. But when I made my round in my dressing gown, as was my habit, I had no sooner entered the study than I scented danger. I guess when a man has had dangers in his life—and I've had more than most in my time—there is a kind of sixth sense that waves the red flag.",
+        "objectID": "40d54c79a3361ed7cd3633e4e55ccb9b"
+      },
+      "previous": {
+        "content": "I knew there was trouble coming, and I came home and made ready for it. I guessed I'd fight through it all right on my own, my luck was a proverb in the States about '76. I never doubted that it would be with me still.",
+        "objectID": "bdc25583b3b8806a2025bc7ebc6863d6"
+      }
+    },
+    "objectID": "cf48679b02f0d8db0516b893fe6d09d2",
+    "order": 139,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "I never dreamed of his getting into the house and waiting for me. But when I made my round in my dressing gown, as was my habit, I had no sooner entered the study than I scented danger. I guess when a man has had dangers in his life—and I've had more than most in my time—there is a kind of sixth sense that waves the red flag.",
+    "context": {
+      "next": {
+        "content": "I saw the signal clear enough, and yet I couldn't tell you why. Next instant I spotted a boot under the window curtain, and then I saw why plain enough.",
+        "objectID": "ca6147a411cf443433b77f4572a1ed9e"
+      },
+      "previous": {
+        "content": "\"I was on my guard all that next day, and never went out into the park. It's as well, or he'd have had the drop on me with that buckshot gun of his before ever I could draw on him. After the bridge was up—my mind was always more restful when that bridge was up in the evenings—I put the thing clear out of my head.",
+        "objectID": "cf48679b02f0d8db0516b893fe6d09d2"
+      }
+    },
+    "objectID": "40d54c79a3361ed7cd3633e4e55ccb9b",
+    "order": 140,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "I saw the signal clear enough, and yet I couldn't tell you why. Next instant I spotted a boot under the window curtain, and then I saw why plain enough.",
+    "context": {
+      "next": {
+        "content": "\"I'd just the one candle that was in my hand; but there was a good light from the hall lamp through the open door. I put down the candle and jumped for a hammer that I'd left on the mantel. At the same moment he sprang at me. I saw the glint of a knife, and I lashed at him with the hammer. I got him somewhere; for the knife tinkled down on the floor.",
+        "objectID": "05a1d35eba509b7f8afde6152396cd4b"
+      },
+      "previous": {
+        "content": "I never dreamed of his getting into the house and waiting for me. But when I made my round in my dressing gown, as was my habit, I had no sooner entered the study than I scented danger. I guess when a man has had dangers in his life—and I've had more than most in my time—there is a kind of sixth sense that waves the red flag.",
+        "objectID": "40d54c79a3361ed7cd3633e4e55ccb9b"
+      }
+    },
+    "objectID": "ca6147a411cf443433b77f4572a1ed9e",
+    "order": 141,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I'd just the one candle that was in my hand; but there was a good light from the hall lamp through the open door. I put down the candle and jumped for a hammer that I'd left on the mantel. At the same moment he sprang at me. I saw the glint of a knife, and I lashed at him with the hammer. I got him somewhere; for the knife tinkled down on the floor.",
+    "context": {
+      "next": {
+        "content": "He dodged round the table as quick as an eel, and a moment later he'd got his gun from under his coat. I heard him cock it; but I had got hold of it before he could fire. I had it by the barrel, and we wrestled for it all ends up for a minute or more. It was death to the man that lost his grip.",
+        "objectID": "ba97592bc723605ad17d24f02b318d04"
+      },
+      "previous": {
+        "content": "I saw the signal clear enough, and yet I couldn't tell you why. Next instant I spotted a boot under the window curtain, and then I saw why plain enough.",
+        "objectID": "ca6147a411cf443433b77f4572a1ed9e"
+      }
+    },
+    "objectID": "05a1d35eba509b7f8afde6152396cd4b",
+    "order": 142,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "He dodged round the table as quick as an eel, and a moment later he'd got his gun from under his coat. I heard him cock it; but I had got hold of it before he could fire. I had it by the barrel, and we wrestled for it all ends up for a minute or more. It was death to the man that lost his grip.",
+    "context": {
+      "next": {
+        "content": "\"He never lost his grip; but he got it butt downward for a moment too long. Maybe it was I that pulled the trigger. Maybe we just jolted it off between us. Anyhow, he got both barrels in the face, and there I was, staring down at all that was left of Ted Baldwin. I'd recognized him in the township, and again when he sprang for me; but his own mother wouldn't recognize him as I saw him then.",
+        "objectID": "af5c0253e6a55450e1dd0c8264c3c0b2"
+      },
+      "previous": {
+        "content": "\"I'd just the one candle that was in my hand; but there was a good light from the hall lamp through the open door. I put down the candle and jumped for a hammer that I'd left on the mantel. At the same moment he sprang at me. I saw the glint of a knife, and I lashed at him with the hammer. I got him somewhere; for the knife tinkled down on the floor.",
+        "objectID": "05a1d35eba509b7f8afde6152396cd4b"
+      }
+    },
+    "objectID": "ba97592bc723605ad17d24f02b318d04",
+    "order": 143,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"He never lost his grip; but he got it butt downward for a moment too long. Maybe it was I that pulled the trigger. Maybe we just jolted it off between us. Anyhow, he got both barrels in the face, and there I was, staring down at all that was left of Ted Baldwin. I'd recognized him in the township, and again when he sprang for me; but his own mother wouldn't recognize him as I saw him then.",
+    "context": {
+      "next": {
+        "content": "I'm used to rough work; but I fairly turned sick at the sight of him.",
+        "objectID": "1a7832571cf178a4439fe38b2028e910"
+      },
+      "previous": {
+        "content": "He dodged round the table as quick as an eel, and a moment later he'd got his gun from under his coat. I heard him cock it; but I had got hold of it before he could fire. I had it by the barrel, and we wrestled for it all ends up for a minute or more. It was death to the man that lost his grip.",
+        "objectID": "ba97592bc723605ad17d24f02b318d04"
+      }
+    },
+    "objectID": "af5c0253e6a55450e1dd0c8264c3c0b2",
+    "order": 144,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "I'm used to rough work; but I fairly turned sick at the sight of him.",
+    "context": {
+      "next": {
+        "content": "\"I was hanging on the side of the table when Barker came hurrying down. I heard my wife coming, and I ran to the door and stopped her. It was no sight for a woman. I promised I'd come to her soon. I said a word or two to Barker—he took it all in at a glance—and we waited for the rest to come along. But there was no sign of them.",
+        "objectID": "08ce6e6fe481d44e003e8550943c241c"
+      },
+      "previous": {
+        "content": "\"He never lost his grip; but he got it butt downward for a moment too long. Maybe it was I that pulled the trigger. Maybe we just jolted it off between us. Anyhow, he got both barrels in the face, and there I was, staring down at all that was left of Ted Baldwin. I'd recognized him in the township, and again when he sprang for me; but his own mother wouldn't recognize him as I saw him then.",
+        "objectID": "af5c0253e6a55450e1dd0c8264c3c0b2"
+      }
+    },
+    "objectID": "1a7832571cf178a4439fe38b2028e910",
+    "order": 145,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I was hanging on the side of the table when Barker came hurrying down. I heard my wife coming, and I ran to the door and stopped her. It was no sight for a woman. I promised I'd come to her soon. I said a word or two to Barker—he took it all in at a glance—and we waited for the rest to come along. But there was no sign of them.",
+    "context": {
+      "next": {
+        "content": "Then we understood that they could hear nothing, and that all that had happened was known only to ourselves.",
+        "objectID": "b0c93a2a8b056855d47e6e7576accb10"
+      },
+      "previous": {
+        "content": "I'm used to rough work; but I fairly turned sick at the sight of him.",
+        "objectID": "1a7832571cf178a4439fe38b2028e910"
+      }
+    },
+    "objectID": "08ce6e6fe481d44e003e8550943c241c",
+    "order": 146,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Then we understood that they could hear nothing, and that all that had happened was known only to ourselves.",
+    "context": {
+      "next": {
+        "content": "\"It was at that instant that the idea came to me. I was fairly dazzled by the brilliance of it. The man's sleeve had slipped up and there was the branded mark of the lodge upon his forearm. See here!\"",
+        "objectID": "a15a898576105480a86b0a807983d36b"
+      },
+      "previous": {
+        "content": "\"I was hanging on the side of the table when Barker came hurrying down. I heard my wife coming, and I ran to the door and stopped her. It was no sight for a woman. I promised I'd come to her soon. I said a word or two to Barker—he took it all in at a glance—and we waited for the rest to come along. But there was no sign of them.",
+        "objectID": "08ce6e6fe481d44e003e8550943c241c"
+      }
+    },
+    "objectID": "b0c93a2a8b056855d47e6e7576accb10",
+    "order": 147,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"It was at that instant that the idea came to me. I was fairly dazzled by the brilliance of it. The man's sleeve had slipped up and there was the branded mark of the lodge upon his forearm. See here!\"",
+    "context": {
+      "next": {
+        "content": "The man whom we had known as Douglas turned up his own coat and cuff to show a brown triangle within a circle exactly like that which we had seen upon the dead man.",
+        "objectID": "35767f5b3317c97d455ace7ece3fdd64"
+      },
+      "previous": {
+        "content": "Then we understood that they could hear nothing, and that all that had happened was known only to ourselves.",
+        "objectID": "b0c93a2a8b056855d47e6e7576accb10"
+      }
+    },
+    "objectID": "a15a898576105480a86b0a807983d36b",
+    "order": 148,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "The man whom we had known as Douglas turned up his own coat and cuff to show a brown triangle within a circle exactly like that which we had seen upon the dead man.",
+    "context": {
+      "next": {
+        "content": "\"It was the sight of that which started me on it. I seemed to see it all clear at a glance. There were his height and hair and figure, about the same as my own. No one could swear to his face, poor devil! I brought down this suit of clothes, and in a quarter of an hour Barker and I had put my dressing gown on him and he lay as you found him.",
+        "objectID": "97e2ed07ffab72d4918edfa11d8e3437"
+      },
+      "previous": {
+        "content": "\"It was at that instant that the idea came to me. I was fairly dazzled by the brilliance of it. The man's sleeve had slipped up and there was the branded mark of the lodge upon his forearm. See here!\"",
+        "objectID": "a15a898576105480a86b0a807983d36b"
+      }
+    },
+    "objectID": "35767f5b3317c97d455ace7ece3fdd64",
+    "order": 149,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"It was the sight of that which started me on it. I seemed to see it all clear at a glance. There were his height and hair and figure, about the same as my own. No one could swear to his face, poor devil! I brought down this suit of clothes, and in a quarter of an hour Barker and I had put my dressing gown on him and he lay as you found him.",
+    "context": {
+      "next": {
+        "content": "We tied all his things into a bundle, and I weighted them with the only weight I could find and put them through the window. The card he had meant to lay upon my body was lying beside his own.",
+        "objectID": "fe0927e2cd3289056bb8052aa8f7c6fc"
+      },
+      "previous": {
+        "content": "The man whom we had known as Douglas turned up his own coat and cuff to show a brown triangle within a circle exactly like that which we had seen upon the dead man.",
+        "objectID": "35767f5b3317c97d455ace7ece3fdd64"
+      }
+    },
+    "objectID": "97e2ed07ffab72d4918edfa11d8e3437",
+    "order": 150,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "We tied all his things into a bundle, and I weighted them with the only weight I could find and put them through the window. The card he had meant to lay upon my body was lying beside his own.",
+    "context": {
+      "next": {
+        "content": "\"My rings were put on his finger; but when it came to the wedding ring,\" he held out his muscular hand, \"you can see for yourselves that I had struck the limit. I have not moved it since the day I was married, and it would have taken a file to get it off. I don't know, anyhow, that I should have cared to part with it; but if I had wanted to I couldn't.",
+        "objectID": "fa17da457c48306d57476d44ef76659f"
+      },
+      "previous": {
+        "content": "\"It was the sight of that which started me on it. I seemed to see it all clear at a glance. There were his height and hair and figure, about the same as my own. No one could swear to his face, poor devil! I brought down this suit of clothes, and in a quarter of an hour Barker and I had put my dressing gown on him and he lay as you found him.",
+        "objectID": "97e2ed07ffab72d4918edfa11d8e3437"
+      }
+    },
+    "objectID": "fe0927e2cd3289056bb8052aa8f7c6fc",
+    "order": 151,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"My rings were put on his finger; but when it came to the wedding ring,\" he held out his muscular hand, \"you can see for yourselves that I had struck the limit. I have not moved it since the day I was married, and it would have taken a file to get it off. I don't know, anyhow, that I should have cared to part with it; but if I had wanted to I couldn't.",
+    "context": {
+      "next": {
+        "content": "So we just had to leave that detail to take care of itself. On the other hand, I brought a bit of plaster down and put it where I am wearing one myself at this instant. You slipped up there, Mr. Holmes, clever as you are; for if you had chanced to take off that plaster you would have found no cut underneath it.",
+        "objectID": "45df0cf1a5245a93db2f582a5556fd06"
+      },
+      "previous": {
+        "content": "We tied all his things into a bundle, and I weighted them with the only weight I could find and put them through the window. The card he had meant to lay upon my body was lying beside his own.",
+        "objectID": "fe0927e2cd3289056bb8052aa8f7c6fc"
+      }
+    },
+    "objectID": "fa17da457c48306d57476d44ef76659f",
+    "order": 152,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "So we just had to leave that detail to take care of itself. On the other hand, I brought a bit of plaster down and put it where I am wearing one myself at this instant. You slipped up there, Mr. Holmes, clever as you are; for if you had chanced to take off that plaster you would have found no cut underneath it.",
+    "context": {
+      "next": {
+        "content": "\"Well, that was the situation. If I could lie low for a while and then get away where I could be joined by my 'widow' we should have a chance at last of living in peace for the rest of our lives. These devils would give me no rest so long as I was above ground; but if they saw in the papers that Baldwin had got his man, there would be an end of all my troubles.",
+        "objectID": "0c3341f5ce36f2fd8e1ebdaa9a04d94b"
+      },
+      "previous": {
+        "content": "\"My rings were put on his finger; but when it came to the wedding ring,\" he held out his muscular hand, \"you can see for yourselves that I had struck the limit. I have not moved it since the day I was married, and it would have taken a file to get it off. I don't know, anyhow, that I should have cared to part with it; but if I had wanted to I couldn't.",
+        "objectID": "fa17da457c48306d57476d44ef76659f"
+      }
+    },
+    "objectID": "45df0cf1a5245a93db2f582a5556fd06",
+    "order": 153,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"Well, that was the situation. If I could lie low for a while and then get away where I could be joined by my 'widow' we should have a chance at last of living in peace for the rest of our lives. These devils would give me no rest so long as I was above ground; but if they saw in the papers that Baldwin had got his man, there would be an end of all my troubles.",
+    "context": {
+      "next": {
+        "content": "I hadn't much time to make it all clear to Barker and to my wife; but they understood enough to be able to help me. I knew all about this hiding place, so did Ames; but it never entered his head to connect it with the matter. I retired into it, and it was up to Barker to do the rest.",
+        "objectID": "73faf67b95f7d8cfa170bb64e73ddab5"
+      },
+      "previous": {
+        "content": "So we just had to leave that detail to take care of itself. On the other hand, I brought a bit of plaster down and put it where I am wearing one myself at this instant. You slipped up there, Mr. Holmes, clever as you are; for if you had chanced to take off that plaster you would have found no cut underneath it.",
+        "objectID": "45df0cf1a5245a93db2f582a5556fd06"
+      }
+    },
+    "objectID": "0c3341f5ce36f2fd8e1ebdaa9a04d94b",
+    "order": 154,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "I hadn't much time to make it all clear to Barker and to my wife; but they understood enough to be able to help me. I knew all about this hiding place, so did Ames; but it never entered his head to connect it with the matter. I retired into it, and it was up to Barker to do the rest.",
+    "context": {
+      "next": {
+        "content": "\"I guess you can fill in for yourselves what he did. He opened the window and made the mark on the sill to give an idea of how the murderer escaped. It was a tall order, that; but as the bridge was up there was no other way. Then, when everything was fixed, he rang the bell for all he was worth. What happened afterward you know.",
+        "objectID": "3ef6d54f5b04250fcd98b364b122db39"
+      },
+      "previous": {
+        "content": "\"Well, that was the situation. If I could lie low for a while and then get away where I could be joined by my 'widow' we should have a chance at last of living in peace for the rest of our lives. These devils would give me no rest so long as I was above ground; but if they saw in the papers that Baldwin had got his man, there would be an end of all my troubles.",
+        "objectID": "0c3341f5ce36f2fd8e1ebdaa9a04d94b"
+      }
+    },
+    "objectID": "73faf67b95f7d8cfa170bb64e73ddab5",
+    "order": 155,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I guess you can fill in for yourselves what he did. He opened the window and made the mark on the sill to give an idea of how the murderer escaped. It was a tall order, that; but as the bridge was up there was no other way. Then, when everything was fixed, he rang the bell for all he was worth. What happened afterward you know.",
+    "context": {
+      "next": {
+        "content": "And so, gentlemen, you can do what you please; but I've told you the truth and the whole truth, so help me God! What I ask you now is how do I stand by the English law?\"",
+        "objectID": "76ee9c1615d07005476c28a14f586802"
+      },
+      "previous": {
+        "content": "I hadn't much time to make it all clear to Barker and to my wife; but they understood enough to be able to help me. I knew all about this hiding place, so did Ames; but it never entered his head to connect it with the matter. I retired into it, and it was up to Barker to do the rest.",
+        "objectID": "73faf67b95f7d8cfa170bb64e73ddab5"
+      }
+    },
+    "objectID": "3ef6d54f5b04250fcd98b364b122db39",
+    "order": 156,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "And so, gentlemen, you can do what you please; but I've told you the truth and the whole truth, so help me God! What I ask you now is how do I stand by the English law?\"",
+    "context": {
+      "next": {
+        "content": "There was a silence which was broken by Sherlock Holmes.",
+        "objectID": "761ec2f040bef071c9fa214736e89abf"
+      },
+      "previous": {
+        "content": "\"I guess you can fill in for yourselves what he did. He opened the window and made the mark on the sill to give an idea of how the murderer escaped. It was a tall order, that; but as the bridge was up there was no other way. Then, when everything was fixed, he rang the bell for all he was worth. What happened afterward you know.",
+        "objectID": "3ef6d54f5b04250fcd98b364b122db39"
+      }
+    },
+    "objectID": "76ee9c1615d07005476c28a14f586802",
+    "order": 157,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "There was a silence which was broken by Sherlock Holmes.",
+    "context": {
+      "next": {
+        "content": "\"The English law is in the main a just law. You will get no worse than your deserts from that, Mr. Douglas. But I would ask you how did this man know that you lived here, or how to get into your house, or where to hide to get you?\"",
+        "objectID": "12de552038a1a466e4dc9ad52134ef36"
+      },
+      "previous": {
+        "content": "And so, gentlemen, you can do what you please; but I've told you the truth and the whole truth, so help me God! What I ask you now is how do I stand by the English law?\"",
+        "objectID": "76ee9c1615d07005476c28a14f586802"
+      }
+    },
+    "objectID": "761ec2f040bef071c9fa214736e89abf",
+    "order": 158,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"The English law is in the main a just law. You will get no worse than your deserts from that, Mr. Douglas. But I would ask you how did this man know that you lived here, or how to get into your house, or where to hide to get you?\"",
+    "context": {
+      "next": {
+        "content": "\"I know nothing of this.\"",
+        "objectID": "21ad6a673df3f96ab6f0120441d9146e"
+      },
+      "previous": {
+        "content": "There was a silence which was broken by Sherlock Holmes.",
+        "objectID": "761ec2f040bef071c9fa214736e89abf"
+      }
+    },
+    "objectID": "12de552038a1a466e4dc9ad52134ef36",
+    "order": 159,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "\"I know nothing of this.\"",
+    "context": {
+      "next": {
+        "content": "Holmes's face was very white and grave. \"The story is not over yet, I fear,\" said he. \"You may find worse dangers than the English law, or even than your enemies from America. I see trouble before you, Mr. Douglas. You'll take my advice and still be on your guard.\"",
+        "objectID": "079ab52a416a791846ba57a51f519912"
+      },
+      "previous": {
+        "content": "\"The English law is in the main a just law. You will get no worse than your deserts from that, Mr. Douglas. But I would ask you how did this man know that you lived here, or how to get into your house, or where to hide to get you?\"",
+        "objectID": "12de552038a1a466e4dc9ad52134ef36"
+      }
+    },
+    "objectID": "21ad6a673df3f96ab6f0120441d9146e",
+    "order": 160,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Holmes's face was very white and grave. \"The story is not over yet, I fear,\" said he. \"You may find worse dangers than the English law, or even than your enemies from America. I see trouble before you, Mr. Douglas. You'll take my advice and still be on your guard.\"",
+    "context": {
+      "next": {
+        "content": "And now, my long-suffering readers, I will ask you to come away with me for a time, far from the Sussex Manor House of Birlstone, and far also from the year of grace in which we made our eventful journey which ended with the strange story of the man who had been known as John Douglas. I wish you to journey back some twenty years in time, and westward some thousands of miles in space, that I may lay before you a singular and terrible narrative—so singular and so terrible that you may find it hard to believe that even as I tell it, even so did it occur.",
+        "objectID": "7dbf567cbd297984e40c5e5859acf77c"
+      },
+      "previous": {
+        "content": "\"I know nothing of this.\"",
+        "objectID": "21ad6a673df3f96ab6f0120441d9146e"
+      }
+    },
+    "objectID": "079ab52a416a791846ba57a51f519912",
+    "order": 161,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "And now, my long-suffering readers, I will ask you to come away with me for a time, far from the Sussex Manor House of Birlstone, and far also from the year of grace in which we made our eventful journey which ended with the strange story of the man who had been known as John Douglas. I wish you to journey back some twenty years in time, and westward some thousands of miles in space, that I may lay before you a singular and terrible narrative—so singular and so terrible that you may find it hard to believe that even as I tell it, even so did it occur.",
+    "context": {
+      "next": {
+        "content": "Do not think that I intrude one story before another is finished. As you read on you will find that this is not so. And when I have detailed those distant events and you have solved this mystery of the past, we shall meet once more in those rooms on Baker Street, where this, like so many other wonderful happenings, will find its end.",
+        "objectID": "f65d235832366564c9e16dc29ecb4898"
+      },
+      "previous": {
+        "content": "Holmes's face was very white and grave. \"The story is not over yet, I fear,\" said he. \"You may find worse dangers than the English law, or even than your enemies from America. I see trouble before you, Mr. Douglas. You'll take my advice and still be on your guard.\"",
+        "objectID": "079ab52a416a791846ba57a51f519912"
+      }
+    },
+    "objectID": "7dbf567cbd297984e40c5e5859acf77c",
+    "order": 162,
+    "tagName": "P"
+  },
+  {
+    "author": "Sir Arthur Conan Doyle",
+    "book": "THE VALLEY OF FEAR",
+    "bookOrder": 8,
+    "chapterName": "PART 1. Chapter 7—The Solution",
+    "chapterOrder": 7,
+    "content": "Do not think that I intrude one story before another is finished. As you read on you will find that this is not so. And when I have detailed those distant events and you have solved this mystery of the past, we shall meet once more in those rooms on Baker Street, where this, like so many other wonderful happenings, will find its end.",
+    "context": {
+      "next": null,
+      "previous": {
+        "content": "And now, my long-suffering readers, I will ask you to come away with me for a time, far from the Sussex Manor House of Birlstone, and far also from the year of grace in which we made our eventful journey which ended with the strange story of the man who had been known as John Douglas. I wish you to journey back some twenty years in time, and westward some thousands of miles in space, that I may lay before you a singular and terrible narrative—so singular and so terrible that you may find it hard to believe that even as I tell it, even so did it occur.",
+        "objectID": "7dbf567cbd297984e40c5e5859acf77c"
+      }
+    },
+    "objectID": "f65d235832366564c9e16dc29ecb4898",
+    "order": 163,
+    "tagName": "P"
+  }
+]
