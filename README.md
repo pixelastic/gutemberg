@@ -78,7 +78,7 @@ The data I got from the Gutenberg project did not follow any convention. Each of
 the 7 indexed books had their own slightly different markup. I had to write
 7 slightly different scripts to extract the data.
 
-Oh and, the last Sherlock Holmes book, [The Casebook of Sherlock Holmes][5] is
+Oh and the last Sherlock Holmes book, [The Casebook of Sherlock Holmes][5], is
 not yet elevated to public domain, so I could not index it.
 
 ## Dev
