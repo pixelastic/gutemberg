@@ -81,6 +81,24 @@ the 7 indexed books had their own slightly different markup. I had to write
 Oh and, the last Sherlock Holmes book, [The Casebook of Sherlock Holmes][5] is
 not yet elevated to public domain, so I could not index it.
 
+## Dev
+
+Start by doing an `npm install` then:
+
+Run `npm run build` to parse all the books in `./books` and extract records in
+`./records`.
+
+Run `npm run push` to push the data to the Algolia index (will need
+`ALGOLIA_API_KEY` env variable).
+
+Run `npm run serve` to serve a local version on `http://localhost:4001`.
+
+You can run `npm run test` and `npm run test:watch` to run the tests, but there
+are very few of them.
+
+Finally, `npm run deploy` will build the website in `./public`, commit it to
+`gh-pages` and push it.
+
 [1]: https://www.gutenberg.org/files/98/98-h/98-h.htm
 [2]: http://www.gutenberg.org/
 [3]: http://www.gutenberg.org/ebooks/subject/76
