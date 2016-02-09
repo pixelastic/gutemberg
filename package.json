@@ -21,7 +21,8 @@
     "push": "babel-node ./lib/push.js",
     "serve": "brunch watch",
     "test": "BABEL_ENV=test mocha --reporter dot",
-    "test:watch": "BABEL_ENV=test mocha --reporter min --watch"
+    "test:watch": "BABEL_ENV=test mocha --reporter min --watch",
+    "deploy": "./scripts/gh-pages"
   },
   "devDependencies": {
     "algoliasearch": "^3.10.2",
