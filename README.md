@@ -99,6 +99,27 @@ are very few of them.
 Finally, `npm run deploy` will build the website in `./public`, commit it to
 `gh-pages` and push it.
 
+## TODO
+
+- Order books by publishing dates
+- Remove the capitalization on titles
+- Display the chapters only if a book is selected
+- Order chapters by order
+- Make the sidebar larger
+- Add an icon for each book
+
+- Use a serif font on the hits https://www.google.com/fonts/specimen/Lora
+- Use a background that looks like a paper
+  http://www.photos-public-domain.com/wp-content/uploads/2012/05/ivory-off-white-paper-texture.jpg
+- Use a funky highlight http://codepen.io/pixelephant/pen/ghtfF
+- Use a nice and funky font on the chapter/book in the hits
+- Add a small avatar of the books
+- Add a ligature separator between blocks
+  https://commons.wikimedia.org/wiki/File:->Flourisch_01->.svg
+
+- Add a leather header?
+- Opened book effect between sidebar and hits
+
 [1]: https://www.gutenberg.org/files/98/98-h/98-h.htm
 [2]: http://www.gutenberg.org/
 [3]: http://www.gutenberg.org/ebooks/subject/76
