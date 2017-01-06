@@ -2,7 +2,7 @@
 
 Search into the whole Sherlock Holmes book collection using Algolia.
 
-[http://pixelastic.github.io/gutenberg/](http://pixelastic.github.io/gutenberg/)
+[http://pixelastic.github.io/sherlock-search/](http://pixelastic.github.io/sherlock-search/)
 
 ## Why?
 
