@@ -405,7 +405,7 @@
     "context": {
       "next": {
         "content": "\"The county police ought to make something of that,\" said he; \"why, it is surely obvious that—\"",
-        "objectID": "c52a42d3fab0786cffc4cf6d8783d858"
+        "objectID": "917445b72eafa985c9099625ce9e0570"
       },
       "previous": {
         "content": "\"Oh, the fellows evidently grabbed hold of everything they could get.\"",
@@ -433,7 +433,7 @@
         "objectID": "21c215c7642294612961fd97cd5eede4"
       }
     },
-    "objectID": "c52a42d3fab0786cffc4cf6d8783d858",
+    "objectID": "917445b72eafa985c9099625ce9e0570",
     "order": 21,
     "tagName": "P"
   },
@@ -451,7 +451,7 @@
       },
       "previous": {
         "content": "\"The county police ought to make something of that,\" said he; \"why, it is surely obvious that—\"",
-        "objectID": "c52a42d3fab0786cffc4cf6d8783d858"
+        "objectID": "917445b72eafa985c9099625ce9e0570"
       }
     },
     "objectID": "4cfddaad1088cd289b2116acf14eb17b",
@@ -783,7 +783,7 @@
     "context": {
       "next": {
         "content": "\"Hum! It may prove the simplest matter in the world, but all the same at first glance this is just a little curious, is it not? A gang of burglars acting in the country might be expected to vary the scene of their operations, and not to crack two cribs in the same district within a few days. When you spoke last night of taking precautions I remember that it passed through my mind that this was probably the last parish in England to which the thief or thieves would be likely to turn their attention—which shows that I have still much to learn.",
-        "objectID": "e461b24b4a301a204df4be46a110f224"
+        "objectID": "cc1412813911075f62944d5cdde239fe"
       },
       "previous": {
         "content": "\"And stole that very singular collection,\" said Holmes, thoughtfully.",
@@ -811,7 +811,7 @@
         "objectID": "cbad64a5f18c7c2cd8d1e250808fd198"
       }
     },
-    "objectID": "e461b24b4a301a204df4be46a110f224",
+    "objectID": "cc1412813911075f62944d5cdde239fe",
     "order": 39,
     "tagName": "P"
   },
@@ -829,7 +829,7 @@
       },
       "previous": {
         "content": "\"Hum! It may prove the simplest matter in the world, but all the same at first glance this is just a little curious, is it not? A gang of burglars acting in the country might be expected to vary the scene of their operations, and not to crack two cribs in the same district within a few days. When you spoke last night of taking precautions I remember that it passed through my mind that this was probably the last parish in England to which the thief or thieves would be likely to turn their attention—which shows that I have still much to learn.",
-        "objectID": "e461b24b4a301a204df4be46a110f224"
+        "objectID": "cc1412813911075f62944d5cdde239fe"
       }
     },
     "objectID": "b9575ddd95849c49a4312c9371349146",
@@ -1161,7 +1161,7 @@
     "context": {
       "next": {
         "content": "\"Not a word. He lives at the lodge with his mother, and as he was a very faithful fellow we imagine that he walked up to the house with the intention of seeing that all was right there. Of course this Acton business has put every one on their guard. The robber must have just burst open the door—the lock has been forced—when William came upon him.",
-        "objectID": "ad95e487b6cc98e197c7a7df4e7f3d95"
+        "objectID": "0b522ad7e115cd7a34675bdef7093710"
       },
       "previous": {
         "content": "\"",
@@ -1189,7 +1189,7 @@
         "objectID": "72c62d1f7206deaa9cc23fe3bacb1542"
       }
     },
-    "objectID": "ad95e487b6cc98e197c7a7df4e7f3d95",
+    "objectID": "0b522ad7e115cd7a34675bdef7093710",
     "order": 57,
     "tagName": "P"
   },
@@ -1207,7 +1207,7 @@
       },
       "previous": {
         "content": "\"Not a word. He lives at the lodge with his mother, and as he was a very faithful fellow we imagine that he walked up to the house with the intention of seeing that all was right there. Of course this Acton business has put every one on their guard. The robber must have just burst open the door—the lock has been forced—when William came upon him.",
-        "objectID": "ad95e487b6cc98e197c7a7df4e7f3d95"
+        "objectID": "0b522ad7e115cd7a34675bdef7093710"
       }
     },
     "objectID": "9c3b0fda5b26d9c0e63ba0d5b7514148",
@@ -1329,7 +1329,7 @@
     "context": {
       "next": {
         "content": "\"Presuming that it is an appointment,\" continued the Inspector, \"it is of course a conceivable theory that this William Kirwan—though he had the reputation of being an honest man, may have been in league with the thief. He may have met him there, may even have helped him to break in the door, and then they may have fallen out between themselves.",
-        "objectID": "5566fa87e604820a95eb69f474780d95"
+        "objectID": "e4ee6141d7339768faa5fcedd564c41d"
       },
       "previous": {
         "content": "It reads almost as though it were an appointment.\"",
@@ -1357,7 +1357,7 @@
         "objectID": "dc2177e8caeaaf528bbc642dd8269050"
       }
     },
-    "objectID": "5566fa87e604820a95eb69f474780d95",
+    "objectID": "e4ee6141d7339768faa5fcedd564c41d",
     "order": 65,
     "tagName": "P"
   },
@@ -1375,7 +1375,7 @@
       },
       "previous": {
         "content": "\"Presuming that it is an appointment,\" continued the Inspector, \"it is of course a conceivable theory that this William Kirwan—though he had the reputation of being an honest man, may have been in league with the thief. He may have met him there, may even have helped him to break in the door, and then they may have fallen out between themselves.",
-        "objectID": "5566fa87e604820a95eb69f474780d95"
+        "objectID": "e4ee6141d7339768faa5fcedd564c41d"
       }
     },
     "objectID": "b62824cd707db6c3f01cf0c922d475c8",
@@ -1392,7 +1392,7 @@
     "context": {
       "next": {
         "content": "\"Your last remark,\" said Holmes, presently, \"as to the possibility of there being an understanding between the burglar and the servant, and this being a note of appointment from one to the other, is an ingenious and not entirely impossible supposition. But this writing opens up—\" He sank his head into his hands again and remained for some minutes in the deepest thought.",
-        "objectID": "9b26e4d4c072d29fd4c60e5e9aa12166"
+        "objectID": "07a5a29c9984cc0c3d73add3f05dfd89"
       },
       "previous": {
         "content": "\"",
@@ -1420,7 +1420,7 @@
         "objectID": "fe3c0d44aa1c8d4cdfb7e80eba294dc6"
       }
     },
-    "objectID": "9b26e4d4c072d29fd4c60e5e9aa12166",
+    "objectID": "07a5a29c9984cc0c3d73add3f05dfd89",
     "order": 68,
     "tagName": "P"
   },
@@ -1438,7 +1438,7 @@
       },
       "previous": {
         "content": "\"Your last remark,\" said Holmes, presently, \"as to the possibility of there being an understanding between the burglar and the servant, and this being a note of appointment from one to the other, is an ingenious and not entirely impossible supposition. But this writing opens up—\" He sank his head into his hands again and remained for some minutes in the deepest thought.",
-        "objectID": "9b26e4d4c072d29fd4c60e5e9aa12166"
+        "objectID": "07a5a29c9984cc0c3d73add3f05dfd89"
       }
     },
     "objectID": "f5947a7b3277981660ecab4194d31328",
@@ -2148,7 +2148,7 @@
     "context": {
       "next": {
         "content": "\"Throw the door open, officer,\" said Holmes. \"Now, it was on those stairs that young Mr. Cunningham stood and saw the two men struggling just where we are. Old Mr. Cunningham was at that window—the second on the left—and he saw the fellow get away just to the left of that bush. Then Mr. Alec ran out and knelt beside the wounded man.",
-        "objectID": "4f3fa95f1f649e44002bc27e1a3a53e0"
+        "objectID": "7ba7aac6a0a200e1b91723a68e7261ed"
       },
       "previous": {
         "content": "We passed the pretty cottage where the murdered man had lived, and walked up an oak-lined avenue to the fine old Queen Anne house, which bears the date of Malplaquet upon the lintel of the door. Holmes and the Inspector led us round it until we came to the side gate, which is separated by a stretch of garden from the hedge which lines the road.",
@@ -2176,7 +2176,7 @@
         "objectID": "997b56dec97b5226386bc63a18f33a6a"
       }
     },
-    "objectID": "4f3fa95f1f649e44002bc27e1a3a53e0",
+    "objectID": "7ba7aac6a0a200e1b91723a68e7261ed",
     "order": 104,
     "tagName": "P"
   },
@@ -2194,7 +2194,7 @@
       },
       "previous": {
         "content": "\"Throw the door open, officer,\" said Holmes. \"Now, it was on those stairs that young Mr. Cunningham stood and saw the two men struggling just where we are. Old Mr. Cunningham was at that window—the second on the left—and he saw the fellow get away just to the left of that bush. Then Mr. Alec ran out and knelt beside the wounded man.",
-        "objectID": "4f3fa95f1f649e44002bc27e1a3a53e0"
+        "objectID": "7ba7aac6a0a200e1b91723a68e7261ed"
       }
     },
     "objectID": "95e45275f68d85d672cdd87d13374306",
@@ -2253,7 +2253,7 @@
     "context": {
       "next": {
         "content": "\"There's only one,\" answered the Inspector. \"We thought that if we could only find—Good heavens, Mr. Holmes! What is the matter?\"",
-        "objectID": "8c25e8cb9e584f226dc0feaf023f0f40"
+        "objectID": "3fe9c95bbb75997a97fa4dfefd3d64ef"
       },
       "previous": {
         "content": "\"Ah, you must give us a little time,\" said Holmes good-humoredly.",
@@ -2281,7 +2281,7 @@
         "objectID": "65f9703f3158ba4aa0641b2f4ba4d5a1"
       }
     },
-    "objectID": "8c25e8cb9e584f226dc0feaf023f0f40",
+    "objectID": "3fe9c95bbb75997a97fa4dfefd3d64ef",
     "order": 109,
     "tagName": "P"
   },
@@ -2299,7 +2299,7 @@
       },
       "previous": {
         "content": "\"There's only one,\" answered the Inspector. \"We thought that if we could only find—Good heavens, Mr. Holmes! What is the matter?\"",
-        "objectID": "8c25e8cb9e584f226dc0feaf023f0f40"
+        "objectID": "3fe9c95bbb75997a97fa4dfefd3d64ef"
       }
     },
     "objectID": "5059f0ce588eafcc8f8db39b4d93a6f8",
@@ -2568,7 +2568,7 @@
     "context": {
       "next": {
         "content": "\"There are some very singular points here,\" said Holmes, smiling. \"Is it not extraordinary that a burglar—and a burglar who had had some previous experience—should deliberately break into a house at a time when he could see from the lights that two of the family were still afoot?\"",
-        "objectID": "ccfa35ec4f275f7878527bfb81895641"
+        "objectID": "b388ef0ba68d9470eb22188a806120bc"
       },
       "previous": {
         "content": "\"Both of your lamps were lit, of course?\"",
@@ -2596,7 +2596,7 @@
         "objectID": "3a685650c9095a21fced0e7820d748c7"
       }
     },
-    "objectID": "ccfa35ec4f275f7878527bfb81895641",
+    "objectID": "b388ef0ba68d9470eb22188a806120bc",
     "order": 124,
     "tagName": "P"
   },
@@ -2614,7 +2614,7 @@
       },
       "previous": {
         "content": "\"There are some very singular points here,\" said Holmes, smiling. \"Is it not extraordinary that a burglar—and a burglar who had had some previous experience—should deliberately break into a house at a time when he could see from the lights that two of the family were still afoot?\"",
-        "objectID": "ccfa35ec4f275f7878527bfb81895641"
+        "objectID": "b388ef0ba68d9470eb22188a806120bc"
       }
     },
     "objectID": "971a7cbc4fc6f3a48b9251ba862c7188",
@@ -2652,7 +2652,7 @@
     "context": {
       "next": {
         "content": "\"It depends on what the things were,\" said Holmes. \"You must remember that we are dealing with a burglar who is a very peculiar fellow, and who appears to work on lines of his own. Look, for example, at the queer lot of things which he took from Acton's—what was it?—a ball of string, a letter-weight, and I don't know what other odds and ends.",
-        "objectID": "fc9494a02de129169058c8d15e2cfdf7"
+        "objectID": "e62f0c68cacbaafa45cb1c1e217747e3"
       },
       "previous": {
         "content": "\"Well, of course, if the case were not an odd one we should not have been driven to ask you for an explanation,\" said young Mr. Alec. \"But as to your ideas that the man had robbed the house before William tackled him, I think it a most absurd notion. Wouldn't we have found the place disarranged, and",
@@ -2680,7 +2680,7 @@
         "objectID": "ea1ea7196196657125efffcb8796e73c"
       }
     },
-    "objectID": "fc9494a02de129169058c8d15e2cfdf7",
+    "objectID": "e62f0c68cacbaafa45cb1c1e217747e3",
     "order": 128,
     "tagName": "P"
   },
@@ -2698,7 +2698,7 @@
       },
       "previous": {
         "content": "\"It depends on what the things were,\" said Holmes. \"You must remember that we are dealing with a burglar who is a very peculiar fellow, and who appears to work on lines of his own. Look, for example, at the queer lot of things which he took from Acton's—what was it?—a ball of string, a letter-weight, and I don't know what other odds and ends.",
-        "objectID": "fc9494a02de129169058c8d15e2cfdf7"
+        "objectID": "e62f0c68cacbaafa45cb1c1e217747e3"
       }
     },
     "objectID": "6fdc6e006bbef9a0de6352d67e0f8f32",
@@ -2715,7 +2715,7 @@
     "context": {
       "next": {
         "content": "\"In the first place,\" said Holmes, \"I should like you to offer a reward—coming from yourself, for the officials may take a little time before they would agree upon the sum, and these things cannot be done too promptly. I have jotted down the form here, if you would not mind signing it. Fifty pounds was quite enough, I thought.",
-        "objectID": "006c68a565f10efbc4537ea95c6f5377"
+        "objectID": "09e04719a9f51de519c15f966c173814"
       },
       "previous": {
         "content": "\"",
@@ -2743,7 +2743,7 @@
         "objectID": "fc3af9870fefe2cc5710b5940f48ab9c"
       }
     },
-    "objectID": "006c68a565f10efbc4537ea95c6f5377",
+    "objectID": "09e04719a9f51de519c15f966c173814",
     "order": 131,
     "tagName": "P"
   },
@@ -2761,7 +2761,7 @@
       },
       "previous": {
         "content": "\"In the first place,\" said Holmes, \"I should like you to offer a reward—coming from yourself, for the officials may take a little time before they would agree upon the sum, and these things cannot be done too promptly. I have jotted down the form here, if you would not mind signing it. Fifty pounds was quite enough, I thought.",
-        "objectID": "006c68a565f10efbc4537ea95c6f5377"
+        "objectID": "09e04719a9f51de519c15f966c173814"
       }
     },
     "objectID": "d6902c90c20c91c3a76987cd42e831b9",
@@ -3219,7 +3219,7 @@
     "context": {
       "next": {
         "content": "\"Still, I must ask you to humor me a little further. I should like, for example, to see how far the windows of the bedrooms command the front. This, I understand is your son's room\"—he pushed open the door—\"and that, I presume, is the dressing-room in which he sat smoking when the alarm was given. Where does the window of that look out to?\" He stepped across the bedroom, pushed open the door, and glanced round the other chamber.",
-        "objectID": "db21f0d92a43cb13510bf469029988d4"
+        "objectID": "99d92c3cf85bcbae7efdfab40f222698"
       },
       "previous": {
         "content": "\"My good sir,\" said Mr. Cunningham with some impatience, \"this is surely very unnecessary. That is my room at the end of the stairs, and my son's is the one beyond it. I leave it to your judgment whether it was possible for the thief to have come up here without disturbing us.\"",
@@ -3247,7 +3247,7 @@
         "objectID": "2f36ce2338ef93d16ba999e512f93492"
       }
     },
-    "objectID": "db21f0d92a43cb13510bf469029988d4",
+    "objectID": "99d92c3cf85bcbae7efdfab40f222698",
     "order": 155,
     "tagName": "P"
   },
@@ -3265,7 +3265,7 @@
       },
       "previous": {
         "content": "\"Still, I must ask you to humor me a little further. I should like, for example, to see how far the windows of the bedrooms command the front. This, I understand is your son's room\"—he pushed open the door—\"and that, I presume, is the dressing-room in which he sat smoking when the alarm was given. Where does the window of that look out to?\" He stepped across the bedroom, pushed open the door, and glanced round the other chamber.",
-        "objectID": "db21f0d92a43cb13510bf469029988d4"
+        "objectID": "99d92c3cf85bcbae7efdfab40f222698"
       }
     },
     "objectID": "f31592e3166ea6cd57dafdf9e4af3ea5",
@@ -3492,7 +3492,7 @@
     "context": {
       "next": {
         "content": "\"'Pon my word, I am inclined to agree with Master Alec,\" said the official. \"It may be the effect of this illness, but it seems to me that—\"",
-        "objectID": "8bf4759397b6973e4929c445cea3ab7b"
+        "objectID": "4387c80896424a7b1805061aaf05815f"
       },
       "previous": {
         "content": "\"Wait here an instant,\" said young Alec Cunningham. \"The fellow is off his head, in my opinion. Come with me, father, and see where he has got to!\"",
@@ -3520,7 +3520,7 @@
         "objectID": "f1febf8ba8a782ac02d89fe574624d87"
       }
     },
-    "objectID": "8bf4759397b6973e4929c445cea3ab7b",
+    "objectID": "4387c80896424a7b1805061aaf05815f",
     "order": 168,
     "tagName": "P"
   },
@@ -3538,7 +3538,7 @@
       },
       "previous": {
         "content": "\"'Pon my word, I am inclined to agree with Master Alec,\" said the official. \"It may be the effect of this illness, but it seems to me that—\"",
-        "objectID": "8bf4759397b6973e4929c445cea3ab7b"
+        "objectID": "4387c80896424a7b1805061aaf05815f"
       }
     },
     "objectID": "73e358d4d834cefb73701439a0cf83ba",
@@ -3618,7 +3618,7 @@
     "context": {
       "next": {
         "content": "The Inspector stared about him in bewilderment. \"Oh, come now, Mr. Holmes,\" said he at last, \"I'm sure you don't really mean to—\"",
-        "objectID": "6ae9eb325e904c5dfdef994362d6ffcd"
+        "objectID": "c7b7aa9d335bf67a4f0ec404497c1c8f"
       },
       "previous": {
         "content": "\"On what charge?\"",
@@ -3646,7 +3646,7 @@
         "objectID": "4ccbf955f09dd0279560de3b8a80e49e"
       }
     },
-    "objectID": "6ae9eb325e904c5dfdef994362d6ffcd",
+    "objectID": "c7b7aa9d335bf67a4f0ec404497c1c8f",
     "order": 174,
     "tagName": "P"
   },
@@ -3664,7 +3664,7 @@
       },
       "previous": {
         "content": "The Inspector stared about him in bewilderment. \"Oh, come now, Mr. Holmes,\" said he at last, \"I'm sure you don't really mean to—\"",
-        "objectID": "6ae9eb325e904c5dfdef994362d6ffcd"
+        "objectID": "c7b7aa9d335bf67a4f0ec404497c1c8f"
       }
     },
     "objectID": "7cedd5e5faad21ce657acd66cc5348eb",
@@ -3702,7 +3702,7 @@
     "context": {
       "next": {
         "content": "\"I have no alternative, Mr. Cunningham,\" said he. \"I trust that this may all prove to be an absurd mistake, but you can see that—Ah, would you? Drop it!\" He struck out with his hand, and a revolver which the younger man was in the act of cocking clattered down upon the floor.",
-        "objectID": "e35e53dc0c16aa9519054cb786cf1857"
+        "objectID": "3c051cbad503d2bc932d3028d7c63d7b"
       },
       "previous": {
         "content": "Never certainly have I seen a plainer confession of guilt upon human countenances. The older man seemed numbed and dazed with a heavy, sullen expression upon his strongly-marked face. The son, on the other hand, had dropped all that jaunty, dashing style which had characterized him, and the ferocity of a dangerous wild beast gleamed in his dark eyes and distorted his handsome features.",
@@ -3730,7 +3730,7 @@
         "objectID": "eef6341fac89a2fe3cfe1ff99f323191"
       }
     },
-    "objectID": "e35e53dc0c16aa9519054cb786cf1857",
+    "objectID": "3c051cbad503d2bc932d3028d7c63d7b",
     "order": 178,
     "tagName": "P"
   },
@@ -3748,7 +3748,7 @@
       },
       "previous": {
         "content": "\"I have no alternative, Mr. Cunningham,\" said he. \"I trust that this may all prove to be an absurd mistake, but you can see that—Ah, would you? Drop it!\" He struck out with his hand, and a revolver which the younger man was in the act of cocking clattered down upon the floor.",
-        "objectID": "e35e53dc0c16aa9519054cb786cf1857"
+        "objectID": "3c051cbad503d2bc932d3028d7c63d7b"
       }
     },
     "objectID": "9c49bc32da31863e075e6420609f5198",
@@ -4521,7 +4521,7 @@
     "context": {
       "next": {
         "content": "\"Precisely so,\" said Mr. Acton. \"There can be no possible doubt as to their intentions. I have the clearest claim upon half of their present estate, and if they could have found a single paper—which, fortunately, was in the strong-box of my solicitors—they would undoubtedly have crippled our case.\"",
-        "objectID": "e7a49c5cae9df56432d8788634370fe2"
+        "objectID": "9c92a32fed172c9ed6089ca45af1531c"
       },
       "previous": {
         "content": "\"And now I have to consider the motive of this singular crime. To get at this, I endeavored first of all to solve the reason of the original burglary at Mr. Acton's. I understood, from something which the Colonel told us, that a lawsuit had been going on between you, Mr. Acton, and the Cunninghams. Of course, it instantly occurred to me that they had broken into your library with the intention of getting at some document which might be of importance in the case.",
@@ -4549,7 +4549,7 @@
         "objectID": "f95dc0fd2f759bfeb404480ec24631d7"
       }
     },
-    "objectID": "e7a49c5cae9df56432d8788634370fe2",
+    "objectID": "9c92a32fed172c9ed6089ca45af1531c",
     "order": 217,
     "tagName": "P"
   },
@@ -4567,7 +4567,7 @@
       },
       "previous": {
         "content": "\"Precisely so,\" said Mr. Acton. \"There can be no possible doubt as to their intentions. I have the clearest claim upon half of their present estate, and if they could have found a single paper—which, fortunately, was in the strong-box of my solicitors—they would undoubtedly have crippled our case.\"",
-        "objectID": "e7a49c5cae9df56432d8788634370fe2"
+        "objectID": "9c92a32fed172c9ed6089ca45af1531c"
       }
     },
     "objectID": "84477905a1f4427a39d08aeb17899087",
@@ -4731,7 +4731,7 @@
     "context": {
       "next": {
         "content": "I had hardly got the paper, however—which was, as I had expected, in one of them—when the two Cunninghams were on me, and would, I verily believe, have murdered me then and there but for your prompt and friendly aid. As it is, I feel that young man's grip on my throat now, and the father has twisted my wrist round in the effort to get the paper out of my hand.",
-        "objectID": "d042c17e418a1d3aee2a9a240bd746d3"
+        "objectID": "9b47fce53c5c94cbe60ac640cb40e33b"
       },
       "previous": {
         "content": "\"Oh, what an ass I have been!\" I exclaimed.",
@@ -4759,7 +4759,7 @@
         "objectID": "e3ac106f3505003613680b9023c7ff5f"
       }
     },
-    "objectID": "d042c17e418a1d3aee2a9a240bd746d3",
+    "objectID": "9b47fce53c5c94cbe60ac640cb40e33b",
     "order": 227,
     "tagName": "P"
   },
@@ -4777,7 +4777,7 @@
       },
       "previous": {
         "content": "I had hardly got the paper, however—which was, as I had expected, in one of them—when the two Cunninghams were on me, and would, I verily believe, have murdered me then and there but for your prompt and friendly aid. As it is, I feel that young man's grip on my throat now, and the father has twisted my wrist round in the effort to get the paper out of my hand.",
-        "objectID": "d042c17e418a1d3aee2a9a240bd746d3"
+        "objectID": "9b47fce53c5c94cbe60ac640cb40e33b"
       }
     },
     "objectID": "5fb2bd5db813cf01b795ab178b61215b",

@@ -447,7 +447,7 @@
     "context": {
       "next": {
         "content": "It ran in this way—",
-        "objectID": "22f358654cb8a8e37475d81313749bbf"
+        "objectID": "e034c2586a14a95b2bda69bc49d6764e"
       },
       "previous": {
         "content": "I was on the point of asking him what that work might be, but something in his manner showed me that the question would be an unwelcome one. I pondered over our short conversation, however, and endeavoured to draw my deductions from it. He said that he would acquire no knowledge which did not bear upon his object.",
@@ -468,14 +468,14 @@
     "context": {
       "next": {
         "content": "SHERLOCK HOLMES—his limits.",
-        "objectID": "f225c119d1872b2ab52564798a58ae68"
+        "objectID": "559a60229e384d9e008f953b8f7d4a12"
       },
       "previous": {
         "content": "Therefore all the knowledge which he possessed was such as would be useful to him. I enumerated in my own mind all the various points upon which he had shown me that he was exceptionally well-informed. I even took a pencil and jotted them down. I could not help smiling at the document when I had completed it.",
         "objectID": "b720b51d8310cf0100f1ccb7f03bff7c"
       }
     },
-    "objectID": "22f358654cb8a8e37475d81313749bbf",
+    "objectID": "e034c2586a14a95b2bda69bc49d6764e",
     "order": 23,
     "tagName": "P"
   },
@@ -493,10 +493,10 @@
       },
       "previous": {
         "content": "It ran in this way—",
-        "objectID": "22f358654cb8a8e37475d81313749bbf"
+        "objectID": "e034c2586a14a95b2bda69bc49d6764e"
       }
     },
-    "objectID": "f225c119d1872b2ab52564798a58ae68",
+    "objectID": "559a60229e384d9e008f953b8f7d4a12",
     "order": 24,
     "tagName": "P"
   },
@@ -514,7 +514,7 @@
       },
       "previous": {
         "content": "SHERLOCK HOLMES—his limits.",
-        "objectID": "f225c119d1872b2ab52564798a58ae68"
+        "objectID": "559a60229e384d9e008f953b8f7d4a12"
       }
     },
     "objectID": "ec689d9851199f309f6579e44e718c09",
@@ -804,7 +804,7 @@
     "context": {
       "next": {
         "content": "Puerile as such an exercise may seem, it sharpens the faculties of observation, and teaches one where to look and what to look for. By a man's finger nails, by his coat-sleeve, by his boot, by his trouser knees, by the callosities of his forefinger and thumb, by his expression, by his shirt cuffs—by each of these things a man's calling is plainly revealed.",
-        "objectID": "0b2921af6e608a313f52b6e6976ba935"
+        "objectID": "9c9c72612415afc40c8939f159a52573"
       },
       "previous": {
         "content": "\"From a drop of water,\" said the writer, \"a logician could infer the possibility of an Atlantic or a Niagara without having seen or heard of one or the other. So all life is a great chain, the nature of which is known whenever we are shown a single link of it. Like all other arts, the Science of Deduction and Analysis is one which can only be acquired by long and patient study nor is life long enough to allow any mortal to attain the highest possible perfection in it.",
@@ -832,7 +832,7 @@
         "objectID": "8fdc2a542b8a726050c6d5e19c3518b0"
       }
     },
-    "objectID": "0b2921af6e608a313f52b6e6976ba935",
+    "objectID": "9c9c72612415afc40c8939f159a52573",
     "order": 40,
     "tagName": "P"
   },
@@ -850,7 +850,7 @@
       },
       "previous": {
         "content": "Puerile as such an exercise may seem, it sharpens the faculties of observation, and teaches one where to look and what to look for. By a man's finger nails, by his coat-sleeve, by his boot, by his trouser knees, by the callosities of his forefinger and thumb, by his expression, by his shirt cuffs—by each of these things a man's calling is plainly revealed.",
-        "objectID": "0b2921af6e608a313f52b6e6976ba935"
+        "objectID": "9c9c72612415afc40c8939f159a52573"
       }
     },
     "objectID": "26027163a2ad3ab272c067a073b550a5",
@@ -972,7 +972,7 @@
     "context": {
       "next": {
         "content": "\"Yes, I have a turn both for observation and for deduction. The theories which I have expressed there, and which appear to you to be so chimerical are really extremely practical—so practical that I depend upon them for my bread and cheese.\"",
-        "objectID": "ffc8f67eb48b4f5b4b80d9eacd07fe5c"
+        "objectID": "4f5d3ccec1f904e771d21c7161923f6b"
       },
       "previous": {
         "content": "\"You would lose your money,\" Sherlock Holmes remarked calmly. \"As for the article I wrote it myself.\"",
@@ -1000,7 +1000,7 @@
         "objectID": "90e23204ffc01dd4f5ddb4a634655981"
       }
     },
-    "objectID": "ffc8f67eb48b4f5b4b80d9eacd07fe5c",
+    "objectID": "4f5d3ccec1f904e771d21c7161923f6b",
     "order": 48,
     "tagName": "P"
   },
@@ -1018,7 +1018,7 @@
       },
       "previous": {
         "content": "\"Yes, I have a turn both for observation and for deduction. The theories which I have expressed there, and which appear to you to be so chimerical are really extremely practical—so practical that I depend upon them for my bread and cheese.\"",
-        "objectID": "ffc8f67eb48b4f5b4b80d9eacd07fe5c"
+        "objectID": "4f5d3ccec1f904e771d21c7161923f6b"
       }
     },
     "objectID": "8ada717eb6286aba65d048d0edbf669a",

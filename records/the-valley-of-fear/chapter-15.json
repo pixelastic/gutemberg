@@ -90,7 +90,7 @@
     "context": {
       "next": {
         "content": "\"I've had bad news—terrible news, Mr. Holmes,\" said he.",
-        "objectID": "c7b7167f7b2de88631aa0fc4e57ca33c"
+        "objectID": "560fa853c21d83ea051ae62afd534660"
       },
       "previous": {
         "content": "\"Deviltry, Watson!\" he remarked, and sat long with a clouded brow.",
@@ -118,7 +118,7 @@
         "objectID": "2ee05819725a025908a64e124345f3fc"
       }
     },
-    "objectID": "c7b7167f7b2de88631aa0fc4e57ca33c",
+    "objectID": "560fa853c21d83ea051ae62afd534660",
     "order": 6,
     "tagName": "P"
   },
@@ -136,7 +136,7 @@
       },
       "previous": {
         "content": "\"I've had bad news—terrible news, Mr. Holmes,\" said he.",
-        "objectID": "c7b7167f7b2de88631aa0fc4e57ca33c"
+        "objectID": "560fa853c21d83ea051ae62afd534660"
       }
     },
     "objectID": "80860a3155fae415e03c8532c9a973e4",
@@ -384,7 +384,7 @@
     "context": {
       "next": {
         "content": "\"So I think also. These infernal Scowrers, this cursed vindictive nest of criminals—\"",
-        "objectID": "78d8516817e4162306ba1bfb4100bc51"
+        "objectID": "325abf13b50999d84e91d5acfc1e8805"
       },
       "previous": {
         "content": "\"He was murdered?\"",
@@ -412,7 +412,7 @@
         "objectID": "44498822d27c52e3f77b417fa9c6021b"
       }
     },
-    "objectID": "78d8516817e4162306ba1bfb4100bc51",
+    "objectID": "325abf13b50999d84e91d5acfc1e8805",
     "order": 20,
     "tagName": "P"
   },
@@ -430,7 +430,7 @@
       },
       "previous": {
         "content": "\"So I think also. These infernal Scowrers, this cursed vindictive nest of criminals—\"",
-        "objectID": "78d8516817e4162306ba1bfb4100bc51"
+        "objectID": "325abf13b50999d84e91d5acfc1e8805"
       }
     },
     "objectID": "bd228728c1ee4fcd7df6ce61fecf3d2b",
@@ -447,7 +447,7 @@
     "context": {
       "next": {
         "content": "\"Because it is done by a man who cannot afford to fail, one whose whole unique position depends upon the fact that all he does must succeed. A great brain and a huge organization have been turned to the extinction of one man. It is crushing the nut with the triphammer—an absurd extravagance of energy—but the nut is very effectually crushed all the same.",
-        "objectID": "efba356b66a8eb98b6338feeb879d6fc"
+        "objectID": "0b81bd291c99e898b2d0e7511123a7d3"
       },
       "previous": {
         "content": "\"No, no, my good sir,\" said Holmes. \"There is a master hand here. It is no case of sawed-off shotguns and clumsy six-shooters. You can tell an old master by the sweep of his brush. I can tell a Moriarty when I see one. This crime is from London, not from America.\"",
@@ -475,7 +475,7 @@
         "objectID": "5875032fe998902e3cb96761da09dbd5"
       }
     },
-    "objectID": "efba356b66a8eb98b6338feeb879d6fc",
+    "objectID": "0b81bd291c99e898b2d0e7511123a7d3",
     "order": 23,
     "tagName": "P"
   },
@@ -493,7 +493,7 @@
       },
       "previous": {
         "content": "\"Because it is done by a man who cannot afford to fail, one whose whole unique position depends upon the fact that all he does must succeed. A great brain and a huge organization have been turned to the extinction of one man. It is crushing the nut with the triphammer—an absurd extravagance of energy—but the nut is very effectually crushed all the same.",
-        "objectID": "efba356b66a8eb98b6338feeb879d6fc"
+        "objectID": "0b81bd291c99e898b2d0e7511123a7d3"
       }
     },
     "objectID": "2da260bd7ddb7f27e4d2708f5a79e895",
@@ -594,7 +594,7 @@
     "context": {
       "next": {
         "content": "\"No, I don't say that,\" said Holmes, and his eyes seemed to be looking far into the future. \"I don't say that he can't be beat. But you must give me time—you must give me time!\"",
-        "objectID": "7ddd75a3783b320e96d856b5a807f230"
+        "objectID": "d960ab59b46c5a386c65fad3b69d7a65"
       },
       "previous": {
         "content": "Was I right?\"",
@@ -622,7 +622,7 @@
         "objectID": "4f98766a8a3ed0c8c1bf09d1adca512f"
       }
     },
-    "objectID": "7ddd75a3783b320e96d856b5a807f230",
+    "objectID": "d960ab59b46c5a386c65fad3b69d7a65",
     "order": 30,
     "tagName": "P"
   },
@@ -637,7 +637,7 @@
       "next": null,
       "previous": {
         "content": "\"No, I don't say that,\" said Holmes, and his eyes seemed to be looking far into the future. \"I don't say that he can't be beat. But you must give me time—you must give me time!\"",
-        "objectID": "7ddd75a3783b320e96d856b5a807f230"
+        "objectID": "d960ab59b46c5a386c65fad3b69d7a65"
       }
     },
     "objectID": "359e8d09a316727dc5f3109862618161",

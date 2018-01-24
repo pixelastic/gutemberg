@@ -153,7 +153,7 @@
     "context": {
       "next": {
         "content": "\"Will call at 6:30—C.A.M.,\" I read.",
-        "objectID": "47c72ed5f96d0407ad3dd781c004fb7c"
+        "objectID": "83cfb138d482d0dd434b620cb9b873e2"
       },
       "previous": {
         "content": "\"The worst man in London,\" Holmes answered, as he sat down and stretched his legs before the fire. \"Is anything on the back of the card?\"",
@@ -181,7 +181,7 @@
         "objectID": "9db92c428b9b28d3826b810b7bc21354"
       }
     },
-    "objectID": "47c72ed5f96d0407ad3dd781c004fb7c",
+    "objectID": "83cfb138d482d0dd434b620cb9b873e2",
     "order": 9,
     "tagName": "P"
   },
@@ -195,11 +195,11 @@
     "context": {
       "next": {
         "content": "And yet I can't get out of doing business with him—indeed, he is here at my invitation.\"",
-        "objectID": "949e844626a9f249adcfa05ce0dcf4a4"
+        "objectID": "03183634e7994314429b86af9a631d8a"
       },
       "previous": {
         "content": "\"Will call at 6:30—C.A.M.,\" I read.",
-        "objectID": "47c72ed5f96d0407ad3dd781c004fb7c"
+        "objectID": "83cfb138d482d0dd434b620cb9b873e2"
       }
     },
     "objectID": "b5ba4340879505a691581ab9a1bdfe79",
@@ -223,7 +223,7 @@
         "objectID": "b5ba4340879505a691581ab9a1bdfe79"
       }
     },
-    "objectID": "949e844626a9f249adcfa05ce0dcf4a4",
+    "objectID": "03183634e7994314429b86af9a631d8a",
     "order": 11,
     "tagName": "P"
   },
@@ -241,7 +241,7 @@
       },
       "previous": {
         "content": "And yet I can't get out of doing business with him—indeed, he is here at my invitation.\"",
-        "objectID": "949e844626a9f249adcfa05ce0dcf4a4"
+        "objectID": "03183634e7994314429b86af9a631d8a"
       }
     },
     "objectID": "293af7a29292a3834dae46c5ce6c3fd5",
@@ -447,7 +447,7 @@
     "context": {
       "next": {
         "content": "\"Because an illustrious client has placed her piteous case in my hands. It is the Lady Eva Blackwell, the most beautiful debutante of last season. She is to be married in a fortnight to the Earl of Dovercourt. This fiend has several imprudent letters—imprudent, Watson, nothing worse—which were written to an impecunious young squire in the country.",
-        "objectID": "08ed1f30fd7ddf5c5368d35237d60b93"
+        "objectID": "91d1b68128863728de94c83f62ef1e1b"
       },
       "previous": {
         "content": "No, no, we must find other ways to fight him.\"",
@@ -468,14 +468,14 @@
     "context": {
       "next": {
         "content": "They would suffice to break off the match. Milverton will send the letters to the Earl unless a large sum of money is paid him. I have been commissioned to meet him, and—to make the best terms I can.\"",
-        "objectID": "ddb025ac1a198373cba882cc1acbb4e0"
+        "objectID": "399176dfe431d4860bda3932425b9963"
       },
       "previous": {
         "content": "\"And why is he here?\"",
         "objectID": "1918785ae77fac5b77fafd8c2f6b83b3"
       }
     },
-    "objectID": "08ed1f30fd7ddf5c5368d35237d60b93",
+    "objectID": "91d1b68128863728de94c83f62ef1e1b",
     "order": 23,
     "tagName": "P"
   },
@@ -493,10 +493,10 @@
       },
       "previous": {
         "content": "\"Because an illustrious client has placed her piteous case in my hands. It is the Lady Eva Blackwell, the most beautiful debutante of last season. She is to be married in a fortnight to the Earl of Dovercourt. This fiend has several imprudent letters—imprudent, Watson, nothing worse—which were written to an impecunious young squire in the country.",
-        "objectID": "08ed1f30fd7ddf5c5368d35237d60b93"
+        "objectID": "91d1b68128863728de94c83f62ef1e1b"
       }
     },
-    "objectID": "ddb025ac1a198373cba882cc1acbb4e0",
+    "objectID": "399176dfe431d4860bda3932425b9963",
     "order": 24,
     "tagName": "P"
   },
@@ -514,7 +514,7 @@
       },
       "previous": {
         "content": "They would suffice to break off the match. Milverton will send the letters to the Earl unless a large sum of money is paid him. I have been commissioned to meet him, and—to make the best terms I can.\"",
-        "objectID": "ddb025ac1a198373cba882cc1acbb4e0"
+        "objectID": "399176dfe431d4860bda3932425b9963"
       }
     },
     "objectID": "d1ef00cdc60ce3c4249409c6657f44c7",
@@ -594,7 +594,7 @@
     "context": {
       "next": {
         "content": "\"Very good, Mr. Holmes. It is only in your client's interests that I protested. The matter is so very delicate——\"",
-        "objectID": "5b1f41bdbeef431309eb806b1fbd63e3"
+        "objectID": "693332cd9213757fb6565acc447d0fad"
       },
       "previous": {
         "content": "\"This gentleman?\" said he, with a wave in my direction. \"Is it discreet? Is it right?\"",
@@ -622,7 +622,7 @@
         "objectID": "bd7b04aad3948a2dbb03e46ec749fbcd"
       }
     },
-    "objectID": "5b1f41bdbeef431309eb806b1fbd63e3",
+    "objectID": "693332cd9213757fb6565acc447d0fad",
     "order": 30,
     "tagName": "P"
   },
@@ -640,7 +640,7 @@
       },
       "previous": {
         "content": "\"Very good, Mr. Holmes. It is only in your client's interests that I protested. The matter is so very delicate——\"",
-        "objectID": "5b1f41bdbeef431309eb806b1fbd63e3"
+        "objectID": "693332cd9213757fb6565acc447d0fad"
       }
     },
     "objectID": "8de5ac5930980cd92298672fb02bd29a",
@@ -867,7 +867,7 @@
     "context": {
       "next": {
         "content": "\"They are sprightly—very sprightly,\" Milverton answered. \"The lady was a charming correspondent. But I can assure you that the Earl of Dovercourt would fail to appreciate them. However, since you think otherwise, we will let it rest at that. It is purely a matter of business. If you think that it is in the best interests of your client that these letters should be placed in the hands of the Earl, then you would indeed be foolish to pay so large a sum of money to regain them.",
-        "objectID": "afeeb7f2bb27e1bb41f264ea70b1876b"
+        "objectID": "1cde24de73585776e5ba68f425d17b4f"
       },
       "previous": {
         "content": "From the baffled look upon Holmes's face, I could see clearly that he did.",
@@ -895,7 +895,7 @@
         "objectID": "546af3d28d8446a3ef908fc589e8cbac"
       }
     },
-    "objectID": "afeeb7f2bb27e1bb41f264ea70b1876b",
+    "objectID": "1cde24de73585776e5ba68f425d17b4f",
     "order": 43,
     "tagName": "P"
   },
@@ -913,7 +913,7 @@
       },
       "previous": {
         "content": "\"They are sprightly—very sprightly,\" Milverton answered. \"The lady was a charming correspondent. But I can assure you that the Earl of Dovercourt would fail to appreciate them. However, since you think otherwise, we will let it rest at that. It is purely a matter of business. If you think that it is in the best interests of your client that these letters should be placed in the hands of the Earl, then you would indeed be foolish to pay so large a sum of money to regain them.",
-        "objectID": "afeeb7f2bb27e1bb41f264ea70b1876b"
+        "objectID": "1cde24de73585776e5ba68f425d17b4f"
       }
     },
     "objectID": "313a0a767682f7462ae9ddc80703f60b",
@@ -1119,7 +1119,7 @@
     "context": {
       "next": {
         "content": "\"Dear me, dear me, how unfortunate!\" cried Milverton, taking out a bulky pocketbook. \"I cannot help thinking that ladies are ill-advised in not making an effort. Look at this!\" He held up a little note with a coat-of-arms upon the envelope. \"That belongs to—well, perhaps it is hardly fair to tell the name until to-morrow morning.",
-        "objectID": "5a3355e02db2a5a04eef6c56d3cc1fae"
+        "objectID": "132664783a16c4ccae10e05b38cd1995"
       },
       "previous": {
         "content": "\"",
@@ -1147,7 +1147,7 @@
         "objectID": "19f58467ee720ebb7c7d745357461a22"
       }
     },
-    "objectID": "5a3355e02db2a5a04eef6c56d3cc1fae",
+    "objectID": "132664783a16c4ccae10e05b38cd1995",
     "order": 55,
     "tagName": "P"
   },
@@ -1165,7 +1165,7 @@
       },
       "previous": {
         "content": "\"Dear me, dear me, how unfortunate!\" cried Milverton, taking out a bulky pocketbook. \"I cannot help thinking that ladies are ill-advised in not making an effort. Look at this!\" He held up a little note with a coat-of-arms upon the envelope. \"That belongs to—well, perhaps it is hardly fair to tell the name until to-morrow morning.",
-        "objectID": "5a3355e02db2a5a04eef6c56d3cc1fae"
+        "objectID": "132664783a16c4ccae10e05b38cd1995"
       }
     },
     "objectID": "7267b0687a78ae0d18d7bfa607796577",
@@ -1476,7 +1476,7 @@
     "context": {
       "next": {
         "content": "\"My dear fellow! I congrat——\"",
-        "objectID": "4207b902606bc649f29261482e909da6"
+        "objectID": "897c8084272edc4ec29db90de4e8eb13"
       },
       "previous": {
         "content": "\"No, indeed!\"",
@@ -1504,7 +1504,7 @@
         "objectID": "f9f7b654aebef82cf8de64fc6f119ddd"
       }
     },
-    "objectID": "4207b902606bc649f29261482e909da6",
+    "objectID": "897c8084272edc4ec29db90de4e8eb13",
     "order": 72,
     "tagName": "P"
   },
@@ -1522,7 +1522,7 @@
       },
       "previous": {
         "content": "\"My dear fellow! I congrat——\"",
-        "objectID": "4207b902606bc649f29261482e909da6"
+        "objectID": "897c8084272edc4ec29db90de4e8eb13"
       }
     },
     "objectID": "e8fadcd7ab0a794c124f49119becdbd3",
@@ -1707,7 +1707,7 @@
     "context": {
       "next": {
         "content": "I had a catching of the breath, and my skin went cold at the words, which were slowly uttered in a tone of concentrated resolution. As a flash of lightning in the night shows up in an instant every detail of a wild landscape, so at one glance I seemed to see every possible result of such an action—the detection, the capture, the honoured career ending in irreparable failure and disgrace, my friend himself lying at the mercy of the odious Milverton.",
-        "objectID": "5bf7457614329981c731b0cc161d5385"
+        "objectID": "04633ccc091adad203060b62548a6e1e"
       },
       "previous": {
         "content": "\"You like this weather?\"",
@@ -1735,7 +1735,7 @@
         "objectID": "fa270325557e8db3349266250fe736a5"
       }
     },
-    "objectID": "5bf7457614329981c731b0cc161d5385",
+    "objectID": "04633ccc091adad203060b62548a6e1e",
     "order": 83,
     "tagName": "P"
   },
@@ -1753,7 +1753,7 @@
       },
       "previous": {
         "content": "I had a catching of the breath, and my skin went cold at the words, which were slowly uttered in a tone of concentrated resolution. As a flash of lightning in the night shows up in an instant every detail of a wild landscape, so at one glance I seemed to see every possible result of such an action—the detection, the capture, the honoured career ending in irreparable failure and disgrace, my friend himself lying at the mercy of the odious Milverton.",
-        "objectID": "5bf7457614329981c731b0cc161d5385"
+        "objectID": "04633ccc091adad203060b62548a6e1e"
       }
     },
     "objectID": "462dc8e21314203c3685d4e0074d8b2f",
@@ -1770,7 +1770,7 @@
     "context": {
       "next": {
         "content": "To burgle his house is no more than to forcibly take his pocketbook—an action in which you were prepared to aid me.\"",
-        "objectID": "df42a900894bcc2e566197d52fc5910a"
+        "objectID": "0a6631e26234bce1329f3901cc3787ef"
       },
       "previous": {
         "content": "\"For heaven's sake, Holmes, think what you are doing,\" I cried.",
@@ -1798,7 +1798,7 @@
         "objectID": "6ee44838cd59c14b79b8faf975575d56"
       }
     },
-    "objectID": "df42a900894bcc2e566197d52fc5910a",
+    "objectID": "0a6631e26234bce1329f3901cc3787ef",
     "order": 86,
     "tagName": "P"
   },
@@ -1816,7 +1816,7 @@
       },
       "previous": {
         "content": "To burgle his house is no more than to forcibly take his pocketbook—an action in which you were prepared to aid me.\"",
-        "objectID": "df42a900894bcc2e566197d52fc5910a"
+        "objectID": "0a6631e26234bce1329f3901cc3787ef"
       }
     },
     "objectID": "11ef9da8f9555ef2dc1a75f0ac607a06",
@@ -1959,7 +1959,7 @@
     "context": {
       "next": {
         "content": "\"Then you are not going,\" said I. \"I give you my word of honour—and I never broke it in my life—that I will take a cab straight to the police-station and give you away, unless you let me share this adventure with you.\"",
-        "objectID": "b43d0b689525d87352dcccc2279f168f"
+        "objectID": "4fb8555e526635eb7305ce992d3b33b4"
       },
       "previous": {
         "content": "\"Well, I don't like it, but I suppose it must be,\" said I. \"When do we start?\"",
@@ -1987,7 +1987,7 @@
         "objectID": "51e2339aca9af37ff0572964a78e3506"
       }
     },
-    "objectID": "b43d0b689525d87352dcccc2279f168f",
+    "objectID": "4fb8555e526635eb7305ce992d3b33b4",
     "order": 95,
     "tagName": "P"
   },
@@ -2005,7 +2005,7 @@
       },
       "previous": {
         "content": "\"Then you are not going,\" said I. \"I give you my word of honour—and I never broke it in my life—that I will take a cab straight to the police-station and give you away, unless you let me share this adventure with you.\"",
-        "objectID": "b43d0b689525d87352dcccc2279f168f"
+        "objectID": "4fb8555e526635eb7305ce992d3b33b4"
       }
     },
     "objectID": "304ffab48e3aad57dc99409080e010c5",
@@ -2232,7 +2232,7 @@
     "context": {
       "next": {
         "content": "\"It's a business that needs delicate treatment,\" said Holmes. \"These documents are contained in a safe in the fellow's study, and the study is the ante-room of his bed-chamber. On the other hand, like all these stout, little men who do themselves well, he is a plethoric sleeper. Agatha—that's my fiancee—says it is a joke in the servants' hall that it's impossible to wake the master.",
-        "objectID": "a7128516684a638900629943736941e1"
+        "objectID": "0597d73f9edaa9101cce9d30e16ff386"
       },
       "previous": {
         "content": "Milverton is a heavy sleeper, and retires punctually at ten-thirty. With any luck we should be back here by two, with the Lady Eva's letters in my pocket.\"",
@@ -2260,7 +2260,7 @@
         "objectID": "f5800cc2590afaf5a5d27275e8b3c858"
       }
     },
-    "objectID": "a7128516684a638900629943736941e1",
+    "objectID": "0597d73f9edaa9101cce9d30e16ff386",
     "order": 108,
     "tagName": "P"
   },
@@ -2274,11 +2274,11 @@
     "context": {
       "next": {
         "content": "Through the gate—now to the right among the laurels. We might put on our masks here, I think. You see, there is not a glimmer of light in any of the windows, and everything is working splendidly.\"",
-        "objectID": "7cd79ea80a889b4a3c968577cfe3c4de"
+        "objectID": "35bba14cb93e891b99cd5ca23bda1e89"
       },
       "previous": {
         "content": "\"It's a business that needs delicate treatment,\" said Holmes. \"These documents are contained in a safe in the fellow's study, and the study is the ante-room of his bed-chamber. On the other hand, like all these stout, little men who do themselves well, he is a plethoric sleeper. Agatha—that's my fiancee—says it is a joke in the servants' hall that it's impossible to wake the master.",
-        "objectID": "a7128516684a638900629943736941e1"
+        "objectID": "0597d73f9edaa9101cce9d30e16ff386"
       }
     },
     "objectID": "d80fe6db6b9460aa0db55ab6045bd7fd",
@@ -2302,7 +2302,7 @@
         "objectID": "d80fe6db6b9460aa0db55ab6045bd7fd"
       }
     },
-    "objectID": "7cd79ea80a889b4a3c968577cfe3c4de",
+    "objectID": "35bba14cb93e891b99cd5ca23bda1e89",
     "order": 110,
     "tagName": "P"
   },
@@ -2320,7 +2320,7 @@
       },
       "previous": {
         "content": "Through the gate—now to the right among the laurels. We might put on our masks here, I think. You see, there is not a glimmer of light in any of the windows, and everything is working splendidly.\"",
-        "objectID": "7cd79ea80a889b4a3c968577cfe3c4de"
+        "objectID": "35bba14cb93e891b99cd5ca23bda1e89"
       }
     },
     "objectID": "6ae618decc511d08e22cb8a1bf8208c7",
@@ -2610,7 +2610,7 @@
     "context": {
       "next": {
         "content": "Turning up the cuffs of his dress-coat—he had placed his overcoat on a chair—Holmes laid out two drills, a jemmy, and several skeleton keys. I stood at the centre door with my eyes glancing at each of the others, ready for any emergency, though, indeed, my plans were somewhat vague as to what I should do if we were interrupted.",
-        "objectID": "e255c0c080e5ab5b305643da704f6255"
+        "objectID": "62d7348ddc7723c11b6eb31fac06313c"
       },
       "previous": {
         "content": "I nodded, and stood by the door. My first feeling of fear had passed away, and I thrilled now with a keener zest than I had ever enjoyed when we were the defenders of the law instead of its defiers. The high object of our mission, the consciousness that it was unselfish and chivalrous, the villainous character of our opponent, all added to the sporting interest of the adventure.",
@@ -2638,7 +2638,7 @@
         "objectID": "52f62ca2ae115691deb2fa582cf7557e"
       }
     },
-    "objectID": "e255c0c080e5ab5b305643da704f6255",
+    "objectID": "62d7348ddc7723c11b6eb31fac06313c",
     "order": 126,
     "tagName": "P"
   },
@@ -2656,7 +2656,7 @@
       },
       "previous": {
         "content": "Turning up the cuffs of his dress-coat—he had placed his overcoat on a chair—Holmes laid out two drills, a jemmy, and several skeleton keys. I stood at the centre door with my eyes glancing at each of the others, ready for any emergency, though, indeed, my plans were somewhat vague as to what I should do if we were interrupted.",
-        "objectID": "e255c0c080e5ab5b305643da704f6255"
+        "objectID": "62d7348ddc7723c11b6eb31fac06313c"
       }
     },
     "objectID": "0a3050f730435407f405f5cb0ef9e3a8",
@@ -2988,7 +2988,7 @@
     "context": {
       "next": {
         "content": "\"Well,\" said Milverton, \"you made me lose a good night's rest, my dear. I hope you'll prove worth it. You couldn't come any other time—eh?\"",
-        "objectID": "5ed24c3e48fd09bbcfa2f315113a94af"
+        "objectID": "277fe80f5e77dd42a84daeaaaf6ab498"
       },
       "previous": {
         "content": "So this was the explanation of the unlocked door and of the nocturnal vigil of Milverton. There was the gentle rustle of a woman's dress. I had closed the slit between the curtains as Milverton's face had turned in our direction, but now I ventured very carefully to open it once more. He had resumed his seat, the cigar still projecting at an insolent angle from the corner of his mouth.",
@@ -3016,7 +3016,7 @@
         "objectID": "f029fcf172a9d02abf68919d6b0cbe2d"
       }
     },
-    "objectID": "5ed24c3e48fd09bbcfa2f315113a94af",
+    "objectID": "277fe80f5e77dd42a84daeaaaf6ab498",
     "order": 144,
     "tagName": "P"
   },
@@ -3034,7 +3034,7 @@
       },
       "previous": {
         "content": "\"Well,\" said Milverton, \"you made me lose a good night's rest, my dear. I hope you'll prove worth it. You couldn't come any other time—eh?\"",
-        "objectID": "5ed24c3e48fd09bbcfa2f315113a94af"
+        "objectID": "277fe80f5e77dd42a84daeaaaf6ab498"
       }
     },
     "objectID": "968d381897421033f29c9b23b3bf0268",
@@ -3051,7 +3051,7 @@
     "context": {
       "next": {
         "content": "You want to sell them. I want to buy them. So far so good. It only remains to fix a price. I should want to inspect the letters, of course. If they are really good specimens—Great heavens, is it you?\"",
-        "objectID": "cdd40e5c0f0ecf79d5dd1708cd709f27"
+        "objectID": "3f373dfbafbb2ca7821d7ccd17e956fa"
       },
       "previous": {
         "content": "The woman shook her head.",
@@ -3072,14 +3072,14 @@
     "context": {
       "next": {
         "content": "The woman, without a word, had raised her veil and dropped the mantle from her chin. It was a dark, handsome, clear-cut face which confronted Milverton—a face with a curved nose, strong, dark eyebrows shading hard, glittering eyes, and a straight, thin-lipped mouth set in a dangerous smile.",
-        "objectID": "a43bd267cecf372fb7bb64bf1f54adf3"
+        "objectID": "08c59b49da116ec2f93cb4b116b88c71"
       },
       "previous": {
         "content": "\"Well, if you couldn't you couldn't. If the Countess is a hard mistress, you have your chance to get level with her now. Bless the girl, what are you shivering about? That's right. Pull yourself together. Now, let us get down to business.\" He took a notebook from the drawer of his desk. \"You say that you have five letters which compromise the Countess d'Albert.",
         "objectID": "30dd5d4cd5b0fae0fa195ec02e36ddf2"
       }
     },
-    "objectID": "cdd40e5c0f0ecf79d5dd1708cd709f27",
+    "objectID": "3f373dfbafbb2ca7821d7ccd17e956fa",
     "order": 147,
     "tagName": "P"
   },
@@ -3097,10 +3097,10 @@
       },
       "previous": {
         "content": "You want to sell them. I want to buy them. So far so good. It only remains to fix a price. I should want to inspect the letters, of course. If they are really good specimens—Great heavens, is it you?\"",
-        "objectID": "cdd40e5c0f0ecf79d5dd1708cd709f27"
+        "objectID": "3f373dfbafbb2ca7821d7ccd17e956fa"
       }
     },
-    "objectID": "a43bd267cecf372fb7bb64bf1f54adf3",
+    "objectID": "08c59b49da116ec2f93cb4b116b88c71",
     "order": 148,
     "tagName": "P"
   },
@@ -3118,7 +3118,7 @@
       },
       "previous": {
         "content": "The woman, without a word, had raised her veil and dropped the mantle from her chin. It was a dark, handsome, clear-cut face which confronted Milverton—a face with a curved nose, strong, dark eyebrows shading hard, glittering eyes, and a straight, thin-lipped mouth set in a dangerous smile.",
-        "objectID": "a43bd267cecf372fb7bb64bf1f54adf3"
+        "objectID": "08c59b49da116ec2f93cb4b116b88c71"
       }
     },
     "objectID": "f22082d0d27257bea2f0161fdb16846a",
@@ -3135,7 +3135,7 @@
     "context": {
       "next": {
         "content": "\"So you sent the letters to my husband, and he—the noblest gentleman that ever lived, a man whose boots I was never worthy to lace—he broke his gallant heart and died. You remember that last night, when I came through that door, I begged and prayed you for mercy, and you laughed in my face as you are trying to laugh now, only your coward heart cannot keep your lips from twitching.",
-        "objectID": "6989b712e6edac306de693a0a8e8c3d9"
+        "objectID": "2dc2e7d806cd86cd65e75fa3d48f0cae"
       },
       "previous": {
         "content": "\"It is I,\" she said, \"the woman whose life you have ruined.\"",
@@ -3163,7 +3163,7 @@
         "objectID": "9ef717c44e206d42d349c3d810768ef1"
       }
     },
-    "objectID": "6989b712e6edac306de693a0a8e8c3d9",
+    "objectID": "2dc2e7d806cd86cd65e75fa3d48f0cae",
     "order": 151,
     "tagName": "P"
   },
@@ -3181,7 +3181,7 @@
       },
       "previous": {
         "content": "\"So you sent the letters to my husband, and he—the noblest gentleman that ever lived, a man whose boots I was never worthy to lace—he broke his gallant heart and died. You remember that last night, when I came through that door, I begged and prayed you for mercy, and you laughed in my face as you are trying to laugh now, only your coward heart cannot keep your lips from twitching.",
-        "objectID": "6989b712e6edac306de693a0a8e8c3d9"
+        "objectID": "2dc2e7d806cd86cd65e75fa3d48f0cae"
       }
     },
     "objectID": "ade734db2a8c5753ba89666d4b0d9c86",
@@ -3219,7 +3219,7 @@
     "context": {
       "next": {
         "content": "\"You will ruin no more lives as you have ruined mine. You will wring no more hearts as you wrung mine. I will free the world of a poisonous thing. Take that, you hound—and that!—and that!—and that!\"",
-        "objectID": "52ae235e4fee960b104aca9f7eace137"
+        "objectID": "cd8690baccd8a33dd579d4c21785b030"
       },
       "previous": {
         "content": "\"Don't imagine that you can bully me,\" said he, rising to his feet. \"I have only to raise my voice and I could call my servants and have you arrested. But I will make allowance for your natural anger. Leave the room at once as you came, and I will say no more.\"",
@@ -3247,7 +3247,7 @@
         "objectID": "5a20c8d3b262b76496286c1ebd724168"
       }
     },
-    "objectID": "52ae235e4fee960b104aca9f7eace137",
+    "objectID": "cd8690baccd8a33dd579d4c21785b030",
     "order": 155,
     "tagName": "P"
   },
@@ -3265,7 +3265,7 @@
       },
       "previous": {
         "content": "\"You will ruin no more lives as you have ruined mine. You will wring no more hearts as you wrung mine. I will free the world of a poisonous thing. Take that, you hound—and that!—and that!—and that!\"",
-        "objectID": "52ae235e4fee960b104aca9f7eace137"
+        "objectID": "cd8690baccd8a33dd579d4c21785b030"
       }
     },
     "objectID": "2bdd4dbb823db4b85e4cde23cc152b32",
@@ -3282,7 +3282,7 @@
     "context": {
       "next": {
         "content": "No interference upon our part could have saved the man from his fate, but, as the woman poured bullet after bullet into Milverton's shrinking body I was about to spring out, when I felt Holmes's cold, strong grasp upon my wrist. I understood the whole argument of that firm, restraining grip—that it was no affair of ours, that justice had overtaken a villain, that we had our own duties and our own objects, which were not to be lost sight of.",
-        "objectID": "b09f324fa93d69474c5ab7a271ff86b5"
+        "objectID": "1881b8ce75b74d4cad8a053958569a68"
       },
       "previous": {
         "content": "She had drawn a little gleaming revolver, and emptied barrel after barrel into Milverton's body, the muzzle within two feet of his shirt front. He shrank away and then fell forward upon the table, coughing furiously and clawing among the papers. Then he staggered to his feet, received another shot, and rolled upon the floor.",
@@ -3310,7 +3310,7 @@
         "objectID": "0d98c64f32cfac24b55b135c3fec5487"
       }
     },
-    "objectID": "b09f324fa93d69474c5ab7a271ff86b5",
+    "objectID": "1881b8ce75b74d4cad8a053958569a68",
     "order": 158,
     "tagName": "P"
   },
@@ -3328,7 +3328,7 @@
       },
       "previous": {
         "content": "No interference upon our part could have saved the man from his fate, but, as the woman poured bullet after bullet into Milverton's shrinking body I was about to spring out, when I felt Holmes's cold, strong grasp upon my wrist. I understood the whole argument of that firm, restraining grip—that it was no affair of ours, that justice had overtaken a villain, that we had our own duties and our own objects, which were not to be lost sight of.",
-        "objectID": "b09f324fa93d69474c5ab7a271ff86b5"
+        "objectID": "1881b8ce75b74d4cad8a053958569a68"
       }
     },
     "objectID": "e4f2c264a64956f5415464460f4d00e5",
@@ -3534,7 +3534,7 @@
     "context": {
       "next": {
         "content": "\"A murder—a most dramatic and remarkable murder. I know how keen you are upon these things, and I would take it as a great favour if you would step down to Appledore Towers, and give us the benefit of your advice. It is no ordinary crime. We have had our eyes upon this Mr. Milverton for some time, and, between ourselves, he was a bit of a villain.",
-        "objectID": "88c0211ca328286b484958e755a56a02"
+        "objectID": "32421bae818ab28de3e9a2fa05178828"
       },
       "previous": {
         "content": "\"I thought that, perhaps, if you had nothing particular on hand, you might care to assist us in a most remarkable case, which occurred only last night at Hampstead.\"",
@@ -3562,7 +3562,7 @@
         "objectID": "03f53d58eee268b0ed331560cbf22cda"
       }
     },
-    "objectID": "88c0211ca328286b484958e755a56a02",
+    "objectID": "32421bae818ab28de3e9a2fa05178828",
     "order": 170,
     "tagName": "P"
   },
@@ -3580,7 +3580,7 @@
       },
       "previous": {
         "content": "\"A murder—a most dramatic and remarkable murder. I know how keen you are upon these things, and I would take it as a great favour if you would step down to Appledore Towers, and give us the benefit of your advice. It is no ordinary crime. We have had our eyes upon this Mr. Milverton for some time, and, between ourselves, he was a bit of a villain.",
-        "objectID": "88c0211ca328286b484958e755a56a02"
+        "objectID": "32421bae818ab28de3e9a2fa05178828"
       }
     },
     "objectID": "427060e18f019d9d4fac86385844169f",
@@ -3597,7 +3597,7 @@
     "context": {
       "next": {
         "content": "\"Yes, there were two of them. They were as nearly as possible captured red-handed. We have their footmarks, we have their description, it's ten to one that we trace them. The first fellow was a bit too active, but the second was caught by the under-gardener, and only got away after a struggle. He was a middle-sized, strongly built man—square jaw, thick neck, moustache, a mask over his eyes.",
-        "objectID": "387d54bf6af7044596550afca604bbe7"
+        "objectID": "b02ce9bdfcdca8d6306203028889d9f0"
       },
       "previous": {
         "content": "He is known to have held papers which he used for blackmailing purposes. These papers have all been burned by the murderers. No article of value was taken, as it is probable that the criminals were men of good position, whose sole object was to prevent social exposure.\"",
@@ -3625,7 +3625,7 @@
         "objectID": "4307a85d4a12388c505ecd0276ca28d5"
       }
     },
-    "objectID": "387d54bf6af7044596550afca604bbe7",
+    "objectID": "b02ce9bdfcdca8d6306203028889d9f0",
     "order": 173,
     "tagName": "P"
   },
@@ -3643,7 +3643,7 @@
       },
       "previous": {
         "content": "\"Yes, there were two of them. They were as nearly as possible captured red-handed. We have their footmarks, we have their description, it's ten to one that we trace them. The first fellow was a bit too active, but the second was caught by the under-gardener, and only got away after a struggle. He was a middle-sized, strongly built man—square jaw, thick neck, moustache, a mask over his eyes.",
-        "objectID": "387d54bf6af7044596550afca604bbe7"
+        "objectID": "b02ce9bdfcdca8d6306203028889d9f0"
       }
     },
     "objectID": "24abb603f88e74c1cebc36eebf90d443",

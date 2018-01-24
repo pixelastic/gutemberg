@@ -111,7 +111,7 @@
     "context": {
       "next": {
         "content": "I had neither kith nor kin in England, and was therefore as free as air—or as free as an income of eleven shillings and sixpence a day will permit a man to be. Under such circumstances, I naturally gravitated to London, that great cesspool into which all the loungers and idlers of the Empire are irresistibly drained.",
-        "objectID": "936827ca6799ac00eda092aacfc2e875"
+        "objectID": "9e93ddf4be27970f21f2c79972b29ee4"
       },
       "previous": {
         "content": "Worn with pain, and weak from the prolonged hardships which I had undergone, I was removed, with a great train of wounded sufferers, to the base hospital at Peshawar. Here I rallied, and had already improved so far as to be able to walk about the wards, and even to bask a little upon the verandah, when I was struck down by enteric fever, that curse of our Indian possessions.",
@@ -139,7 +139,7 @@
         "objectID": "86294618c8fabcf0439fcd5d525b882e"
       }
     },
-    "objectID": "936827ca6799ac00eda092aacfc2e875",
+    "objectID": "9e93ddf4be27970f21f2c79972b29ee4",
     "order": 7,
     "tagName": "P"
   },
@@ -157,7 +157,7 @@
       },
       "previous": {
         "content": "I had neither kith nor kin in England, and was therefore as free as air—or as free as an income of eleven shillings and sixpence a day will permit a man to be. Under such circumstances, I naturally gravitated to London, that great cesspool into which all the loungers and idlers of the Empire are irresistibly drained.",
-        "objectID": "936827ca6799ac00eda092aacfc2e875"
+        "objectID": "9e93ddf4be27970f21f2c79972b29ee4"
       }
     },
     "objectID": "8f17176c46075d7699d9422069059ceb",
@@ -426,7 +426,7 @@
     "context": {
       "next": {
         "content": "\"Oh, I didn't say there was anything against him. He is a little queer in his ideas—an enthusiast in some branches of science. As far as I know he is a decent fellow enough.\"",
-        "objectID": "74ee38a1deab65f78bb9093c67808ff6"
+        "objectID": "a503cc714b8cc0463155fe64fc5d0395"
       },
       "previous": {
         "content": "Young Stamford looked rather strangely at me over his wine-glass. \"You don't know Sherlock Holmes yet,\" he said; \"perhaps you would not care for him as a constant companion.\"",
@@ -454,7 +454,7 @@
         "objectID": "64a85ac8ee3c564681b5a91456ed2cdf"
       }
     },
-    "objectID": "74ee38a1deab65f78bb9093c67808ff6",
+    "objectID": "a503cc714b8cc0463155fe64fc5d0395",
     "order": 22,
     "tagName": "P"
   },
@@ -468,11 +468,11 @@
     "context": {
       "next": {
         "content": "\"No—I have no idea what he intends to go in for. I believe he is well up in anatomy, and he is a first-class chemist; but, as far as I know, he has never taken out any systematic medical classes. His studies are very desultory and eccentric, but he has amassed a lot of out-of-the way knowledge which would astonish his professors.",
-        "objectID": "97475eeb8a15750443c3f7ed6babb8b6"
+        "objectID": "b681e65ac1fcc91a6432843b3b6c8ada"
       },
       "previous": {
         "content": "\"Oh, I didn't say there was anything against him. He is a little queer in his ideas—an enthusiast in some branches of science. As far as I know he is a decent fellow enough.\"",
-        "objectID": "74ee38a1deab65f78bb9093c67808ff6"
+        "objectID": "a503cc714b8cc0463155fe64fc5d0395"
       }
     },
     "objectID": "8880563555242f7b7b68ac4ca660e532",
@@ -496,7 +496,7 @@
         "objectID": "8880563555242f7b7b68ac4ca660e532"
       }
     },
-    "objectID": "97475eeb8a15750443c3f7ed6babb8b6",
+    "objectID": "b681e65ac1fcc91a6432843b3b6c8ada",
     "order": 24,
     "tagName": "P"
   },
@@ -514,7 +514,7 @@
       },
       "previous": {
         "content": "\"No—I have no idea what he intends to go in for. I believe he is well up in anatomy, and he is a first-class chemist; but, as far as I know, he has never taken out any systematic medical classes. His studies are very desultory and eccentric, but he has amassed a lot of out-of-the way knowledge which would astonish his professors.",
-        "objectID": "97475eeb8a15750443c3f7ed6babb8b6"
+        "objectID": "b681e65ac1fcc91a6432843b3b6c8ada"
       }
     },
     "objectID": "309124afec34306a23231029aeb85f74",
@@ -699,7 +699,7 @@
     "context": {
       "next": {
         "content": "\"It is not easy to express the inexpressible,\" he answered with a laugh. \"Holmes is a little too scientific for my tastes—it approaches to cold-bloodedness. I could imagine his giving a friend a little pinch of the latest vegetable alkaloid, not out of malevolence, you understand, but simply out of a spirit of inquiry in order to have an accurate idea of the effects.",
-        "objectID": "536ee99427f2e76331bc71929e9be860"
+        "objectID": "d9f0ffb113422a5f6df864a79bf91826"
       },
       "previous": {
         "content": "\"You mustn't blame me if you don't get on with him,\" he said; \"I know nothing more of him than I have learned from meeting him occasionally in the laboratory. You proposed this arrangement, so you must not hold me responsible.\"",
@@ -727,7 +727,7 @@
         "objectID": "0687c12c7e0e14fd4bc305dcfc1cae39"
       }
     },
-    "objectID": "536ee99427f2e76331bc71929e9be860",
+    "objectID": "d9f0ffb113422a5f6df864a79bf91826",
     "order": 35,
     "tagName": "P"
   },
@@ -745,7 +745,7 @@
       },
       "previous": {
         "content": "\"It is not easy to express the inexpressible,\" he answered with a laugh. \"Holmes is a little too scientific for my tastes—it approaches to cold-bloodedness. I could imagine his giving a friend a little pinch of the latest vegetable alkaloid, not out of malevolence, you understand, but simply out of a spirit of inquiry in order to have an accurate idea of the effects.",
-        "objectID": "536ee99427f2e76331bc71929e9be860"
+        "objectID": "d9f0ffb113422a5f6df864a79bf91826"
       }
     },
     "objectID": "b549ff71a4aa7407107dcf8d1f2af678",
@@ -1014,7 +1014,7 @@
     "context": {
       "next": {
         "content": "\"It is interesting, chemically, no doubt,\" I answered, \"but practically——\"",
-        "objectID": "389f56a46cd08f660673c258b665b632"
+        "objectID": "0faac6aeb7ac9d0b7e17d040a7362bf2"
       },
       "previous": {
         "content": "\"How on earth did you know that?\" I asked in astonishment.",
@@ -1042,7 +1042,7 @@
         "objectID": "040e1d21f155fcef94a09d9b90a8caae"
       }
     },
-    "objectID": "389f56a46cd08f660673c258b665b632",
+    "objectID": "0faac6aeb7ac9d0b7e17d040a7362bf2",
     "order": 50,
     "tagName": "P"
   },
@@ -1060,7 +1060,7 @@
       },
       "previous": {
         "content": "\"It is interesting, chemically, no doubt,\" I answered, \"but practically——\"",
-        "objectID": "389f56a46cd08f660673c258b665b632"
+        "objectID": "0faac6aeb7ac9d0b7e17d040a7362bf2"
       }
     },
     "objectID": "860c300faab6f3bf77579f6b4648a982",
@@ -1497,7 +1497,7 @@
     "context": {
       "next": {
         "content": "\"Let me see—what are my other shortcomings. I get in the dumps at times, and don't open my mouth for days on end. You must not think I am sulky when I do that. Just let me alone, and I'll soon be right. What have you to confess now? It's just as well for two fellows to know the worst of one another before they begin to live together.",
-        "objectID": "d656553e97f7e94714b2091c90b0dbc6"
+        "objectID": "14c9446214cac82a886c6aa5078f3ea6"
       },
       "previous": {
         "content": "\"That's good enough. I generally have chemicals about, and occasionally do experiments. Would that annoy you?\"",
@@ -1525,7 +1525,7 @@
         "objectID": "493c327e404d91441db63bdf3a5f1fec"
       }
     },
-    "objectID": "d656553e97f7e94714b2091c90b0dbc6",
+    "objectID": "14c9446214cac82a886c6aa5078f3ea6",
     "order": 73,
     "tagName": "P"
   },
@@ -1543,7 +1543,7 @@
       },
       "previous": {
         "content": "\"Let me see—what are my other shortcomings. I get in the dumps at times, and don't open my mouth for days on end. You must not think I am sulky when I do that. Just let me alone, and I'll soon be right. What have you to confess now? It's just as well for two fellows to know the worst of one another before they begin to live together.",
-        "objectID": "d656553e97f7e94714b2091c90b0dbc6"
+        "objectID": "14c9446214cac82a886c6aa5078f3ea6"
       }
     },
     "objectID": "44bcd0d9822452a52fe8c18576c51731",
@@ -1581,7 +1581,7 @@
     "context": {
       "next": {
         "content": "\"It depends on the player,\" I answered. \"A well-played violin is a treat for the gods—a badly-played one——\"",
-        "objectID": "c98c9c7ddd5becbe29957566aef7a584"
+        "objectID": "27453a62add6dfd89598a15a0e3c2a57"
       },
       "previous": {
         "content": "I laughed at this cross-examination. \"I keep a bull pup,\" I said, \"and I object to rows because my nerves are shaken, and I get up at all sorts of ungodly hours, and I am extremely lazy. I have another set of vices when I'm well, but those are the principal ones at present.\"",
@@ -1602,14 +1602,14 @@
     "context": {
       "next": {
         "content": "\"Oh, that's all right,\" he cried, with a merry laugh. \"I think we may consider the thing as settled—that is, if the rooms are agreeable to you.\"",
-        "objectID": "d3c0124a307c76ba5b62765768aad9df"
+        "objectID": "3d386dac22c9390bb652bf70c6271f24"
       },
       "previous": {
         "content": "\"Do you include violin-playing in your category of rows?\" he asked, anxiously.",
         "objectID": "7d54394f1fdddb60c69cdc2b7529f25d"
       }
     },
-    "objectID": "c98c9c7ddd5becbe29957566aef7a584",
+    "objectID": "27453a62add6dfd89598a15a0e3c2a57",
     "order": 77,
     "tagName": "P"
   },
@@ -1627,10 +1627,10 @@
       },
       "previous": {
         "content": "\"It depends on the player,\" I answered. \"A well-played violin is a treat for the gods—a badly-played one——\"",
-        "objectID": "c98c9c7ddd5becbe29957566aef7a584"
+        "objectID": "27453a62add6dfd89598a15a0e3c2a57"
       }
     },
-    "objectID": "d3c0124a307c76ba5b62765768aad9df",
+    "objectID": "3d386dac22c9390bb652bf70c6271f24",
     "order": 78,
     "tagName": "P"
   },
@@ -1648,7 +1648,7 @@
       },
       "previous": {
         "content": "\"Oh, that's all right,\" he cried, with a merry laugh. \"I think we may consider the thing as settled—that is, if the rooms are agreeable to you.\"",
-        "objectID": "d3c0124a307c76ba5b62765768aad9df"
+        "objectID": "3d386dac22c9390bb652bf70c6271f24"
       }
     },
     "objectID": "678ee1dd3c069cfd78cf7bf5e226e23d",
@@ -1665,7 +1665,7 @@
     "context": {
       "next": {
         "content": "\"All right—noon exactly,\" said I, shaking his hand.",
-        "objectID": "39cf4593e938616e6972e62ed9160aa2"
+        "objectID": "2a8153a4338e1cfb8bf2422e99fafcd4"
       },
       "previous": {
         "content": "\"When shall we see them?\"",
@@ -1693,7 +1693,7 @@
         "objectID": "3a404c4b87002b6efd03a24b44055790"
       }
     },
-    "objectID": "39cf4593e938616e6972e62ed9160aa2",
+    "objectID": "2a8153a4338e1cfb8bf2422e99fafcd4",
     "order": 81,
     "tagName": "P"
   },
@@ -1711,7 +1711,7 @@
       },
       "previous": {
         "content": "\"All right—noon exactly,\" said I, shaking his hand.",
-        "objectID": "39cf4593e938616e6972e62ed9160aa2"
+        "objectID": "2a8153a4338e1cfb8bf2422e99fafcd4"
       }
     },
     "objectID": "dccbac8579fc029d33a481f31b559030",

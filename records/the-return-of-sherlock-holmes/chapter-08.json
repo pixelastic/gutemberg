@@ -48,7 +48,7 @@
     "context": {
       "next": {
         "content": "\"Oh, no, Mr. Holmes—nothing very particular.\"",
-        "objectID": "f02c2b100ab956cae54d6a71fcd74a01"
+        "objectID": "02f909e63d1a5276ace7c9e5d9bb5669"
       },
       "previous": {
         "content": "On this particular evening, Lestrade had spoken of the weather and the newspapers. Then he had fallen silent, puffing thoughtfully at his cigar. Holmes looked keenly at him.",
@@ -76,7 +76,7 @@
         "objectID": "b1f2b3294d5c2fb1ac5c3a1c752a6fe6"
       }
     },
-    "objectID": "f02c2b100ab956cae54d6a71fcd74a01",
+    "objectID": "02f909e63d1a5276ace7c9e5d9bb5669",
     "order": 4,
     "tagName": "P"
   },
@@ -94,7 +94,7 @@
       },
       "previous": {
         "content": "\"Oh, no, Mr. Holmes—nothing very particular.\"",
-        "objectID": "f02c2b100ab956cae54d6a71fcd74a01"
+        "objectID": "02f909e63d1a5276ace7c9e5d9bb5669"
       }
     },
     "objectID": "3cd149cc3c8999e7ce643030dbc68490",
@@ -930,7 +930,7 @@
     "context": {
       "next": {
         "content": "\"Don't know—may be anything. But I suspect it is the sequel of the story of the statues. In that case our friend the image-breaker has begun operations in another quarter of London. There's coffee on the table, Watson, and I have a cab at the door.\"",
-        "objectID": "7eae4a2f4adfe86bfb9bd35512820a29"
+        "objectID": "ae7a39e798a374d159a1424d202aba63"
       },
       "previous": {
         "content": "\"LESTRADE.\"",
@@ -958,7 +958,7 @@
         "objectID": "8313bcd68356c3a351c45264733f2ecd"
       }
     },
-    "objectID": "7eae4a2f4adfe86bfb9bd35512820a29",
+    "objectID": "ae7a39e798a374d159a1424d202aba63",
     "order": 46,
     "tagName": "P"
   },
@@ -976,7 +976,7 @@
       },
       "previous": {
         "content": "\"Don't know—may be anything. But I suspect it is the sequel of the story of the statues. In that case our friend the image-breaker has begun operations in another quarter of London. There's coffee on the table, Watson, and I have a cab at the door.\"",
-        "objectID": "7eae4a2f4adfe86bfb9bd35512820a29"
+        "objectID": "ae7a39e798a374d159a1424d202aba63"
       }
     },
     "objectID": "66ac47bf52da2953767c656253544179",
@@ -1014,7 +1014,7 @@
     "context": {
       "next": {
         "content": "The official received us with a very grave face and showed us into a sitting-room, where an exceedingly unkempt and agitated elderly man, clad in a flannel dressing-gown, was pacing up and down. He was introduced to us as the owner of the house—Mr. Horace Harker, of the Central Press Syndicate.",
-        "objectID": "e3e221215fe142c7499900e1d0f1e931"
+        "objectID": "c46a70510496210b21b89f17c88666fd"
       },
       "previous": {
         "content": "\"By George! It's attempted murder at the least. Nothing less will hold the London message-boy. There's a deed of violence indicated in that fellow's round shoulders and outstretched neck. What's this, Watson? The top steps swilled down and the other ones dry. Footsteps enough, anyhow! Well, well, there's Lestrade at the front window, and we shall soon know all about it.",
@@ -1042,7 +1042,7 @@
         "objectID": "9c98c90f767caaaa9ce866dc9c6b3bbd"
       }
     },
-    "objectID": "e3e221215fe142c7499900e1d0f1e931",
+    "objectID": "c46a70510496210b21b89f17c88666fd",
     "order": 50,
     "tagName": "P"
   },
@@ -1060,7 +1060,7 @@
       },
       "previous": {
         "content": "The official received us with a very grave face and showed us into a sitting-room, where an exceedingly unkempt and agitated elderly man, clad in a flannel dressing-gown, was pacing up and down. He was introduced to us as the owner of the house—Mr. Horace Harker, of the Central Press Syndicate.",
-        "objectID": "e3e221215fe142c7499900e1d0f1e931"
+        "objectID": "c46a70510496210b21b89f17c88666fd"
       }
     },
     "objectID": "c6f84a254824e08b558739fccdb77acb",
@@ -1224,7 +1224,7 @@
     "context": {
       "next": {
         "content": "I was sitting in my den, which is at the back of the top of the house, about three o'clock, when I was convinced that I heard some sounds downstairs. I listened, but they were not repeated, and I concluded that they came from outside. Then suddenly, about five minutes later, there came a most horrible yell—the most dreadful sound, Mr.",
-        "objectID": "b581052714160a2260346f760f08ba41"
+        "objectID": "a5895126dddc152b3f20ee0d70e468a7"
       },
       "previous": {
         "content": "Holmes sat down and listened.",
@@ -1252,7 +1252,7 @@
         "objectID": "f0a549725ebab0920002873d4295d022"
       }
     },
-    "objectID": "b581052714160a2260346f760f08ba41",
+    "objectID": "a5895126dddc152b3f20ee0d70e468a7",
     "order": 60,
     "tagName": "P"
   },
@@ -1270,7 +1270,7 @@
       },
       "previous": {
         "content": "I was sitting in my den, which is at the back of the top of the house, about three o'clock, when I was convinced that I heard some sounds downstairs. I listened, but they were not repeated, and I concluded that they came from outside. Then suddenly, about five minutes later, there came a most horrible yell—the most dreadful sound, Mr.",
-        "objectID": "b581052714160a2260346f760f08ba41"
+        "objectID": "a5895126dddc152b3f20ee0d70e468a7"
       }
     },
     "objectID": "9aa3efdbfa8dfa39465e1a411068d74e",
@@ -1644,7 +1644,7 @@
     "context": {
       "next": {
         "content": "\"We have a long way to go yet,\" said he. \"And yet—and yet—well, we have some suggestive facts to act upon. The possession of this trifling bust was worth more, in the eyes of this strange criminal, than a human life. That is one point. Then there is the singular fact that he did not break it in the house, or immediately outside the house, if to break it was his sole object.",
-        "objectID": "8d90d408622f37c05b91f498767db009"
+        "objectID": "4602e066c990c245a7e1ef8200b2fdb3"
       },
       "previous": {
         "content": "\"Well?\" asked Lestrade.",
@@ -1672,7 +1672,7 @@
         "objectID": "ca3c772d33c9610d46f8d0ccf6e32b9d"
       }
     },
-    "objectID": "8d90d408622f37c05b91f498767db009",
+    "objectID": "4602e066c990c245a7e1ef8200b2fdb3",
     "order": 80,
     "tagName": "P"
   },
@@ -1690,7 +1690,7 @@
       },
       "previous": {
         "content": "\"We have a long way to go yet,\" said he. \"And yet—and yet—well, we have some suggestive facts to act upon. The possession of this trifling bust was worth more, in the eyes of this strange criminal, than a human life. That is one point. Then there is the singular fact that he did not break it in the house, or immediately outside the house, if to break it was his sole object.",
-        "objectID": "8d90d408622f37c05b91f498767db009"
+        "objectID": "4602e066c990c245a7e1ef8200b2fdb3"
       }
     },
     "objectID": "3d74b3833ae3ba6f276f6828ee5cad27",
@@ -1875,7 +1875,7 @@
     "context": {
       "next": {
         "content": "\"To remember it—to docket it. We may come on something later which will bear upon it. What steps do you propose to take now, Lestrade?\"",
-        "objectID": "87b3c207bb8222132cf2a24a68fff5fa"
+        "objectID": "90295cf467ff31b83f0df369726addc3"
       },
       "previous": {
         "content": "\"He could see what he was doing here, and he could not there. That was his reason.\"",
@@ -1903,7 +1903,7 @@
         "objectID": "716f316a28559b1125b8d1ddec2b15ef"
       }
     },
-    "objectID": "87b3c207bb8222132cf2a24a68fff5fa",
+    "objectID": "90295cf467ff31b83f0df369726addc3",
     "order": 91,
     "tagName": "P"
   },
@@ -1921,7 +1921,7 @@
       },
       "previous": {
         "content": "\"To remember it—to docket it. We may come on something later which will bear upon it. What steps do you propose to take now, Lestrade?\"",
-        "objectID": "87b3c207bb8222132cf2a24a68fff5fa"
+        "objectID": "90295cf467ff31b83f0df369726addc3"
       }
     },
     "objectID": "eab52d4c9204ffa599954df21bb7f3d0",
@@ -2253,7 +2253,7 @@
     "context": {
       "next": {
         "content": "\"Yes, sir. On my very counter, sir,\" said he. \"What we pay rates and taxes for I don't know, when any ruffian can come in and break one's goods. Yes, sir, it was I who sold Dr. Barnicot his two statues. Disgraceful, sir! A Nihilist plot—that's what I make it. No one but an anarchist would go about breaking statues.",
-        "objectID": "4d19c787189c69f66bda7e5937409dc0"
+        "objectID": "887714c4fd9109152e5d732f84f81aad"
       },
       "previous": {
         "content": "Let us make for Mr. Morse Hudson, of the Kennington Road, and see if he can throw any light upon the problem.\"",
@@ -2274,14 +2274,14 @@
     "context": {
       "next": {
         "content": "Red republicans—that's what I call 'em. Who did I get the statues from? I don't see what that has to do with it. Well, if you really want to know, I got them from Gelder & Co., in Church Street, Stepney. They are a well-known house in the trade, and have been this twenty years. How many had I? Three—two and one are three—two of Dr.",
-        "objectID": "c0d94ac73b517e1dc48d8c81c3887899"
+        "objectID": "7c72c0d94795c681cd1ab16695598850"
       },
       "previous": {
         "content": "A drive of an hour brought us to the picture-dealer's establishment. He was a small, stout man with a red face and a peppery manner.",
         "objectID": "c800fa320a3f641a53b17dfb57653b32"
       }
     },
-    "objectID": "4d19c787189c69f66bda7e5937409dc0",
+    "objectID": "887714c4fd9109152e5d732f84f81aad",
     "order": 109,
     "tagName": "P"
   },
@@ -2299,10 +2299,10 @@
       },
       "previous": {
         "content": "\"Yes, sir. On my very counter, sir,\" said he. \"What we pay rates and taxes for I don't know, when any ruffian can come in and break one's goods. Yes, sir, it was I who sold Dr. Barnicot his two statues. Disgraceful, sir! A Nihilist plot—that's what I make it. No one but an anarchist would go about breaking statues.",
-        "objectID": "4d19c787189c69f66bda7e5937409dc0"
+        "objectID": "887714c4fd9109152e5d732f84f81aad"
       }
     },
-    "objectID": "c0d94ac73b517e1dc48d8c81c3887899",
+    "objectID": "7c72c0d94795c681cd1ab16695598850",
     "order": 110,
     "tagName": "P"
   },
@@ -2320,7 +2320,7 @@
       },
       "previous": {
         "content": "Red republicans—that's what I call 'em. Who did I get the statues from? I don't see what that has to do with it. Well, if you really want to know, I got them from Gelder & Co., in Church Street, Stepney. They are a well-known house in the trade, and have been this twenty years. How many had I? Three—two and one are three—two of Dr.",
-        "objectID": "c0d94ac73b517e1dc48d8c81c3887899"
+        "objectID": "7c72c0d94795c681cd1ab16695598850"
       }
     },
     "objectID": "6f4df006234bf80eaeb89eb6d7fa86bb",
@@ -2442,7 +2442,7 @@
     "context": {
       "next": {
         "content": "He could suggest no possible cause why anyone should wish to destroy them—in fact, he laughed at the idea. Their wholesale price was six shillings, but the retailer would get twelve or more. The cast was taken in two moulds from each side of the face, and then these two profiles of plaster of Paris were joined together to make the complete bust.",
-        "objectID": "aa731b7debdf9ed9aab79634e4fa7bcf"
+        "objectID": "428517ee0a6d423d0ab7e1a83ab8bf1a"
       },
       "previous": {
         "content": "Here, in a broad thoroughfare, once the abode of wealthy City merchants, we found the sculpture works for which we searched. Outside was a considerable yard full of monumental masonry. Inside was a large room in which fifty workers were carving or moulding. The manager, a big blond German, received us civilly and gave a clear answer to all Holmes's questions.",
@@ -2470,7 +2470,7 @@
         "objectID": "5c806b0f0920a9bb642f27c852b1c53b"
       }
     },
-    "objectID": "aa731b7debdf9ed9aab79634e4fa7bcf",
+    "objectID": "428517ee0a6d423d0ab7e1a83ab8bf1a",
     "order": 118,
     "tagName": "P"
   },
@@ -2488,7 +2488,7 @@
       },
       "previous": {
         "content": "He could suggest no possible cause why anyone should wish to destroy them—in fact, he laughed at the idea. Their wholesale price was six shillings, but the retailer would get twelve or more. The cast was taken in two moulds from each side of the face, and then these two profiles of plaster of Paris were joined together to make the complete bust.",
-        "objectID": "aa731b7debdf9ed9aab79634e4fa7bcf"
+        "objectID": "428517ee0a6d423d0ab7e1a83ab8bf1a"
       }
     },
     "objectID": "9b64029c2e3666d7ecef65c45b8d3f79",
@@ -2526,7 +2526,7 @@
     "context": {
       "next": {
         "content": "Beppo was his name—his second name I never knew. Serve me right for engaging a man with such a face. But he was a good workman—one of the best.\"",
-        "objectID": "47d16528bb88fed696bcb6725ca2642e"
+        "objectID": "3789da1772b290b54813cb39a0d06496"
       },
       "previous": {
         "content": "But the production of the photograph had a remarkable effect upon the manager. His face flushed with anger, and his brows knotted over his blue Teutonic eyes.",
@@ -2554,7 +2554,7 @@
         "objectID": "fa220c151b05c00bfd1704f0ebf3e05a"
       }
     },
-    "objectID": "47d16528bb88fed696bcb6725ca2642e",
+    "objectID": "3789da1772b290b54813cb39a0d06496",
     "order": 122,
     "tagName": "P"
   },
@@ -2572,7 +2572,7 @@
       },
       "previous": {
         "content": "Beppo was his name—his second name I never knew. Serve me right for engaging a man with such a face. But he was a good workman—one of the best.\"",
-        "objectID": "47d16528bb88fed696bcb6725ca2642e"
+        "objectID": "3789da1772b290b54813cb39a0d06496"
       }
     },
     "objectID": "c90f54d9c11c2539c2d25ab6154339b0",
@@ -2589,7 +2589,7 @@
     "context": {
       "next": {
         "content": "\"No, no,\" cried Holmes, \"not a word to the cousin—not a word, I beg of you. The matter is very important, and the farther I go with it, the more important it seems to grow. When you referred in your ledger to the sale of those casts I observed that the date was June 3rd of last year. Could you give",
-        "objectID": "ea250ba1679ba83d015c5aa96a3ce9dd"
+        "objectID": "0bca1ccf35983301f9e00901931958a2"
       },
       "previous": {
         "content": "\"What did he get?\"",
@@ -2617,7 +2617,7 @@
         "objectID": "10ea4ba0812b3e164418add4c4d6d453"
       }
     },
-    "objectID": "ea250ba1679ba83d015c5aa96a3ce9dd",
+    "objectID": "0bca1ccf35983301f9e00901931958a2",
     "order": 125,
     "tagName": "P"
   },
@@ -2635,7 +2635,7 @@
       },
       "previous": {
         "content": "\"No, no,\" cried Holmes, \"not a word to the cousin—not a word, I beg of you. The matter is very important, and the farther I go with it, the more important it seems to grow. When you referred in your ledger to the sale of those casts I observed that the date was June 3rd of last year. Could you give",
-        "objectID": "ea250ba1679ba83d015c5aa96a3ce9dd"
+        "objectID": "0bca1ccf35983301f9e00901931958a2"
       }
     },
     "objectID": "9175c32aa76321833073c6e8b0543553",
@@ -3240,7 +3240,7 @@
     "context": {
       "next": {
         "content": "\"I think not. I fancy we can attain our end in a simpler way. I can't say for certain, because it all depends—well, it all depends upon a factor which is completely outside our control. But I have great hopes—in fact, the betting is exactly two to one—that if you will come with us to-night I shall be able to help you to lay him by the heels.",
-        "objectID": "7a88e150538676606b93a8b6e6a15dad"
+        "objectID": "eb6f140678f8f6f4ad56a16e2b21e754"
       },
       "previous": {
         "content": "\"And the next stage?\"",
@@ -3268,7 +3268,7 @@
         "objectID": "dbd71f57148d56c82274c4077123e576"
       }
     },
-    "objectID": "7a88e150538676606b93a8b6e6a15dad",
+    "objectID": "eb6f140678f8f6f4ad56a16e2b21e754",
     "order": 156,
     "tagName": "P"
   },
@@ -3286,7 +3286,7 @@
       },
       "previous": {
         "content": "\"I think not. I fancy we can attain our end in a simpler way. I can't say for certain, because it all depends—well, it all depends upon a factor which is completely outside our control. But I have great hopes—in fact, the betting is exactly two to one—that if you will come with us to-night I shall be able to help you to lay him by the heels.",
-        "objectID": "7a88e150538676606b93a8b6e6a15dad"
+        "objectID": "eb6f140678f8f6f4ad56a16e2b21e754"
       }
     },
     "objectID": "e2832d7fe160125319df9f94a72b1716",
@@ -3828,7 +3828,7 @@
     "context": {
       "next": {
         "content": "When we met again next evening, Lestrade was furnished with much information concerning our prisoner. His name, it appeared, was Beppo, second name unknown. He was a well-known ne'er-do-well among the Italian colony. He had once been a skilful sculptor and had earned an honest living, but he had taken to evil courses and had twice already been in jail—once for a petty theft, and once, as we had already heard, for stabbing a fellow-countryman.",
-        "objectID": "9779d82772fdc41449ba495e0afef5cf"
+        "objectID": "456d59b98c3b4c22dab3bb3396306bcc"
       },
       "previous": {
         "content": "\"I fear it is rather too late an hour for explanations,\" said Holmes. \"Besides, there are one or two details which are not finished off, and it is one of those cases which are worth working out to the very end. If you will come round once more to my rooms at six o'clock to-morrow, I think I shall be able to show you that even now you have not grasped the entire meaning of this business, which presents some features which make it absolutely original in the history of crime.",
@@ -3856,7 +3856,7 @@
         "objectID": "266f17c62679254d384a0310c7a52056"
       }
     },
-    "objectID": "9779d82772fdc41449ba495e0afef5cf",
+    "objectID": "456d59b98c3b4c22dab3bb3396306bcc",
     "order": 184,
     "tagName": "P"
   },
@@ -3874,7 +3874,7 @@
       },
       "previous": {
         "content": "When we met again next evening, Lestrade was furnished with much information concerning our prisoner. His name, it appeared, was Beppo, second name unknown. He was a well-known ne'er-do-well among the Italian colony. He had once been a skilful sculptor and had earned an honest living, but he had taken to evil courses and had twice already been in jail—once for a petty theft, and once, as we had already heard, for stabbing a fellow-countryman.",
-        "objectID": "9779d82772fdc41449ba495e0afef5cf"
+        "objectID": "456d59b98c3b4c22dab3bb3396306bcc"
       }
     },
     "objectID": "9153b6d600d51f03487df4f238a99286",
@@ -4395,7 +4395,7 @@
     "context": {
       "next": {
         "content": "The maid's name was Lucretia Venucci, and there is no doubt in my mind that this Pietro who was murdered two nights ago was the brother. I have been looking up the dates in the old files of the paper, and I find that the disappearance of the pearl was exactly two days before the arrest of Beppo, for some crime of violence—an event which took place in the factory of Gelder & Co.",
-        "objectID": "672cb1a7c5aae6a4f7d6c657e3ea6b04"
+        "objectID": "fe688ea0b0c79095dc7e9a4a36d8b81c"
       },
       "previous": {
         "content": "\"Yes, gentlemen,\" said he, \"it is the most famous pearl now existing in the world, and it has been my good fortune, by a connected chain of inductive reasoning, to trace it from the Prince of Colonna's bedroom at the Dacre Hotel, where it was lost, to the interior of this, the last of the six busts of Napoleon which were manufactured by Gelder & Co.",
@@ -4423,7 +4423,7 @@
         "objectID": "da49689e8fc1022e85c42d3184e632f2"
       }
     },
-    "objectID": "672cb1a7c5aae6a4f7d6c657e3ea6b04",
+    "objectID": "fe688ea0b0c79095dc7e9a4a36d8b81c",
     "order": 211,
     "tagName": "P"
   },
@@ -4441,7 +4441,7 @@
       },
       "previous": {
         "content": "The maid's name was Lucretia Venucci, and there is no doubt in my mind that this Pietro who was murdered two nights ago was the brother. I have been looking up the dates in the old files of the paper, and I find that the disappearance of the pearl was exactly two days before the arrest of Beppo, for some crime of violence—an event which took place in the factory of Gelder & Co.",
-        "objectID": "672cb1a7c5aae6a4f7d6c657e3ea6b04"
+        "objectID": "fe688ea0b0c79095dc7e9a4a36d8b81c"
       }
     },
     "objectID": "17d5710171b440e27003f562e0e8475b",
@@ -4500,7 +4500,7 @@
     "context": {
       "next": {
         "content": "But Beppo was condemned to a year's imprisonment, and in the meanwhile his six busts were scattered over London. He could not tell which contained his treasure. Only by breaking them could he see. Even shaking would tell him nothing, for as the plaster was wet it was probable that the pearl would adhere to it—as, in fact, it has done.",
-        "objectID": "d690094c7c54e623acaea03f017e38d9"
+        "objectID": "04d451bbbd4266917687f9499f60a55e"
       },
       "previous": {
         "content": "\"The main fact is that he had the pearl, and at that moment, when it was on his person, he was pursued by the police. He made for the factory in which he worked, and he knew that he had only a few minutes in which to conceal this enormously valuable prize, which would otherwise be found on him when he was searched.",
@@ -4528,7 +4528,7 @@
         "objectID": "3474a0b63c954d0b74897e3cc40db7e9"
       }
     },
-    "objectID": "d690094c7c54e623acaea03f017e38d9",
+    "objectID": "04d451bbbd4266917687f9499f60a55e",
     "order": 216,
     "tagName": "P"
   },
@@ -4546,7 +4546,7 @@
       },
       "previous": {
         "content": "But Beppo was condemned to a year's imprisonment, and in the meanwhile his six busts were scattered over London. He could not tell which contained his treasure. Only by breaking them could he see. Even shaking would tell him nothing, for as the plaster was wet it was probable that the pearl would adhere to it—as, in fact, it has done.",
-        "objectID": "d690094c7c54e623acaea03f017e38d9"
+        "objectID": "04d451bbbd4266917687f9499f60a55e"
       }
     },
     "objectID": "fdb296f8948254140cce6c10db9748bd",
@@ -4626,7 +4626,7 @@
     "context": {
       "next": {
         "content": "Since Harker's bust was one in three, the chances were exactly as I told you—two to one against the pearl being inside it. There remained two busts, and it was obvious that he would go for the London one first. I warned the inmates of the house, so as to avoid a second tragedy, and we went down, with the happiest results.",
-        "objectID": "4ed695c7a74ccb8065e6e48af5b5aac1"
+        "objectID": "440f66710f561d93fda24586b2c86011"
       },
       "previous": {
         "content": "\"As a means of tracing him, if he wished to inquire about him from any third person. That was the obvious reason. Well, after the murder I calculated that Beppo would probably hurry rather than delay his movements. He would fear that the police would read his secret, and so he hastened on before they should get ahead of him.",
@@ -4647,14 +4647,14 @@
     "context": {
       "next": {
         "content": "By that time, of course, I knew for certain that it was the Borgia pearl that we were after. The name of the murdered man linked the one event with the other. There only remained a single bust—the Reading one—and the pearl must be there. I bought it in your presence from the owner—and there it lies.",
-        "objectID": "6ea383258c423349241e4a8f2f527623"
+        "objectID": "9cc554d7b6883bd37cb74f795daec6e2"
       },
       "previous": {
         "content": "Of course, I could not say that he had not found the pearl in Harker's bust. I had not even concluded for certain that it was the pearl, but it was evident to me that he was looking for something, since he carried the bust past the other houses in order to break it in the garden which had a lamp overlooking it.",
         "objectID": "86541dc4582609d801a361bb702591fe"
       }
     },
-    "objectID": "4ed695c7a74ccb8065e6e48af5b5aac1",
+    "objectID": "440f66710f561d93fda24586b2c86011",
     "order": 222,
     "tagName": "P"
   },
@@ -4672,10 +4672,10 @@
       },
       "previous": {
         "content": "Since Harker's bust was one in three, the chances were exactly as I told you—two to one against the pearl being inside it. There remained two busts, and it was obvious that he would go for the London one first. I warned the inmates of the house, so as to avoid a second tragedy, and we went down, with the happiest results.",
-        "objectID": "4ed695c7a74ccb8065e6e48af5b5aac1"
+        "objectID": "440f66710f561d93fda24586b2c86011"
       }
     },
-    "objectID": "6ea383258c423349241e4a8f2f527623",
+    "objectID": "9cc554d7b6883bd37cb74f795daec6e2",
     "order": 223,
     "tagName": "P"
   },
@@ -4693,7 +4693,7 @@
       },
       "previous": {
         "content": "By that time, of course, I knew for certain that it was the Borgia pearl that we were after. The name of the murdered man linked the one event with the other. There only remained a single bust—the Reading one—and the pearl must be there. I bought it in your presence from the owner—and there it lies.",
-        "objectID": "6ea383258c423349241e4a8f2f527623"
+        "objectID": "9cc554d7b6883bd37cb74f795daec6e2"
       }
     },
     "objectID": "f5d6918ba5b849883346f367795ebb27",

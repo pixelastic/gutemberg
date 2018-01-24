@@ -216,7 +216,7 @@
     "context": {
       "next": {
         "content": "\"You see, my dear Watson,\"—he propped his test-tube in the rack, and began to lecture with the air of a professor addressing his class—\"it is not really difficult to construct a series of inferences, each dependent upon its predecessor and each simple in itself. If, after doing so, one simply knocks out all the central inferences and presents one's audience with the starting-point and the conclusion, one may produce a startling, though possibly a meretricious, effect.",
-        "objectID": "e88a5f2c099c0132ef8de08c8b050e41"
+        "objectID": "dc5bad07dbe3c8322d350b67978a3ba6"
       },
       "previous": {
         "content": "\"Because in five minutes you will say that it is all so absurdly simple.\"",
@@ -244,7 +244,7 @@
         "objectID": "b196ddd493cf8bda70706d5137edc705"
       }
     },
-    "objectID": "e88a5f2c099c0132ef8de08c8b050e41",
+    "objectID": "dc5bad07dbe3c8322d350b67978a3ba6",
     "order": 12,
     "tagName": "P"
   },
@@ -262,7 +262,7 @@
       },
       "previous": {
         "content": "\"You see, my dear Watson,\"—he propped his test-tube in the rack, and began to lecture with the air of a professor addressing his class—\"it is not really difficult to construct a series of inferences, each dependent upon its predecessor and each simple in itself. If, after doing so, one simply knocks out all the central inferences and presents one's audience with the starting-point and the conclusion, one may produce a startling, though possibly a meretricious, effect.",
-        "objectID": "e88a5f2c099c0132ef8de08c8b050e41"
+        "objectID": "dc5bad07dbe3c8322d350b67978a3ba6"
       }
     },
     "objectID": "d4c9a7a7fe06c46edc54e75a117c930c",
@@ -657,7 +657,7 @@
     "context": {
       "next": {
         "content": "Last year I came up to London for the Jubilee, and I stopped at a boarding-house in Russell Square, because Parker, the vicar of our parish, was staying in it. There was an American young lady there—Patrick was the name—Elsie Patrick. In some way we became friends, until before my month was up I was as much in love as man could be.",
-        "objectID": "9fbd6b6d620caf8cc484111712c3082e"
+        "objectID": "60bc6b1ff0bc11ff6c274b61ae79dc65"
       },
       "previous": {
         "content": "\"This promises to be a most interesting and unusual case,\" said he. \"You gave me a few particulars in your letter, Mr. Hilton Cubitt, but I should be very much obliged if you would kindly go over it all again for the benefit of my friend, Dr. Watson.\"",
@@ -685,7 +685,7 @@
         "objectID": "43733964fc4084447b88263b1c7d856d"
       }
     },
-    "objectID": "9fbd6b6d620caf8cc484111712c3082e",
+    "objectID": "60bc6b1ff0bc11ff6c274b61ae79dc65",
     "order": 33,
     "tagName": "P"
   },
@@ -703,7 +703,7 @@
       },
       "previous": {
         "content": "Last year I came up to London for the Jubilee, and I stopped at a boarding-house in Russell Square, because Parker, the vicar of our parish, was staying in it. There was an American young lady there—Patrick was the name—Elsie Patrick. In some way we became friends, until before my month was up I was as much in love as man could be.",
-        "objectID": "9fbd6b6d620caf8cc484111712c3082e"
+        "objectID": "60bc6b1ff0bc11ff6c274b61ae79dc65"
       }
     },
     "objectID": "50b218f2ee6bf9c22c6feaa73ded3fc5",
@@ -783,7 +783,7 @@
     "context": {
       "next": {
         "content": "She made no allusion to it afterwards, and I made none, for a promise is a promise, but she has never known an easy hour from that moment. There is always a look of fear upon her face—a look as if she were waiting and expecting. She would do better to trust me. She would find that I was her best friend.",
-        "objectID": "413ac3c3ddaad81f665ba9524bdcb27d"
+        "objectID": "6d7e7803be4c6d852ad0f411b39d966e"
       },
       "previous": {
         "content": "' It was only the day before our wedding that she said those very words to me. I told her that I was content to take her on her own terms, and I have been as good as my word.",
@@ -811,7 +811,7 @@
         "objectID": "c5e147adaf341aed377dcf70c1bd14d9"
       }
     },
-    "objectID": "413ac3c3ddaad81f665ba9524bdcb27d",
+    "objectID": "6d7e7803be4c6d852ad0f411b39d966e",
     "order": 39,
     "tagName": "P"
   },
@@ -825,11 +825,11 @@
     "context": {
       "next": {
         "content": "She would never bring any stain upon it—of that I am sure.",
-        "objectID": "c12d684a520460826f41a7865357c96b"
+        "objectID": "c288e20b5c37e69cb0af65077560bc2b"
       },
       "previous": {
         "content": "She made no allusion to it afterwards, and I made none, for a promise is a promise, but she has never known an easy hour from that moment. There is always a look of fear upon her face—a look as if she were waiting and expecting. She would do better to trust me. She would find that I was her best friend.",
-        "objectID": "413ac3c3ddaad81f665ba9524bdcb27d"
+        "objectID": "6d7e7803be4c6d852ad0f411b39d966e"
       }
     },
     "objectID": "7902f972c6f1d6ca5f2011da2b2f80cd",
@@ -846,14 +846,14 @@
     "context": {
       "next": {
         "content": "\"Well, now I come to the queer part of my story. About a week ago—it was the Tuesday of last week—I found on one of the window-sills a number of absurd little dancing figures like these upon the paper. They were scrawled with chalk. I thought that it was the stable-boy who had drawn them, but the lad swore he knew nothing about it.",
-        "objectID": "b94adb77b0568b0e1c2a1985d18948ed"
+        "objectID": "0f603007c1100c56277de323e806403f"
       },
       "previous": {
         "content": "But until she speaks, I can say nothing. Mind you, she is a truthful woman, Mr. Holmes, and whatever trouble there may have been in her past life it has been no fault of hers. I am only a simple Norfolk squire, but there is not a man in England who ranks his family honour more highly than I do. She knows it well, and she knew it well before she married me.",
         "objectID": "7902f972c6f1d6ca5f2011da2b2f80cd"
       }
     },
-    "objectID": "c12d684a520460826f41a7865357c96b",
+    "objectID": "c288e20b5c37e69cb0af65077560bc2b",
     "order": 41,
     "tagName": "P"
   },
@@ -871,10 +871,10 @@
       },
       "previous": {
         "content": "She would never bring any stain upon it—of that I am sure.",
-        "objectID": "c12d684a520460826f41a7865357c96b"
+        "objectID": "c288e20b5c37e69cb0af65077560bc2b"
       }
     },
-    "objectID": "b94adb77b0568b0e1c2a1985d18948ed",
+    "objectID": "0f603007c1100c56277de323e806403f",
     "order": 42,
     "tagName": "P"
   },
@@ -892,7 +892,7 @@
       },
       "previous": {
         "content": "\"Well, now I come to the queer part of my story. About a week ago—it was the Tuesday of last week—I found on one of the window-sills a number of absurd little dancing figures like these upon the paper. They were scrawled with chalk. I thought that it was the stable-boy who had drawn them, but the lad swore he knew nothing about it.",
-        "objectID": "b94adb77b0568b0e1c2a1985d18948ed"
+        "objectID": "0f603007c1100c56277de323e806403f"
       }
     },
     "objectID": "0e6742cdb18f63d0aabfaa60f68f9380",
@@ -930,7 +930,7 @@
     "context": {
       "next": {
         "content": "He was a fine creature, this man of the old English soil—simple, straight, and gentle, with his great, earnest blue eyes and broad, comely face. His love for his wife and his trust in her shone in his features. Holmes had listened to his story with the utmost attention, and now he sat for some time in silent thought.",
-        "objectID": "c4a1b128f7b1ac80d3968e6ef07663b4"
+        "objectID": "8a428d255c9bfad2abe7842efc2e59e2"
       },
       "previous": {
         "content": "I showed it to Elsie, and down she dropped in a dead faint. Since then she has looked like a woman in a dream, half dazed, and with terror always lurking in her eyes. It was then that I wrote and sent the paper to you, Mr. Holmes. It was not a thing that I could take to the police, for they would have laughed at me, but you will tell me what to do.",
@@ -958,7 +958,7 @@
         "objectID": "3c09a3ad4da9c40e4f6e1f1cad1251fd"
       }
     },
-    "objectID": "c4a1b128f7b1ac80d3968e6ef07663b4",
+    "objectID": "8a428d255c9bfad2abe7842efc2e59e2",
     "order": 46,
     "tagName": "P"
   },
@@ -976,7 +976,7 @@
       },
       "previous": {
         "content": "He was a fine creature, this man of the old English soil—simple, straight, and gentle, with his great, earnest blue eyes and broad, comely face. His love for his wife and his trust in her shone in his features. Holmes had listened to his story with the utmost attention, and now he sat for some time in silent thought.",
-        "objectID": "c4a1b128f7b1ac80d3968e6ef07663b4"
+        "objectID": "8a428d255c9bfad2abe7842efc2e59e2"
       }
     },
     "objectID": "6e14c2d1ef850b7d77a727304ebacfaa",
@@ -993,7 +993,7 @@
     "context": {
       "next": {
         "content": "\"A promise is a promise, Mr. Holmes. If Elsie wished to tell me she would. If not, it is not for me to force her confidence. But I am justified in taking my own line—and I will.\"",
-        "objectID": "87c6f1bc0bf224026d7f06fbcf6c7c70"
+        "objectID": "b815a02aa409a648c6fadb7d0ba1654e"
       },
       "previous": {
         "content": "\"Don't you think, Mr. Cubitt,\" said he, at last, \"that your best plan would be to make a direct appeal to your wife, and to ask her to share her secret with you?\"",
@@ -1021,7 +1021,7 @@
         "objectID": "33e24f2284654e6ac5a76c597311dfc5"
       }
     },
-    "objectID": "87c6f1bc0bf224026d7f06fbcf6c7c70",
+    "objectID": "b815a02aa409a648c6fadb7d0ba1654e",
     "order": 49,
     "tagName": "P"
   },
@@ -1039,7 +1039,7 @@
       },
       "previous": {
         "content": "\"A promise is a promise, Mr. Holmes. If Elsie wished to tell me she would. If not, it is not for me to force her confidence. But I am justified in taking my own line—and I will.\"",
-        "objectID": "87c6f1bc0bf224026d7f06fbcf6c7c70"
+        "objectID": "b815a02aa409a648c6fadb7d0ba1654e"
       }
     },
     "objectID": "b2f8eeb8c5395d915d0b654496ad2cb0",
@@ -1287,7 +1287,7 @@
     "context": {
       "next": {
         "content": "She's wearing away under it—just wearing away before my eyes.\"",
-        "objectID": "c24b9d91b8fe30877a09843f17e1c6ef"
+        "objectID": "a7a1aceef61052668d6bc6575032d63f"
       },
       "previous": {
         "content": "We had not long to wait, for our Norfolk squire came straight from the station as fast as a hansom could bring him. He was looking worried and depressed, with tired eyes and a lined forehead.",
@@ -1315,7 +1315,7 @@
         "objectID": "fa935a4e0280c1b3b6929917babac289"
       }
     },
-    "objectID": "c24b9d91b8fe30877a09843f17e1c6ef",
+    "objectID": "a7a1aceef61052668d6bc6575032d63f",
     "order": 63,
     "tagName": "P"
   },
@@ -1333,7 +1333,7 @@
       },
       "previous": {
         "content": "She's wearing away under it—just wearing away before my eyes.\"",
-        "objectID": "c24b9d91b8fe30877a09843f17e1c6ef"
+        "objectID": "a7a1aceef61052668d6bc6575032d63f"
       }
     },
     "objectID": "770ab0b2b660df0ffbed386a70712b52",
@@ -1791,7 +1791,7 @@
     "context": {
       "next": {
         "content": "\"Tell me,\" said Holmes—and I could see by his eyes that he was much excited—\"was this a mere addition to the first or did it appear to be entirely separate?\"",
-        "objectID": "9a2d08a623f74455073df81df8f0fbc7"
+        "objectID": "4db29035a0052bdd78c8b4a7496b5f83"
       },
       "previous": {
         "content": "\"Yes, it is very short, but I made a copy of it, and here it is.\"",
@@ -1819,7 +1819,7 @@
         "objectID": "90987cf9c73daee49e6087fe68099279"
       }
     },
-    "objectID": "9a2d08a623f74455073df81df8f0fbc7",
+    "objectID": "4db29035a0052bdd78c8b4a7496b5f83",
     "order": 87,
     "tagName": "P"
   },
@@ -1837,7 +1837,7 @@
       },
       "previous": {
         "content": "\"Tell me,\" said Holmes—and I could see by his eyes that he was much excited—\"was this a mere addition to the first or did it appear to be entirely separate?\"",
-        "objectID": "9a2d08a623f74455073df81df8f0fbc7"
+        "objectID": "4db29035a0052bdd78c8b4a7496b5f83"
       }
     },
     "objectID": "56d3485170624d027a063bcee22f20db",
@@ -2316,7 +2316,7 @@
     "context": {
       "next": {
         "content": "\"Because Inspector Martin from Norwich has just passed through. But maybe you are the surgeons. She's not dead—or wasn't by last accounts. You may be in time to save her yet—though it be for the gallows.\"",
-        "objectID": "8daf3dff9c1552e16e6beca111ae2d54"
+        "objectID": "ef91fadb017819be295aada021e339e8"
       },
       "previous": {
         "content": "A look of annoyance passed over Holmes's face.",
@@ -2344,7 +2344,7 @@
         "objectID": "cc4bf31ae21238e9d7016bf84b85a8b5"
       }
     },
-    "objectID": "8daf3dff9c1552e16e6beca111ae2d54",
+    "objectID": "ef91fadb017819be295aada021e339e8",
     "order": 112,
     "tagName": "P"
   },
@@ -2362,7 +2362,7 @@
       },
       "previous": {
         "content": "\"Because Inspector Martin from Norwich has just passed through. But maybe you are the surgeons. She's not dead—or wasn't by last accounts. You may be in time to save her yet—though it be for the gallows.\"",
-        "objectID": "8daf3dff9c1552e16e6beca111ae2d54"
+        "objectID": "ef91fadb017819be295aada021e339e8"
       }
     },
     "objectID": "75a9735e5e3d6160b0ed33175bce7265",
@@ -2379,7 +2379,7 @@
     "context": {
       "next": {
         "content": "\"It's a terrible business,\" said the stationmaster. \"They are shot, both Mr. Hilton Cubitt and his wife. She shot him and then herself—so the servants say. He's dead and her life is despaired of. Dear, dear, one of the oldest families in the county of Norfolk, and one of the most honoured.\"",
-        "objectID": "b57f316ec52fe00587c236e6d9b59669"
+        "objectID": "0b10e561242f66af5fa2cbecc97f513c"
       },
       "previous": {
         "content": "Holmes's brow was dark with anxiety.",
@@ -2407,7 +2407,7 @@
         "objectID": "e539e6ee82ad25cfa00a9eb82b741c43"
       }
     },
-    "objectID": "b57f316ec52fe00587c236e6d9b59669",
+    "objectID": "0b10e561242f66af5fa2cbecc97f513c",
     "order": 115,
     "tagName": "P"
   },
@@ -2425,7 +2425,7 @@
       },
       "previous": {
         "content": "\"It's a terrible business,\" said the stationmaster. \"They are shot, both Mr. Hilton Cubitt and his wife. She shot him and then herself—so the servants say. He's dead and her life is despaired of. Dear, dear, one of the oldest families in the county of Norfolk, and one of the most honoured.\"",
-        "objectID": "b57f316ec52fe00587c236e6d9b59669"
+        "objectID": "0b10e561242f66af5fa2cbecc97f513c"
       }
     },
     "objectID": "426463d287346440e3ee995a9c0b4940",
@@ -3114,7 +3114,7 @@
     "context": {
       "next": {
         "content": "She was clad in her dress—he in his dressing-gown, over his night-clothes. Nothing had been moved in the study. So far as they knew, there had never been any quarrel between husband and wife. They had always looked upon them as a very united couple.",
-        "objectID": "db2878cfcc28631c492f886769f3cf61"
+        "objectID": "ba2e12f33067defce7f812406972e5fb"
       },
       "previous": {
         "content": "Their master lay upon his face in the centre of the room. He was quite dead. Near the window his wife was crouching, her head leaning against the wall. She was horribly wounded, and the side of her face was red with blood. She breathed heavily, but was incapable of saying anything. The passage, as well as the room, was full of smoke and the smell of powder.",
@@ -3142,7 +3142,7 @@
         "objectID": "d13abcd02a634bda16f5e561626cda65"
       }
     },
-    "objectID": "db2878cfcc28631c492f886769f3cf61",
+    "objectID": "ba2e12f33067defce7f812406972e5fb",
     "order": 150,
     "tagName": "P"
   },
@@ -3160,7 +3160,7 @@
       },
       "previous": {
         "content": "She was clad in her dress—he in his dressing-gown, over his night-clothes. Nothing had been moved in the study. So far as they knew, there had never been any quarrel between husband and wife. They had always looked upon them as a very united couple.",
-        "objectID": "db2878cfcc28631c492f886769f3cf61"
+        "objectID": "ba2e12f33067defce7f812406972e5fb"
       }
     },
     "objectID": "97789f857a0a8db83d9020d81407460f",
@@ -3618,7 +3618,7 @@
     "context": {
       "next": {
         "content": "It was a lady's hand-bag which stood upon the study table—a trim little handbag of crocodile-skin and silver. Holmes opened it and turned the contents out. There were twenty fifty-pound notes of the Bank of England, held together by an india-rubber band—nothing else.",
-        "objectID": "9a93098796f581d2587097cd87780d17"
+        "objectID": "f8f23e4a0d61af2f2b42ad624ea05cdc"
       },
       "previous": {
         "content": "\"But how came the window to be shut and fastened?\"",
@@ -3646,7 +3646,7 @@
         "objectID": "37005395dedfb429d05f61dc5617bb2b"
       }
     },
-    "objectID": "9a93098796f581d2587097cd87780d17",
+    "objectID": "f8f23e4a0d61af2f2b42ad624ea05cdc",
     "order": 174,
     "tagName": "P"
   },
@@ -3664,7 +3664,7 @@
       },
       "previous": {
         "content": "It was a lady's hand-bag which stood upon the study table—a trim little handbag of crocodile-skin and silver. Holmes opened it and turned the contents out. There were twenty fifty-pound notes of the Bank of England, held together by an india-rubber band—nothing else.",
-        "objectID": "9a93098796f581d2587097cd87780d17"
+        "objectID": "f8f23e4a0d61af2f2b42ad624ea05cdc"
       }
     },
     "objectID": "b9714f32fb92555c6cc1b9bd5aa0099f",
@@ -4395,7 +4395,7 @@
     "context": {
       "next": {
         "content": "I therefore waited for fresh material. In my second interview with Mr. Hilton Cubitt he was able to give me two other short sentences and one message, which appeared—since there was no flag—to be a single word. Here are the symbols. Now, in the single word I have already got the two E's coming second and fourth in a word of five letters.",
-        "objectID": "4206570d610101eb3b29408124652ae1"
+        "objectID": "d97a16506b541cf7f8b3ed7ecfe2067a"
       },
       "previous": {
         "content": "I accepted this as a hypothesis, and noted that E was represented by XXX.",
@@ -4423,7 +4423,7 @@
         "objectID": "f5bd78bc1a455c9015fd8d33e4ea3966"
       }
     },
-    "objectID": "4206570d610101eb3b29408124652ae1",
+    "objectID": "d97a16506b541cf7f8b3ed7ecfe2067a",
     "order": 211,
     "tagName": "P"
   },
@@ -4441,7 +4441,7 @@
       },
       "previous": {
         "content": "I therefore waited for fresh material. In my second interview with Mr. Hilton Cubitt he was able to give me two other short sentences and one message, which appeared—since there was no flag—to be a single word. Here are the symbols. Now, in the single word I have already got the two E's coming second and fourth in a word of five letters.",
-        "objectID": "4206570d610101eb3b29408124652ae1"
+        "objectID": "d97a16506b541cf7f8b3ed7ecfe2067a"
       }
     },
     "objectID": "d1c48933433cdab7e09839c92919e41a",
@@ -5130,7 +5130,7 @@
     "context": {
       "next": {
         "content": "We waited in silence for a minute—one of those minutes which one can never forget. Then the door opened and the man stepped in. In an instant Holmes clapped a pistol to his head, and Martin slipped the handcuffs over his wrists. It was all done so swiftly and deftly that the fellow was helpless before he knew that he was attacked.",
-        "objectID": "4e04fa501a234f13a1190a7fccdb8f70"
+        "objectID": "012e99e5b75e51e7014d60484c0721c5"
       },
       "previous": {
         "content": "A man was striding up the path which led to the door. He was a tall, handsome, swarthy fellow, clad in a suit of gray flannel, with a Panama hat, a bristling black beard, and a great, aggressive hooked nose, and flourishing a cane as he walked. He swaggered up a path as if as if the place belonged to him, and we heard his loud, confident peal at the bell.",
@@ -5158,7 +5158,7 @@
         "objectID": "19940222cd1b3a7e7c69f47399b32a8d"
       }
     },
-    "objectID": "4e04fa501a234f13a1190a7fccdb8f70",
+    "objectID": "012e99e5b75e51e7014d60484c0721c5",
     "order": 246,
     "tagName": "P"
   },
@@ -5176,7 +5176,7 @@
       },
       "previous": {
         "content": "We waited in silence for a minute—one of those minutes which one can never forget. Then the door opened and the man stepped in. In an instant Holmes clapped a pistol to his head, and Martin slipped the handcuffs over his wrists. It was all done so swiftly and deftly that the fellow was helpless before he knew that he was attacked.",
-        "objectID": "4e04fa501a234f13a1190a7fccdb8f70"
+        "objectID": "012e99e5b75e51e7014d60484c0721c5"
       }
     },
     "objectID": "f4346c3dc23a66d20be3fa4a39538117",
@@ -5235,7 +5235,7 @@
     "context": {
       "next": {
         "content": "\"You're crazy!\" he cried, fiercely. \"It was he that was hurt, not she. Who would have hurt little Elsie? I may have threatened her—God forgive me!—but I would not have touched a hair of her pretty head. Take it back—you! Say that she is not hurt!\"",
-        "objectID": "e1288445b6735db1682ab252fb905c6e"
+        "objectID": "14ce3fa20845c6e488034951ed973670"
       },
       "previous": {
         "content": "\"Mrs. Hilton Cubitt was seriously injured, and is at death's door.\"",
@@ -5263,7 +5263,7 @@
         "objectID": "044eeec32007b04d774ca16731b98542"
       }
     },
-    "objectID": "e1288445b6735db1682ab252fb905c6e",
+    "objectID": "14ce3fa20845c6e488034951ed973670",
     "order": 251,
     "tagName": "P"
   },
@@ -5281,7 +5281,7 @@
       },
       "previous": {
         "content": "\"You're crazy!\" he cried, fiercely. \"It was he that was hurt, not she. Who would have hurt little Elsie? I may have threatened her—God forgive me!—but I would not have touched a hair of her pretty head. Take it back—you! Say that she is not hurt!\"",
-        "objectID": "e1288445b6735db1682ab252fb905c6e"
+        "objectID": "14ce3fa20845c6e488034951ed973670"
       }
     },
     "objectID": "36df9c531bd5f2e63b77010003012d04",

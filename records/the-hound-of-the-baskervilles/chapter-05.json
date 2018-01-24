@@ -279,7 +279,7 @@
     "context": {
       "next": {
         "content": "\"It suggests—halloa, my dear fellow, what on earth is the matter?\"",
-        "objectID": "e8279ac5018539f66e4d74ee27158cde"
+        "objectID": "0f9d3cef0744a9509ded81651cc9995d"
       },
       "previous": {
         "content": "Now, this is a most suggestive fact.\"",
@@ -307,7 +307,7 @@
         "objectID": "70753a1622bb5eb303750a0639bf2991"
       }
     },
-    "objectID": "e8279ac5018539f66e4d74ee27158cde",
+    "objectID": "0f9d3cef0744a9509ded81651cc9995d",
     "order": 15,
     "tagName": "P"
   },
@@ -325,7 +325,7 @@
       },
       "previous": {
         "content": "\"It suggests—halloa, my dear fellow, what on earth is the matter?\"",
-        "objectID": "e8279ac5018539f66e4d74ee27158cde"
+        "objectID": "0f9d3cef0744a9509ded81651cc9995d"
       }
     },
     "objectID": "09c656bb03ca8e42d4490644d8c3b53a",
@@ -447,7 +447,7 @@
     "context": {
       "next": {
         "content": "\"What! you don't mean to say—?\"",
-        "objectID": "1b47ad6513aa8447f7b3fb8c36e26f16"
+        "objectID": "3940bdc33061ddf9357678346e36ce2f"
       },
       "previous": {
         "content": "\"But, surely, you said that it was a new brown boot?\"",
@@ -468,14 +468,14 @@
     "context": {
       "next": {
         "content": "\"That's just what I do mean to say. I only had three pairs in the world—the new brown, the old black, and the patent leathers, which I am wearing. Last night they took one of my brown ones, and today they have sneaked one of the black. Well, have you got it? Speak out, man, and don't stand staring!\"",
-        "objectID": "32c0e71fc2a6cae8631f2149da145cfa"
+        "objectID": "c10f73ab5319e9e1b4d85a7dbd6d3262"
       },
       "previous": {
         "content": "\"So it was, sir. And now it's an old black one.\"",
         "objectID": "5079a62908d775c8a7e26b154a2e7db4"
       }
     },
-    "objectID": "1b47ad6513aa8447f7b3fb8c36e26f16",
+    "objectID": "3940bdc33061ddf9357678346e36ce2f",
     "order": 23,
     "tagName": "P"
   },
@@ -493,10 +493,10 @@
       },
       "previous": {
         "content": "\"What! you don't mean to say—?\"",
-        "objectID": "1b47ad6513aa8447f7b3fb8c36e26f16"
+        "objectID": "3940bdc33061ddf9357678346e36ce2f"
       }
     },
-    "objectID": "32c0e71fc2a6cae8631f2149da145cfa",
+    "objectID": "c10f73ab5319e9e1b4d85a7dbd6d3262",
     "order": 24,
     "tagName": "P"
   },
@@ -514,7 +514,7 @@
       },
       "previous": {
         "content": "\"That's just what I do mean to say. I only had three pairs in the world—the new brown, the old black, and the patent leathers, which I am wearing. Last night they took one of my brown ones, and today they have sneaked one of the black. Well, have you got it? Speak out, man, and don't stand staring!\"",
-        "objectID": "32c0e71fc2a6cae8631f2149da145cfa"
+        "objectID": "c10f73ab5319e9e1b4d85a7dbd6d3262"
       }
     },
     "objectID": "2d9ce6562fb2b6a8143b6c265a86d586",
@@ -552,7 +552,7 @@
     "context": {
       "next": {
         "content": "\"It shall be found, sir—I promise you that if you will have a little patience it will be found.\"",
-        "objectID": "72532574d7d2c835762943f32f163f9d"
+        "objectID": "b68cde055175b1e9c5275a567b2a57b6"
       },
       "previous": {
         "content": "\"No, sir; I have made inquiry all over the hotel, but I can hear no word of it.\"",
@@ -573,14 +573,14 @@
     "context": {
       "next": {
         "content": "\"Mind it is, for it's the last thing of mine that I'll lose in this den of thieves. Well, well, Mr. Holmes, you'll excuse my troubling you about such a trifle—\"",
-        "objectID": "f74704bcf6c816f25c8847548f6c7edc"
+        "objectID": "9c93c01326bdfac2af98fc352bcc03f0"
       },
       "previous": {
         "content": "\"Well, either that boot comes back before sundown or I'll see the manager and tell him that I go right straight out of this hotel.\"",
         "objectID": "22e6483ace52c50f48dfcfe0983786bd"
       }
     },
-    "objectID": "72532574d7d2c835762943f32f163f9d",
+    "objectID": "b68cde055175b1e9c5275a567b2a57b6",
     "order": 28,
     "tagName": "P"
   },
@@ -598,10 +598,10 @@
       },
       "previous": {
         "content": "\"It shall be found, sir—I promise you that if you will have a little patience it will be found.\"",
-        "objectID": "72532574d7d2c835762943f32f163f9d"
+        "objectID": "b68cde055175b1e9c5275a567b2a57b6"
       }
     },
-    "objectID": "f74704bcf6c816f25c8847548f6c7edc",
+    "objectID": "9c93c01326bdfac2af98fc352bcc03f0",
     "order": 29,
     "tagName": "P"
   },
@@ -619,7 +619,7 @@
       },
       "previous": {
         "content": "\"Mind it is, for it's the last thing of mine that I'll lose in this den of thieves. Well, well, Mr. Holmes, you'll excuse my troubling you about such a trifle—\"",
-        "objectID": "f74704bcf6c816f25c8847548f6c7edc"
+        "objectID": "9c93c01326bdfac2af98fc352bcc03f0"
       }
     },
     "objectID": "1454389775658f51deccf5677efad6c3",
@@ -678,7 +678,7 @@
     "context": {
       "next": {
         "content": "\"The queerest perhaps—\" said Holmes thoughtfully.",
-        "objectID": "2c7f8d7ec8efbf241222e7ac19eab506"
+        "objectID": "24af0814911e15da9adfae01b86669ec"
       },
       "previous": {
         "content": "\"How do you explain it?\"",
@@ -706,7 +706,7 @@
         "objectID": "8701219b21212122d09445ebd4ca72c1"
       }
     },
-    "objectID": "2c7f8d7ec8efbf241222e7ac19eab506",
+    "objectID": "24af0814911e15da9adfae01b86669ec",
     "order": 34,
     "tagName": "P"
   },
@@ -724,7 +724,7 @@
       },
       "previous": {
         "content": "\"The queerest perhaps—\" said Holmes thoughtfully.",
-        "objectID": "2c7f8d7ec8efbf241222e7ac19eab506"
+        "objectID": "24af0814911e15da9adfae01b86669ec"
       }
     },
     "objectID": "306f56c3ba53e0c2becd7739780cccd6",
@@ -930,7 +930,7 @@
     "context": {
       "next": {
         "content": "\"No—or, let me see—why, yes. Barrymore, Sir Charles's butler, is a man with a full, black beard.\"",
-        "objectID": "1721355420e8fc5466ddf9908ef1b1f7"
+        "objectID": "b8572b0cc4d0a3d31b5ca0da3bf1e94b"
       },
       "previous": {
         "content": "Dr. Mortimer started violently. \"Followed! By whom?\"",
@@ -958,7 +958,7 @@
         "objectID": "9918ad9a23ef40716937575c680310be"
       }
     },
-    "objectID": "1721355420e8fc5466ddf9908ef1b1f7",
+    "objectID": "b8572b0cc4d0a3d31b5ca0da3bf1e94b",
     "order": 46,
     "tagName": "P"
   },
@@ -976,7 +976,7 @@
       },
       "previous": {
         "content": "\"No—or, let me see—why, yes. Barrymore, Sir Charles's butler, is a man with a full, black beard.\"",
-        "objectID": "1721355420e8fc5466ddf9908ef1b1f7"
+        "objectID": "b8572b0cc4d0a3d31b5ca0da3bf1e94b"
       }
     },
     "objectID": "39f882c3e84733dcad6ad91c1c176e2e",
@@ -1413,7 +1413,7 @@
     "context": {
       "next": {
         "content": "\"Dear me! It is a stake for which a man might well play a desperate game. And one more question, Dr. Mortimer. Supposing that anything happened to our young friend here—you will forgive the unpleasant hypothesis!—who would inherit the estate?\"",
-        "objectID": "7ffb3d5938bbc1eb7ce5f4b2cbc39280"
+        "objectID": "15d46ec4968b208337ec8d8e261f8edb"
       },
       "previous": {
         "content": "Holmes raised his eyebrows in surprise. \"I had no idea that so gigantic a sum was involved,\" said he.",
@@ -1441,7 +1441,7 @@
         "objectID": "e52098e50cbf00c3e7e55c5208fd7bc3"
       }
     },
-    "objectID": "7ffb3d5938bbc1eb7ce5f4b2cbc39280",
+    "objectID": "15d46ec4968b208337ec8d8e261f8edb",
     "order": 69,
     "tagName": "P"
   },
@@ -1459,7 +1459,7 @@
       },
       "previous": {
         "content": "\"Dear me! It is a stake for which a man might well play a desperate game. And one more question, Dr. Mortimer. Supposing that anything happened to our young friend here—you will forgive the unpleasant hypothesis!—who would inherit the estate?\"",
-        "objectID": "7ffb3d5938bbc1eb7ce5f4b2cbc39280"
+        "objectID": "15d46ec4968b208337ec8d8e261f8edb"
       }
     },
     "objectID": "e4cf8241204f88fbba5e528119a567ad",
@@ -2652,7 +2652,7 @@
     "context": {
       "next": {
         "content": "\"A touch, Watson—an undeniable touch!\" said he. \"I feel a foil as quick and supple as my own. He got home upon me very prettily that time. So his name was Sherlock Holmes, was it?\"",
-        "objectID": "192f78a3ee5edbb0b9c21e171c229189"
+        "objectID": "c59f0d4ae58beb0fb8985d85445cb118"
       },
       "previous": {
         "content": "\"His name,\" said the cabman, \"was Mr. Sherlock Holmes.\"",
@@ -2680,7 +2680,7 @@
         "objectID": "555fe7c6bb50f399a9e08c6d78d59178"
       }
     },
-    "objectID": "192f78a3ee5edbb0b9c21e171c229189",
+    "objectID": "c59f0d4ae58beb0fb8985d85445cb118",
     "order": 128,
     "tagName": "P"
   },
@@ -2698,7 +2698,7 @@
       },
       "previous": {
         "content": "\"A touch, Watson—an undeniable touch!\" said he. \"I feel a foil as quick and supple as my own. He got home upon me very prettily that time. So his name was Sherlock Holmes, was it?\"",
-        "objectID": "192f78a3ee5edbb0b9c21e171c229189"
+        "objectID": "c59f0d4ae58beb0fb8985d85445cb118"
       }
     },
     "objectID": "9c0a73dd7c1f6e9666f23de3cd5b48d2",
@@ -2778,7 +2778,7 @@
     "context": {
       "next": {
         "content": "\"Well, I couldn't be sure of that, but I dare say my fare knew all about it. We pulled up halfway down the street and waited an hour and a half. Then the two gentlemen passed us, walking, and we followed down Baker Street and along—\"",
-        "objectID": "6974a746edf2010cf2799c8bcfd32365"
+        "objectID": "76b687a4a93dbf4b6e9a6c1bde61990d"
       },
       "previous": {
         "content": "We followed their cab until it pulled up somewhere near here.\"",
@@ -2806,7 +2806,7 @@
         "objectID": "629c9dea76a103569461acf1e0ff6a4d"
       }
     },
-    "objectID": "6974a746edf2010cf2799c8bcfd32365",
+    "objectID": "76b687a4a93dbf4b6e9a6c1bde61990d",
     "order": 134,
     "tagName": "P"
   },
@@ -2824,7 +2824,7 @@
       },
       "previous": {
         "content": "\"Well, I couldn't be sure of that, but I dare say my fare knew all about it. We pulled up halfway down the street and waited an hour and a half. Then the two gentlemen passed us, walking, and we followed down Baker Street and along—\"",
-        "objectID": "6974a746edf2010cf2799c8bcfd32365"
+        "objectID": "76b687a4a93dbf4b6e9a6c1bde61990d"
       }
     },
     "objectID": "5ab8bebe9684a74d93cc992bc76f2529",

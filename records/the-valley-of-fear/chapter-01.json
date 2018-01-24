@@ -13,7 +13,7 @@
       },
       "previous": null
     },
-    "objectID": "326659ab038fa7591f66ed951237709e",
+    "objectID": "32befcc0b2300521c383d546c314a002",
     "order": 1,
     "tagName": "P"
   },
@@ -31,7 +31,7 @@
       },
       "previous": {
         "content": "\"I am inclined to think—\" said I.",
-        "objectID": "326659ab038fa7591f66ed951237709e"
+        "objectID": "32befcc0b2300521c383d546c314a002"
       }
     },
     "objectID": "9834a808db395b6b4f2bf1d459d4f88c",
@@ -153,7 +153,7 @@
     "context": {
       "next": {
         "content": "Picture to yourself the pilot fish with the shark, the jackal with the lion—anything that is insignificant in companionship with what is formidable: not only formidable, Watson, but sinister—in the highest degree sinister. That is where he comes within my purview. You have heard me speak of Profess",
-        "objectID": "210c178ccc6e9af1b74b106f25d5c1cc"
+        "objectID": "4e9477791d458d21bbf431473241b8b9"
       },
       "previous": {
         "content": "\"Who then is Porlock?\" I asked.",
@@ -181,7 +181,7 @@
         "objectID": "e8b8b7caa9b6875bf1a96129137f1d9f"
       }
     },
-    "objectID": "210c178ccc6e9af1b74b106f25d5c1cc",
+    "objectID": "4e9477791d458d21bbf431473241b8b9",
     "order": 9,
     "tagName": "P"
   },
@@ -195,11 +195,11 @@
     "context": {
       "next": {
         "content": "\"The famous scientific criminal, as famous among crooks as—\"",
-        "objectID": "2945f5ac96e5a7557266fefa5735f03f"
+        "objectID": "498b2c7424df9f30da8cf3c69ffefe19"
       },
       "previous": {
         "content": "Picture to yourself the pilot fish with the shark, the jackal with the lion—anything that is insignificant in companionship with what is formidable: not only formidable, Watson, but sinister—in the highest degree sinister. That is where he comes within my purview. You have heard me speak of Profess",
-        "objectID": "210c178ccc6e9af1b74b106f25d5c1cc"
+        "objectID": "4e9477791d458d21bbf431473241b8b9"
       }
     },
     "objectID": "d2856d6ddb26856af01738eb88ead882",
@@ -223,7 +223,7 @@
         "objectID": "d2856d6ddb26856af01738eb88ead882"
       }
     },
-    "objectID": "2945f5ac96e5a7557266fefa5735f03f",
+    "objectID": "498b2c7424df9f30da8cf3c69ffefe19",
     "order": 11,
     "tagName": "P"
   },
@@ -241,7 +241,7 @@
       },
       "previous": {
         "content": "\"The famous scientific criminal, as famous among crooks as—\"",
-        "objectID": "2945f5ac96e5a7557266fefa5735f03f"
+        "objectID": "498b2c7424df9f30da8cf3c69ffefe19"
       }
     },
     "objectID": "70d41df1061c065ef1a59e55f5c7dabc",
@@ -258,7 +258,7 @@
     "context": {
       "next": {
         "content": "\"A touch! A distinct touch!\" cried Holmes. \"You are developing a certain unexpected vein of pawky humour, Watson, against which I must learn to guard myself. But in calling Moriarty a criminal you are uttering libel in the eyes of the law—and there lie the glory and the wonder of it! The greatest schemer of all time, the organizer of every deviltry, the controlling brain of the underworld, a brain which might have made or marred the destiny of nations—that's the man! But so aloof is he from general suspicion, so immune from criticism, so admirable in his management and self-effacement, that for those very words that you have uttered he could hale you to a court and emerge with your year's pension as a solatium for his wounded character.",
-        "objectID": "6841ce6c785f7911ecee843ad8003240"
+        "objectID": "ec9618783329ee3247d2f668d5716af1"
       },
       "previous": {
         "content": "\"My blushes, Watson!\" Holmes murmured in a deprecating voice.",
@@ -279,14 +279,14 @@
     "context": {
       "next": {
         "content": "Is he not the celebrated author of The Dynamics of an Asteroid, a book which ascends to such rarefied heights of pure mathematics that it is said that there was no man in the scientific press capable of criticizing it? Is this a man to traduce? Foul-mouthed doctor and slandered professor—such would be your respective roles! That's genius, Watson.",
-        "objectID": "fb31b71e70c61730cdf2c890b1142aea"
+        "objectID": "836df2b93950bfb1459310b29fa764e5"
       },
       "previous": {
         "content": "\"I was about to say, as he is unknown to the public.\"",
         "objectID": "538dfdd53a4a76f7caaaf08832c254a7"
       }
     },
-    "objectID": "6841ce6c785f7911ecee843ad8003240",
+    "objectID": "ec9618783329ee3247d2f668d5716af1",
     "order": 14,
     "tagName": "P"
   },
@@ -304,10 +304,10 @@
       },
       "previous": {
         "content": "\"A touch! A distinct touch!\" cried Holmes. \"You are developing a certain unexpected vein of pawky humour, Watson, against which I must learn to guard myself. But in calling Moriarty a criminal you are uttering libel in the eyes of the law—and there lie the glory and the wonder of it! The greatest schemer of all time, the organizer of every deviltry, the controlling brain of the underworld, a brain which might have made or marred the destiny of nations—that's the man! But so aloof is he from general suspicion, so immune from criticism, so admirable in his management and self-effacement, that for those very words that you have uttered he could hale you to a court and emerge with your year's pension as a solatium for his wounded character.",
-        "objectID": "6841ce6c785f7911ecee843ad8003240"
+        "objectID": "ec9618783329ee3247d2f668d5716af1"
       }
     },
-    "objectID": "fb31b71e70c61730cdf2c890b1142aea",
+    "objectID": "836df2b93950bfb1459310b29fa764e5",
     "order": 15,
     "tagName": "P"
   },
@@ -325,7 +325,7 @@
       },
       "previous": {
         "content": "Is he not the celebrated author of The Dynamics of an Asteroid, a book which ascends to such rarefied heights of pure mathematics that it is said that there was no man in the scientific press capable of criticizing it? Is this a man to traduce? Foul-mouthed doctor and slandered professor—such would be your respective roles! That's genius, Watson.",
-        "objectID": "fb31b71e70c61730cdf2c890b1142aea"
+        "objectID": "836df2b93950bfb1459310b29fa764e5"
       }
     },
     "objectID": "5088e639f970a1b88497cc23a03a8f1b",
@@ -342,7 +342,7 @@
     "context": {
       "next": {
         "content": "\"Ah, yes—the so-called Porlock is a link in the chain some little way from its great attachment. Porlock is not quite a sound link—between ourselves. He is the only flaw in that chain so far as I have been able to test it.\"",
-        "objectID": "41da2f53a912d98d0527c8e814463994"
+        "objectID": "88e9d850ca96996515d01764ba6b32d0"
       },
       "previous": {
         "content": "But if I am spared by lesser men, our day will surely come.\"",
@@ -370,7 +370,7 @@
         "objectID": "44b81476550871cbf6be6250075c2482"
       }
     },
-    "objectID": "41da2f53a912d98d0527c8e814463994",
+    "objectID": "88e9d850ca96996515d01764ba6b32d0",
     "order": 18,
     "tagName": "P"
   },
@@ -384,11 +384,11 @@
     "context": {
       "next": {
         "content": "\"Exactly, my dear Watson! Hence the extreme importance of Porlock. Led on by some rudimentary aspirations towards right, and encouraged by the judicious stimulation of an occasional ten-pound note sent to him by devious methods, he has once or twice given me advance information which has been of value—that highest value which anticipates and prevents rather than avenges crime.",
-        "objectID": "4373a814cf1b5176698439b4cfc0b521"
+        "objectID": "4f47cdd786ef376fdab746d7cc59a231"
       },
       "previous": {
         "content": "\"Ah, yes—the so-called Porlock is a link in the chain some little way from its great attachment. Porlock is not quite a sound link—between ourselves. He is the only flaw in that chain so far as I have been able to test it.\"",
-        "objectID": "41da2f53a912d98d0527c8e814463994"
+        "objectID": "88e9d850ca96996515d01764ba6b32d0"
       }
     },
     "objectID": "adece5b0328da3cfa052a5f284b35bfc",
@@ -412,7 +412,7 @@
         "objectID": "adece5b0328da3cfa052a5f284b35bfc"
       }
     },
-    "objectID": "4373a814cf1b5176698439b4cfc0b521",
+    "objectID": "4f47cdd786ef376fdab746d7cc59a231",
     "order": 20,
     "tagName": "P"
   },
@@ -430,7 +430,7 @@
       },
       "previous": {
         "content": "\"Exactly, my dear Watson! Hence the extreme importance of Porlock. Led on by some rudimentary aspirations towards right, and encouraged by the judicious stimulation of an occasional ten-pound note sent to him by devious methods, he has once or twice given me advance information which has been of value—that highest value which anticipates and prevents rather than avenges crime.",
-        "objectID": "4373a814cf1b5176698439b4cfc0b521"
+        "objectID": "4f47cdd786ef376fdab746d7cc59a231"
       }
     },
     "objectID": "82f97ebfee5089bad9f80b14320ef84f",
@@ -804,7 +804,7 @@
     "context": {
       "next": {
         "content": "\"I will go no further in this matter. It is too dangerous—he suspects me. I can see that he suspects me. He came to me quite unexpectedly after I had actually addressed this envelope with the intention of sending you the key to the cipher. I was able to cover it up. If he had seen it, it would have gone hard with me.",
-        "objectID": "e767d2cb3b94eb0e091090b7ad11372a"
+        "objectID": "ee0f295da8799804b856e1b90496ccd1"
       },
       "previous": {
         "content": "\"Dear me, this is very disappointing! I fear, Watson, that all our expectations come to nothing. I trust that the man Porlock will come to no harm.",
@@ -832,7 +832,7 @@
         "objectID": "9644ac4e197b47b3e11b14bc2b23a885"
       }
     },
-    "objectID": "e767d2cb3b94eb0e091090b7ad11372a",
+    "objectID": "ee0f295da8799804b856e1b90496ccd1",
     "order": 40,
     "tagName": "P"
   },
@@ -850,7 +850,7 @@
       },
       "previous": {
         "content": "\"I will go no further in this matter. It is too dangerous—he suspects me. I can see that he suspects me. He came to me quite unexpectedly after I had actually addressed this envelope with the intention of sending you the key to the cipher. I was able to cover it up. If he had seen it, it would have gone hard with me.",
-        "objectID": "e767d2cb3b94eb0e091090b7ad11372a"
+        "objectID": "ee0f295da8799804b856e1b90496ccd1"
       }
     },
     "objectID": "c1168e6bbcea6a6afd49b6f017238446",
@@ -972,7 +972,7 @@
     "context": {
       "next": {
         "content": "\"Hum! That's a large question. When you have one of the first brains of Europe up against you, and all the powers of darkness at his back, there are infinite possibilities. Anyhow, Friend Porlock is evidently scared out of his senses—kindly compare the writing in the note to that upon its envelope; which was done, he tells us, before this ill-omened visit.",
-        "objectID": "16b4f2aae554f7b3c741dfb6f852ad6f"
+        "objectID": "849f210f00fdf8a1747be2171703cfbb"
       },
       "previous": {
         "content": "\"No less! When any of that party talk about 'He' you know whom they mean. There is one predominant 'He' for all of them.\"",
@@ -1000,7 +1000,7 @@
         "objectID": "df9aebe219cdf6fcd382d93239b8df3f"
       }
     },
-    "objectID": "16b4f2aae554f7b3c741dfb6f852ad6f",
+    "objectID": "849f210f00fdf8a1747be2171703cfbb",
     "order": 48,
     "tagName": "P"
   },
@@ -1018,7 +1018,7 @@
       },
       "previous": {
         "content": "\"Hum! That's a large question. When you have one of the first brains of Europe up against you, and all the powers of darkness at his back, there are infinite possibilities. Anyhow, Friend Porlock is evidently scared out of his senses—kindly compare the writing in the note to that upon its envelope; which was done, he tells us, before this ill-omened visit.",
-        "objectID": "16b4f2aae554f7b3c741dfb6f852ad6f"
+        "objectID": "849f210f00fdf8a1747be2171703cfbb"
       }
     },
     "objectID": "0a1e62a20a43401ab285db11afd086dd",
@@ -1350,7 +1350,7 @@
     "context": {
       "next": {
         "content": "\"Surely you do yourself an injustice. One more coruscation, my dear Watson—yet another brain-wave! Had the volume been an unusual one, he would have sent it to me. Instead of that, he had intended, before his plans were nipped, to send me the clue in this envelope. He says so in his note. This would seem to indicate that the book is one which he thought I would have no difficulty in finding for myself.",
-        "objectID": "2dd945634e29ba55ea141a36f8c6023a"
+        "objectID": "01cf2dff805815fcfbf4a1e82cde81d9"
       },
       "previous": {
         "content": "Have we reached the limits of what reason can supply?\"",
@@ -1371,14 +1371,14 @@
     "context": {
       "next": {
         "content": "He had it—and he imagined that I would have it, too. In short, Watson, it is a very common book.\"",
-        "objectID": "ad1774b7470f283ccde4a275882943b6"
+        "objectID": "d82cda775758295e74370c4c04bdf2ee"
       },
       "previous": {
         "content": "\"I fear that we have.\"",
         "objectID": "f5975602e291da185db2e45ef717d14e"
       }
     },
-    "objectID": "2dd945634e29ba55ea141a36f8c6023a",
+    "objectID": "01cf2dff805815fcfbf4a1e82cde81d9",
     "order": 66,
     "tagName": "P"
   },
@@ -1396,10 +1396,10 @@
       },
       "previous": {
         "content": "\"Surely you do yourself an injustice. One more coruscation, my dear Watson—yet another brain-wave! Had the volume been an unusual one, he would have sent it to me. Instead of that, he had intended, before his plans were nipped, to send me the clue in this envelope. He says so in his note. This would seem to indicate that the book is one which he thought I would have no difficulty in finding for myself.",
-        "objectID": "2dd945634e29ba55ea141a36f8c6023a"
+        "objectID": "01cf2dff805815fcfbf4a1e82cde81d9"
       }
     },
-    "objectID": "ad1774b7470f283ccde4a275882943b6",
+    "objectID": "d82cda775758295e74370c4c04bdf2ee",
     "order": 67,
     "tagName": "P"
   },
@@ -1417,7 +1417,7 @@
       },
       "previous": {
         "content": "He had it—and he imagined that I would have it, too. In short, Watson, it is a very common book.\"",
-        "objectID": "ad1774b7470f283ccde4a275882943b6"
+        "objectID": "d82cda775758295e74370c4c04bdf2ee"
       }
     },
     "objectID": "ad2c0e05e6fc8ab6b280cda6a9661aab",
@@ -1707,7 +1707,7 @@
     "context": {
       "next": {
         "content": "Now let us see what page 534 has in store for us. Number thirteen is 'There,' which is much more promising. Number one hundred and twenty-seven is 'is'—'There is' \"—Holmes's eyes were gleaming with excitement, and his thin, nervous fingers twitched as he counted the words—\"'danger.' Ha! Ha! Capital! Put that down, Watson.",
-        "objectID": "548854bdde37475cf0eaa1b9062b4d37"
+        "objectID": "f0d862e41eebf807ab43a7ee6a82ff9d"
       },
       "previous": {
         "content": "He had spoken in jesting vein, but the twitching of his bushy eyebrows bespoke his disappointment and irritation. I sat helpless and unhappy, staring into the fire. A long silence was broken by a sudden exclamation from Holmes, who dashed at a cupboard, from which he emerged with a second yellow-covered volume in his hand.",
@@ -1728,14 +1728,14 @@
     "context": {
       "next": {
         "content": "'There is danger—may—come—very soon—one.' Then we have the name 'Douglas'—'rich—country—now—at Birlstone—House—Birlstone—confidence—is—pressing.' There, Watson! What do you think of pure reason and its fruit? If the green-grocer had such a thing as a laurel wreath, I should send Billy round for it.",
-        "objectID": "e2ce824393ed9732f9115e57409517a4"
+        "objectID": "70caa590c79437010642e70dd4a87895"
       },
       "previous": {
         "content": "\"We pay the price, Watson, for being too up-to-date!\" he cried. \"We are before our time, and suffer the usual penalties. Being the seventh of January, we have very properly laid in the new almanac. It is more than likely that Porlock took his message from the old one. No doubt he would have told us so had his letter of explanation been written.",
         "objectID": "d50672a931bcf77f6e438906d04f6246"
       }
     },
-    "objectID": "548854bdde37475cf0eaa1b9062b4d37",
+    "objectID": "f0d862e41eebf807ab43a7ee6a82ff9d",
     "order": 83,
     "tagName": "P"
   },
@@ -1753,10 +1753,10 @@
       },
       "previous": {
         "content": "Now let us see what page 534 has in store for us. Number thirteen is 'There,' which is much more promising. Number one hundred and twenty-seven is 'is'—'There is' \"—Holmes's eyes were gleaming with excitement, and his thin, nervous fingers twitched as he counted the words—\"'danger.' Ha! Ha! Capital! Put that down, Watson.",
-        "objectID": "548854bdde37475cf0eaa1b9062b4d37"
+        "objectID": "f0d862e41eebf807ab43a7ee6a82ff9d"
       }
     },
-    "objectID": "e2ce824393ed9732f9115e57409517a4",
+    "objectID": "70caa590c79437010642e70dd4a87895",
     "order": 84,
     "tagName": "P"
   },
@@ -1774,7 +1774,7 @@
       },
       "previous": {
         "content": "'There is danger—may—come—very soon—one.' Then we have the name 'Douglas'—'rich—country—now—at Birlstone—House—Birlstone—confidence—is—pressing.' There, Watson! What do you think of pure reason and its fruit? If the green-grocer had such a thing as a laurel wreath, I should send Billy round for it.",
-        "objectID": "e2ce824393ed9732f9115e57409517a4"
+        "objectID": "70caa590c79437010642e70dd4a87895"
       }
     },
     "objectID": "caf917a722073bc5222d4ab859e31434",
@@ -1833,7 +1833,7 @@
     "context": {
       "next": {
         "content": "Some deviltry is intended against one Douglas, whoever he may be, residing as stated, a rich country gentleman. He is sure—'confidence' was as near as he could get to 'confident'—that it is pressing. There is our result—and a very workmanlike little bit of analysis it was!\"",
-        "objectID": "cf65962094d451b49eb68ee6e5077c20"
+        "objectID": "d7a85450435769594eca4fa290d1dfaf"
       },
       "previous": {
         "content": "\"What a queer, scrambling way of expressing his meaning!\" said I.",
@@ -1861,7 +1861,7 @@
         "objectID": "2a1fd75d938a672e6ea180aae82bba79"
       }
     },
-    "objectID": "cf65962094d451b49eb68ee6e5077c20",
+    "objectID": "d7a85450435769594eca4fa290d1dfaf",
     "order": 89,
     "tagName": "P"
   },
@@ -1879,7 +1879,7 @@
       },
       "previous": {
         "content": "Some deviltry is intended against one Douglas, whoever he may be, residing as stated, a rich country gentleman. He is sure—'confidence' was as near as he could get to 'confident'—that it is pressing. There is our result—and a very workmanlike little bit of analysis it was!\"",
-        "objectID": "cf65962094d451b49eb68ee6e5077c20"
+        "objectID": "d7a85450435769594eca4fa290d1dfaf"
       }
     },
     "objectID": "34d09466b7e389cda3ee6caa2d7b954b",
@@ -2022,7 +2022,7 @@
     "context": {
       "next": {
         "content": "But—but—\"",
-        "objectID": "1ea3e78ab61a621a42435bd2c257f259"
+        "objectID": "9679e197a27c41e2aee8f3d519c67647"
       },
       "previous": {
         "content": "\"You are an early bird, Mr. Mac,\" said he. \"I wish you luck with your worm. I fear this means that there is some mischief afoot.\"",
@@ -2050,7 +2050,7 @@
         "objectID": "c8fb1f31635957ee6cf9d296e73ae490"
       }
     },
-    "objectID": "1ea3e78ab61a621a42435bd2c257f259",
+    "objectID": "9679e197a27c41e2aee8f3d519c67647",
     "order": 98,
     "tagName": "P"
   },
@@ -2068,7 +2068,7 @@
       },
       "previous": {
         "content": "But—but—\"",
-        "objectID": "1ea3e78ab61a621a42435bd2c257f259"
+        "objectID": "9679e197a27c41e2aee8f3d519c67647"
       }
     },
     "objectID": "075b42783be888d4b94dc9dc8b4a443a",
@@ -2085,7 +2085,7 @@
     "context": {
       "next": {
         "content": "\"It is a cipher that Dr. Watson and I have had occasion to solve. But why—what's amiss with the names?\"",
-        "objectID": "9273b801427cae4a3d2dd12e4b988ccd"
+        "objectID": "686d5e4c5c39849b9181809e9a1d2c91"
       },
       "previous": {
         "content": "The inspector had stopped suddenly, and was staring with a look of absolute amazement at a paper upon the table. It was the sheet upon which I had scrawled the enigmatic message.",
@@ -2113,7 +2113,7 @@
         "objectID": "ed7aded343d37c63bfc64ce05c0ecc41"
       }
     },
-    "objectID": "9273b801427cae4a3d2dd12e4b988ccd",
+    "objectID": "686d5e4c5c39849b9181809e9a1d2c91",
     "order": 101,
     "tagName": "P"
   },
@@ -2128,7 +2128,7 @@
       "next": null,
       "previous": {
         "content": "\"It is a cipher that Dr. Watson and I have had occasion to solve. But why—what's amiss with the names?\"",
-        "objectID": "9273b801427cae4a3d2dd12e4b988ccd"
+        "objectID": "686d5e4c5c39849b9181809e9a1d2c91"
       }
     },
     "objectID": "ffe5e4ff3a5226d5a7236384f3149d47",

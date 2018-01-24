@@ -13,7 +13,7 @@
       },
       "previous": null
     },
-    "objectID": "aad89b9468f54cf251a68bc8a3681538",
+    "objectID": "9ca14d550c1d4f94b507e22169d01eda",
     "order": 1,
     "tagName": "P"
   },
@@ -31,7 +31,7 @@
       },
       "previous": {
         "content": "Of all the problems which have been submitted to my friend, Mr. Sherlock Holmes, for solution during the years of our intimacy, there were only two which I was the means of introducing to his notice—that of Mr. Hatherley’s thumb, and that of Colonel Warburton’s madness. Of these the latter may have afforded a finer field for an acute and original observer, but the other was so strange in its inception and so dramatic in its details that it may be the more worthy of being placed upon record, even if it gave my friend fewer openings for those deductive methods of reasoning by which he achieved such remarkable results.",
-        "objectID": "aad89b9468f54cf251a68bc8a3681538"
+        "objectID": "9ca14d550c1d4f94b507e22169d01eda"
       }
     },
     "objectID": "a852b4898ef43eb5077870637b6aae66",
@@ -48,7 +48,7 @@
     "context": {
       "next": {
         "content": "It was in the summer of ’89, not long after my marriage, that the events occurred which I am now about to summarise. I had returned to civil practice and had finally abandoned Holmes in his Baker Street rooms, although I continually visited him and occasionally even persuaded him to forgo his Bohemian habits so far as to come and visit us.",
-        "objectID": "d4be9387de7893f375bd0a44a5eed5a8"
+        "objectID": "0cd57abc4aa7c8c0e0d4a28aa3fbd20c"
       },
       "previous": {
         "content": "The story has, I believe, been told more than once in the newspapers, but, like all such narratives, its effect is much less striking when set forth en bloc in a single half-column of print than when the facts slowly evolve before your own eyes, and the mystery clears gradually away as each new discovery furnishes a step which leads on to the complete truth.",
@@ -76,7 +76,7 @@
         "objectID": "2a4d90446e63e721a14e38c41683097f"
       }
     },
-    "objectID": "d4be9387de7893f375bd0a44a5eed5a8",
+    "objectID": "0cd57abc4aa7c8c0e0d4a28aa3fbd20c",
     "order": 4,
     "tagName": "P"
   },
@@ -90,11 +90,11 @@
     "context": {
       "next": {
         "content": "One morning, at a little before seven o’clock, I was awakened by the maid tapping at the door to announce that two men had come from Paddington and were waiting in the consulting-room. I dressed hurriedly, for I knew by experience that railway cases were seldom trivial, and hastened downstairs. As I descended, my old ally, the guard, came out of the room and closed the door tightly behind him.",
-        "objectID": "bce7bf7b7e0e6546322e7a5b565c4588"
+        "objectID": "23c55cdf683c5ab52715314977dff03b"
       },
       "previous": {
         "content": "It was in the summer of ’89, not long after my marriage, that the events occurred which I am now about to summarise. I had returned to civil practice and had finally abandoned Holmes in his Baker Street rooms, although I continually visited him and occasionally even persuaded him to forgo his Bohemian habits so far as to come and visit us.",
-        "objectID": "d4be9387de7893f375bd0a44a5eed5a8"
+        "objectID": "0cd57abc4aa7c8c0e0d4a28aa3fbd20c"
       }
     },
     "objectID": "751f9d7c517b7e2b5e22dd522cca80f3",
@@ -111,14 +111,14 @@
     "context": {
       "next": {
         "content": "“I’ve got him here,” he whispered, jerking his thumb over his shoulder; “he’s all right.”",
-        "objectID": "d69c70284ae870b15f6e28cc4beb3c14"
+        "objectID": "b8a2b7173a4b81a16f2f20742575c367"
       },
       "previous": {
         "content": "My practice had steadily increased, and as I happened to live at no very great distance from Paddington Station, I got a few patients from among the officials. One of these, whom I had cured of a painful and lingering disease, was never weary of advertising my virtues and of endeavouring to send me on every sufferer over whom he might have any influence.",
         "objectID": "751f9d7c517b7e2b5e22dd522cca80f3"
       }
     },
-    "objectID": "bce7bf7b7e0e6546322e7a5b565c4588",
+    "objectID": "23c55cdf683c5ab52715314977dff03b",
     "order": 6,
     "tagName": "P"
   },
@@ -132,14 +132,14 @@
     "context": {
       "next": {
         "content": "“What is it, then?” I asked, for his manner suggested that it was some strange creature which he had caged up in my room.",
-        "objectID": "70e6ea71a8fc0d2a12ef65fc59e09122"
+        "objectID": "059936c7e2ed998213602f7a7f19ca8b"
       },
       "previous": {
         "content": "One morning, at a little before seven o’clock, I was awakened by the maid tapping at the door to announce that two men had come from Paddington and were waiting in the consulting-room. I dressed hurriedly, for I knew by experience that railway cases were seldom trivial, and hastened downstairs. As I descended, my old ally, the guard, came out of the room and closed the door tightly behind him.",
-        "objectID": "bce7bf7b7e0e6546322e7a5b565c4588"
+        "objectID": "23c55cdf683c5ab52715314977dff03b"
       }
     },
-    "objectID": "d69c70284ae870b15f6e28cc4beb3c14",
+    "objectID": "b8a2b7173a4b81a16f2f20742575c367",
     "order": 7,
     "tagName": "P"
   },
@@ -153,14 +153,14 @@
     "context": {
       "next": {
         "content": "“It’s a new patient,” he whispered. “I thought I’d bring him round myself; then he couldn’t slip away. There he is, all safe and sound. I must go now, Doctor; I have my dooties, just the same as you.” And off he went, this trusty tout, without even giving me time to thank him.",
-        "objectID": "22f48e31e4b3664f3ece58ccaa948993"
+        "objectID": "6e07e0b3bd1c0add6e1a26c2c8e86e30"
       },
       "previous": {
         "content": "“I’ve got him here,” he whispered, jerking his thumb over his shoulder; “he’s all right.”",
-        "objectID": "d69c70284ae870b15f6e28cc4beb3c14"
+        "objectID": "b8a2b7173a4b81a16f2f20742575c367"
       }
     },
-    "objectID": "70e6ea71a8fc0d2a12ef65fc59e09122",
+    "objectID": "059936c7e2ed998213602f7a7f19ca8b",
     "order": 8,
     "tagName": "P"
   },
@@ -178,10 +178,10 @@
       },
       "previous": {
         "content": "“What is it, then?” I asked, for his manner suggested that it was some strange creature which he had caged up in my room.",
-        "objectID": "70e6ea71a8fc0d2a12ef65fc59e09122"
+        "objectID": "059936c7e2ed998213602f7a7f19ca8b"
       }
     },
-    "objectID": "22f48e31e4b3664f3ece58ccaa948993",
+    "objectID": "6e07e0b3bd1c0add6e1a26c2c8e86e30",
     "order": 9,
     "tagName": "P"
   },
@@ -195,11 +195,11 @@
     "context": {
       "next": {
         "content": "“I am sorry to knock you up so early, Doctor,” said he, “but I have had a very serious accident during the night. I came in by train this morning, and on inquiring at Paddington as to where I might find a doctor, a worthy fellow very kindly escorted me here. I gave the maid a card, but I see that she has left it upon the side-table.",
-        "objectID": "69bd86db226a067c84099b2db3fd9cdb"
+        "objectID": "5ef9a6f09b7e484288801f78953ea01b"
       },
       "previous": {
         "content": "“It’s a new patient,” he whispered. “I thought I’d bring him round myself; then he couldn’t slip away. There he is, all safe and sound. I must go now, Doctor; I have my dooties, just the same as you.” And off he went, this trusty tout, without even giving me time to thank him.",
-        "objectID": "22f48e31e4b3664f3ece58ccaa948993"
+        "objectID": "6e07e0b3bd1c0add6e1a26c2c8e86e30"
       }
     },
     "objectID": "256294dc0f1f8dc3f76bf552ff0d3cea",
@@ -216,14 +216,14 @@
     "context": {
       "next": {
         "content": "”",
-        "objectID": "0766fc18b59d57c2fbd27c446aa93fe0"
+        "objectID": "13718683a837f48f6e5b73c501dd7072"
       },
       "previous": {
         "content": "I entered my consulting-room and found a gentleman seated by the table. He was quietly dressed in a suit of heather tweed with a soft cloth cap which he had laid down upon my books. Round one of his hands he had a handkerchief wrapped, which was mottled all over with bloodstains. He was young, not more than five-and-twenty, I should say, with a strong, masculine face; but he was exceedingly pale and gave me the impression of a man who was suffering from some strong agitation, which it took all his strength of mind to control.",
         "objectID": "256294dc0f1f8dc3f76bf552ff0d3cea"
       }
     },
-    "objectID": "69bd86db226a067c84099b2db3fd9cdb",
+    "objectID": "5ef9a6f09b7e484288801f78953ea01b",
     "order": 11,
     "tagName": "P"
   },
@@ -237,14 +237,14 @@
     "context": {
       "next": {
         "content": "I took it up and glanced at it. “Mr. Victor Hatherley, hydraulic engineer, 16A, Victoria Street (3rd floor).” That was the name, style, and abode of my morning visitor. “I regret that I have kept you waiting,” said I, sitting down in my library-chair. “You are fresh from a night journey, I understand, which is in itself a monotonous occupation.",
-        "objectID": "88e287e088d9655ef0085fc2a4fa66d4"
+        "objectID": "d747e606696b2c935f55c762d1da04ce"
       },
       "previous": {
         "content": "“I am sorry to knock you up so early, Doctor,” said he, “but I have had a very serious accident during the night. I came in by train this morning, and on inquiring at Paddington as to where I might find a doctor, a worthy fellow very kindly escorted me here. I gave the maid a card, but I see that she has left it upon the side-table.",
-        "objectID": "69bd86db226a067c84099b2db3fd9cdb"
+        "objectID": "5ef9a6f09b7e484288801f78953ea01b"
       }
     },
-    "objectID": "0766fc18b59d57c2fbd27c446aa93fe0",
+    "objectID": "13718683a837f48f6e5b73c501dd7072",
     "order": 12,
     "tagName": "P"
   },
@@ -258,14 +258,14 @@
     "context": {
       "next": {
         "content": "”",
-        "objectID": "586317ea780c2cefecbc81b67ef99407"
+        "objectID": "d9a7939d3235c8ba15e9c21c3f3f67a5"
       },
       "previous": {
         "content": "”",
-        "objectID": "0766fc18b59d57c2fbd27c446aa93fe0"
+        "objectID": "13718683a837f48f6e5b73c501dd7072"
       }
     },
-    "objectID": "88e287e088d9655ef0085fc2a4fa66d4",
+    "objectID": "d747e606696b2c935f55c762d1da04ce",
     "order": 13,
     "tagName": "P"
   },
@@ -279,14 +279,14 @@
     "context": {
       "next": {
         "content": "“Oh, my night could not be called monotonous,” said he, and laughed. He laughed very heartily, with a high, ringing note, leaning back in his chair and shaking his sides. All my medical instincts rose up against that laugh.",
-        "objectID": "e7b4fb0149eede6c0cb12198ca312723"
+        "objectID": "be5c9e91f2b7a3bf8efb2f587caf9a99"
       },
       "previous": {
         "content": "I took it up and glanced at it. “Mr. Victor Hatherley, hydraulic engineer, 16A, Victoria Street (3rd floor).” That was the name, style, and abode of my morning visitor. “I regret that I have kept you waiting,” said I, sitting down in my library-chair. “You are fresh from a night journey, I understand, which is in itself a monotonous occupation.",
-        "objectID": "88e287e088d9655ef0085fc2a4fa66d4"
+        "objectID": "d747e606696b2c935f55c762d1da04ce"
       }
     },
-    "objectID": "586317ea780c2cefecbc81b67ef99407",
+    "objectID": "d9a7939d3235c8ba15e9c21c3f3f67a5",
     "order": 14,
     "tagName": "P"
   },
@@ -300,14 +300,14 @@
     "context": {
       "next": {
         "content": "“Stop it!” I cried; “pull yourself together!” and I poured out some water from a caraffe.",
-        "objectID": "a8ae8b7bf596c2de6694491dbd5698ff"
+        "objectID": "ca991cd89772b2ce1c9714281baa8cbe"
       },
       "previous": {
         "content": "”",
-        "objectID": "586317ea780c2cefecbc81b67ef99407"
+        "objectID": "d9a7939d3235c8ba15e9c21c3f3f67a5"
       }
     },
-    "objectID": "e7b4fb0149eede6c0cb12198ca312723",
+    "objectID": "be5c9e91f2b7a3bf8efb2f587caf9a99",
     "order": 15,
     "tagName": "P"
   },
@@ -325,10 +325,10 @@
       },
       "previous": {
         "content": "“Oh, my night could not be called monotonous,” said he, and laughed. He laughed very heartily, with a high, ringing note, leaning back in his chair and shaking his sides. All my medical instincts rose up against that laugh.",
-        "objectID": "e7b4fb0149eede6c0cb12198ca312723"
+        "objectID": "be5c9e91f2b7a3bf8efb2f587caf9a99"
       }
     },
-    "objectID": "a8ae8b7bf596c2de6694491dbd5698ff",
+    "objectID": "ca991cd89772b2ce1c9714281baa8cbe",
     "order": 16,
     "tagName": "P"
   },
@@ -342,11 +342,11 @@
     "context": {
       "next": {
         "content": "“I have been making a fool of myself,” he gasped.",
-        "objectID": "fbf3a9b5cdbf0943e94b2263cbc66fa5"
+        "objectID": "76e5f4a8def18792ec3ad70f7c7cb288"
       },
       "previous": {
         "content": "“Stop it!” I cried; “pull yourself together!” and I poured out some water from a caraffe.",
-        "objectID": "a8ae8b7bf596c2de6694491dbd5698ff"
+        "objectID": "ca991cd89772b2ce1c9714281baa8cbe"
       }
     },
     "objectID": "42ee30fe895f68a6f1231e54df9a3db0",
@@ -363,14 +363,14 @@
     "context": {
       "next": {
         "content": "“Not at all. Drink this.” I dashed some brandy into the water, and the colour began to come back to his bloodless cheeks.",
-        "objectID": "9ad8937aa74ca05efd5371a5b4ee32d7"
+        "objectID": "ba566f581df20893b216c5f7099139bc"
       },
       "previous": {
         "content": "It was useless, however. He was off in one of those hysterical outbursts which come upon a strong nature when some great crisis is over and gone. Presently he came to himself once more, very weary and pale-looking.",
         "objectID": "42ee30fe895f68a6f1231e54df9a3db0"
       }
     },
-    "objectID": "fbf3a9b5cdbf0943e94b2263cbc66fa5",
+    "objectID": "76e5f4a8def18792ec3ad70f7c7cb288",
     "order": 18,
     "tagName": "P"
   },
@@ -384,14 +384,14 @@
     "context": {
       "next": {
         "content": "“That’s better!” said he. “And now, Doctor, perhaps you would kindly attend to my thumb, or rather to the place where my thumb used to be.”",
-        "objectID": "c2c8521ccf0dffef9d08cdff969fb68c"
+        "objectID": "25f13ed1a4660eabd8e2ceef0101bfa1"
       },
       "previous": {
         "content": "“I have been making a fool of myself,” he gasped.",
-        "objectID": "fbf3a9b5cdbf0943e94b2263cbc66fa5"
+        "objectID": "76e5f4a8def18792ec3ad70f7c7cb288"
       }
     },
-    "objectID": "9ad8937aa74ca05efd5371a5b4ee32d7",
+    "objectID": "ba566f581df20893b216c5f7099139bc",
     "order": 19,
     "tagName": "P"
   },
@@ -409,10 +409,10 @@
       },
       "previous": {
         "content": "“Not at all. Drink this.” I dashed some brandy into the water, and the colour began to come back to his bloodless cheeks.",
-        "objectID": "9ad8937aa74ca05efd5371a5b4ee32d7"
+        "objectID": "ba566f581df20893b216c5f7099139bc"
       }
     },
-    "objectID": "c2c8521ccf0dffef9d08cdff969fb68c",
+    "objectID": "25f13ed1a4660eabd8e2ceef0101bfa1",
     "order": 20,
     "tagName": "P"
   },
@@ -426,11 +426,11 @@
     "context": {
       "next": {
         "content": "“Good heavens!” I cried, “this is a terrible injury. It must have bled considerably.”",
-        "objectID": "5f4b3cc8eecdab8ff165d70959853608"
+        "objectID": "f86a3b4fe14f61129f89099bc1049fc0"
       },
       "previous": {
         "content": "“That’s better!” said he. “And now, Doctor, perhaps you would kindly attend to my thumb, or rather to the place where my thumb used to be.”",
-        "objectID": "c2c8521ccf0dffef9d08cdff969fb68c"
+        "objectID": "25f13ed1a4660eabd8e2ceef0101bfa1"
       }
     },
     "objectID": "04259f8793d9e2d85b048b7b7784f5b1",
@@ -447,14 +447,14 @@
     "context": {
       "next": {
         "content": "“Yes, it did. I fainted when it was done, and I think that I must have been senseless for a long time. When I came to I found that it was still bleeding, so I tied one end of my handkerchief very tightly round the wrist and braced it up with a twig.”",
-        "objectID": "5589711a44f2fe9ea62f0e0bf3c588bf"
+        "objectID": "b23eeb704498d866604e991f8c1e276e"
       },
       "previous": {
         "content": "He unwound the handkerchief and held out his hand. It gave even my hardened nerves a shudder to look at it. There were four protruding fingers and a horrid red, spongy surface where the thumb should have been. It had been hacked or torn right out from the roots.",
         "objectID": "04259f8793d9e2d85b048b7b7784f5b1"
       }
     },
-    "objectID": "5f4b3cc8eecdab8ff165d70959853608",
+    "objectID": "f86a3b4fe14f61129f89099bc1049fc0",
     "order": 22,
     "tagName": "P"
   },
@@ -468,14 +468,14 @@
     "context": {
       "next": {
         "content": "“Excellent! You should have been a surgeon.”",
-        "objectID": "8b416d18c8471434a2a59b752bf95176"
+        "objectID": "746dd70b3b79e591c93aa04dad98aba6"
       },
       "previous": {
         "content": "“Good heavens!” I cried, “this is a terrible injury. It must have bled considerably.”",
-        "objectID": "5f4b3cc8eecdab8ff165d70959853608"
+        "objectID": "f86a3b4fe14f61129f89099bc1049fc0"
       }
     },
-    "objectID": "5589711a44f2fe9ea62f0e0bf3c588bf",
+    "objectID": "b23eeb704498d866604e991f8c1e276e",
     "order": 23,
     "tagName": "P"
   },
@@ -489,14 +489,14 @@
     "context": {
       "next": {
         "content": "“It is a question of hydraulics, you see, and came within my own province.”",
-        "objectID": "1ba39c9b0191b7a8e65b650d3a12d591"
+        "objectID": "ae218c4a8a353a8b7973f105eed5d5b1"
       },
       "previous": {
         "content": "“Yes, it did. I fainted when it was done, and I think that I must have been senseless for a long time. When I came to I found that it was still bleeding, so I tied one end of my handkerchief very tightly round the wrist and braced it up with a twig.”",
-        "objectID": "5589711a44f2fe9ea62f0e0bf3c588bf"
+        "objectID": "b23eeb704498d866604e991f8c1e276e"
       }
     },
-    "objectID": "8b416d18c8471434a2a59b752bf95176",
+    "objectID": "746dd70b3b79e591c93aa04dad98aba6",
     "order": 24,
     "tagName": "P"
   },
@@ -510,14 +510,14 @@
     "context": {
       "next": {
         "content": "“This has been done,” said I, examining the wound, “by a very heavy and sharp instrument.”",
-        "objectID": "990a92315f1c543aedf362adec818e84"
+        "objectID": "bb62e37f0b9214074b6ab54ecc9c6bc2"
       },
       "previous": {
         "content": "“Excellent! You should have been a surgeon.”",
-        "objectID": "8b416d18c8471434a2a59b752bf95176"
+        "objectID": "746dd70b3b79e591c93aa04dad98aba6"
       }
     },
-    "objectID": "1ba39c9b0191b7a8e65b650d3a12d591",
+    "objectID": "ae218c4a8a353a8b7973f105eed5d5b1",
     "order": 25,
     "tagName": "P"
   },
@@ -531,14 +531,14 @@
     "context": {
       "next": {
         "content": "“A thing like a cleaver,” said he.",
-        "objectID": "4529535f6cdd89cdddbfef9c88823a8d"
+        "objectID": "1e025e772b9cecbe547fbd5ce7ef71ee"
       },
       "previous": {
         "content": "“It is a question of hydraulics, you see, and came within my own province.”",
-        "objectID": "1ba39c9b0191b7a8e65b650d3a12d591"
+        "objectID": "ae218c4a8a353a8b7973f105eed5d5b1"
       }
     },
-    "objectID": "990a92315f1c543aedf362adec818e84",
+    "objectID": "bb62e37f0b9214074b6ab54ecc9c6bc2",
     "order": 26,
     "tagName": "P"
   },
@@ -552,14 +552,14 @@
     "context": {
       "next": {
         "content": "“An accident, I presume?”",
-        "objectID": "2b1936257e6b107548e3421278cf7099"
+        "objectID": "1cc4a73367e05aa3201e42e1aaf53384"
       },
       "previous": {
         "content": "“This has been done,” said I, examining the wound, “by a very heavy and sharp instrument.”",
-        "objectID": "990a92315f1c543aedf362adec818e84"
+        "objectID": "bb62e37f0b9214074b6ab54ecc9c6bc2"
       }
     },
-    "objectID": "4529535f6cdd89cdddbfef9c88823a8d",
+    "objectID": "1e025e772b9cecbe547fbd5ce7ef71ee",
     "order": 27,
     "tagName": "P"
   },
@@ -573,14 +573,14 @@
     "context": {
       "next": {
         "content": "“By no means.”",
-        "objectID": "bd3cf127ae19594b6817823eae37a0f4"
+        "objectID": "2242dd13c629df7ebbedb8b27549f062"
       },
       "previous": {
         "content": "“A thing like a cleaver,” said he.",
-        "objectID": "4529535f6cdd89cdddbfef9c88823a8d"
+        "objectID": "1e025e772b9cecbe547fbd5ce7ef71ee"
       }
     },
-    "objectID": "2b1936257e6b107548e3421278cf7099",
+    "objectID": "1cc4a73367e05aa3201e42e1aaf53384",
     "order": 28,
     "tagName": "P"
   },
@@ -594,14 +594,14 @@
     "context": {
       "next": {
         "content": "“What! a murderous attack?”",
-        "objectID": "c7b04bc06144d914d5c7b50e37576c86"
+        "objectID": "5ea95828cb176094c70c84846662da77"
       },
       "previous": {
         "content": "“An accident, I presume?”",
-        "objectID": "2b1936257e6b107548e3421278cf7099"
+        "objectID": "1cc4a73367e05aa3201e42e1aaf53384"
       }
     },
-    "objectID": "bd3cf127ae19594b6817823eae37a0f4",
+    "objectID": "2242dd13c629df7ebbedb8b27549f062",
     "order": 29,
     "tagName": "P"
   },
@@ -615,14 +615,14 @@
     "context": {
       "next": {
         "content": "“Very murderous indeed.”",
-        "objectID": "9721f23f9d3ebbda45a1e8451237a021"
+        "objectID": "811d82a0d9b0577258c114b664eb3d6d"
       },
       "previous": {
         "content": "“By no means.”",
-        "objectID": "bd3cf127ae19594b6817823eae37a0f4"
+        "objectID": "2242dd13c629df7ebbedb8b27549f062"
       }
     },
-    "objectID": "c7b04bc06144d914d5c7b50e37576c86",
+    "objectID": "5ea95828cb176094c70c84846662da77",
     "order": 30,
     "tagName": "P"
   },
@@ -636,14 +636,14 @@
     "context": {
       "next": {
         "content": "“You horrify me.”",
-        "objectID": "dff8c8548fb7da5a9c70eacf6f32e463"
+        "objectID": "f15eaa8bab7dcf545a6ae7bd20a8d21b"
       },
       "previous": {
         "content": "“What! a murderous attack?”",
-        "objectID": "c7b04bc06144d914d5c7b50e37576c86"
+        "objectID": "5ea95828cb176094c70c84846662da77"
       }
     },
-    "objectID": "9721f23f9d3ebbda45a1e8451237a021",
+    "objectID": "811d82a0d9b0577258c114b664eb3d6d",
     "order": 31,
     "tagName": "P"
   },
@@ -661,10 +661,10 @@
       },
       "previous": {
         "content": "“Very murderous indeed.”",
-        "objectID": "9721f23f9d3ebbda45a1e8451237a021"
+        "objectID": "811d82a0d9b0577258c114b664eb3d6d"
       }
     },
-    "objectID": "dff8c8548fb7da5a9c70eacf6f32e463",
+    "objectID": "f15eaa8bab7dcf545a6ae7bd20a8d21b",
     "order": 32,
     "tagName": "P"
   },
@@ -678,11 +678,11 @@
     "context": {
       "next": {
         "content": "“How is that?” I asked when I had finished.",
-        "objectID": "e9ce46078d48fdaefea12eb95a4afc39"
+        "objectID": "fca1b9f6ad69393237be2f598587b80c"
       },
       "previous": {
         "content": "“You horrify me.”",
-        "objectID": "dff8c8548fb7da5a9c70eacf6f32e463"
+        "objectID": "f15eaa8bab7dcf545a6ae7bd20a8d21b"
       }
     },
     "objectID": "f0aafe73205fd6fa15b9ce94c6f87b7a",
@@ -699,14 +699,14 @@
     "context": {
       "next": {
         "content": "“Capital! Between your brandy and your bandage, I feel a new man. I was very weak, but I have had a good deal to go through.”",
-        "objectID": "d2a1cdaa9ecac47719e7f62efb777c55"
+        "objectID": "61ee0cdd138dff9169dc5a7d74e240b1"
       },
       "previous": {
         "content": "I sponged the wound, cleaned it, dressed it, and finally covered it over with cotton wadding and carbolised bandages. He lay back without wincing, though he bit his lip from time to time.",
         "objectID": "f0aafe73205fd6fa15b9ce94c6f87b7a"
       }
     },
-    "objectID": "e9ce46078d48fdaefea12eb95a4afc39",
+    "objectID": "fca1b9f6ad69393237be2f598587b80c",
     "order": 34,
     "tagName": "P"
   },
@@ -720,14 +720,14 @@
     "context": {
       "next": {
         "content": "“Perhaps you had better not speak of the matter. It is evidently trying to your nerves.”",
-        "objectID": "dce70eb6186843286eab48d4c60dfab7"
+        "objectID": "908a9b7580ad5020440a3cd02d92101f"
       },
       "previous": {
         "content": "“How is that?” I asked when I had finished.",
-        "objectID": "e9ce46078d48fdaefea12eb95a4afc39"
+        "objectID": "fca1b9f6ad69393237be2f598587b80c"
       }
     },
-    "objectID": "d2a1cdaa9ecac47719e7f62efb777c55",
+    "objectID": "61ee0cdd138dff9169dc5a7d74e240b1",
     "order": 35,
     "tagName": "P"
   },
@@ -741,14 +741,14 @@
     "context": {
       "next": {
         "content": "“Oh, no, not now. I shall have to tell my tale to the police; but, between ourselves, if it were not for the convincing evidence of this wound of mine, I should be surprised if they believed my statement, for it is a very extraordinary one, and I have not much in the way of proof with which to back it up; and, even if they believe me, the clues which I can give them are so vague that it is a question whether justice will be done.",
-        "objectID": "ece32f80a3068889952d377cc9f00c8d"
+        "objectID": "d3287d6e289bb83ce16190472f93bb99"
       },
       "previous": {
         "content": "“Capital! Between your brandy and your bandage, I feel a new man. I was very weak, but I have had a good deal to go through.”",
-        "objectID": "d2a1cdaa9ecac47719e7f62efb777c55"
+        "objectID": "61ee0cdd138dff9169dc5a7d74e240b1"
       }
     },
-    "objectID": "dce70eb6186843286eab48d4c60dfab7",
+    "objectID": "908a9b7580ad5020440a3cd02d92101f",
     "order": 36,
     "tagName": "P"
   },
@@ -762,14 +762,14 @@
     "context": {
       "next": {
         "content": "”",
-        "objectID": "c9ad9b5c5b11c7950c61104c8c6051b6"
+        "objectID": "e441361d21e6ec2290404f23f1e4500b"
       },
       "previous": {
         "content": "“Perhaps you had better not speak of the matter. It is evidently trying to your nerves.”",
-        "objectID": "dce70eb6186843286eab48d4c60dfab7"
+        "objectID": "908a9b7580ad5020440a3cd02d92101f"
       }
     },
-    "objectID": "ece32f80a3068889952d377cc9f00c8d",
+    "objectID": "d3287d6e289bb83ce16190472f93bb99",
     "order": 37,
     "tagName": "P"
   },
@@ -783,14 +783,14 @@
     "context": {
       "next": {
         "content": "“Ha!” cried I, “if it is anything in the nature of a problem which you desire to see solved, I should strongly recommend you to come to my friend, Mr. Sherlock Holmes, before you go to the official police.”",
-        "objectID": "2db51b31661c6574266c9783280f92bc"
+        "objectID": "a7003995b32599eed321f8000f9f70aa"
       },
       "previous": {
         "content": "“Oh, no, not now. I shall have to tell my tale to the police; but, between ourselves, if it were not for the convincing evidence of this wound of mine, I should be surprised if they believed my statement, for it is a very extraordinary one, and I have not much in the way of proof with which to back it up; and, even if they believe me, the clues which I can give them are so vague that it is a question whether justice will be done.",
-        "objectID": "ece32f80a3068889952d377cc9f00c8d"
+        "objectID": "d3287d6e289bb83ce16190472f93bb99"
       }
     },
-    "objectID": "c9ad9b5c5b11c7950c61104c8c6051b6",
+    "objectID": "e441361d21e6ec2290404f23f1e4500b",
     "order": 38,
     "tagName": "P"
   },
@@ -804,14 +804,14 @@
     "context": {
       "next": {
         "content": "“Oh, I have heard of that fellow,” answered my visitor, “and I should be very glad if he would take the matter up, though of course I must use the official police as well. Would you give me an introduction to him?”",
-        "objectID": "0c4c96d73110be7df18d676840c46717"
+        "objectID": "cd26e3b270ae2a3d95be08b3aa79c047"
       },
       "previous": {
         "content": "”",
-        "objectID": "c9ad9b5c5b11c7950c61104c8c6051b6"
+        "objectID": "e441361d21e6ec2290404f23f1e4500b"
       }
     },
-    "objectID": "2db51b31661c6574266c9783280f92bc",
+    "objectID": "a7003995b32599eed321f8000f9f70aa",
     "order": 39,
     "tagName": "P"
   },
@@ -825,14 +825,14 @@
     "context": {
       "next": {
         "content": "“I’ll do better. I’ll take you round to him myself.”",
-        "objectID": "e8449d7b70225a37dcc7426cbe137b68"
+        "objectID": "cd6a291ffef05139528126aa019727de"
       },
       "previous": {
         "content": "“Ha!” cried I, “if it is anything in the nature of a problem which you desire to see solved, I should strongly recommend you to come to my friend, Mr. Sherlock Holmes, before you go to the official police.”",
-        "objectID": "2db51b31661c6574266c9783280f92bc"
+        "objectID": "a7003995b32599eed321f8000f9f70aa"
       }
     },
-    "objectID": "0c4c96d73110be7df18d676840c46717",
+    "objectID": "cd26e3b270ae2a3d95be08b3aa79c047",
     "order": 40,
     "tagName": "P"
   },
@@ -846,14 +846,14 @@
     "context": {
       "next": {
         "content": "“I should be immensely obliged to you.”",
-        "objectID": "e4ec7a1166802c2b7cb53e1679cf2e2c"
+        "objectID": "a8f5b34caa55acc42a8488f0e244b6e8"
       },
       "previous": {
         "content": "“Oh, I have heard of that fellow,” answered my visitor, “and I should be very glad if he would take the matter up, though of course I must use the official police as well. Would you give me an introduction to him?”",
-        "objectID": "0c4c96d73110be7df18d676840c46717"
+        "objectID": "cd26e3b270ae2a3d95be08b3aa79c047"
       }
     },
-    "objectID": "e8449d7b70225a37dcc7426cbe137b68",
+    "objectID": "cd6a291ffef05139528126aa019727de",
     "order": 41,
     "tagName": "P"
   },
@@ -867,14 +867,14 @@
     "context": {
       "next": {
         "content": "“We’ll call a cab and go together. We shall just be in time to have a little breakfast with him. Do you feel equal to it?”",
-        "objectID": "08fa81e332f41d74ad68b1a5317d2ce4"
+        "objectID": "19fc5633ed6e5e8d1959f8592251b2db"
       },
       "previous": {
         "content": "“I’ll do better. I’ll take you round to him myself.”",
-        "objectID": "e8449d7b70225a37dcc7426cbe137b68"
+        "objectID": "cd6a291ffef05139528126aa019727de"
       }
     },
-    "objectID": "e4ec7a1166802c2b7cb53e1679cf2e2c",
+    "objectID": "a8f5b34caa55acc42a8488f0e244b6e8",
     "order": 42,
     "tagName": "P"
   },
@@ -888,14 +888,14 @@
     "context": {
       "next": {
         "content": "“Yes; I shall not feel easy until I have told my story.”",
-        "objectID": "536cd5bc83bd5500a296b6dfaaf4b615"
+        "objectID": "b635273fcf8125a54f76849408ad2e20"
       },
       "previous": {
         "content": "“I should be immensely obliged to you.”",
-        "objectID": "e4ec7a1166802c2b7cb53e1679cf2e2c"
+        "objectID": "a8f5b34caa55acc42a8488f0e244b6e8"
       }
     },
-    "objectID": "08fa81e332f41d74ad68b1a5317d2ce4",
+    "objectID": "19fc5633ed6e5e8d1959f8592251b2db",
     "order": 43,
     "tagName": "P"
   },
@@ -909,14 +909,14 @@
     "context": {
       "next": {
         "content": "“Then my servant will call a cab, and I shall be with you in an instant.” I rushed upstairs, explained the matter shortly to my wife, and in five minutes was inside a hansom, driving with my new acquaintance to Baker Street.",
-        "objectID": "1dc6bb41fb2ba4e0e084c21875e036fc"
+        "objectID": "5fb0e686a36e58ab22ac44961e63ecde"
       },
       "previous": {
         "content": "“We’ll call a cab and go together. We shall just be in time to have a little breakfast with him. Do you feel equal to it?”",
-        "objectID": "08fa81e332f41d74ad68b1a5317d2ce4"
+        "objectID": "19fc5633ed6e5e8d1959f8592251b2db"
       }
     },
-    "objectID": "536cd5bc83bd5500a296b6dfaaf4b615",
+    "objectID": "b635273fcf8125a54f76849408ad2e20",
     "order": 44,
     "tagName": "P"
   },
@@ -934,10 +934,10 @@
       },
       "previous": {
         "content": "“Yes; I shall not feel easy until I have told my story.”",
-        "objectID": "536cd5bc83bd5500a296b6dfaaf4b615"
+        "objectID": "b635273fcf8125a54f76849408ad2e20"
       }
     },
-    "objectID": "1dc6bb41fb2ba4e0e084c21875e036fc",
+    "objectID": "5fb0e686a36e58ab22ac44961e63ecde",
     "order": 45,
     "tagName": "P"
   },
@@ -955,7 +955,7 @@
       },
       "previous": {
         "content": "“Then my servant will call a cab, and I shall be with you in an instant.” I rushed upstairs, explained the matter shortly to my wife, and in five minutes was inside a hansom, driving with my new acquaintance to Baker Street.",
-        "objectID": "1dc6bb41fb2ba4e0e084c21875e036fc"
+        "objectID": "5fb0e686a36e58ab22ac44961e63ecde"
       }
     },
     "objectID": "4052c11af84c2376ce238482883449cf",
@@ -972,7 +972,7 @@
     "context": {
       "next": {
         "content": "“It is easy to see that your experience has been no common one, Mr. Hatherley,” said he. “Pray, lie down there and make yourself absolutely at home. Tell us what you can, but stop when you are tired and keep up your strength with a little stimulant.”",
-        "objectID": "69b02a320281bd34950c65751c4a59c0"
+        "objectID": "bca60313c2a8ef0d21a089736fe77758"
       },
       "previous": {
         "content": "Sherlock Holmes was, as I expected, lounging about his sitting-room in his dressing-gown, reading the agony column of The Times and smoking his before-breakfast pipe, which was composed of all the plugs and dottles left from his smokes of the day before, all carefully dried and collected on the corner of the mantelpiece.",
@@ -993,14 +993,14 @@
     "context": {
       "next": {
         "content": "“Thank you,” said my patient, “but I have felt another man since the doctor bandaged me, and I think that your breakfast has completed the cure. I shall take up as little of your valuable time as possible, so I shall start at once upon my peculiar experiences.”",
-        "objectID": "9c68da842c588eba9ce379463a4895af"
+        "objectID": "4be9869819e8f062bc17f2310a40cfde"
       },
       "previous": {
         "content": "He received us in his quietly genial fashion, ordered fresh rashers and eggs, and joined us in a hearty meal. When it was concluded he settled our new acquaintance upon the sofa, placed a pillow beneath his head, and laid a glass of brandy and water within his reach.",
         "objectID": "86dff49580e59c47d6a8080cfa545e8d"
       }
     },
-    "objectID": "69b02a320281bd34950c65751c4a59c0",
+    "objectID": "bca60313c2a8ef0d21a089736fe77758",
     "order": 48,
     "tagName": "P"
   },
@@ -1018,10 +1018,10 @@
       },
       "previous": {
         "content": "“It is easy to see that your experience has been no common one, Mr. Hatherley,” said he. “Pray, lie down there and make yourself absolutely at home. Tell us what you can, but stop when you are tired and keep up your strength with a little stimulant.”",
-        "objectID": "69b02a320281bd34950c65751c4a59c0"
+        "objectID": "bca60313c2a8ef0d21a089736fe77758"
       }
     },
-    "objectID": "9c68da842c588eba9ce379463a4895af",
+    "objectID": "4be9869819e8f062bc17f2310a40cfde",
     "order": 49,
     "tagName": "P"
   },
@@ -1035,11 +1035,11 @@
     "context": {
       "next": {
         "content": "“You must know,” said he, “that I am an orphan and a bachelor, residing alone in lodgings in London. By profession I am a hydraulic engineer, and I have had considerable experience of my work during the seven years that I was apprenticed to Venner & Matheson, the well-known firm, of Greenwich. Two years ago, having served my time, and having also come into a fair sum of money through my poor father’s death, I determined to start in business for myself and took professional chambers in Victoria Street.",
-        "objectID": "6e88ac547a61945368fb7784ce8d96fb"
+        "objectID": "c6a782f62fe7520c8e2ec57b3a6e76c2"
       },
       "previous": {
         "content": "“Thank you,” said my patient, “but I have felt another man since the doctor bandaged me, and I think that your breakfast has completed the cure. I shall take up as little of your valuable time as possible, so I shall start at once upon my peculiar experiences.”",
-        "objectID": "9c68da842c588eba9ce379463a4895af"
+        "objectID": "4be9869819e8f062bc17f2310a40cfde"
       }
     },
     "objectID": "faf36dc391498933caf536b7d6f0c980",
@@ -1056,14 +1056,14 @@
     "context": {
       "next": {
         "content": "“I suppose that everyone finds his first independent start in business a dreary experience. To me it has been exceptionally so. During two years I have had three consultations and one small job, and that is absolutely all that my profession has brought me. My gross takings amount to �27 10s. Every day, from nine in the morning until four in the afternoon, I waited in my little den, until at last my heart began to sink, and I came to believe that I should never have any practice at all.",
-        "objectID": "abc7c69a027a14e10252a279fd7067e4"
+        "objectID": "6db10b89ac36f6a9f6e696bca6ac7ef8"
       },
       "previous": {
         "content": "Holmes sat in his big armchair with the weary, heavy-lidded expression which veiled his keen and eager nature, while I sat opposite to him, and we listened in silence to the strange story which our visitor detailed to us.",
         "objectID": "faf36dc391498933caf536b7d6f0c980"
       }
     },
-    "objectID": "6e88ac547a61945368fb7784ce8d96fb",
+    "objectID": "c6a782f62fe7520c8e2ec57b3a6e76c2",
     "order": 51,
     "tagName": "P"
   },
@@ -1077,14 +1077,14 @@
     "context": {
       "next": {
         "content": "“Yesterday, however, just as I was thinking of leaving the office, my clerk entered to say there was a gentleman waiting who wished to see me upon business. He brought up a card, too, with the name of ‘Colonel Lysander Stark’ engraved upon it. Close at his heels came the colonel himself, a man rather over the middle size, but of an exceeding thinness.",
-        "objectID": "10859341e6e7b0ed08b7a644d17a8d19"
+        "objectID": "3e3bb15b1f7692ea41d09c10a27b492b"
       },
       "previous": {
         "content": "“You must know,” said he, “that I am an orphan and a bachelor, residing alone in lodgings in London. By profession I am a hydraulic engineer, and I have had considerable experience of my work during the seven years that I was apprenticed to Venner & Matheson, the well-known firm, of Greenwich. Two years ago, having served my time, and having also come into a fair sum of money through my poor father’s death, I determined to start in business for myself and took professional chambers in Victoria Street.",
-        "objectID": "6e88ac547a61945368fb7784ce8d96fb"
+        "objectID": "c6a782f62fe7520c8e2ec57b3a6e76c2"
       }
     },
-    "objectID": "abc7c69a027a14e10252a279fd7067e4",
+    "objectID": "6db10b89ac36f6a9f6e696bca6ac7ef8",
     "order": 52,
     "tagName": "P"
   },
@@ -1102,10 +1102,10 @@
       },
       "previous": {
         "content": "“I suppose that everyone finds his first independent start in business a dreary experience. To me it has been exceptionally so. During two years I have had three consultations and one small job, and that is absolutely all that my profession has brought me. My gross takings amount to �27 10s. Every day, from nine in the morning until four in the afternoon, I waited in my little den, until at last my heart began to sink, and I came to believe that I should never have any practice at all.",
-        "objectID": "abc7c69a027a14e10252a279fd7067e4"
+        "objectID": "6db10b89ac36f6a9f6e696bca6ac7ef8"
       }
     },
-    "objectID": "10859341e6e7b0ed08b7a644d17a8d19",
+    "objectID": "3e3bb15b1f7692ea41d09c10a27b492b",
     "order": 53,
     "tagName": "P"
   },
@@ -1123,7 +1123,7 @@
       },
       "previous": {
         "content": "“Yesterday, however, just as I was thinking of leaving the office, my clerk entered to say there was a gentleman waiting who wished to see me upon business. He brought up a card, too, with the name of ‘Colonel Lysander Stark’ engraved upon it. Close at his heels came the colonel himself, a man rather over the middle size, but of an exceeding thinness.",
-        "objectID": "10859341e6e7b0ed08b7a644d17a8d19"
+        "objectID": "3e3bb15b1f7692ea41d09c10a27b492b"
       }
     },
     "objectID": "2f6e35c107a975cccc960e5311d6c89e",
@@ -1140,7 +1140,7 @@
     "context": {
       "next": {
         "content": "“ ‘Mr. Hatherley?’ said he, with something of a German accent. ‘You have been recommended to me, Mr. Hatherley, as being a man who is not only proficient in his profession but is also discreet and capable of preserving a secret.’",
-        "objectID": "c5c98fcaaaecfe39d635b0a6184d56cf"
+        "objectID": "87bbe9ad99ed08b45dff7e19306783f8"
       },
       "previous": {
         "content": "I do not think that I have ever seen so thin a man. His whole face sharpened away into nose and chin, and the skin of his cheeks was drawn quite tense over his outstanding bones. Yet this emaciation seemed to be his natural habit, and due to no disease, for his eye was bright, his step brisk, and his bearing assured.",
@@ -1161,14 +1161,14 @@
     "context": {
       "next": {
         "content": "“I bowed, feeling as flattered as any young man would at such an address. ‘May I ask who it was who gave me so good a character?’",
-        "objectID": "c3b338e5d825141e340242e4e7dca056"
+        "objectID": "546632c4622a80304ccc9481bee360bf"
       },
       "previous": {
         "content": "He was plainly but neatly dressed, and his age, I should judge, would be nearer forty than thirty.",
         "objectID": "72ef4e1d8629585dab833e7b5b547248"
       }
     },
-    "objectID": "c5c98fcaaaecfe39d635b0a6184d56cf",
+    "objectID": "87bbe9ad99ed08b45dff7e19306783f8",
     "order": 56,
     "tagName": "P"
   },
@@ -1182,14 +1182,14 @@
     "context": {
       "next": {
         "content": "“ ‘Well, perhaps it is better that I should not tell you that just at this moment. I have it from the same source that you are both an orphan and a bachelor and are residing alone in London.’",
-        "objectID": "f411b9b7177b816a755b029e9c864a3d"
+        "objectID": "878c7e2541ddfb2d9011fa14ec573768"
       },
       "previous": {
         "content": "“ ‘Mr. Hatherley?’ said he, with something of a German accent. ‘You have been recommended to me, Mr. Hatherley, as being a man who is not only proficient in his profession but is also discreet and capable of preserving a secret.’",
-        "objectID": "c5c98fcaaaecfe39d635b0a6184d56cf"
+        "objectID": "87bbe9ad99ed08b45dff7e19306783f8"
       }
     },
-    "objectID": "c3b338e5d825141e340242e4e7dca056",
+    "objectID": "546632c4622a80304ccc9481bee360bf",
     "order": 57,
     "tagName": "P"
   },
@@ -1203,14 +1203,14 @@
     "context": {
       "next": {
         "content": "“ ‘That is quite correct,’ I answered; ‘but you will excuse me if I say that I cannot see how all this bears upon my professional qualifications. I understand that it was on a professional matter that you wished to speak to me?’",
-        "objectID": "4ef7e6ff0406bad73ed60bdd286dff48"
+        "objectID": "476fd956dc81b828186f58005ab9703c"
       },
       "previous": {
         "content": "“I bowed, feeling as flattered as any young man would at such an address. ‘May I ask who it was who gave me so good a character?’",
-        "objectID": "c3b338e5d825141e340242e4e7dca056"
+        "objectID": "546632c4622a80304ccc9481bee360bf"
       }
     },
-    "objectID": "f411b9b7177b816a755b029e9c864a3d",
+    "objectID": "878c7e2541ddfb2d9011fa14ec573768",
     "order": 58,
     "tagName": "P"
   },
@@ -1224,14 +1224,14 @@
     "context": {
       "next": {
         "content": "“ ‘Undoubtedly so. But you will find that all I say is really to the point. I have a professional commission for you, but absolute secrecy is quite essential—absolute secrecy, you understand, and of course we may expect that more from a man who is alone than from one who lives in the bosom of his family.",
-        "objectID": "ec93b0cdf4ae1595bcbaa84c9b32f54e"
+        "objectID": "7dc6231ed535fc5c0d4740b12c4c2c76"
       },
       "previous": {
         "content": "“ ‘Well, perhaps it is better that I should not tell you that just at this moment. I have it from the same source that you are both an orphan and a bachelor and are residing alone in London.’",
-        "objectID": "f411b9b7177b816a755b029e9c864a3d"
+        "objectID": "878c7e2541ddfb2d9011fa14ec573768"
       }
     },
-    "objectID": "4ef7e6ff0406bad73ed60bdd286dff48",
+    "objectID": "476fd956dc81b828186f58005ab9703c",
     "order": 59,
     "tagName": "P"
   },
@@ -1245,14 +1245,14 @@
     "context": {
       "next": {
         "content": "’",
-        "objectID": "eacbbbb740336914c4c4d35fbe7a43d7"
+        "objectID": "831c9d89e26f81b59ad139979243b59b"
       },
       "previous": {
         "content": "“ ‘That is quite correct,’ I answered; ‘but you will excuse me if I say that I cannot see how all this bears upon my professional qualifications. I understand that it was on a professional matter that you wished to speak to me?’",
-        "objectID": "4ef7e6ff0406bad73ed60bdd286dff48"
+        "objectID": "476fd956dc81b828186f58005ab9703c"
       }
     },
-    "objectID": "ec93b0cdf4ae1595bcbaa84c9b32f54e",
+    "objectID": "7dc6231ed535fc5c0d4740b12c4c2c76",
     "order": 60,
     "tagName": "P"
   },
@@ -1266,14 +1266,14 @@
     "context": {
       "next": {
         "content": "“ ‘If I promise to keep a secret,’ said I, ‘you may absolutely depend upon my doing so.’",
-        "objectID": "a36027d3d711379dac13424f0c821768"
+        "objectID": "58e6d177c5b8ccec8110b606833659bf"
       },
       "previous": {
         "content": "“ ‘Undoubtedly so. But you will find that all I say is really to the point. I have a professional commission for you, but absolute secrecy is quite essential—absolute secrecy, you understand, and of course we may expect that more from a man who is alone than from one who lives in the bosom of his family.",
-        "objectID": "ec93b0cdf4ae1595bcbaa84c9b32f54e"
+        "objectID": "7dc6231ed535fc5c0d4740b12c4c2c76"
       }
     },
-    "objectID": "eacbbbb740336914c4c4d35fbe7a43d7",
+    "objectID": "831c9d89e26f81b59ad139979243b59b",
     "order": 61,
     "tagName": "P"
   },
@@ -1287,14 +1287,14 @@
     "context": {
       "next": {
         "content": "“He looked very hard at me as I spoke, and it seemed to me that I had never seen so suspicious and questioning an eye.",
-        "objectID": "ca3694ef401c2be7eb370f126b9fe4f6"
+        "objectID": "65c263529484dad9d0f794100e128698"
       },
       "previous": {
         "content": "’",
-        "objectID": "eacbbbb740336914c4c4d35fbe7a43d7"
+        "objectID": "831c9d89e26f81b59ad139979243b59b"
       }
     },
-    "objectID": "a36027d3d711379dac13424f0c821768",
+    "objectID": "58e6d177c5b8ccec8110b606833659bf",
     "order": 62,
     "tagName": "P"
   },
@@ -1308,14 +1308,14 @@
     "context": {
       "next": {
         "content": "“ ‘Do you promise, then?’ said he at last.",
-        "objectID": "6ffe833d988fb6e86c2961df0ef74ef9"
+        "objectID": "bc969155d73d76169ccc304f3412fd5d"
       },
       "previous": {
         "content": "“ ‘If I promise to keep a secret,’ said I, ‘you may absolutely depend upon my doing so.’",
-        "objectID": "a36027d3d711379dac13424f0c821768"
+        "objectID": "58e6d177c5b8ccec8110b606833659bf"
       }
     },
-    "objectID": "ca3694ef401c2be7eb370f126b9fe4f6",
+    "objectID": "65c263529484dad9d0f794100e128698",
     "order": 63,
     "tagName": "P"
   },
@@ -1329,14 +1329,14 @@
     "context": {
       "next": {
         "content": "“ ‘Yes, I promise.’",
-        "objectID": "24a2150ecf293b152769ff5f9550cb20"
+        "objectID": "8cfd02f290412cca71b590bbacdb407b"
       },
       "previous": {
         "content": "“He looked very hard at me as I spoke, and it seemed to me that I had never seen so suspicious and questioning an eye.",
-        "objectID": "ca3694ef401c2be7eb370f126b9fe4f6"
+        "objectID": "65c263529484dad9d0f794100e128698"
       }
     },
-    "objectID": "6ffe833d988fb6e86c2961df0ef74ef9",
+    "objectID": "bc969155d73d76169ccc304f3412fd5d",
     "order": 64,
     "tagName": "P"
   },
@@ -1350,14 +1350,14 @@
     "context": {
       "next": {
         "content": "“ ‘Absolute and complete silence before, during, and after? No reference to the matter at all, either in word or writing?’",
-        "objectID": "f25fa189fbdfad2ba03c0790b85d3423"
+        "objectID": "f06e8acc8a3476d5566239f0bbad26f1"
       },
       "previous": {
         "content": "“ ‘Do you promise, then?’ said he at last.",
-        "objectID": "6ffe833d988fb6e86c2961df0ef74ef9"
+        "objectID": "bc969155d73d76169ccc304f3412fd5d"
       }
     },
-    "objectID": "24a2150ecf293b152769ff5f9550cb20",
+    "objectID": "8cfd02f290412cca71b590bbacdb407b",
     "order": 65,
     "tagName": "P"
   },
@@ -1371,14 +1371,14 @@
     "context": {
       "next": {
         "content": "“ ‘I have already given you my word.’",
-        "objectID": "c8ea8fd8aedb74b10a79d8f28794bdae"
+        "objectID": "405b87976eed624195ba4d9808d118ed"
       },
       "previous": {
         "content": "“ ‘Yes, I promise.’",
-        "objectID": "24a2150ecf293b152769ff5f9550cb20"
+        "objectID": "8cfd02f290412cca71b590bbacdb407b"
       }
     },
-    "objectID": "f25fa189fbdfad2ba03c0790b85d3423",
+    "objectID": "f06e8acc8a3476d5566239f0bbad26f1",
     "order": 66,
     "tagName": "P"
   },
@@ -1392,14 +1392,14 @@
     "context": {
       "next": {
         "content": "“ ‘Very good.’ He suddenly sprang up, and darting like lightning across the room he flung open the door. The passage outside was empty.",
-        "objectID": "c7b0c8a14b6e6278c74e5cf1cb2c40b4"
+        "objectID": "f01021e242988775ceb0de28c883d1f0"
       },
       "previous": {
         "content": "“ ‘Absolute and complete silence before, during, and after? No reference to the matter at all, either in word or writing?’",
-        "objectID": "f25fa189fbdfad2ba03c0790b85d3423"
+        "objectID": "f06e8acc8a3476d5566239f0bbad26f1"
       }
     },
-    "objectID": "c8ea8fd8aedb74b10a79d8f28794bdae",
+    "objectID": "405b87976eed624195ba4d9808d118ed",
     "order": 67,
     "tagName": "P"
   },
@@ -1413,14 +1413,14 @@
     "context": {
       "next": {
         "content": "“ ‘That’s all right,’ said he, coming back. ‘I know that clerks are sometimes curious as to their master’s affairs. Now we can talk in safety.’ He drew up his chair very close to mine and began to stare at me again with the same questioning and thoughtful look.",
-        "objectID": "9226f9b6f319366308b4ab0aa91c0d19"
+        "objectID": "9722a11aeb8ef22a9f478c3b851cb20c"
       },
       "previous": {
         "content": "“ ‘I have already given you my word.’",
-        "objectID": "c8ea8fd8aedb74b10a79d8f28794bdae"
+        "objectID": "405b87976eed624195ba4d9808d118ed"
       }
     },
-    "objectID": "c7b0c8a14b6e6278c74e5cf1cb2c40b4",
+    "objectID": "f01021e242988775ceb0de28c883d1f0",
     "order": 68,
     "tagName": "P"
   },
@@ -1434,14 +1434,14 @@
     "context": {
       "next": {
         "content": "“A feeling of repulsion, and of something akin to fear had begun to rise within me at the strange antics of this fleshless man. Even my dread of losing a client could not restrain me from showing my impatience.",
-        "objectID": "782ec99ff95ce21a335ae37b4dec4ad2"
+        "objectID": "1a32bd06e09ce091caa31ee84592c68e"
       },
       "previous": {
         "content": "“ ‘Very good.’ He suddenly sprang up, and darting like lightning across the room he flung open the door. The passage outside was empty.",
-        "objectID": "c7b0c8a14b6e6278c74e5cf1cb2c40b4"
+        "objectID": "f01021e242988775ceb0de28c883d1f0"
       }
     },
-    "objectID": "9226f9b6f319366308b4ab0aa91c0d19",
+    "objectID": "9722a11aeb8ef22a9f478c3b851cb20c",
     "order": 69,
     "tagName": "P"
   },
@@ -1455,14 +1455,14 @@
     "context": {
       "next": {
         "content": "“ ‘I beg that you will state your business, sir,’ said I; ‘my time is of value.’ Heaven forgive me for that last sentence, but the words came to my lips.",
-        "objectID": "1bcbad96d61fc4df378a760a4e4503d9"
+        "objectID": "be57e22e2d490b8aa02df1807a57c27f"
       },
       "previous": {
         "content": "“ ‘That’s all right,’ said he, coming back. ‘I know that clerks are sometimes curious as to their master’s affairs. Now we can talk in safety.’ He drew up his chair very close to mine and began to stare at me again with the same questioning and thoughtful look.",
-        "objectID": "9226f9b6f319366308b4ab0aa91c0d19"
+        "objectID": "9722a11aeb8ef22a9f478c3b851cb20c"
       }
     },
-    "objectID": "782ec99ff95ce21a335ae37b4dec4ad2",
+    "objectID": "1a32bd06e09ce091caa31ee84592c68e",
     "order": 70,
     "tagName": "P"
   },
@@ -1476,14 +1476,14 @@
     "context": {
       "next": {
         "content": "“ ‘How would fifty guineas for a night’s work suit you?’ he asked.",
-        "objectID": "32e98380ed43c56f13a597a723496ca1"
+        "objectID": "c0d5ecacb88bd8a0018d8dba6de7e9df"
       },
       "previous": {
         "content": "“A feeling of repulsion, and of something akin to fear had begun to rise within me at the strange antics of this fleshless man. Even my dread of losing a client could not restrain me from showing my impatience.",
-        "objectID": "782ec99ff95ce21a335ae37b4dec4ad2"
+        "objectID": "1a32bd06e09ce091caa31ee84592c68e"
       }
     },
-    "objectID": "1bcbad96d61fc4df378a760a4e4503d9",
+    "objectID": "be57e22e2d490b8aa02df1807a57c27f",
     "order": 71,
     "tagName": "P"
   },
@@ -1497,14 +1497,14 @@
     "context": {
       "next": {
         "content": "“ ‘Most admirably.’",
-        "objectID": "892c317ca47fe269b6bf4f4e8fc8419e"
+        "objectID": "cbc70ee1ec2a222b11131aced6f74b28"
       },
       "previous": {
         "content": "“ ‘I beg that you will state your business, sir,’ said I; ‘my time is of value.’ Heaven forgive me for that last sentence, but the words came to my lips.",
-        "objectID": "1bcbad96d61fc4df378a760a4e4503d9"
+        "objectID": "be57e22e2d490b8aa02df1807a57c27f"
       }
     },
-    "objectID": "32e98380ed43c56f13a597a723496ca1",
+    "objectID": "c0d5ecacb88bd8a0018d8dba6de7e9df",
     "order": 72,
     "tagName": "P"
   },
@@ -1518,14 +1518,14 @@
     "context": {
       "next": {
         "content": "“ ‘I say a night’s work, but an hour’s would be nearer the mark. I simply want your opinion about a hydraulic stamping machine which has got out of gear. If you show us what is wrong we shall soon set it right ourselves. What do you think of such a commission as that?’",
-        "objectID": "dc26b9c7355b79d18d0ceb244fdff460"
+        "objectID": "2fd39320ceb12f2dce48475b0dd3dc00"
       },
       "previous": {
         "content": "“ ‘How would fifty guineas for a night’s work suit you?’ he asked.",
-        "objectID": "32e98380ed43c56f13a597a723496ca1"
+        "objectID": "c0d5ecacb88bd8a0018d8dba6de7e9df"
       }
     },
-    "objectID": "892c317ca47fe269b6bf4f4e8fc8419e",
+    "objectID": "cbc70ee1ec2a222b11131aced6f74b28",
     "order": 73,
     "tagName": "P"
   },
@@ -1539,14 +1539,14 @@
     "context": {
       "next": {
         "content": "“ ‘The work appears to be light and the pay munificent.’",
-        "objectID": "def2f7deda9ee6cf78e5ec3b66318798"
+        "objectID": "445760c8798757383dcdc99a0b8377e3"
       },
       "previous": {
         "content": "“ ‘Most admirably.’",
-        "objectID": "892c317ca47fe269b6bf4f4e8fc8419e"
+        "objectID": "cbc70ee1ec2a222b11131aced6f74b28"
       }
     },
-    "objectID": "dc26b9c7355b79d18d0ceb244fdff460",
+    "objectID": "2fd39320ceb12f2dce48475b0dd3dc00",
     "order": 74,
     "tagName": "P"
   },
@@ -1560,14 +1560,14 @@
     "context": {
       "next": {
         "content": "“ ‘Precisely so. We shall want you to come to-night by the last train.’",
-        "objectID": "851acf065aad9059e25d7cba09e952b2"
+        "objectID": "061038af0d6034dbb3b812db1a2ea12b"
       },
       "previous": {
         "content": "“ ‘I say a night’s work, but an hour’s would be nearer the mark. I simply want your opinion about a hydraulic stamping machine which has got out of gear. If you show us what is wrong we shall soon set it right ourselves. What do you think of such a commission as that?’",
-        "objectID": "dc26b9c7355b79d18d0ceb244fdff460"
+        "objectID": "2fd39320ceb12f2dce48475b0dd3dc00"
       }
     },
-    "objectID": "def2f7deda9ee6cf78e5ec3b66318798",
+    "objectID": "445760c8798757383dcdc99a0b8377e3",
     "order": 75,
     "tagName": "P"
   },
@@ -1581,14 +1581,14 @@
     "context": {
       "next": {
         "content": "“ ‘Where to?’",
-        "objectID": "fc8646d6c527e90475213cc1464391a2"
+        "objectID": "6a18df0d0db524451688661a283b4193"
       },
       "previous": {
         "content": "“ ‘The work appears to be light and the pay munificent.’",
-        "objectID": "def2f7deda9ee6cf78e5ec3b66318798"
+        "objectID": "445760c8798757383dcdc99a0b8377e3"
       }
     },
-    "objectID": "851acf065aad9059e25d7cba09e952b2",
+    "objectID": "061038af0d6034dbb3b812db1a2ea12b",
     "order": 76,
     "tagName": "P"
   },
@@ -1602,14 +1602,14 @@
     "context": {
       "next": {
         "content": "“ ‘To Eyford, in Berkshire. It is a little place near the borders of Oxfordshire, and within seven miles of Reading. There is a train from Paddington which would bring you there at about 11:15.’",
-        "objectID": "d8d20d8ac9896c7e3128af6054533569"
+        "objectID": "24125596bdaf0d24d44531a6fe351fa9"
       },
       "previous": {
         "content": "“ ‘Precisely so. We shall want you to come to-night by the last train.’",
-        "objectID": "851acf065aad9059e25d7cba09e952b2"
+        "objectID": "061038af0d6034dbb3b812db1a2ea12b"
       }
     },
-    "objectID": "fc8646d6c527e90475213cc1464391a2",
+    "objectID": "6a18df0d0db524451688661a283b4193",
     "order": 77,
     "tagName": "P"
   },
@@ -1623,14 +1623,14 @@
     "context": {
       "next": {
         "content": "“ ‘Very good.’",
-        "objectID": "0aec6ebc21d579eec969e2486f00925b"
+        "objectID": "05a30928928ad3f4d7ff742c10f769b9"
       },
       "previous": {
         "content": "“ ‘Where to?’",
-        "objectID": "fc8646d6c527e90475213cc1464391a2"
+        "objectID": "6a18df0d0db524451688661a283b4193"
       }
     },
-    "objectID": "d8d20d8ac9896c7e3128af6054533569",
+    "objectID": "24125596bdaf0d24d44531a6fe351fa9",
     "order": 78,
     "tagName": "P"
   },
@@ -1644,14 +1644,14 @@
     "context": {
       "next": {
         "content": "“ ‘I shall come down in a carriage to meet you.’",
-        "objectID": "9b83411a377007044981791095516c69"
+        "objectID": "e1ae0d5ed38a3624ef054dedd238ea68"
       },
       "previous": {
         "content": "“ ‘To Eyford, in Berkshire. It is a little place near the borders of Oxfordshire, and within seven miles of Reading. There is a train from Paddington which would bring you there at about 11:15.’",
-        "objectID": "d8d20d8ac9896c7e3128af6054533569"
+        "objectID": "24125596bdaf0d24d44531a6fe351fa9"
       }
     },
-    "objectID": "0aec6ebc21d579eec969e2486f00925b",
+    "objectID": "05a30928928ad3f4d7ff742c10f769b9",
     "order": 79,
     "tagName": "P"
   },
@@ -1665,14 +1665,14 @@
     "context": {
       "next": {
         "content": "“ ‘There is a drive, then?’",
-        "objectID": "1c2579e239883378c6d08e7dfd0af09e"
+        "objectID": "edae2aaf9a5930eb15da263cd4210eef"
       },
       "previous": {
         "content": "“ ‘Very good.’",
-        "objectID": "0aec6ebc21d579eec969e2486f00925b"
+        "objectID": "05a30928928ad3f4d7ff742c10f769b9"
       }
     },
-    "objectID": "9b83411a377007044981791095516c69",
+    "objectID": "e1ae0d5ed38a3624ef054dedd238ea68",
     "order": 80,
     "tagName": "P"
   },
@@ -1686,14 +1686,14 @@
     "context": {
       "next": {
         "content": "“ ‘Yes, our little place is quite out in the country. It is a good seven miles from Eyford Station.’",
-        "objectID": "4800ee5ff699865a5f478d03f1d0e231"
+        "objectID": "cb8c288a28a9a060b1528b5f39c9a699"
       },
       "previous": {
         "content": "“ ‘I shall come down in a carriage to meet you.’",
-        "objectID": "9b83411a377007044981791095516c69"
+        "objectID": "e1ae0d5ed38a3624ef054dedd238ea68"
       }
     },
-    "objectID": "1c2579e239883378c6d08e7dfd0af09e",
+    "objectID": "edae2aaf9a5930eb15da263cd4210eef",
     "order": 81,
     "tagName": "P"
   },
@@ -1707,14 +1707,14 @@
     "context": {
       "next": {
         "content": "“ ‘Then we can hardly get there before midnight. I suppose there would be no chance of a train back. I should be compelled to stop the night.’",
-        "objectID": "a059d86dce38da0dc2f97512f3eec181"
+        "objectID": "ebdb6f1925a98eab56ef8ba178e755b3"
       },
       "previous": {
         "content": "“ ‘There is a drive, then?’",
-        "objectID": "1c2579e239883378c6d08e7dfd0af09e"
+        "objectID": "edae2aaf9a5930eb15da263cd4210eef"
       }
     },
-    "objectID": "4800ee5ff699865a5f478d03f1d0e231",
+    "objectID": "cb8c288a28a9a060b1528b5f39c9a699",
     "order": 82,
     "tagName": "P"
   },
@@ -1728,14 +1728,14 @@
     "context": {
       "next": {
         "content": "“ ‘Yes, we could easily give you a shake-down.’",
-        "objectID": "60e211a10f78a00741a413a01b880e94"
+        "objectID": "042c405eac8071c483edf0f3ad374e87"
       },
       "previous": {
         "content": "“ ‘Yes, our little place is quite out in the country. It is a good seven miles from Eyford Station.’",
-        "objectID": "4800ee5ff699865a5f478d03f1d0e231"
+        "objectID": "cb8c288a28a9a060b1528b5f39c9a699"
       }
     },
-    "objectID": "a059d86dce38da0dc2f97512f3eec181",
+    "objectID": "ebdb6f1925a98eab56ef8ba178e755b3",
     "order": 83,
     "tagName": "P"
   },
@@ -1749,14 +1749,14 @@
     "context": {
       "next": {
         "content": "“ ‘That is very awkward. Could I not come at some more convenient hour?’",
-        "objectID": "1ab0c779b5b2fd96a5681561526d6a3e"
+        "objectID": "a928a106cd677ee680fa4d49826b5744"
       },
       "previous": {
         "content": "“ ‘Then we can hardly get there before midnight. I suppose there would be no chance of a train back. I should be compelled to stop the night.’",
-        "objectID": "a059d86dce38da0dc2f97512f3eec181"
+        "objectID": "ebdb6f1925a98eab56ef8ba178e755b3"
       }
     },
-    "objectID": "60e211a10f78a00741a413a01b880e94",
+    "objectID": "042c405eac8071c483edf0f3ad374e87",
     "order": 84,
     "tagName": "P"
   },
@@ -1770,14 +1770,14 @@
     "context": {
       "next": {
         "content": "“ ‘We have judged it best that you should come late. It is to recompense you for any inconvenience that we are paying to you, a young and unknown man, a fee which would buy an opinion from the very heads of your profession. Still, of course, if you would like to draw out of the business, there is plenty of time to do so.",
-        "objectID": "19d780a01994c39369d4ab7fb1dd6bb1"
+        "objectID": "9cf887c3e44894d4fb77a5d151ae1b6f"
       },
       "previous": {
         "content": "“ ‘Yes, we could easily give you a shake-down.’",
-        "objectID": "60e211a10f78a00741a413a01b880e94"
+        "objectID": "042c405eac8071c483edf0f3ad374e87"
       }
     },
-    "objectID": "1ab0c779b5b2fd96a5681561526d6a3e",
+    "objectID": "a928a106cd677ee680fa4d49826b5744",
     "order": 85,
     "tagName": "P"
   },
@@ -1791,14 +1791,14 @@
     "context": {
       "next": {
         "content": "’",
-        "objectID": "a7507eb29d481e10739bd9b2b047d7d4"
+        "objectID": "87620829d27124255892e3b47fe30ccd"
       },
       "previous": {
         "content": "“ ‘That is very awkward. Could I not come at some more convenient hour?’",
-        "objectID": "1ab0c779b5b2fd96a5681561526d6a3e"
+        "objectID": "a928a106cd677ee680fa4d49826b5744"
       }
     },
-    "objectID": "19d780a01994c39369d4ab7fb1dd6bb1",
+    "objectID": "9cf887c3e44894d4fb77a5d151ae1b6f",
     "order": 86,
     "tagName": "P"
   },
@@ -1812,14 +1812,14 @@
     "context": {
       "next": {
         "content": "“I thought of the fifty guineas, and of how very useful they would be to me. ‘Not at all,’ said I, ‘I shall be very happy to accommodate myself to your wishes. I should like, however, to understand a little more clearly what it is that you wish me to do.’",
-        "objectID": "4ae25c388a38d07521aa06ee58b10fc0"
+        "objectID": "4ecb54eb55783aee8e38db5c975bd8b1"
       },
       "previous": {
         "content": "“ ‘We have judged it best that you should come late. It is to recompense you for any inconvenience that we are paying to you, a young and unknown man, a fee which would buy an opinion from the very heads of your profession. Still, of course, if you would like to draw out of the business, there is plenty of time to do so.",
-        "objectID": "19d780a01994c39369d4ab7fb1dd6bb1"
+        "objectID": "9cf887c3e44894d4fb77a5d151ae1b6f"
       }
     },
-    "objectID": "a7507eb29d481e10739bd9b2b047d7d4",
+    "objectID": "87620829d27124255892e3b47fe30ccd",
     "order": 87,
     "tagName": "P"
   },
@@ -1833,14 +1833,14 @@
     "context": {
       "next": {
         "content": "“ ‘Quite so. It is very natural that the pledge of secrecy which we have exacted from you should have aroused your curiosity. I have no wish to commit you to anything without your having it all laid before you. I suppose that we are absolutely safe from eavesdroppers?’",
-        "objectID": "561ad6eb72e2b61861fa3ae1794db8f3"
+        "objectID": "3320683243b452d9e049466cbd35ac16"
       },
       "previous": {
         "content": "’",
-        "objectID": "a7507eb29d481e10739bd9b2b047d7d4"
+        "objectID": "87620829d27124255892e3b47fe30ccd"
       }
     },
-    "objectID": "4ae25c388a38d07521aa06ee58b10fc0",
+    "objectID": "4ecb54eb55783aee8e38db5c975bd8b1",
     "order": 88,
     "tagName": "P"
   },
@@ -1854,14 +1854,14 @@
     "context": {
       "next": {
         "content": "“ ‘Entirely.’",
-        "objectID": "4320fa665bbcd63409a66bb8d665f045"
+        "objectID": "dc71c83b7b2e2b246ef92f98820f418f"
       },
       "previous": {
         "content": "“I thought of the fifty guineas, and of how very useful they would be to me. ‘Not at all,’ said I, ‘I shall be very happy to accommodate myself to your wishes. I should like, however, to understand a little more clearly what it is that you wish me to do.’",
-        "objectID": "4ae25c388a38d07521aa06ee58b10fc0"
+        "objectID": "4ecb54eb55783aee8e38db5c975bd8b1"
       }
     },
-    "objectID": "561ad6eb72e2b61861fa3ae1794db8f3",
+    "objectID": "3320683243b452d9e049466cbd35ac16",
     "order": 89,
     "tagName": "P"
   },
@@ -1875,14 +1875,14 @@
     "context": {
       "next": {
         "content": "“ ‘Then the matter stands thus. You are probably aware that fuller’s-earth is a valuable product, and that it is only found in one or two places in England?’",
-        "objectID": "c642414adc86a0d3e59d5ef31714a13b"
+        "objectID": "93ae8291976783674ec237511da75814"
       },
       "previous": {
         "content": "“ ‘Quite so. It is very natural that the pledge of secrecy which we have exacted from you should have aroused your curiosity. I have no wish to commit you to anything without your having it all laid before you. I suppose that we are absolutely safe from eavesdroppers?’",
-        "objectID": "561ad6eb72e2b61861fa3ae1794db8f3"
+        "objectID": "3320683243b452d9e049466cbd35ac16"
       }
     },
-    "objectID": "4320fa665bbcd63409a66bb8d665f045",
+    "objectID": "dc71c83b7b2e2b246ef92f98820f418f",
     "order": 90,
     "tagName": "P"
   },
@@ -1896,14 +1896,14 @@
     "context": {
       "next": {
         "content": "“ ‘I have heard so.’",
-        "objectID": "94eb9653b6d92a1d24f945ee809cff84"
+        "objectID": "453c07a0069aae5e2bd0fd2467d3ab88"
       },
       "previous": {
         "content": "“ ‘Entirely.’",
-        "objectID": "4320fa665bbcd63409a66bb8d665f045"
+        "objectID": "dc71c83b7b2e2b246ef92f98820f418f"
       }
     },
-    "objectID": "c642414adc86a0d3e59d5ef31714a13b",
+    "objectID": "93ae8291976783674ec237511da75814",
     "order": 91,
     "tagName": "P"
   },
@@ -1917,14 +1917,14 @@
     "context": {
       "next": {
         "content": "“ ‘Some little time ago I bought a small place—a very small place—within ten miles of Reading. I was fortunate enough to discover that there was a deposit of fuller’s-earth in one of my fields. On examining it, however, I found that this deposit was a comparatively small one, and that it formed a link between two very much larger ones upon the right and left—both of them, however, in the grounds of my neighbours.",
-        "objectID": "12d735031caf4930642e918ce8c337d7"
+        "objectID": "b2e48a11d0564a393d3216afc565542a"
       },
       "previous": {
         "content": "“ ‘Then the matter stands thus. You are probably aware that fuller’s-earth is a valuable product, and that it is only found in one or two places in England?’",
-        "objectID": "c642414adc86a0d3e59d5ef31714a13b"
+        "objectID": "93ae8291976783674ec237511da75814"
       }
     },
-    "objectID": "94eb9653b6d92a1d24f945ee809cff84",
+    "objectID": "453c07a0069aae5e2bd0fd2467d3ab88",
     "order": 92,
     "tagName": "P"
   },
@@ -1942,10 +1942,10 @@
       },
       "previous": {
         "content": "“ ‘I have heard so.’",
-        "objectID": "94eb9653b6d92a1d24f945ee809cff84"
+        "objectID": "453c07a0069aae5e2bd0fd2467d3ab88"
       }
     },
-    "objectID": "12d735031caf4930642e918ce8c337d7",
+    "objectID": "b2e48a11d0564a393d3216afc565542a",
     "order": 93,
     "tagName": "P"
   },
@@ -1963,7 +1963,7 @@
       },
       "previous": {
         "content": "“ ‘Some little time ago I bought a small place—a very small place—within ten miles of Reading. I was fortunate enough to discover that there was a deposit of fuller’s-earth in one of my fields. On examining it, however, I found that this deposit was a comparatively small one, and that it formed a link between two very much larger ones upon the right and left—both of them, however, in the grounds of my neighbours.",
-        "objectID": "12d735031caf4930642e918ce8c337d7"
+        "objectID": "b2e48a11d0564a393d3216afc565542a"
       }
     },
     "objectID": "449c65f0ad1ca0fdf29ecf5b89f0fc80",
@@ -1980,7 +1980,7 @@
     "context": {
       "next": {
         "content": "That is why I have made you promise me that you will not tell a human being that you are going to Eyford to-night. I hope that I make it all plain?’",
-        "objectID": "7293b49d69de016b256329b56de4ffc1"
+        "objectID": "a4640a51a45b2018f01c85c88da41825"
       },
       "previous": {
         "content": "These good people were absolutely ignorant that their land contained that which was quite as valuable as a gold-mine. Naturally, it was to my interest to buy their land before they discovered its true value, but unfortunately I had no capital by which I could do this. I took a few of my friends into the secret, however, and they suggested that we should quietly and secretly work our own little deposit and that in this way we should earn the money which would enable us to buy the neighbouring fields.",
@@ -2001,14 +2001,14 @@
     "context": {
       "next": {
         "content": "“ ‘I quite follow you,’ said I. ‘The only point which I could not quite understand was what use you could make of a hydraulic press in excavating fuller’s-earth, which, as I understand, is dug out like gravel from a pit.’",
-        "objectID": "f60205af0ea5dd4ae9b8b9409a440f9c"
+        "objectID": "3f6bc3aef1c39e3877e0150e879d014d"
       },
       "previous": {
         "content": "This we have now been doing for some time, and in order to help us in our operations we erected a hydraulic press. This press, as I have already explained, has got out of order, and we wish your advice upon the subject. We guard our secret very jealously, however, and if it once became known that we had hydraulic engineers coming to our little house, it would soon rouse inquiry, and then, if the facts came out, it would be good-bye to any chance of getting these fields and carrying out our plans.",
         "objectID": "84c62d61e312a951ca0c8cc10192143a"
       }
     },
-    "objectID": "7293b49d69de016b256329b56de4ffc1",
+    "objectID": "a4640a51a45b2018f01c85c88da41825",
     "order": 96,
     "tagName": "P"
   },
@@ -2022,14 +2022,14 @@
     "context": {
       "next": {
         "content": "“ ‘Ah!’ said he carelessly, ‘we have our own process. We compress the earth into bricks, so as to remove them without revealing what they are. But that is a mere detail. I have taken you fully into my confidence now, Mr. Hatherley, and I have shown you how I trust you.’ He rose as he spoke. ‘I shall expect you, then, at Eyford at 11:15.",
-        "objectID": "05e1f6a64f622ea5f0357331268893d1"
+        "objectID": "469d46d834c6ffee2a2deb57818a67d1"
       },
       "previous": {
         "content": "That is why I have made you promise me that you will not tell a human being that you are going to Eyford to-night. I hope that I make it all plain?’",
-        "objectID": "7293b49d69de016b256329b56de4ffc1"
+        "objectID": "a4640a51a45b2018f01c85c88da41825"
       }
     },
-    "objectID": "f60205af0ea5dd4ae9b8b9409a440f9c",
+    "objectID": "3f6bc3aef1c39e3877e0150e879d014d",
     "order": 97,
     "tagName": "P"
   },
@@ -2043,14 +2043,14 @@
     "context": {
       "next": {
         "content": "’",
-        "objectID": "70b5ba8eb5b2be41bbd01983f02e6856"
+        "objectID": "68b38fea1aae57577a4980ff8959e11c"
       },
       "previous": {
         "content": "“ ‘I quite follow you,’ said I. ‘The only point which I could not quite understand was what use you could make of a hydraulic press in excavating fuller’s-earth, which, as I understand, is dug out like gravel from a pit.’",
-        "objectID": "f60205af0ea5dd4ae9b8b9409a440f9c"
+        "objectID": "3f6bc3aef1c39e3877e0150e879d014d"
       }
     },
-    "objectID": "05e1f6a64f622ea5f0357331268893d1",
+    "objectID": "469d46d834c6ffee2a2deb57818a67d1",
     "order": 98,
     "tagName": "P"
   },
@@ -2064,14 +2064,14 @@
     "context": {
       "next": {
         "content": "“ ‘I shall certainly be there.’",
-        "objectID": "ce3d4ce4a018d8d6a10dc399d1bf1ede"
+        "objectID": "a87714983ed68e5175d439576851e3c0"
       },
       "previous": {
         "content": "“ ‘Ah!’ said he carelessly, ‘we have our own process. We compress the earth into bricks, so as to remove them without revealing what they are. But that is a mere detail. I have taken you fully into my confidence now, Mr. Hatherley, and I have shown you how I trust you.’ He rose as he spoke. ‘I shall expect you, then, at Eyford at 11:15.",
-        "objectID": "05e1f6a64f622ea5f0357331268893d1"
+        "objectID": "469d46d834c6ffee2a2deb57818a67d1"
       }
     },
-    "objectID": "70b5ba8eb5b2be41bbd01983f02e6856",
+    "objectID": "68b38fea1aae57577a4980ff8959e11c",
     "order": 99,
     "tagName": "P"
   },
@@ -2085,14 +2085,14 @@
     "context": {
       "next": {
         "content": "“ ‘And not a word to a soul.’ He looked at me with a last long, questioning gaze, and then, pressing my hand in a cold, dank grasp, he hurried from the room.",
-        "objectID": "4becda9f71a308c5336fb06c484e178c"
+        "objectID": "22f914f1952bebd122184596a4736312"
       },
       "previous": {
         "content": "’",
-        "objectID": "70b5ba8eb5b2be41bbd01983f02e6856"
+        "objectID": "68b38fea1aae57577a4980ff8959e11c"
       }
     },
-    "objectID": "ce3d4ce4a018d8d6a10dc399d1bf1ede",
+    "objectID": "a87714983ed68e5175d439576851e3c0",
     "order": 100,
     "tagName": "P"
   },
@@ -2106,14 +2106,14 @@
     "context": {
       "next": {
         "content": "“Well, when I came to think it all over in cool blood I was very much astonished, as you may both think, at this sudden commission which had been intrusted to me. On the one hand, of course, I was glad, for the fee was at least tenfold what I should have asked had I set a price upon my own services, and it was possible that this order might lead to other ones.",
-        "objectID": "888a71911c013efceea8f74f6682f133"
+        "objectID": "25aa3b79a490681586cf2d52a048d6fe"
       },
       "previous": {
         "content": "“ ‘I shall certainly be there.’",
-        "objectID": "ce3d4ce4a018d8d6a10dc399d1bf1ede"
+        "objectID": "a87714983ed68e5175d439576851e3c0"
       }
     },
-    "objectID": "4becda9f71a308c5336fb06c484e178c",
+    "objectID": "22f914f1952bebd122184596a4736312",
     "order": 101,
     "tagName": "P"
   },
@@ -2127,14 +2127,14 @@
     "context": {
       "next": {
         "content": "On the other hand, the face and manner of my patron had made an unpleasant impression upon me, and I could not think that his explanation of the fuller’s-earth was sufficient to explain the necessity for my coming at midnight, and his extreme anxiety lest I should tell anyone of my errand. However, I threw all fears to the winds, ate a hearty supper, drove to Paddington, and started off, having obeyed to the letter the injunction as to holding my tongue.",
-        "objectID": "a048ed5b74326524e96d8f832653e1b1"
+        "objectID": "a60e76f11abe255518617c94cc245ab9"
       },
       "previous": {
         "content": "“ ‘And not a word to a soul.’ He looked at me with a last long, questioning gaze, and then, pressing my hand in a cold, dank grasp, he hurried from the room.",
-        "objectID": "4becda9f71a308c5336fb06c484e178c"
+        "objectID": "22f914f1952bebd122184596a4736312"
       }
     },
-    "objectID": "888a71911c013efceea8f74f6682f133",
+    "objectID": "25aa3b79a490681586cf2d52a048d6fe",
     "order": 102,
     "tagName": "P"
   },
@@ -2148,14 +2148,14 @@
     "context": {
       "next": {
         "content": "“At Reading I had to change not only my carriage but my station. However, I was in time for the last train to Eyford, and I reached the little dim-lit station after eleven o’clock. I was the only passenger who got out there, and there was no one upon the platform save a single sleepy porter with a lantern.",
-        "objectID": "0973397ac161ddd1e49fc40e872e008b"
+        "objectID": "1fada26070cc7d2488e2f965e0531145"
       },
       "previous": {
         "content": "“Well, when I came to think it all over in cool blood I was very much astonished, as you may both think, at this sudden commission which had been intrusted to me. On the one hand, of course, I was glad, for the fee was at least tenfold what I should have asked had I set a price upon my own services, and it was possible that this order might lead to other ones.",
-        "objectID": "888a71911c013efceea8f74f6682f133"
+        "objectID": "25aa3b79a490681586cf2d52a048d6fe"
       }
     },
-    "objectID": "a048ed5b74326524e96d8f832653e1b1",
+    "objectID": "a60e76f11abe255518617c94cc245ab9",
     "order": 103,
     "tagName": "P"
   },
@@ -2173,10 +2173,10 @@
       },
       "previous": {
         "content": "On the other hand, the face and manner of my patron had made an unpleasant impression upon me, and I could not think that his explanation of the fuller’s-earth was sufficient to explain the necessity for my coming at midnight, and his extreme anxiety lest I should tell anyone of my errand. However, I threw all fears to the winds, ate a hearty supper, drove to Paddington, and started off, having obeyed to the letter the injunction as to holding my tongue.",
-        "objectID": "a048ed5b74326524e96d8f832653e1b1"
+        "objectID": "a60e76f11abe255518617c94cc245ab9"
       }
     },
-    "objectID": "0973397ac161ddd1e49fc40e872e008b",
+    "objectID": "1fada26070cc7d2488e2f965e0531145",
     "order": 104,
     "tagName": "P"
   },
@@ -2190,11 +2190,11 @@
     "context": {
       "next": {
         "content": "”",
-        "objectID": "bda6e1e4f26dec57200f1c003fbeb9d8"
+        "objectID": "7418862a5e4d802e6235fa661b4b3597"
       },
       "previous": {
         "content": "“At Reading I had to change not only my carriage but my station. However, I was in time for the last train to Eyford, and I reached the little dim-lit station after eleven o’clock. I was the only passenger who got out there, and there was no one upon the platform save a single sleepy porter with a lantern.",
-        "objectID": "0973397ac161ddd1e49fc40e872e008b"
+        "objectID": "1fada26070cc7d2488e2f965e0531145"
       }
     },
     "objectID": "b0d7a5d48f95645b742b28a090427d24",
@@ -2211,14 +2211,14 @@
     "context": {
       "next": {
         "content": "“One horse?” interjected Holmes.",
-        "objectID": "018229bb0ae0d9b9e04302d49fb0c4fe"
+        "objectID": "54771acf1dfd151d3ef2360f423d84a8"
       },
       "previous": {
         "content": "As I passed out through the wicket gate, however, I found my acquaintance of the morning waiting in the shadow upon the other side. Without a word he grasped my arm and hurried me into a carriage, the door of which was standing open. He drew up the windows on either side, tapped on the wood-work, and away we went as fast as the horse could go.",
         "objectID": "b0d7a5d48f95645b742b28a090427d24"
       }
     },
-    "objectID": "bda6e1e4f26dec57200f1c003fbeb9d8",
+    "objectID": "7418862a5e4d802e6235fa661b4b3597",
     "order": 106,
     "tagName": "P"
   },
@@ -2232,14 +2232,14 @@
     "context": {
       "next": {
         "content": "“Yes, only one.”",
-        "objectID": "e8ab0ace01931b92aaef3fe75ae6137a"
+        "objectID": "f3e4d9e593c0b53ff1d140a235ef3de2"
       },
       "previous": {
         "content": "”",
-        "objectID": "bda6e1e4f26dec57200f1c003fbeb9d8"
+        "objectID": "7418862a5e4d802e6235fa661b4b3597"
       }
     },
-    "objectID": "018229bb0ae0d9b9e04302d49fb0c4fe",
+    "objectID": "54771acf1dfd151d3ef2360f423d84a8",
     "order": 107,
     "tagName": "P"
   },
@@ -2253,14 +2253,14 @@
     "context": {
       "next": {
         "content": "“Did you observe the colour?”",
-        "objectID": "b46920e7427def79bd8063d0cd695a98"
+        "objectID": "df50007ac735919cf10e5acc89f39964"
       },
       "previous": {
         "content": "“One horse?” interjected Holmes.",
-        "objectID": "018229bb0ae0d9b9e04302d49fb0c4fe"
+        "objectID": "54771acf1dfd151d3ef2360f423d84a8"
       }
     },
-    "objectID": "e8ab0ace01931b92aaef3fe75ae6137a",
+    "objectID": "f3e4d9e593c0b53ff1d140a235ef3de2",
     "order": 108,
     "tagName": "P"
   },
@@ -2274,14 +2274,14 @@
     "context": {
       "next": {
         "content": "“Yes, I saw it by the side-lights when I was stepping into the carriage. It was a chestnut.”",
-        "objectID": "18dc7077c618b26f66f51b0759a3ddd2"
+        "objectID": "629f25d9395833e63015cc1f18dc4f68"
       },
       "previous": {
         "content": "“Yes, only one.”",
-        "objectID": "e8ab0ace01931b92aaef3fe75ae6137a"
+        "objectID": "f3e4d9e593c0b53ff1d140a235ef3de2"
       }
     },
-    "objectID": "b46920e7427def79bd8063d0cd695a98",
+    "objectID": "df50007ac735919cf10e5acc89f39964",
     "order": 109,
     "tagName": "P"
   },
@@ -2295,14 +2295,14 @@
     "context": {
       "next": {
         "content": "“Tired-looking or fresh?”",
-        "objectID": "cf81807367171fcd06a8ce1c2219a3d5"
+        "objectID": "91040dc54691ec826f6024762433d954"
       },
       "previous": {
         "content": "“Did you observe the colour?”",
-        "objectID": "b46920e7427def79bd8063d0cd695a98"
+        "objectID": "df50007ac735919cf10e5acc89f39964"
       }
     },
-    "objectID": "18dc7077c618b26f66f51b0759a3ddd2",
+    "objectID": "629f25d9395833e63015cc1f18dc4f68",
     "order": 110,
     "tagName": "P"
   },
@@ -2316,14 +2316,14 @@
     "context": {
       "next": {
         "content": "“Oh, fresh and glossy.”",
-        "objectID": "72796ed85c2b8234fb29f313094b851d"
+        "objectID": "9c9ce34850d1e3458d91f154a6726500"
       },
       "previous": {
         "content": "“Yes, I saw it by the side-lights when I was stepping into the carriage. It was a chestnut.”",
-        "objectID": "18dc7077c618b26f66f51b0759a3ddd2"
+        "objectID": "629f25d9395833e63015cc1f18dc4f68"
       }
     },
-    "objectID": "cf81807367171fcd06a8ce1c2219a3d5",
+    "objectID": "91040dc54691ec826f6024762433d954",
     "order": 111,
     "tagName": "P"
   },
@@ -2337,14 +2337,14 @@
     "context": {
       "next": {
         "content": "“Thank you. I am sorry to have interrupted you. Pray continue your most interesting statement.”",
-        "objectID": "bb43e907f2181e087949d5555b2c2266"
+        "objectID": "5bd17c474e679492a8cd2898a20b7dbf"
       },
       "previous": {
         "content": "“Tired-looking or fresh?”",
-        "objectID": "cf81807367171fcd06a8ce1c2219a3d5"
+        "objectID": "91040dc54691ec826f6024762433d954"
       }
     },
-    "objectID": "72796ed85c2b8234fb29f313094b851d",
+    "objectID": "9c9ce34850d1e3458d91f154a6726500",
     "order": 112,
     "tagName": "P"
   },
@@ -2358,14 +2358,14 @@
     "context": {
       "next": {
         "content": "“Away we went then, and we drove for at least an hour. Colonel Lysander Stark had said that it was only seven miles, but I should think, from the rate that we seemed to go, and from the time that we took, that it must have been nearer twelve. He sat at my side in silence all the time, and I was aware, more than once when I glanced in his direction, that he was looking at me with great intensity.",
-        "objectID": "70d11481fba81c44bc70a659f0c6cab0"
+        "objectID": "093764e10ba8ea34beb0f63d847024eb"
       },
       "previous": {
         "content": "“Oh, fresh and glossy.”",
-        "objectID": "72796ed85c2b8234fb29f313094b851d"
+        "objectID": "9c9ce34850d1e3458d91f154a6726500"
       }
     },
-    "objectID": "bb43e907f2181e087949d5555b2c2266",
+    "objectID": "5bd17c474e679492a8cd2898a20b7dbf",
     "order": 113,
     "tagName": "P"
   },
@@ -2383,10 +2383,10 @@
       },
       "previous": {
         "content": "“Thank you. I am sorry to have interrupted you. Pray continue your most interesting statement.”",
-        "objectID": "bb43e907f2181e087949d5555b2c2266"
+        "objectID": "5bd17c474e679492a8cd2898a20b7dbf"
       }
     },
-    "objectID": "70d11481fba81c44bc70a659f0c6cab0",
+    "objectID": "093764e10ba8ea34beb0f63d847024eb",
     "order": 114,
     "tagName": "P"
   },
@@ -2404,7 +2404,7 @@
       },
       "previous": {
         "content": "“Away we went then, and we drove for at least an hour. Colonel Lysander Stark had said that it was only seven miles, but I should think, from the rate that we seemed to go, and from the time that we took, that it must have been nearer twelve. He sat at my side in silence all the time, and I was aware, more than once when I glanced in his direction, that he was looking at me with great intensity.",
-        "objectID": "70d11481fba81c44bc70a659f0c6cab0"
+        "objectID": "093764e10ba8ea34beb0f63d847024eb"
       }
     },
     "objectID": "4a62a497830e7b65268908a263e55be9",
@@ -2442,7 +2442,7 @@
     "context": {
       "next": {
         "content": "“It was pitch dark inside the house, and the colonel fumbled about looking for matches and muttering under his breath. Suddenly a door opened at the other end of the passage, and a long, golden bar of light shot out in our direction. It grew broader, and a woman appeared with a lamp in her hand, which she held above her head, pushing her face forward and peering at us.",
-        "objectID": "31489dfdd45232d972b038d465cb32cd"
+        "objectID": "96c219445987ca86eecc8e33115cb823"
       },
       "previous": {
         "content": "At last, however, the bumping of the road was exchanged for the crisp smoothness of a gravel-drive, and the carriage came to a stand. Colonel Lysander Stark sprang out, and, as I followed after him, pulled me swiftly into a porch which gaped in front of us. We stepped, as it were, right out of the carriage and into the hall, so that I failed to catch the most fleeting glance of the front of the house.",
@@ -2470,7 +2470,7 @@
         "objectID": "d27bd0659ee0edf297ae38f00fbcf65e"
       }
     },
-    "objectID": "31489dfdd45232d972b038d465cb32cd",
+    "objectID": "96c219445987ca86eecc8e33115cb823",
     "order": 118,
     "tagName": "P"
   },
@@ -2488,7 +2488,7 @@
       },
       "previous": {
         "content": "“It was pitch dark inside the house, and the colonel fumbled about looking for matches and muttering under his breath. Suddenly a door opened at the other end of the passage, and a long, golden bar of light shot out in our direction. It grew broader, and a woman appeared with a lamp in her hand, which she held above her head, pushing her face forward and peering at us.",
-        "objectID": "31489dfdd45232d972b038d465cb32cd"
+        "objectID": "96c219445987ca86eecc8e33115cb823"
       }
     },
     "objectID": "1e531bd2e8ad17bac52587fb90cd9f5b",
@@ -2505,7 +2505,7 @@
     "context": {
       "next": {
         "content": "“ ‘Perhaps you will have the kindness to wait in this room for a few minutes,’ said he, throwing open another door. It was a quiet, little, plainly furnished room, with a round table in the centre, on which several German books were scattered. Colonel Stark laid down the lamp on the top of a harmonium beside the door.",
-        "objectID": "9f18b6697d09e19f1c39632f373f8857"
+        "objectID": "bd5d137189f62b7a9f48ef96ced1cd2a"
       },
       "previous": {
         "content": "I could see that she was pretty, and from the gloss with which the light shone upon her dark dress I knew that it was a rich material. She spoke a few words in a foreign tongue in a tone as though asking a question, and when my companion answered in a gruff monosyllable she gave such a start that the lamp nearly fell from her hand.",
@@ -2526,14 +2526,14 @@
     "context": {
       "next": {
         "content": "‘I shall not keep you waiting an instant,’ said he, and vanished into the darkness.",
-        "objectID": "3d59394d053fcc84fbe697f8b565f830"
+        "objectID": "da0f2786dc0e96d5a27e4957de9456fd"
       },
       "previous": {
         "content": "Colonel Stark went up to her, whispered something in her ear, and then, pushing her back into the room from whence she had come, he walked towards me again with the lamp in his hand.",
         "objectID": "a8ebfcadb9141b60a3c467dbf26f7808"
       }
     },
-    "objectID": "9f18b6697d09e19f1c39632f373f8857",
+    "objectID": "bd5d137189f62b7a9f48ef96ced1cd2a",
     "order": 121,
     "tagName": "P"
   },
@@ -2547,14 +2547,14 @@
     "context": {
       "next": {
         "content": "“I glanced at the books upon the table, and in spite of my ignorance of German I could see that two of them were treatises on science, the others being volumes of poetry. Then I walked across to the window, hoping that I might catch some glimpse of the country-side, but an oak shutter, heavily barred, was folded across it.",
-        "objectID": "25384908a3cd33419dcb14963b6b926e"
+        "objectID": "9708aedc5cb702097c4b723e4a0cfea1"
       },
       "previous": {
         "content": "“ ‘Perhaps you will have the kindness to wait in this room for a few minutes,’ said he, throwing open another door. It was a quiet, little, plainly furnished room, with a round table in the centre, on which several German books were scattered. Colonel Stark laid down the lamp on the top of a harmonium beside the door.",
-        "objectID": "9f18b6697d09e19f1c39632f373f8857"
+        "objectID": "bd5d137189f62b7a9f48ef96ced1cd2a"
       }
     },
-    "objectID": "3d59394d053fcc84fbe697f8b565f830",
+    "objectID": "da0f2786dc0e96d5a27e4957de9456fd",
     "order": 122,
     "tagName": "P"
   },
@@ -2572,10 +2572,10 @@
       },
       "previous": {
         "content": "‘I shall not keep you waiting an instant,’ said he, and vanished into the darkness.",
-        "objectID": "3d59394d053fcc84fbe697f8b565f830"
+        "objectID": "da0f2786dc0e96d5a27e4957de9456fd"
       }
     },
-    "objectID": "25384908a3cd33419dcb14963b6b926e",
+    "objectID": "9708aedc5cb702097c4b723e4a0cfea1",
     "order": 123,
     "tagName": "P"
   },
@@ -2593,7 +2593,7 @@
       },
       "previous": {
         "content": "“I glanced at the books upon the table, and in spite of my ignorance of German I could see that two of them were treatises on science, the others being volumes of poetry. Then I walked across to the window, hoping that I might catch some glimpse of the country-side, but an oak shutter, heavily barred, was folded across it.",
-        "objectID": "25384908a3cd33419dcb14963b6b926e"
+        "objectID": "9708aedc5cb702097c4b723e4a0cfea1"
       }
     },
     "objectID": "c761fe4f9accdcc59652551179e2f977",
@@ -2610,7 +2610,7 @@
     "context": {
       "next": {
         "content": "“Suddenly, without any preliminary sound in the midst of the utter stillness, the door of my room swung slowly open. The woman was standing in the aperture, the darkness of the hall behind her, the yellow light from my lamp beating upon her eager and beautiful face. I could see at a glance that she was sick with fear, and the sight sent a chill to my own heart.",
-        "objectID": "d7577f99b0d7a2c5484e09b599ecf18e"
+        "objectID": "03c4cca4e53c735ce26d3ff6941ab3d6"
       },
       "previous": {
         "content": "It was a wonderfully silent house. There was an old clock ticking loudly somewhere in the passage, but otherwise everything was deadly still. A vague feeling of uneasiness began to steal over me. Who were these German people, and what were they doing living in this strange, out-of-the-way place? And where was the place? I was ten miles or so from Eyford, that was all I knew, but whether north, south, east, or west I had no idea.",
@@ -2638,7 +2638,7 @@
         "objectID": "29fe4e90e9cd9dfe81aec1f705ace6de"
       }
     },
-    "objectID": "d7577f99b0d7a2c5484e09b599ecf18e",
+    "objectID": "03c4cca4e53c735ce26d3ff6941ab3d6",
     "order": 126,
     "tagName": "P"
   },
@@ -2652,11 +2652,11 @@
     "context": {
       "next": {
         "content": "“ ‘I would go,’ said she, trying hard, as it seemed to me, to speak calmly; ‘I would go. I should not stay here. There is no good for you to do.’",
-        "objectID": "e286531f65a62c3027c620b8e2456704"
+        "objectID": "f8186aa4dc41f5e1ce60cff51fd80d9d"
       },
       "previous": {
         "content": "“Suddenly, without any preliminary sound in the midst of the utter stillness, the door of my room swung slowly open. The woman was standing in the aperture, the darkness of the hall behind her, the yellow light from my lamp beating upon her eager and beautiful face. I could see at a glance that she was sick with fear, and the sight sent a chill to my own heart.",
-        "objectID": "d7577f99b0d7a2c5484e09b599ecf18e"
+        "objectID": "03c4cca4e53c735ce26d3ff6941ab3d6"
       }
     },
     "objectID": "05554fe240f578bc998008e52e3e5995",
@@ -2673,14 +2673,14 @@
     "context": {
       "next": {
         "content": "“ ‘But, madam,’ said I, ‘I have not yet done what I came for. I cannot possibly leave until I have seen the machine.’",
-        "objectID": "8b402b798972c3e15677fbe099afce94"
+        "objectID": "bac42c126c1db0bc2c9f366b9490f6f8"
       },
       "previous": {
         "content": "She held up one shaking finger to warn me to be silent, and she shot a few whispered words of broken English at me, her eyes glancing back, like those of a frightened horse, into the gloom behind her.",
         "objectID": "05554fe240f578bc998008e52e3e5995"
       }
     },
-    "objectID": "e286531f65a62c3027c620b8e2456704",
+    "objectID": "f8186aa4dc41f5e1ce60cff51fd80d9d",
     "order": 128,
     "tagName": "P"
   },
@@ -2694,14 +2694,14 @@
     "context": {
       "next": {
         "content": "“ ‘It is not worth your while to wait,’ she went on. ‘You can pass through the door; no one hinders.’ And then, seeing that I smiled and shook my head, she suddenly threw aside her constraint and made a step forward, with her hands wrung together. ‘For the love of Heaven!’ she whispered, ‘get away f",
-        "objectID": "2b0ed68900f692e0898cc130d0cf84cb"
+        "objectID": "1b64b8713a76fc01a2752a040ba25a79"
       },
       "previous": {
         "content": "“ ‘I would go,’ said she, trying hard, as it seemed to me, to speak calmly; ‘I would go. I should not stay here. There is no good for you to do.’",
-        "objectID": "e286531f65a62c3027c620b8e2456704"
+        "objectID": "f8186aa4dc41f5e1ce60cff51fd80d9d"
       }
     },
-    "objectID": "8b402b798972c3e15677fbe099afce94",
+    "objectID": "bac42c126c1db0bc2c9f366b9490f6f8",
     "order": 129,
     "tagName": "P"
   },
@@ -2715,14 +2715,14 @@
     "context": {
       "next": {
         "content": "rom here before it is too late!’",
-        "objectID": "6d6c5fbf38a3d1c5f24c5bb314aeecbe"
+        "objectID": "63fc29ee066349de872b4f1be61bff1b"
       },
       "previous": {
         "content": "“ ‘But, madam,’ said I, ‘I have not yet done what I came for. I cannot possibly leave until I have seen the machine.’",
-        "objectID": "8b402b798972c3e15677fbe099afce94"
+        "objectID": "bac42c126c1db0bc2c9f366b9490f6f8"
       }
     },
-    "objectID": "2b0ed68900f692e0898cc130d0cf84cb",
+    "objectID": "1b64b8713a76fc01a2752a040ba25a79",
     "order": 130,
     "tagName": "P"
   },
@@ -2736,14 +2736,14 @@
     "context": {
       "next": {
         "content": "“But I am somewhat headstrong by nature, and the more ready to engage in an affair when there is some obstacle in the way. I thought of my fifty-guinea fee, of my wearisome journey, and of the unpleasant night which seemed to be before me. Was it all to go for nothing? Why should I slink away without having carried out my commission, and without the payment which was my due? This woman might, for all I knew, be a monomaniac.",
-        "objectID": "271876cc4cbc72aa166e3b9eab8bdf70"
+        "objectID": "aacfc105ca42c6317347af4e15a8ca7c"
       },
       "previous": {
         "content": "“ ‘It is not worth your while to wait,’ she went on. ‘You can pass through the door; no one hinders.’ And then, seeing that I smiled and shook my head, she suddenly threw aside her constraint and made a step forward, with her hands wrung together. ‘For the love of Heaven!’ she whispered, ‘get away f",
-        "objectID": "2b0ed68900f692e0898cc130d0cf84cb"
+        "objectID": "1b64b8713a76fc01a2752a040ba25a79"
       }
     },
-    "objectID": "6d6c5fbf38a3d1c5f24c5bb314aeecbe",
+    "objectID": "63fc29ee066349de872b4f1be61bff1b",
     "order": 131,
     "tagName": "P"
   },
@@ -2761,10 +2761,10 @@
       },
       "previous": {
         "content": "rom here before it is too late!’",
-        "objectID": "6d6c5fbf38a3d1c5f24c5bb314aeecbe"
+        "objectID": "63fc29ee066349de872b4f1be61bff1b"
       }
     },
-    "objectID": "271876cc4cbc72aa166e3b9eab8bdf70",
+    "objectID": "aacfc105ca42c6317347af4e15a8ca7c",
     "order": 132,
     "tagName": "P"
   },
@@ -2778,11 +2778,11 @@
     "context": {
       "next": {
         "content": "“The newcomers were Colonel Lysander Stark and a short thick man with a chinchilla beard growing out of the creases of his double chin, who was introduced to me as Mr. Ferguson.",
-        "objectID": "929dbc8c211562179d254f1860e2bdc5"
+        "objectID": "5447c4375dfc3dbcf6251490c0f3af54"
       },
       "previous": {
         "content": "“But I am somewhat headstrong by nature, and the more ready to engage in an affair when there is some obstacle in the way. I thought of my fifty-guinea fee, of my wearisome journey, and of the unpleasant night which seemed to be before me. Was it all to go for nothing? Why should I slink away without having carried out my commission, and without the payment which was my due? This woman might, for all I knew, be a monomaniac.",
-        "objectID": "271876cc4cbc72aa166e3b9eab8bdf70"
+        "objectID": "aacfc105ca42c6317347af4e15a8ca7c"
       }
     },
     "objectID": "f21349acffe60223897fd4dc180b986e",
@@ -2799,14 +2799,14 @@
     "context": {
       "next": {
         "content": "“ ‘This is my secretary and manager,’ said the colonel. ‘By the way, I was under the impression that I left this door shut just now. I fear that you have felt the draught.’",
-        "objectID": "9a4c821c69a6103f4521ed5de656f443"
+        "objectID": "f786a41cca22ff4657fe19b28ad203af"
       },
       "previous": {
         "content": "With a stout bearing, therefore, though her manner had shaken me more than I cared to confess, I still shook my head and declared my intention of remaining where I was. She was about to renew her entreaties when a door slammed overhead, and the sound of several footsteps was heard upon the stairs. She listened for an instant, threw up her hands with a despairing gesture, and vanished as suddenly and as noiselessly as she had come.",
         "objectID": "f21349acffe60223897fd4dc180b986e"
       }
     },
-    "objectID": "929dbc8c211562179d254f1860e2bdc5",
+    "objectID": "5447c4375dfc3dbcf6251490c0f3af54",
     "order": 134,
     "tagName": "P"
   },
@@ -2820,14 +2820,14 @@
     "context": {
       "next": {
         "content": "“ ‘On the contrary,’ said I, ‘I opened the door myself because I felt the room to be a little close.’",
-        "objectID": "71771881141ce535ab0cc7d862cec253"
+        "objectID": "76441f6845b669e2470cb7cf4485a98c"
       },
       "previous": {
         "content": "“The newcomers were Colonel Lysander Stark and a short thick man with a chinchilla beard growing out of the creases of his double chin, who was introduced to me as Mr. Ferguson.",
-        "objectID": "929dbc8c211562179d254f1860e2bdc5"
+        "objectID": "5447c4375dfc3dbcf6251490c0f3af54"
       }
     },
-    "objectID": "9a4c821c69a6103f4521ed5de656f443",
+    "objectID": "f786a41cca22ff4657fe19b28ad203af",
     "order": 135,
     "tagName": "P"
   },
@@ -2841,14 +2841,14 @@
     "context": {
       "next": {
         "content": "“He shot one of his suspicious looks at me. ‘Perhaps we had better proceed to business, then,’ said he. ‘Mr. Ferguson and I will take you up to see the machine.’",
-        "objectID": "65b300e8f7eed541ec6cf1a19c984a0a"
+        "objectID": "389c8323275d8d73fb9d58c28eb06a2c"
       },
       "previous": {
         "content": "“ ‘This is my secretary and manager,’ said the colonel. ‘By the way, I was under the impression that I left this door shut just now. I fear that you have felt the draught.’",
-        "objectID": "9a4c821c69a6103f4521ed5de656f443"
+        "objectID": "f786a41cca22ff4657fe19b28ad203af"
       }
     },
-    "objectID": "71771881141ce535ab0cc7d862cec253",
+    "objectID": "76441f6845b669e2470cb7cf4485a98c",
     "order": 136,
     "tagName": "P"
   },
@@ -2862,14 +2862,14 @@
     "context": {
       "next": {
         "content": "“ ‘I had better put my hat on, I suppose.’",
-        "objectID": "226dca3929fe434f8af529cad493e53f"
+        "objectID": "9c3a4065a2c2e142e6948d6e6d140525"
       },
       "previous": {
         "content": "“ ‘On the contrary,’ said I, ‘I opened the door myself because I felt the room to be a little close.’",
-        "objectID": "71771881141ce535ab0cc7d862cec253"
+        "objectID": "76441f6845b669e2470cb7cf4485a98c"
       }
     },
-    "objectID": "65b300e8f7eed541ec6cf1a19c984a0a",
+    "objectID": "389c8323275d8d73fb9d58c28eb06a2c",
     "order": 137,
     "tagName": "P"
   },
@@ -2883,14 +2883,14 @@
     "context": {
       "next": {
         "content": "“ ‘Oh, no, it is in the house.’",
-        "objectID": "96a33d7da1eb3a2f3be19e1151e68f80"
+        "objectID": "e5df874d9e5e5322eb9eeaa11f371d2f"
       },
       "previous": {
         "content": "“He shot one of his suspicious looks at me. ‘Perhaps we had better proceed to business, then,’ said he. ‘Mr. Ferguson and I will take you up to see the machine.’",
-        "objectID": "65b300e8f7eed541ec6cf1a19c984a0a"
+        "objectID": "389c8323275d8d73fb9d58c28eb06a2c"
       }
     },
-    "objectID": "226dca3929fe434f8af529cad493e53f",
+    "objectID": "9c3a4065a2c2e142e6948d6e6d140525",
     "order": 138,
     "tagName": "P"
   },
@@ -2904,14 +2904,14 @@
     "context": {
       "next": {
         "content": "“ ‘What, you dig fuller’s-earth in the house?’",
-        "objectID": "f424f787bad54cd6ebf92b54228f225a"
+        "objectID": "d1885cd71832b0b774959802f59b591e"
       },
       "previous": {
         "content": "“ ‘I had better put my hat on, I suppose.’",
-        "objectID": "226dca3929fe434f8af529cad493e53f"
+        "objectID": "9c3a4065a2c2e142e6948d6e6d140525"
       }
     },
-    "objectID": "96a33d7da1eb3a2f3be19e1151e68f80",
+    "objectID": "e5df874d9e5e5322eb9eeaa11f371d2f",
     "order": 139,
     "tagName": "P"
   },
@@ -2925,14 +2925,14 @@
     "context": {
       "next": {
         "content": "“ ‘No, no. This is only where we compress it. But never mind that. All we wish you to do is to examine the machine and to let us know what is wrong with it.’",
-        "objectID": "46011290ae1cf7f3c55f7bcc9f0065ce"
+        "objectID": "a2f1d590a7e5529240c2126168ea5973"
       },
       "previous": {
         "content": "“ ‘Oh, no, it is in the house.’",
-        "objectID": "96a33d7da1eb3a2f3be19e1151e68f80"
+        "objectID": "e5df874d9e5e5322eb9eeaa11f371d2f"
       }
     },
-    "objectID": "f424f787bad54cd6ebf92b54228f225a",
+    "objectID": "d1885cd71832b0b774959802f59b591e",
     "order": 140,
     "tagName": "P"
   },
@@ -2946,14 +2946,14 @@
     "context": {
       "next": {
         "content": "“We went upstairs together, the colonel first with the lamp, the fat manager and I behind him. It was a labyrinth of an old house, with corridors, passages, narrow winding staircases, and little low doors, the thresholds of which were hollowed out by the generations who had crossed them. There were no carpets and no signs of any furniture above the ground floor, while the plaster was peeling off the walls, and the damp was breaking through in green, unhealthy blotches.",
-        "objectID": "344600b2dfbbb6fa7dfb3d855eb6bec8"
+        "objectID": "a84340fec472c5a9d33f4fd1b07cefcb"
       },
       "previous": {
         "content": "“ ‘What, you dig fuller’s-earth in the house?’",
-        "objectID": "f424f787bad54cd6ebf92b54228f225a"
+        "objectID": "d1885cd71832b0b774959802f59b591e"
       }
     },
-    "objectID": "46011290ae1cf7f3c55f7bcc9f0065ce",
+    "objectID": "a2f1d590a7e5529240c2126168ea5973",
     "order": 141,
     "tagName": "P"
   },
@@ -2971,10 +2971,10 @@
       },
       "previous": {
         "content": "“ ‘No, no. This is only where we compress it. But never mind that. All we wish you to do is to examine the machine and to let us know what is wrong with it.’",
-        "objectID": "46011290ae1cf7f3c55f7bcc9f0065ce"
+        "objectID": "a2f1d590a7e5529240c2126168ea5973"
       }
     },
-    "objectID": "344600b2dfbbb6fa7dfb3d855eb6bec8",
+    "objectID": "a84340fec472c5a9d33f4fd1b07cefcb",
     "order": 142,
     "tagName": "P"
   },
@@ -2988,11 +2988,11 @@
     "context": {
       "next": {
         "content": "“Colonel Lysander Stark stopped at last before a low door, which he unlocked. Within was a small, square room, in which the three of us could hardly get at one time. Ferguson remained outside, and the colonel ushered me in.",
-        "objectID": "493b40dfdea066385059ee99ee51068e"
+        "objectID": "a43c5a829242a9f31adbc8fb9ea22c71"
       },
       "previous": {
         "content": "“We went upstairs together, the colonel first with the lamp, the fat manager and I behind him. It was a labyrinth of an old house, with corridors, passages, narrow winding staircases, and little low doors, the thresholds of which were hollowed out by the generations who had crossed them. There were no carpets and no signs of any furniture above the ground floor, while the plaster was peeling off the walls, and the damp was breaking through in green, unhealthy blotches.",
-        "objectID": "344600b2dfbbb6fa7dfb3d855eb6bec8"
+        "objectID": "a84340fec472c5a9d33f4fd1b07cefcb"
       }
     },
     "objectID": "b1e2c3e58b88d9fbc9717420f0922049",
@@ -3009,14 +3009,14 @@
     "context": {
       "next": {
         "content": "“ ‘We are now,’ said he, ‘actually within the hydraulic press, and it would be a particularly unpleasant thing for us if anyone were to turn it on. The ceiling of this small chamber is really the end of the descending piston, and it comes down with the force of many tons upon this metal floor. There are small lateral columns of water outside which receive the force, and which transmit and multiply it in the manner which is familiar to you.",
-        "objectID": "15a1446389ce7faa36e5650d9da66d5b"
+        "objectID": "957e8fbde1dec33053c5b709d8db26ef"
       },
       "previous": {
         "content": "I tried to put on as unconcerned an air as possible, but I had not forgotten the warnings of the lady, even though I disregarded them, and I kept a keen eye upon my two companions. Ferguson appeared to be a morose and silent man, but I could see from the little that he said that he was at least a fellow-countryman.",
         "objectID": "b1e2c3e58b88d9fbc9717420f0922049"
       }
     },
-    "objectID": "493b40dfdea066385059ee99ee51068e",
+    "objectID": "a43c5a829242a9f31adbc8fb9ea22c71",
     "order": 144,
     "tagName": "P"
   },
@@ -3030,14 +3030,14 @@
     "context": {
       "next": {
         "content": "The machine goes readily enough, but there is some stiffness in the working of it, and it has lost a little of its force. Perhaps you will have the goodness to look it over and to show us how we can set it right.’",
-        "objectID": "6a3b4740384e616c30fd543b7b2d9c77"
+        "objectID": "122631403e7b6d3911dd8551b68f0be5"
       },
       "previous": {
         "content": "“Colonel Lysander Stark stopped at last before a low door, which he unlocked. Within was a small, square room, in which the three of us could hardly get at one time. Ferguson remained outside, and the colonel ushered me in.",
-        "objectID": "493b40dfdea066385059ee99ee51068e"
+        "objectID": "a43c5a829242a9f31adbc8fb9ea22c71"
       }
     },
-    "objectID": "15a1446389ce7faa36e5650d9da66d5b",
+    "objectID": "957e8fbde1dec33053c5b709d8db26ef",
     "order": 145,
     "tagName": "P"
   },
@@ -3051,14 +3051,14 @@
     "context": {
       "next": {
         "content": "“I took the lamp from him, and I examined the machine very thoroughly. It was indeed a gigantic one, and capable of exercising enormous pressure. When I passed outside, however, and pressed down the levers which controlled it, I knew at once by the whishing sound that there was a slight leakage, which allowed a regurgitation of water through one of the side cylinders.",
-        "objectID": "cc1d3780eeeca5925f358f4bc7d59834"
+        "objectID": "70f804f0424abaadaaa34e39ee828e94"
       },
       "previous": {
         "content": "“ ‘We are now,’ said he, ‘actually within the hydraulic press, and it would be a particularly unpleasant thing for us if anyone were to turn it on. The ceiling of this small chamber is really the end of the descending piston, and it comes down with the force of many tons upon this metal floor. There are small lateral columns of water outside which receive the force, and which transmit and multiply it in the manner which is familiar to you.",
-        "objectID": "15a1446389ce7faa36e5650d9da66d5b"
+        "objectID": "957e8fbde1dec33053c5b709d8db26ef"
       }
     },
-    "objectID": "6a3b4740384e616c30fd543b7b2d9c77",
+    "objectID": "122631403e7b6d3911dd8551b68f0be5",
     "order": 146,
     "tagName": "P"
   },
@@ -3076,10 +3076,10 @@
       },
       "previous": {
         "content": "The machine goes readily enough, but there is some stiffness in the working of it, and it has lost a little of its force. Perhaps you will have the goodness to look it over and to show us how we can set it right.’",
-        "objectID": "6a3b4740384e616c30fd543b7b2d9c77"
+        "objectID": "122631403e7b6d3911dd8551b68f0be5"
       }
     },
-    "objectID": "cc1d3780eeeca5925f358f4bc7d59834",
+    "objectID": "70f804f0424abaadaaa34e39ee828e94",
     "order": 147,
     "tagName": "P"
   },
@@ -3093,11 +3093,11 @@
     "context": {
       "next": {
         "content": "When I had made it clear to them, I returned to the main chamber of the machine and took a good look at it to satisfy my own curiosity. It was obvious at a glance that the story of the fuller’s-earth was the merest fabrication, for it would be absurd to suppose that so powerful an engine could be designed for so inadequate a purpose.",
-        "objectID": "a7f83e6d9966ea96ad1d389b78dd09f3"
+        "objectID": "72599f3168fd37ae2e28b2a7ab52609c"
       },
       "previous": {
         "content": "“I took the lamp from him, and I examined the machine very thoroughly. It was indeed a gigantic one, and capable of exercising enormous pressure. When I passed outside, however, and pressed down the levers which controlled it, I knew at once by the whishing sound that there was a slight leakage, which allowed a regurgitation of water through one of the side cylinders.",
-        "objectID": "cc1d3780eeeca5925f358f4bc7d59834"
+        "objectID": "70f804f0424abaadaaa34e39ee828e94"
       }
     },
     "objectID": "07ffddf064a9f7b76325dfe75886bdf0",
@@ -3121,7 +3121,7 @@
         "objectID": "07ffddf064a9f7b76325dfe75886bdf0"
       }
     },
-    "objectID": "a7f83e6d9966ea96ad1d389b78dd09f3",
+    "objectID": "72599f3168fd37ae2e28b2a7ab52609c",
     "order": 149,
     "tagName": "P"
   },
@@ -3135,11 +3135,11 @@
     "context": {
       "next": {
         "content": "“ ‘What are you doing there?’ he asked.",
-        "objectID": "ba3f43b9dd026c1a3e22f3be3f3eae6e"
+        "objectID": "9f5c7d1bc5478d8396c550d2e4cc83b1"
       },
       "previous": {
         "content": "When I had made it clear to them, I returned to the main chamber of the machine and took a good look at it to satisfy my own curiosity. It was obvious at a glance that the story of the fuller’s-earth was the merest fabrication, for it would be absurd to suppose that so powerful an engine could be designed for so inadequate a purpose.",
-        "objectID": "a7f83e6d9966ea96ad1d389b78dd09f3"
+        "objectID": "72599f3168fd37ae2e28b2a7ab52609c"
       }
     },
     "objectID": "2bb121b7eb3febd45b32a853d48dff9d",
@@ -3156,14 +3156,14 @@
     "context": {
       "next": {
         "content": "“I felt angry at having been tricked by so elaborate a story as that which he had told me. ‘I was admiring your fuller’s-earth,’ said I; ‘I think that I should be better able to advise you as to your machine if I knew what the exact purpose was for which it was used.’",
-        "objectID": "ec6abe9e0072c15e4f97e5d809ec29a2"
+        "objectID": "3d1a4a059f150a2a72ec2244bfbc3122"
       },
       "previous": {
         "content": "The walls were of wood, but the floor consisted of a large iron trough, and when I came to examine it I could see a crust of metallic deposit all over it. I had stooped and was scraping at this to see exactly what it was when I heard a muttered exclamation in German and saw the cadaverous face of the colonel looking down at me.",
         "objectID": "2bb121b7eb3febd45b32a853d48dff9d"
       }
     },
-    "objectID": "ba3f43b9dd026c1a3e22f3be3f3eae6e",
+    "objectID": "9f5c7d1bc5478d8396c550d2e4cc83b1",
     "order": 151,
     "tagName": "P"
   },
@@ -3177,14 +3177,14 @@
     "context": {
       "next": {
         "content": "“The instant that I uttered the words I regretted the rashness of my speech. His face set hard, and a baleful light sprang up in his grey eyes.",
-        "objectID": "d5b0064fee1db649bcfc0327b494c58c"
+        "objectID": "c959508d018277cfcca638daa6e10c10"
       },
       "previous": {
         "content": "“ ‘What are you doing there?’ he asked.",
-        "objectID": "ba3f43b9dd026c1a3e22f3be3f3eae6e"
+        "objectID": "9f5c7d1bc5478d8396c550d2e4cc83b1"
       }
     },
-    "objectID": "ec6abe9e0072c15e4f97e5d809ec29a2",
+    "objectID": "3d1a4a059f150a2a72ec2244bfbc3122",
     "order": 152,
     "tagName": "P"
   },
@@ -3198,14 +3198,14 @@
     "context": {
       "next": {
         "content": "“ ‘Very well,’ said he, ‘you shall know all about the machine.’ He took a step backward, slammed the little door, and turned the key in the lock. I rushed towards it and pulled at the handle, but it was quite secure, and did not give in the least to my kicks and shoves. ‘Hullo!’ I yelled. ‘Hullo! Co",
-        "objectID": "83e58ef7eda538dc0e7e2ca0cb56687a"
+        "objectID": "84012ac2971e4c5f818ac4bd6655f948"
       },
       "previous": {
         "content": "“I felt angry at having been tricked by so elaborate a story as that which he had told me. ‘I was admiring your fuller’s-earth,’ said I; ‘I think that I should be better able to advise you as to your machine if I knew what the exact purpose was for which it was used.’",
-        "objectID": "ec6abe9e0072c15e4f97e5d809ec29a2"
+        "objectID": "3d1a4a059f150a2a72ec2244bfbc3122"
       }
     },
-    "objectID": "d5b0064fee1db649bcfc0327b494c58c",
+    "objectID": "c959508d018277cfcca638daa6e10c10",
     "order": 153,
     "tagName": "P"
   },
@@ -3219,14 +3219,14 @@
     "context": {
       "next": {
         "content": "lonel! Let me out!’",
-        "objectID": "80a0ae5ca57d6db5642db3fc82833272"
+        "objectID": "b62d960dedfbf5480d651339ac44c6cf"
       },
       "previous": {
         "content": "“The instant that I uttered the words I regretted the rashness of my speech. His face set hard, and a baleful light sprang up in his grey eyes.",
-        "objectID": "d5b0064fee1db649bcfc0327b494c58c"
+        "objectID": "c959508d018277cfcca638daa6e10c10"
       }
     },
-    "objectID": "83e58ef7eda538dc0e7e2ca0cb56687a",
+    "objectID": "84012ac2971e4c5f818ac4bd6655f948",
     "order": 154,
     "tagName": "P"
   },
@@ -3240,14 +3240,14 @@
     "context": {
       "next": {
         "content": "“And then suddenly in the silence I heard a sound which sent my heart into my mouth. It was the clank of the levers and the swish of the leaking cylinder. He had set the engine at work. The lamp still stood upon the floor where I had placed it when examining the trough. By its light I saw that the black ceiling was coming down upon me, slowly, jerkily, but, as none knew better than myself, with a force which must within a minute grind me to a shapeless pulp.",
-        "objectID": "0e902e32411b85e59e32de8c6e30ec2b"
+        "objectID": "733a532d16cb55a886f068d39878f9dd"
       },
       "previous": {
         "content": "“ ‘Very well,’ said he, ‘you shall know all about the machine.’ He took a step backward, slammed the little door, and turned the key in the lock. I rushed towards it and pulled at the handle, but it was quite secure, and did not give in the least to my kicks and shoves. ‘Hullo!’ I yelled. ‘Hullo! Co",
-        "objectID": "83e58ef7eda538dc0e7e2ca0cb56687a"
+        "objectID": "84012ac2971e4c5f818ac4bd6655f948"
       }
     },
-    "objectID": "80a0ae5ca57d6db5642db3fc82833272",
+    "objectID": "b62d960dedfbf5480d651339ac44c6cf",
     "order": 155,
     "tagName": "P"
   },
@@ -3265,10 +3265,10 @@
       },
       "previous": {
         "content": "lonel! Let me out!’",
-        "objectID": "80a0ae5ca57d6db5642db3fc82833272"
+        "objectID": "b62d960dedfbf5480d651339ac44c6cf"
       }
     },
-    "objectID": "0e902e32411b85e59e32de8c6e30ec2b",
+    "objectID": "733a532d16cb55a886f068d39878f9dd",
     "order": 156,
     "tagName": "P"
   },
@@ -3286,7 +3286,7 @@
       },
       "previous": {
         "content": "“And then suddenly in the silence I heard a sound which sent my heart into my mouth. It was the clank of the levers and the swish of the leaking cylinder. He had set the engine at work. The lamp still stood upon the floor where I had placed it when examining the trough. By its light I saw that the black ceiling was coming down upon me, slowly, jerkily, but, as none knew better than myself, with a force which must within a minute grind me to a shapeless pulp.",
-        "objectID": "0e902e32411b85e59e32de8c6e30ec2b"
+        "objectID": "733a532d16cb55a886f068d39878f9dd"
       }
     },
     "objectID": "cf531d2b3488b83eecfbc70200786ddc",
@@ -3303,7 +3303,7 @@
     "context": {
       "next": {
         "content": "“I have said that though the floor and ceiling were of iron, the walls were of wood. As I gave a last hurried glance around, I saw a thin line of yellow light between two of the boards, which broadened and broadened as a small panel was pushed backward. For an instant I could hardly believe that here was indeed a door which led away from death.",
-        "objectID": "e67fc2e22cb3832fcf21dea69f22a059"
+        "objectID": "f8bd5e057a1f9272b8eac433d1d21936"
       },
       "previous": {
         "content": "I threw myself, screaming, against the door, and dragged with my nails at the lock. I implored the colonel to let me out, but the remorseless clanking of the levers drowned my cries. The ceiling was only a foot or two above my head, and with my hand upraised I could feel its hard, rough surface. Then it flashed through my mind that the pain of my death would depend very much upon the position in which I met it.",
@@ -3331,7 +3331,7 @@
         "objectID": "6d0d78948bc0d4f781ed673e0f0f6613"
       }
     },
-    "objectID": "e67fc2e22cb3832fcf21dea69f22a059",
+    "objectID": "f8bd5e057a1f9272b8eac433d1d21936",
     "order": 159,
     "tagName": "P"
   },
@@ -3345,11 +3345,11 @@
     "context": {
       "next": {
         "content": "“I was recalled to myself by a frantic plucking at my wrist, and I found myself lying upon the stone floor of a narrow corridor, while a woman bent over me and tugged at me with her left hand, while she held a candle in her right. It was the same good friend whose warning I had so foolishly rejected.",
-        "objectID": "d598f192e539010c159ac30ec9dea555"
+        "objectID": "47f92b7e84463643e894dc6a3bfe110c"
       },
       "previous": {
         "content": "“I have said that though the floor and ceiling were of iron, the walls were of wood. As I gave a last hurried glance around, I saw a thin line of yellow light between two of the boards, which broadened and broadened as a small panel was pushed backward. For an instant I could hardly believe that here was indeed a door which led away from death.",
-        "objectID": "e67fc2e22cb3832fcf21dea69f22a059"
+        "objectID": "f8bd5e057a1f9272b8eac433d1d21936"
       }
     },
     "objectID": "e80ad2f8b565aa36908da72b40dfb247",
@@ -3366,14 +3366,14 @@
     "context": {
       "next": {
         "content": "“ ‘Come! come!’ she cried breathlessly. ‘They will be here in a moment. They will see that you are not there. Oh, do not waste the so-precious time, but come!’",
-        "objectID": "ab5018436b5ae83378c5912c2cb09b86"
+        "objectID": "b535fdfdda55e67457d34c4c151b0ab7"
       },
       "previous": {
         "content": "The next instant I threw myself through, and lay half-fainting upon the other side. The panel had closed again behind me, but the crash of the lamp, and a few moments afterwards the clang of the two slabs of metal, told me how narrow had been my escape.",
         "objectID": "e80ad2f8b565aa36908da72b40dfb247"
       }
     },
-    "objectID": "d598f192e539010c159ac30ec9dea555",
+    "objectID": "47f92b7e84463643e894dc6a3bfe110c",
     "order": 161,
     "tagName": "P"
   },
@@ -3387,14 +3387,14 @@
     "context": {
       "next": {
         "content": "“This time, at least, I did not scorn her advice. I staggered to my feet and ran with her along the corridor and down a winding stair. The latter led to another broad passage, and just as we reached it we heard the sound of running feet and the shouting of two voices, one answering the other from the floor on which we were and from the one beneath.",
-        "objectID": "11b34cffa7e9a756c7e6c14bf34c5831"
+        "objectID": "bd6bf6d9d9d618fcbb85f8b085237fa2"
       },
       "previous": {
         "content": "“I was recalled to myself by a frantic plucking at my wrist, and I found myself lying upon the stone floor of a narrow corridor, while a woman bent over me and tugged at me with her left hand, while she held a candle in her right. It was the same good friend whose warning I had so foolishly rejected.",
-        "objectID": "d598f192e539010c159ac30ec9dea555"
+        "objectID": "47f92b7e84463643e894dc6a3bfe110c"
       }
     },
-    "objectID": "ab5018436b5ae83378c5912c2cb09b86",
+    "objectID": "b535fdfdda55e67457d34c4c151b0ab7",
     "order": 162,
     "tagName": "P"
   },
@@ -3408,14 +3408,14 @@
     "context": {
       "next": {
         "content": "My guide stopped and looked about her like one who is at her wit’s end. Then she threw open a door which led into a bedroom, through the window of which the moon was shining brightly.",
-        "objectID": "c347a2ebc2e4683eb42b8d8b44a4c4d1"
+        "objectID": "c44a0cd9aaaf86764990ec524e181928"
       },
       "previous": {
         "content": "“ ‘Come! come!’ she cried breathlessly. ‘They will be here in a moment. They will see that you are not there. Oh, do not waste the so-precious time, but come!’",
-        "objectID": "ab5018436b5ae83378c5912c2cb09b86"
+        "objectID": "b535fdfdda55e67457d34c4c151b0ab7"
       }
     },
-    "objectID": "11b34cffa7e9a756c7e6c14bf34c5831",
+    "objectID": "bd6bf6d9d9d618fcbb85f8b085237fa2",
     "order": 163,
     "tagName": "P"
   },
@@ -3429,14 +3429,14 @@
     "context": {
       "next": {
         "content": "“ ‘It is your only chance,’ said she. ‘It is high, but it may be that you can jump it.’",
-        "objectID": "80e6376ee05d3ffbf662f59be7e45ba6"
+        "objectID": "b9a5cdd58ec697272d3b946a0eee9112"
       },
       "previous": {
         "content": "“This time, at least, I did not scorn her advice. I staggered to my feet and ran with her along the corridor and down a winding stair. The latter led to another broad passage, and just as we reached it we heard the sound of running feet and the shouting of two voices, one answering the other from the floor on which we were and from the one beneath.",
-        "objectID": "11b34cffa7e9a756c7e6c14bf34c5831"
+        "objectID": "bd6bf6d9d9d618fcbb85f8b085237fa2"
       }
     },
-    "objectID": "c347a2ebc2e4683eb42b8d8b44a4c4d1",
+    "objectID": "c44a0cd9aaaf86764990ec524e181928",
     "order": 164,
     "tagName": "P"
   },
@@ -3450,14 +3450,14 @@
     "context": {
       "next": {
         "content": "“As she spoke a light sprang into view at the further end of the passage, and I saw the lean figure of Colonel Lysander Stark rushing forward with a lantern in one hand and a weapon like a butcher’s cleaver in the other. I rushed across the bedroom, flung open the window, and looked out. How quiet and sweet and wholesome the garden looked in the moonlight, and it could not be more than thirty feet down.",
-        "objectID": "7070afe2af8f47023d8ce1a022fe8edc"
+        "objectID": "2c61c3787e8cc1e1debfde17e7c6e06c"
       },
       "previous": {
         "content": "My guide stopped and looked about her like one who is at her wit’s end. Then she threw open a door which led into a bedroom, through the window of which the moon was shining brightly.",
-        "objectID": "c347a2ebc2e4683eb42b8d8b44a4c4d1"
+        "objectID": "c44a0cd9aaaf86764990ec524e181928"
       }
     },
-    "objectID": "80e6376ee05d3ffbf662f59be7e45ba6",
+    "objectID": "b9a5cdd58ec697272d3b946a0eee9112",
     "order": 165,
     "tagName": "P"
   },
@@ -3475,10 +3475,10 @@
       },
       "previous": {
         "content": "“ ‘It is your only chance,’ said she. ‘It is high, but it may be that you can jump it.’",
-        "objectID": "80e6376ee05d3ffbf662f59be7e45ba6"
+        "objectID": "b9a5cdd58ec697272d3b946a0eee9112"
       }
     },
-    "objectID": "7070afe2af8f47023d8ce1a022fe8edc",
+    "objectID": "2c61c3787e8cc1e1debfde17e7c6e06c",
     "order": 166,
     "tagName": "P"
   },
@@ -3492,11 +3492,11 @@
     "context": {
       "next": {
         "content": "“ ‘Fritz! Fritz!’ she cried in English, ‘remember your promise after the last time. You said it should not be again. He will be silent! Oh, he will be silent!’",
-        "objectID": "aeccc17c08cb8955a3630017f781a239"
+        "objectID": "298702e1d3eac54f425b164276135b8d"
       },
       "previous": {
         "content": "“As she spoke a light sprang into view at the further end of the passage, and I saw the lean figure of Colonel Lysander Stark rushing forward with a lantern in one hand and a weapon like a butcher’s cleaver in the other. I rushed across the bedroom, flung open the window, and looked out. How quiet and sweet and wholesome the garden looked in the moonlight, and it could not be more than thirty feet down.",
-        "objectID": "7070afe2af8f47023d8ce1a022fe8edc"
+        "objectID": "2c61c3787e8cc1e1debfde17e7c6e06c"
       }
     },
     "objectID": "d13ae86466806f1f9e410973c691f6ae",
@@ -3513,14 +3513,14 @@
     "context": {
       "next": {
         "content": "“ ‘You are mad, Elise!’ he shouted, struggling to break away from her. ‘You will be the ruin of us. He has seen too much. Let me pass, I say!’ He dashed her to one side, and, rushing to the window, cut at me with his heavy weapon. I had let myself go, and was hanging by the hands to the sill, when his blow fell.",
-        "objectID": "f9ce2dfdc4f0b1ee4a5c4b0ea1637508"
+        "objectID": "0cc79cb7dc2d1134e641e6a3327fc7df"
       },
       "previous": {
         "content": "I clambered out upon the sill, but I hesitated to jump until I should have heard what passed between my saviour and the ruffian who pursued me. If she were ill-used, then at any risks I was determined to go back to her assistance. The thought had hardly flashed through my mind before he was at the door, pushing his way past her; but she threw her arms round him and tried to hold him back.",
         "objectID": "d13ae86466806f1f9e410973c691f6ae"
       }
     },
-    "objectID": "aeccc17c08cb8955a3630017f781a239",
+    "objectID": "298702e1d3eac54f425b164276135b8d",
     "order": 168,
     "tagName": "P"
   },
@@ -3538,10 +3538,10 @@
       },
       "previous": {
         "content": "“ ‘Fritz! Fritz!’ she cried in English, ‘remember your promise after the last time. You said it should not be again. He will be silent! Oh, he will be silent!’",
-        "objectID": "aeccc17c08cb8955a3630017f781a239"
+        "objectID": "298702e1d3eac54f425b164276135b8d"
       }
     },
-    "objectID": "f9ce2dfdc4f0b1ee4a5c4b0ea1637508",
+    "objectID": "0cc79cb7dc2d1134e641e6a3327fc7df",
     "order": 169,
     "tagName": "P"
   },
@@ -3555,11 +3555,11 @@
     "context": {
       "next": {
         "content": "“I was shaken but not hurt by the fall; so I picked myself up and rushed off among the bushes as hard as I could run, for I understood that I was far from being out of danger yet. Suddenly, however, as I ran, a deadly dizziness and sickness came over me. I glanced down at my hand, which was throbbing painfully, and then, for the first time, saw that my thumb had been cut off and that the blood was pouring from my wound.",
-        "objectID": "c714f2ea89c3c6dc0517267058db376d"
+        "objectID": "94d4bac23c9377f562962c1e239e2834"
       },
       "previous": {
         "content": "“ ‘You are mad, Elise!’ he shouted, struggling to break away from her. ‘You will be the ruin of us. He has seen too much. Let me pass, I say!’ He dashed her to one side, and, rushing to the window, cut at me with his heavy weapon. I had let myself go, and was hanging by the hands to the sill, when his blow fell.",
-        "objectID": "f9ce2dfdc4f0b1ee4a5c4b0ea1637508"
+        "objectID": "0cc79cb7dc2d1134e641e6a3327fc7df"
       }
     },
     "objectID": "2c3e10db0efdcfa88c61ce2698ca1d98",
@@ -3583,7 +3583,7 @@
         "objectID": "2c3e10db0efdcfa88c61ce2698ca1d98"
       }
     },
-    "objectID": "c714f2ea89c3c6dc0517267058db376d",
+    "objectID": "94d4bac23c9377f562962c1e239e2834",
     "order": 171,
     "tagName": "P"
   },
@@ -3597,11 +3597,11 @@
     "context": {
       "next": {
         "content": "“How long I remained unconscious I cannot tell. It must have been a very long time, for the moon had sunk, and a bright morning was breaking when I came to myself. My clothes were all sodden with dew, and my coat-sleeve was drenched with blood from my wounded thumb. The smarting of it recalled in an instant all the particulars of my night’s adventure, and I sprang to my feet with the feeling that I might hardly yet be safe from my pursuers.",
-        "objectID": "69fb5390a97e7d4ecc6837498f8b4797"
+        "objectID": "4ec6545402d6c852134a935401b136ff"
       },
       "previous": {
         "content": "“I was shaken but not hurt by the fall; so I picked myself up and rushed off among the bushes as hard as I could run, for I understood that I was far from being out of danger yet. Suddenly, however, as I ran, a deadly dizziness and sickness came over me. I glanced down at my hand, which was throbbing painfully, and then, for the first time, saw that my thumb had been cut off and that the blood was pouring from my wound.",
-        "objectID": "c714f2ea89c3c6dc0517267058db376d"
+        "objectID": "94d4bac23c9377f562962c1e239e2834"
       }
     },
     "objectID": "e2e1d73fc6cc5cd64512172c1355f8fb",
@@ -3625,7 +3625,7 @@
         "objectID": "e2e1d73fc6cc5cd64512172c1355f8fb"
       }
     },
-    "objectID": "69fb5390a97e7d4ecc6837498f8b4797",
+    "objectID": "4ec6545402d6c852134a935401b136ff",
     "order": 173,
     "tagName": "P"
   },
@@ -3643,7 +3643,7 @@
       },
       "previous": {
         "content": "“How long I remained unconscious I cannot tell. It must have been a very long time, for the moon had sunk, and a bright morning was breaking when I came to myself. My clothes were all sodden with dew, and my coat-sleeve was drenched with blood from my wounded thumb. The smarting of it recalled in an instant all the particulars of my night’s adventure, and I sprang to my feet with the feeling that I might hardly yet be safe from my pursuers.",
-        "objectID": "69fb5390a97e7d4ecc6837498f8b4797"
+        "objectID": "4ec6545402d6c852134a935401b136ff"
       }
     },
     "objectID": "31becce548aac2dcf494d7c51229e349",
@@ -3660,7 +3660,7 @@
     "context": {
       "next": {
         "content": "“Half dazed, I went into the station and asked about the morning train. There would be one to Reading in less than an hour. The same porter was on duty, I found, as had been there when I arrived. I inquired of him whether he had ever heard of Colonel Lysander Stark. The name was strange to him. Had he observed a carriage the night before waiting for me? No, he had not.",
-        "objectID": "7540723d22214ada3c9f17ff289e5708"
+        "objectID": "9c7664fd558f054597dbe4d7f5c28ccc"
       },
       "previous": {
         "content": "But to my astonishment, when I came to look round me, neither house nor garden were to be seen. I had been lying in an angle of the hedge close by the highroad, and just a little lower down was a long building, which proved, upon my approaching it, to be the very station at which I had arrived upon the previous night.",
@@ -3688,7 +3688,7 @@
         "objectID": "a2533c6c6e16f7dcaf32bca07f501bd6"
       }
     },
-    "objectID": "7540723d22214ada3c9f17ff289e5708",
+    "objectID": "9c7664fd558f054597dbe4d7f5c28ccc",
     "order": 176,
     "tagName": "P"
   },
@@ -3702,11 +3702,11 @@
     "context": {
       "next": {
         "content": "“It was too far for me to go, weak and ill as I was. I determined to wait until I got back to town before telling my story to the police. It was a little past six when I arrived, so I went first to have my wound dressed, and then the doctor was kind enough to bring me along here. I put the case into your hands and shall do exactly what you advise.",
-        "objectID": "2ddedb3b588bd1e40828542d89b269fe"
+        "objectID": "b2247d7fbd9f4e4389fca3aa06c96196"
       },
       "previous": {
         "content": "“Half dazed, I went into the station and asked about the morning train. There would be one to Reading in less than an hour. The same porter was on duty, I found, as had been there when I arrived. I inquired of him whether he had ever heard of Colonel Lysander Stark. The name was strange to him. Had he observed a carriage the night before waiting for me? No, he had not.",
-        "objectID": "7540723d22214ada3c9f17ff289e5708"
+        "objectID": "9c7664fd558f054597dbe4d7f5c28ccc"
       }
     },
     "objectID": "f0c7da9649dec8f7b834b69d148e9dd2",
@@ -3723,14 +3723,14 @@
     "context": {
       "next": {
         "content": "”",
-        "objectID": "48e7cda6e95bd15fab52d665d4eb1d11"
+        "objectID": "0926302c91fb4c80379a8d2b940e7844"
       },
       "previous": {
         "content": "Was there a police-station anywhere near? There was one about three miles off.",
         "objectID": "f0c7da9649dec8f7b834b69d148e9dd2"
       }
     },
-    "objectID": "2ddedb3b588bd1e40828542d89b269fe",
+    "objectID": "b2247d7fbd9f4e4389fca3aa06c96196",
     "order": 178,
     "tagName": "P"
   },
@@ -3748,10 +3748,10 @@
       },
       "previous": {
         "content": "“It was too far for me to go, weak and ill as I was. I determined to wait until I got back to town before telling my story to the police. It was a little past six when I arrived, so I went first to have my wound dressed, and then the doctor was kind enough to bring me along here. I put the case into your hands and shall do exactly what you advise.",
-        "objectID": "2ddedb3b588bd1e40828542d89b269fe"
+        "objectID": "b2247d7fbd9f4e4389fca3aa06c96196"
       }
     },
-    "objectID": "48e7cda6e95bd15fab52d665d4eb1d11",
+    "objectID": "0926302c91fb4c80379a8d2b940e7844",
     "order": 179,
     "tagName": "P"
   },
@@ -3765,11 +3765,11 @@
     "context": {
       "next": {
         "content": "“Here is an advertisement which will interest you,” said he. “It appeared in all the papers about a year ago. Listen to this: ‘Lost, on the 9th inst., Mr. Jeremiah Hayling, aged twenty-six, a hydraulic engineer. Left his lodgings at ten o’clock at night, and has not been heard of since. Was dressed in,’ etc.",
-        "objectID": "fa4562dd90f56be895653bc1aba1f54f"
+        "objectID": "699e21e8b2dfc9c29026787ac04aec28"
       },
       "previous": {
         "content": "”",
-        "objectID": "48e7cda6e95bd15fab52d665d4eb1d11"
+        "objectID": "0926302c91fb4c80379a8d2b940e7844"
       }
     },
     "objectID": "fad7fc6f94954563660257910d528ef9",
@@ -3786,14 +3786,14 @@
     "context": {
       "next": {
         "content": ", etc. Ha! That represents the last time that the colonel needed to have his machine overhauled, I fancy.”",
-        "objectID": "3e5a97832870d299767cac7086099eff"
+        "objectID": "614d9a3986f7c2b74577b4bca15da57b"
       },
       "previous": {
         "content": "We both sat in silence for some little time after listening to this extraordinary narrative. Then Sherlock Holmes pulled down from the shelf one of the ponderous commonplace books in which he placed his cuttings.",
         "objectID": "fad7fc6f94954563660257910d528ef9"
       }
     },
-    "objectID": "fa4562dd90f56be895653bc1aba1f54f",
+    "objectID": "699e21e8b2dfc9c29026787ac04aec28",
     "order": 181,
     "tagName": "P"
   },
@@ -3807,14 +3807,14 @@
     "context": {
       "next": {
         "content": "“Good heavens!” cried my patient. “Then that explains what the girl said.”",
-        "objectID": "84f0a76001f167c1ec21e63ca8a0ce08"
+        "objectID": "d080a7a361574beac634488aafaa1703"
       },
       "previous": {
         "content": "“Here is an advertisement which will interest you,” said he. “It appeared in all the papers about a year ago. Listen to this: ‘Lost, on the 9th inst., Mr. Jeremiah Hayling, aged twenty-six, a hydraulic engineer. Left his lodgings at ten o’clock at night, and has not been heard of since. Was dressed in,’ etc.",
-        "objectID": "fa4562dd90f56be895653bc1aba1f54f"
+        "objectID": "699e21e8b2dfc9c29026787ac04aec28"
       }
     },
-    "objectID": "3e5a97832870d299767cac7086099eff",
+    "objectID": "614d9a3986f7c2b74577b4bca15da57b",
     "order": 182,
     "tagName": "P"
   },
@@ -3828,14 +3828,14 @@
     "context": {
       "next": {
         "content": "“Undoubtedly. It is quite clear that the colonel was a cool and desperate man, who was absolutely determined that nothing should stand in the way of his little game, like those out-and-out pirates who will leave no survivor from a captured ship. Well, every moment now is precious, so if you feel equal to it we shall go down to Scotland Yard at once as a preliminary to starting for Eyford.",
-        "objectID": "b9fc3d463cdc417038f901e32f565b4f"
+        "objectID": "d98dc1d8cf1dae51d66b12714557f777"
       },
       "previous": {
         "content": ", etc. Ha! That represents the last time that the colonel needed to have his machine overhauled, I fancy.”",
-        "objectID": "3e5a97832870d299767cac7086099eff"
+        "objectID": "614d9a3986f7c2b74577b4bca15da57b"
       }
     },
-    "objectID": "84f0a76001f167c1ec21e63ca8a0ce08",
+    "objectID": "d080a7a361574beac634488aafaa1703",
     "order": 183,
     "tagName": "P"
   },
@@ -3849,14 +3849,14 @@
     "context": {
       "next": {
         "content": "”",
-        "objectID": "992e6748646e418196c49d1089551dad"
+        "objectID": "0d7fb08614bb6f9a9ca4a4f090d63b37"
       },
       "previous": {
         "content": "“Good heavens!” cried my patient. “Then that explains what the girl said.”",
-        "objectID": "84f0a76001f167c1ec21e63ca8a0ce08"
+        "objectID": "d080a7a361574beac634488aafaa1703"
       }
     },
-    "objectID": "b9fc3d463cdc417038f901e32f565b4f",
+    "objectID": "d98dc1d8cf1dae51d66b12714557f777",
     "order": 184,
     "tagName": "P"
   },
@@ -3874,10 +3874,10 @@
       },
       "previous": {
         "content": "“Undoubtedly. It is quite clear that the colonel was a cool and desperate man, who was absolutely determined that nothing should stand in the way of his little game, like those out-and-out pirates who will leave no survivor from a captured ship. Well, every moment now is precious, so if you feel equal to it we shall go down to Scotland Yard at once as a preliminary to starting for Eyford.",
-        "objectID": "b9fc3d463cdc417038f901e32f565b4f"
+        "objectID": "d98dc1d8cf1dae51d66b12714557f777"
       }
     },
-    "objectID": "992e6748646e418196c49d1089551dad",
+    "objectID": "0d7fb08614bb6f9a9ca4a4f090d63b37",
     "order": 185,
     "tagName": "P"
   },
@@ -3891,11 +3891,11 @@
     "context": {
       "next": {
         "content": "“There you are,” said he. “That circle is drawn at a radius of ten miles from the village. The place we want must be somewhere near that line. You said ten miles, I think, sir.”",
-        "objectID": "b8e735491311b832729fa73ed90f0714"
+        "objectID": "448d75ee713c2af6badefd4e3fe247dc"
       },
       "previous": {
         "content": "”",
-        "objectID": "992e6748646e418196c49d1089551dad"
+        "objectID": "0d7fb08614bb6f9a9ca4a4f090d63b37"
       }
     },
     "objectID": "d2f45b47c666f344421582f3158b0b06",
@@ -3912,14 +3912,14 @@
     "context": {
       "next": {
         "content": "“It was an hour’s good drive.”",
-        "objectID": "9b74a016efdd5ca29c18969bd7aada27"
+        "objectID": "ef2c7f65c7fa925e87f8a4f1f91c30f7"
       },
       "previous": {
         "content": "Some three hours or so afterwards we were all in the train together, bound from Reading to the little Berkshire village. There were Sherlock Holmes, the hydraulic engineer, Inspector Bradstreet, of Scotland Yard, a plain-clothes man, and myself. Bradstreet had spread an ordnance map of the county out upon the seat and was busy with his compasses drawing a circle with Eyford for its centre.",
         "objectID": "d2f45b47c666f344421582f3158b0b06"
       }
     },
-    "objectID": "b8e735491311b832729fa73ed90f0714",
+    "objectID": "448d75ee713c2af6badefd4e3fe247dc",
     "order": 187,
     "tagName": "P"
   },
@@ -3933,14 +3933,14 @@
     "context": {
       "next": {
         "content": "“And you think that they brought you back all that way when you were unconscious?”",
-        "objectID": "485f8e69b20748b1fee7e0218e4b59a8"
+        "objectID": "c112a6c281aca29b07d59b5da84554cc"
       },
       "previous": {
         "content": "“There you are,” said he. “That circle is drawn at a radius of ten miles from the village. The place we want must be somewhere near that line. You said ten miles, I think, sir.”",
-        "objectID": "b8e735491311b832729fa73ed90f0714"
+        "objectID": "448d75ee713c2af6badefd4e3fe247dc"
       }
     },
-    "objectID": "9b74a016efdd5ca29c18969bd7aada27",
+    "objectID": "ef2c7f65c7fa925e87f8a4f1f91c30f7",
     "order": 188,
     "tagName": "P"
   },
@@ -3954,14 +3954,14 @@
     "context": {
       "next": {
         "content": "“They must have done so. I have a confused memory, too, of having been lifted and conveyed somewhere.”",
-        "objectID": "89b9dcec6b5b6cdd628f1aad81b5cc42"
+        "objectID": "850d96691855b28eeab8182324206eba"
       },
       "previous": {
         "content": "“It was an hour’s good drive.”",
-        "objectID": "9b74a016efdd5ca29c18969bd7aada27"
+        "objectID": "ef2c7f65c7fa925e87f8a4f1f91c30f7"
       }
     },
-    "objectID": "485f8e69b20748b1fee7e0218e4b59a8",
+    "objectID": "c112a6c281aca29b07d59b5da84554cc",
     "order": 189,
     "tagName": "P"
   },
@@ -3975,14 +3975,14 @@
     "context": {
       "next": {
         "content": "“What I cannot understand,” said I, “is why they should have spared you when they found you lying fainting in the garden. Perhaps the villain was softened by the woman’s entreaties.”",
-        "objectID": "c575e6c38f32570af5385914fc53e082"
+        "objectID": "501849b6a44112434b8aac81af8670cb"
       },
       "previous": {
         "content": "“And you think that they brought you back all that way when you were unconscious?”",
-        "objectID": "485f8e69b20748b1fee7e0218e4b59a8"
+        "objectID": "c112a6c281aca29b07d59b5da84554cc"
       }
     },
-    "objectID": "89b9dcec6b5b6cdd628f1aad81b5cc42",
+    "objectID": "850d96691855b28eeab8182324206eba",
     "order": 190,
     "tagName": "P"
   },
@@ -3996,14 +3996,14 @@
     "context": {
       "next": {
         "content": "“I hardly think that likely. I never saw a more inexorable face in my life.”",
-        "objectID": "aecad73ee88d99a031c8ae723a10a46a"
+        "objectID": "185006b20d5dbcf9eb4ab93b32b7e301"
       },
       "previous": {
         "content": "“They must have done so. I have a confused memory, too, of having been lifted and conveyed somewhere.”",
-        "objectID": "89b9dcec6b5b6cdd628f1aad81b5cc42"
+        "objectID": "850d96691855b28eeab8182324206eba"
       }
     },
-    "objectID": "c575e6c38f32570af5385914fc53e082",
+    "objectID": "501849b6a44112434b8aac81af8670cb",
     "order": 191,
     "tagName": "P"
   },
@@ -4017,14 +4017,14 @@
     "context": {
       "next": {
         "content": "“Oh, we shall soon clear up all that,” said Bradstreet. “Well, I have drawn my circle, and I only wish I knew at what point upon it the folk that we are in search of are to be found.”",
-        "objectID": "7149c9473d39711b83578cd69c038cb6"
+        "objectID": "7c09c0d5ce45dbbab38c62708b243250"
       },
       "previous": {
         "content": "“What I cannot understand,” said I, “is why they should have spared you when they found you lying fainting in the garden. Perhaps the villain was softened by the woman’s entreaties.”",
-        "objectID": "c575e6c38f32570af5385914fc53e082"
+        "objectID": "501849b6a44112434b8aac81af8670cb"
       }
     },
-    "objectID": "aecad73ee88d99a031c8ae723a10a46a",
+    "objectID": "185006b20d5dbcf9eb4ab93b32b7e301",
     "order": 192,
     "tagName": "P"
   },
@@ -4038,14 +4038,14 @@
     "context": {
       "next": {
         "content": "“I think I could lay my finger on it,” said Holmes quietly.",
-        "objectID": "bb7f2f021a7277cca047f7f416f04336"
+        "objectID": "3a59f526a4f83b954a91435508feff11"
       },
       "previous": {
         "content": "“I hardly think that likely. I never saw a more inexorable face in my life.”",
-        "objectID": "aecad73ee88d99a031c8ae723a10a46a"
+        "objectID": "185006b20d5dbcf9eb4ab93b32b7e301"
       }
     },
-    "objectID": "7149c9473d39711b83578cd69c038cb6",
+    "objectID": "7c09c0d5ce45dbbab38c62708b243250",
     "order": 193,
     "tagName": "P"
   },
@@ -4059,14 +4059,14 @@
     "context": {
       "next": {
         "content": "“Really, now!” cried the inspector, “you have formed your opinion! Come, now, we shall see who agrees with you. I say it is south, for the country is more deserted there.”",
-        "objectID": "358ceb470ae39a4fe42a13adbdcec92e"
+        "objectID": "fbd58a2bec105ad68e69277d3db85b0c"
       },
       "previous": {
         "content": "“Oh, we shall soon clear up all that,” said Bradstreet. “Well, I have drawn my circle, and I only wish I knew at what point upon it the folk that we are in search of are to be found.”",
-        "objectID": "7149c9473d39711b83578cd69c038cb6"
+        "objectID": "7c09c0d5ce45dbbab38c62708b243250"
       }
     },
-    "objectID": "bb7f2f021a7277cca047f7f416f04336",
+    "objectID": "3a59f526a4f83b954a91435508feff11",
     "order": 194,
     "tagName": "P"
   },
@@ -4080,14 +4080,14 @@
     "context": {
       "next": {
         "content": "“And I say east,” said my patient.",
-        "objectID": "777b3c97afec32661bab06deb27c9a5f"
+        "objectID": "b982671ccae3fbce99d010f84a94ff49"
       },
       "previous": {
         "content": "“I think I could lay my finger on it,” said Holmes quietly.",
-        "objectID": "bb7f2f021a7277cca047f7f416f04336"
+        "objectID": "3a59f526a4f83b954a91435508feff11"
       }
     },
-    "objectID": "358ceb470ae39a4fe42a13adbdcec92e",
+    "objectID": "fbd58a2bec105ad68e69277d3db85b0c",
     "order": 195,
     "tagName": "P"
   },
@@ -4101,14 +4101,14 @@
     "context": {
       "next": {
         "content": "“I am for west,” remarked the plain-clothes man. “There are several quiet little villages up there.”",
-        "objectID": "103f5d578d59a9f0b569946eb28aa349"
+        "objectID": "08c104d1c7a928973cf5f9b12dd3ea22"
       },
       "previous": {
         "content": "“Really, now!” cried the inspector, “you have formed your opinion! Come, now, we shall see who agrees with you. I say it is south, for the country is more deserted there.”",
-        "objectID": "358ceb470ae39a4fe42a13adbdcec92e"
+        "objectID": "fbd58a2bec105ad68e69277d3db85b0c"
       }
     },
-    "objectID": "777b3c97afec32661bab06deb27c9a5f",
+    "objectID": "b982671ccae3fbce99d010f84a94ff49",
     "order": 196,
     "tagName": "P"
   },
@@ -4122,14 +4122,14 @@
     "context": {
       "next": {
         "content": "“And I am for north,” said I, “because there are no hills there, and our friend says that he did not notice the carriage go up any.”",
-        "objectID": "0fa15ea311b34dfbabd261dd5705bffa"
+        "objectID": "f9c989d95b2ea62a4320b5ce4f3e0e27"
       },
       "previous": {
         "content": "“And I say east,” said my patient.",
-        "objectID": "777b3c97afec32661bab06deb27c9a5f"
+        "objectID": "b982671ccae3fbce99d010f84a94ff49"
       }
     },
-    "objectID": "103f5d578d59a9f0b569946eb28aa349",
+    "objectID": "08c104d1c7a928973cf5f9b12dd3ea22",
     "order": 197,
     "tagName": "P"
   },
@@ -4143,14 +4143,14 @@
     "context": {
       "next": {
         "content": "“Come,” cried the inspector, laughing; “it’s a very pretty diversity of opinion. We have boxed the compass among us. Who do you give your casting vote to?”",
-        "objectID": "9c7cb1c2cdcbd0a41cef8d7906df3b9c"
+        "objectID": "f05a6f2d6deb5c708d2dfbee597ca211"
       },
       "previous": {
         "content": "“I am for west,” remarked the plain-clothes man. “There are several quiet little villages up there.”",
-        "objectID": "103f5d578d59a9f0b569946eb28aa349"
+        "objectID": "08c104d1c7a928973cf5f9b12dd3ea22"
       }
     },
-    "objectID": "0fa15ea311b34dfbabd261dd5705bffa",
+    "objectID": "f9c989d95b2ea62a4320b5ce4f3e0e27",
     "order": 198,
     "tagName": "P"
   },
@@ -4164,14 +4164,14 @@
     "context": {
       "next": {
         "content": "“You are all wrong.”",
-        "objectID": "c330891a7d7478a4a137cfac4e2972e8"
+        "objectID": "7ca0ec8e2ee8e3fdb7cb1b514a210f01"
       },
       "previous": {
         "content": "“And I am for north,” said I, “because there are no hills there, and our friend says that he did not notice the carriage go up any.”",
-        "objectID": "0fa15ea311b34dfbabd261dd5705bffa"
+        "objectID": "f9c989d95b2ea62a4320b5ce4f3e0e27"
       }
     },
-    "objectID": "9c7cb1c2cdcbd0a41cef8d7906df3b9c",
+    "objectID": "f05a6f2d6deb5c708d2dfbee597ca211",
     "order": 199,
     "tagName": "P"
   },
@@ -4185,14 +4185,14 @@
     "context": {
       "next": {
         "content": "“But we can’t all be.”",
-        "objectID": "d5dea9088591f44c13a4b461ddb8ca9c"
+        "objectID": "180b376b9523ec2f2636571c06a006d2"
       },
       "previous": {
         "content": "“Come,” cried the inspector, laughing; “it’s a very pretty diversity of opinion. We have boxed the compass among us. Who do you give your casting vote to?”",
-        "objectID": "9c7cb1c2cdcbd0a41cef8d7906df3b9c"
+        "objectID": "f05a6f2d6deb5c708d2dfbee597ca211"
       }
     },
-    "objectID": "c330891a7d7478a4a137cfac4e2972e8",
+    "objectID": "7ca0ec8e2ee8e3fdb7cb1b514a210f01",
     "order": 200,
     "tagName": "P"
   },
@@ -4206,14 +4206,14 @@
     "context": {
       "next": {
         "content": "“Oh, yes, you can. This is my point.” He placed his finger in the centre of the circle. “This is where we shall find them.”",
-        "objectID": "3390e7b1f64788f7ee619ca6ef6529c0"
+        "objectID": "80d8ec9d17143d1e23f5c90452524745"
       },
       "previous": {
         "content": "“You are all wrong.”",
-        "objectID": "c330891a7d7478a4a137cfac4e2972e8"
+        "objectID": "7ca0ec8e2ee8e3fdb7cb1b514a210f01"
       }
     },
-    "objectID": "d5dea9088591f44c13a4b461ddb8ca9c",
+    "objectID": "180b376b9523ec2f2636571c06a006d2",
     "order": 201,
     "tagName": "P"
   },
@@ -4227,14 +4227,14 @@
     "context": {
       "next": {
         "content": "“But the twelve-mile drive?” gasped Hatherley.",
-        "objectID": "9c6becb60fd33f45a0a45578c60cf2aa"
+        "objectID": "95717015149e1a2dbc3bed6270a8b968"
       },
       "previous": {
         "content": "“But we can’t all be.”",
-        "objectID": "d5dea9088591f44c13a4b461ddb8ca9c"
+        "objectID": "180b376b9523ec2f2636571c06a006d2"
       }
     },
-    "objectID": "3390e7b1f64788f7ee619ca6ef6529c0",
+    "objectID": "80d8ec9d17143d1e23f5c90452524745",
     "order": 202,
     "tagName": "P"
   },
@@ -4248,14 +4248,14 @@
     "context": {
       "next": {
         "content": "“Six out and six back. Nothing simpler. You say yourself that the horse was fresh and glossy when you got in. How could it be that if it had gone twelve miles over heavy roads?”",
-        "objectID": "436953ccbd7c4410239ec717140c804e"
+        "objectID": "b79fff4e996ae433f3865009738f4823"
       },
       "previous": {
         "content": "“Oh, yes, you can. This is my point.” He placed his finger in the centre of the circle. “This is where we shall find them.”",
-        "objectID": "3390e7b1f64788f7ee619ca6ef6529c0"
+        "objectID": "80d8ec9d17143d1e23f5c90452524745"
       }
     },
-    "objectID": "9c6becb60fd33f45a0a45578c60cf2aa",
+    "objectID": "95717015149e1a2dbc3bed6270a8b968",
     "order": 203,
     "tagName": "P"
   },
@@ -4269,14 +4269,14 @@
     "context": {
       "next": {
         "content": "“Indeed, it is a likely ruse enough,” observed Bradstreet thoughtfully. “Of course there can be no doubt as to the nature of this gang.”",
-        "objectID": "4764be45778b524f1ea2e8e274314c65"
+        "objectID": "32cca509f07c26b09c591e6e35c4f914"
       },
       "previous": {
         "content": "“But the twelve-mile drive?” gasped Hatherley.",
-        "objectID": "9c6becb60fd33f45a0a45578c60cf2aa"
+        "objectID": "95717015149e1a2dbc3bed6270a8b968"
       }
     },
-    "objectID": "436953ccbd7c4410239ec717140c804e",
+    "objectID": "b79fff4e996ae433f3865009738f4823",
     "order": 204,
     "tagName": "P"
   },
@@ -4290,14 +4290,14 @@
     "context": {
       "next": {
         "content": "“None at all,” said Holmes. “They are coiners on a large scale, and have used the machine to form the amalgam which has taken the place of silver.”",
-        "objectID": "36eb8c7690c8710fcbc27dcff2bf7723"
+        "objectID": "63aa289fa379aacb1ac715f6c886263e"
       },
       "previous": {
         "content": "“Six out and six back. Nothing simpler. You say yourself that the horse was fresh and glossy when you got in. How could it be that if it had gone twelve miles over heavy roads?”",
-        "objectID": "436953ccbd7c4410239ec717140c804e"
+        "objectID": "b79fff4e996ae433f3865009738f4823"
       }
     },
-    "objectID": "4764be45778b524f1ea2e8e274314c65",
+    "objectID": "32cca509f07c26b09c591e6e35c4f914",
     "order": 205,
     "tagName": "P"
   },
@@ -4311,14 +4311,14 @@
     "context": {
       "next": {
         "content": "“We have known for some time that a clever gang was at work,” said the inspector. “They have been turning out half-crowns by the thousand. We even traced them as far as Reading, but could get no farther, for they had covered their traces in a way that showed that they were very old hands. But now, thanks to this lucky chance, I think that we have got them right enough.",
-        "objectID": "dc171786e0b1aa8ff3b8ad8e863c50fa"
+        "objectID": "3546db0d3030eeae113febb0a2026830"
       },
       "previous": {
         "content": "“Indeed, it is a likely ruse enough,” observed Bradstreet thoughtfully. “Of course there can be no doubt as to the nature of this gang.”",
-        "objectID": "4764be45778b524f1ea2e8e274314c65"
+        "objectID": "32cca509f07c26b09c591e6e35c4f914"
       }
     },
-    "objectID": "36eb8c7690c8710fcbc27dcff2bf7723",
+    "objectID": "63aa289fa379aacb1ac715f6c886263e",
     "order": 206,
     "tagName": "P"
   },
@@ -4332,14 +4332,14 @@
     "context": {
       "next": {
         "content": "”",
-        "objectID": "d8ff9f5bcc1f13f921e55d8c6a6c912a"
+        "objectID": "8a2ce7af8bca19c53d1c3d584d63dda4"
       },
       "previous": {
         "content": "“None at all,” said Holmes. “They are coiners on a large scale, and have used the machine to form the amalgam which has taken the place of silver.”",
-        "objectID": "36eb8c7690c8710fcbc27dcff2bf7723"
+        "objectID": "63aa289fa379aacb1ac715f6c886263e"
       }
     },
-    "objectID": "dc171786e0b1aa8ff3b8ad8e863c50fa",
+    "objectID": "3546db0d3030eeae113febb0a2026830",
     "order": 207,
     "tagName": "P"
   },
@@ -4357,10 +4357,10 @@
       },
       "previous": {
         "content": "“We have known for some time that a clever gang was at work,” said the inspector. “They have been turning out half-crowns by the thousand. We even traced them as far as Reading, but could get no farther, for they had covered their traces in a way that showed that they were very old hands. But now, thanks to this lucky chance, I think that we have got them right enough.",
-        "objectID": "dc171786e0b1aa8ff3b8ad8e863c50fa"
+        "objectID": "3546db0d3030eeae113febb0a2026830"
       }
     },
-    "objectID": "d8ff9f5bcc1f13f921e55d8c6a6c912a",
+    "objectID": "8a2ce7af8bca19c53d1c3d584d63dda4",
     "order": 208,
     "tagName": "P"
   },
@@ -4374,11 +4374,11 @@
     "context": {
       "next": {
         "content": "“A house on fire?” asked Bradstreet as the train steamed off again on its way.",
-        "objectID": "eab2b0c1d49be7c6a1e4b4d6af17f0f4"
+        "objectID": "d45f98724b70a6e2de86f61d9b9b52ff"
       },
       "previous": {
         "content": "”",
-        "objectID": "d8ff9f5bcc1f13f921e55d8c6a6c912a"
+        "objectID": "8a2ce7af8bca19c53d1c3d584d63dda4"
       }
     },
     "objectID": "b8c6cb9ef6a92c92f4f15e98da69e0ac",
@@ -4395,14 +4395,14 @@
     "context": {
       "next": {
         "content": "“Yes, sir!” said the station-master.",
-        "objectID": "3ad4f7ccc1324b1d245eaa632dd98640"
+        "objectID": "636ab89f584859b58ccd9b373dc32f12"
       },
       "previous": {
         "content": "But the inspector was mistaken, for those criminals were not destined to fall into the hands of justice. As we rolled into Eyford Station we saw a gigantic column of smoke which streamed up from behind a small clump of trees in the neighbourhood and hung like an immense ostrich feather over the landscape.",
         "objectID": "b8c6cb9ef6a92c92f4f15e98da69e0ac"
       }
     },
-    "objectID": "eab2b0c1d49be7c6a1e4b4d6af17f0f4",
+    "objectID": "d45f98724b70a6e2de86f61d9b9b52ff",
     "order": 210,
     "tagName": "P"
   },
@@ -4416,14 +4416,14 @@
     "context": {
       "next": {
         "content": "“When did it break out?”",
-        "objectID": "cc68b857d9e35800627d81e12d198e69"
+        "objectID": "d44ae7f297ef9a8a35bbe688ad7b08c5"
       },
       "previous": {
         "content": "“A house on fire?” asked Bradstreet as the train steamed off again on its way.",
-        "objectID": "eab2b0c1d49be7c6a1e4b4d6af17f0f4"
+        "objectID": "d45f98724b70a6e2de86f61d9b9b52ff"
       }
     },
-    "objectID": "3ad4f7ccc1324b1d245eaa632dd98640",
+    "objectID": "636ab89f584859b58ccd9b373dc32f12",
     "order": 211,
     "tagName": "P"
   },
@@ -4437,14 +4437,14 @@
     "context": {
       "next": {
         "content": "“I hear that it was during the night, sir, but it has got worse, and the whole place is in a blaze.”",
-        "objectID": "de9c629fcbed0f6b648437e499843d6b"
+        "objectID": "e8c7067f306c98fe3aa8356e921aa047"
       },
       "previous": {
         "content": "“Yes, sir!” said the station-master.",
-        "objectID": "3ad4f7ccc1324b1d245eaa632dd98640"
+        "objectID": "636ab89f584859b58ccd9b373dc32f12"
       }
     },
-    "objectID": "cc68b857d9e35800627d81e12d198e69",
+    "objectID": "d44ae7f297ef9a8a35bbe688ad7b08c5",
     "order": 212,
     "tagName": "P"
   },
@@ -4458,14 +4458,14 @@
     "context": {
       "next": {
         "content": "“Whose house is it?”",
-        "objectID": "5330abb83ada2705421c528874e7e59d"
+        "objectID": "fcc12e405619a2d4acb16377faafbdc7"
       },
       "previous": {
         "content": "“When did it break out?”",
-        "objectID": "cc68b857d9e35800627d81e12d198e69"
+        "objectID": "d44ae7f297ef9a8a35bbe688ad7b08c5"
       }
     },
-    "objectID": "de9c629fcbed0f6b648437e499843d6b",
+    "objectID": "e8c7067f306c98fe3aa8356e921aa047",
     "order": 213,
     "tagName": "P"
   },
@@ -4479,14 +4479,14 @@
     "context": {
       "next": {
         "content": "“Dr. Becher’s.”",
-        "objectID": "79a6cdbd080b6e20b059ee5601a10a91"
+        "objectID": "afb14392f271eaf53e8198a892365e90"
       },
       "previous": {
         "content": "“I hear that it was during the night, sir, but it has got worse, and the whole place is in a blaze.”",
-        "objectID": "de9c629fcbed0f6b648437e499843d6b"
+        "objectID": "e8c7067f306c98fe3aa8356e921aa047"
       }
     },
-    "objectID": "5330abb83ada2705421c528874e7e59d",
+    "objectID": "fcc12e405619a2d4acb16377faafbdc7",
     "order": 214,
     "tagName": "P"
   },
@@ -4500,14 +4500,14 @@
     "context": {
       "next": {
         "content": "“Tell me,” broke in the engineer, “is Dr. Becher a German, very thin, with a long, sharp nose?”",
-        "objectID": "f27932547ad9227a7fd9070b3a524d0d"
+        "objectID": "8bea71f95ae92a86a29564dc9e781ead"
       },
       "previous": {
         "content": "“Whose house is it?”",
-        "objectID": "5330abb83ada2705421c528874e7e59d"
+        "objectID": "fcc12e405619a2d4acb16377faafbdc7"
       }
     },
-    "objectID": "79a6cdbd080b6e20b059ee5601a10a91",
+    "objectID": "afb14392f271eaf53e8198a892365e90",
     "order": 215,
     "tagName": "P"
   },
@@ -4521,14 +4521,14 @@
     "context": {
       "next": {
         "content": "The station-master laughed heartily. “No, sir, Dr. Becher is an Englishman, and there isn’t a man in the parish who has a better-lined waistcoat. But he has a gentleman staying with him, a patient, as I understand, who is a foreigner, and he looks as if a little good Berkshire beef would do him no harm.",
-        "objectID": "2742a890c2fdb64166dcfec064636b7e"
+        "objectID": "9c3b350c6f82566b17cd3eeb7a30ae7b"
       },
       "previous": {
         "content": "“Dr. Becher’s.”",
-        "objectID": "79a6cdbd080b6e20b059ee5601a10a91"
+        "objectID": "afb14392f271eaf53e8198a892365e90"
       }
     },
-    "objectID": "f27932547ad9227a7fd9070b3a524d0d",
+    "objectID": "8bea71f95ae92a86a29564dc9e781ead",
     "order": 216,
     "tagName": "P"
   },
@@ -4542,14 +4542,14 @@
     "context": {
       "next": {
         "content": "”",
-        "objectID": "29fcf3db4bc5846452e6648e35e93beb"
+        "objectID": "5f9a6664352fb067103e852627544b0b"
       },
       "previous": {
         "content": "“Tell me,” broke in the engineer, “is Dr. Becher a German, very thin, with a long, sharp nose?”",
-        "objectID": "f27932547ad9227a7fd9070b3a524d0d"
+        "objectID": "8bea71f95ae92a86a29564dc9e781ead"
       }
     },
-    "objectID": "2742a890c2fdb64166dcfec064636b7e",
+    "objectID": "9c3b350c6f82566b17cd3eeb7a30ae7b",
     "order": 217,
     "tagName": "P"
   },
@@ -4567,10 +4567,10 @@
       },
       "previous": {
         "content": "The station-master laughed heartily. “No, sir, Dr. Becher is an Englishman, and there isn’t a man in the parish who has a better-lined waistcoat. But he has a gentleman staying with him, a patient, as I understand, who is a foreigner, and he looks as if a little good Berkshire beef would do him no harm.",
-        "objectID": "2742a890c2fdb64166dcfec064636b7e"
+        "objectID": "9c3b350c6f82566b17cd3eeb7a30ae7b"
       }
     },
-    "objectID": "29fcf3db4bc5846452e6648e35e93beb",
+    "objectID": "5f9a6664352fb067103e852627544b0b",
     "order": 218,
     "tagName": "P"
   },
@@ -4584,11 +4584,11 @@
     "context": {
       "next": {
         "content": "“That’s it!” cried Hatherley, in intense excitement. “There is the gravel-drive, and there are the rose-bushes where I lay. That second window is the one that I jumped from.”",
-        "objectID": "77fa10e606a1e32976e6a56f68935240"
+        "objectID": "998debeeff66964095b3a36b497c7e01"
       },
       "previous": {
         "content": "”",
-        "objectID": "29fcf3db4bc5846452e6648e35e93beb"
+        "objectID": "5f9a6664352fb067103e852627544b0b"
       }
     },
     "objectID": "059d706db5b29913e89dccf53a05299b",
@@ -4605,14 +4605,14 @@
     "context": {
       "next": {
         "content": "“Well, at least,” said Holmes, “you have had your revenge upon them. There can be no question that it was your oil-lamp which, when it was crushed in the press, set fire to the wooden walls, though no doubt they were too excited in the chase after you to observe it at the time. Now keep your eyes open in this crowd for your friends of last night, though I very much fear that they are a good hundred miles off by now.",
-        "objectID": "1a00f027d92fddb7a54be186dda6c7d6"
+        "objectID": "3993c3dfcd9ca5f101c0b3e7d0dea87e"
       },
       "previous": {
         "content": "The station-master had not finished his speech before we were all hastening in the direction of the fire. The road topped a low hill, and there was a great widespread whitewashed building in front of us, spouting fire at every chink and window, while in the garden in front three fire-engines were vainly striving to keep the flames under.",
         "objectID": "059d706db5b29913e89dccf53a05299b"
       }
     },
-    "objectID": "77fa10e606a1e32976e6a56f68935240",
+    "objectID": "998debeeff66964095b3a36b497c7e01",
     "order": 220,
     "tagName": "P"
   },
@@ -4626,14 +4626,14 @@
     "context": {
       "next": {
         "content": "”",
-        "objectID": "4da4dd7354755947cabce62e2f41a1bf"
+        "objectID": "c6c8689d03941ac7a4f5a677fa94fe30"
       },
       "previous": {
         "content": "“That’s it!” cried Hatherley, in intense excitement. “There is the gravel-drive, and there are the rose-bushes where I lay. That second window is the one that I jumped from.”",
-        "objectID": "77fa10e606a1e32976e6a56f68935240"
+        "objectID": "998debeeff66964095b3a36b497c7e01"
       }
     },
-    "objectID": "1a00f027d92fddb7a54be186dda6c7d6",
+    "objectID": "3993c3dfcd9ca5f101c0b3e7d0dea87e",
     "order": 221,
     "tagName": "P"
   },
@@ -4647,14 +4647,14 @@
     "context": {
       "next": {
         "content": "And Holmes’ fears came to be realised, for from that day to this no word has ever been heard either of the beautiful woman, the sinister German, or the morose Englishman. Early that morning a peasant had met a cart containing several people and some very bulky boxes driving rapidly in the direction of Reading, but there all traces of the fugitives disappeared, and even Holmes’ ingenuity failed ever to discover the least clue as to their whereabouts.",
-        "objectID": "5d4983033e7462543c556cfab1befe8e"
+        "objectID": "5e854d2e336f7577a6e080b0212bb325"
       },
       "previous": {
         "content": "“Well, at least,” said Holmes, “you have had your revenge upon them. There can be no question that it was your oil-lamp which, when it was crushed in the press, set fire to the wooden walls, though no doubt they were too excited in the chase after you to observe it at the time. Now keep your eyes open in this crowd for your friends of last night, though I very much fear that they are a good hundred miles off by now.",
-        "objectID": "1a00f027d92fddb7a54be186dda6c7d6"
+        "objectID": "3993c3dfcd9ca5f101c0b3e7d0dea87e"
       }
     },
-    "objectID": "4da4dd7354755947cabce62e2f41a1bf",
+    "objectID": "c6c8689d03941ac7a4f5a677fa94fe30",
     "order": 222,
     "tagName": "P"
   },
@@ -4672,10 +4672,10 @@
       },
       "previous": {
         "content": "”",
-        "objectID": "4da4dd7354755947cabce62e2f41a1bf"
+        "objectID": "c6c8689d03941ac7a4f5a677fa94fe30"
       }
     },
-    "objectID": "5d4983033e7462543c556cfab1befe8e",
+    "objectID": "5e854d2e336f7577a6e080b0212bb325",
     "order": 223,
     "tagName": "P"
   },
@@ -4693,7 +4693,7 @@
       },
       "previous": {
         "content": "And Holmes’ fears came to be realised, for from that day to this no word has ever been heard either of the beautiful woman, the sinister German, or the morose Englishman. Early that morning a peasant had met a cart containing several people and some very bulky boxes driving rapidly in the direction of Reading, but there all traces of the fugitives disappeared, and even Holmes’ ingenuity failed ever to discover the least clue as to their whereabouts.",
-        "objectID": "5d4983033e7462543c556cfab1befe8e"
+        "objectID": "5e854d2e336f7577a6e080b0212bb325"
       }
     },
     "objectID": "362f046e1585bb8106fb2752c38bdd9f",
@@ -4752,7 +4752,7 @@
     "context": {
       "next": {
         "content": "“Well,” said our engineer ruefully as we took our seats to return once more to London, “it has been a pretty business for me! I have lost my thumb and I have lost a fifty-guinea fee, and what have I gained?”",
-        "objectID": "22daee48663f6852e0b543f55ee374d7"
+        "objectID": "bdb3bb7b189f88bb844e65f261053d88"
       },
       "previous": {
         "content": "How our hydraulic engineer had been conveyed from the garden to the spot where he recovered his senses might have remained forever a mystery were it not for the soft mould, which told us a very plain tale. He had evidently been carried down by two persons, one of whom had remarkably small feet and the other unusually large ones.",
@@ -4773,14 +4773,14 @@
     "context": {
       "next": {
         "content": "“Experience,” said Holmes, laughing. “Indirectly it may be of value, you know; you have only to put it into words to gain the reputation of being excellent company for the remainder of your existence.”",
-        "objectID": "fc0ba755510ef63833c4cd052b122c78"
+        "objectID": "ca44b8dd3a981214a5e83f50a821a8e3"
       },
       "previous": {
         "content": "On the whole, it was most probable that the silent Englishman, being less bold or less murderous than his companion, had assisted the woman to bear the unconscious man out of the way of danger.",
         "objectID": "b46585513be8f4d5fd150acefe814685"
       }
     },
-    "objectID": "22daee48663f6852e0b543f55ee374d7",
+    "objectID": "bdb3bb7b189f88bb844e65f261053d88",
     "order": 228,
     "tagName": "P"
   },
@@ -4795,10 +4795,10 @@
       "next": null,
       "previous": {
         "content": "“Well,” said our engineer ruefully as we took our seats to return once more to London, “it has been a pretty business for me! I have lost my thumb and I have lost a fifty-guinea fee, and what have I gained?”",
-        "objectID": "22daee48663f6852e0b543f55ee374d7"
+        "objectID": "bdb3bb7b189f88bb844e65f261053d88"
       }
     },
-    "objectID": "fc0ba755510ef63833c4cd052b122c78",
+    "objectID": "ca44b8dd3a981214a5e83f50a821a8e3",
     "order": 229,
     "tagName": "P"
   }

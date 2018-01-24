@@ -132,7 +132,7 @@
     "context": {
       "next": {
         "content": "\"I was going down to Birlstone this morning,\" said he. \"I had come to ask you if you cared to come with me—you and your friend here. But from what you say we might perhaps be doing better work in London.\"",
-        "objectID": "fcb64443227b931794054753de699a06"
+        "objectID": "96be53d7c56aee4a1b26614a60b4e7e0"
       },
       "previous": {
         "content": "\"",
@@ -160,7 +160,7 @@
         "objectID": "eaced5c14f137a077eaf5716789249c2"
       }
     },
-    "objectID": "fcb64443227b931794054753de699a06",
+    "objectID": "96be53d7c56aee4a1b26614a60b4e7e0",
     "order": 8,
     "tagName": "P"
   },
@@ -178,7 +178,7 @@
       },
       "previous": {
         "content": "\"I was going down to Birlstone this morning,\" said he. \"I had come to ask you if you cared to come with me—you and your friend here. But from what you say we might perhaps be doing better work in London.\"",
-        "objectID": "fcb64443227b931794054753de699a06"
+        "objectID": "96be53d7c56aee4a1b26614a60b4e7e0"
       }
     },
     "objectID": "e48c83271bb2bae9c9974622c0291031",
@@ -216,7 +216,7 @@
     "context": {
       "next": {
         "content": "MacDonald turned over the letter which Holmes had handed him. \"Posted in Camberwell—that doesn't help us much. Name, you say, is assumed. Not much to go on, certainly. Didn't you say that you have sent him money?\"",
-        "objectID": "36c205a9b00f8a88caab45572bf4f352"
+        "objectID": "7b49fe52f950c114c8aa693557fe2ef4"
       },
       "previous": {
         "content": "\"Hang it all, Mr. Holmes!\" cried the inspector. \"The papers will be full of the Birlstone mystery in a day or two; but where's the mystery if there is a man in London who prophesied the crime before ever it occurred? We have only to lay our hands on that man, and the rest will follow.\"",
@@ -244,7 +244,7 @@
         "objectID": "71e8cccb84ede1d28d1228c215f96b66"
       }
     },
-    "objectID": "36c205a9b00f8a88caab45572bf4f352",
+    "objectID": "7b49fe52f950c114c8aa693557fe2ef4",
     "order": 12,
     "tagName": "P"
   },
@@ -262,7 +262,7 @@
       },
       "previous": {
         "content": "MacDonald turned over the letter which Holmes had handed him. \"Posted in Camberwell—that doesn't help us much. Name, you say, is assumed. Not much to go on, certainly. Didn't you say that you have sent him money?\"",
-        "objectID": "36c205a9b00f8a88caab45572bf4f352"
+        "objectID": "7b49fe52f950c114c8aa693557fe2ef4"
       }
     },
     "objectID": "f1c121a0118804ac05984437acf3649d",
@@ -636,7 +636,7 @@
     "context": {
       "next": {
         "content": "\"Very fine—very handsome indeed, Mr. Holmes.\"",
-        "objectID": "6303a84d61b91d5b5154caf654ebeb23"
+        "objectID": "0f06b38eccd5003decbacf9df082b366"
       },
       "previous": {
         "content": "\"That's so.\"",
@@ -664,7 +664,7 @@
         "objectID": "222833e4e74a84025ddc0967e647f76b"
       }
     },
-    "objectID": "6303a84d61b91d5b5154caf654ebeb23",
+    "objectID": "0f06b38eccd5003decbacf9df082b366",
     "order": 32,
     "tagName": "P"
   },
@@ -682,7 +682,7 @@
       },
       "previous": {
         "content": "\"Very fine—very handsome indeed, Mr. Holmes.\"",
-        "objectID": "6303a84d61b91d5b5154caf654ebeb23"
+        "objectID": "0f06b38eccd5003decbacf9df082b366"
       }
     },
     "objectID": "939175945525f0878fcb1933f0b29f26",
@@ -762,7 +762,7 @@
     "context": {
       "next": {
         "content": "\"I don't miss much, Mr. Holmes. Maybe I learned that from you. Yes, I saw the picture—a young woman with her head on her hands, peeping at you sideways.\"",
-        "objectID": "e48b818edc9bbf3228d2f7e20e0ebaea"
+        "objectID": "21f7d3a0fee48a21b16f3162a01bd982"
       },
       "previous": {
         "content": "\"Well, it was evening; but I mind that the lamp was turned on my face.\"",
@@ -790,7 +790,7 @@
         "objectID": "76f837b1eb2f4e1473a2e6e936fe3df5"
       }
     },
-    "objectID": "e48b818edc9bbf3228d2f7e20e0ebaea",
+    "objectID": "21f7d3a0fee48a21b16f3162a01bd982",
     "order": 38,
     "tagName": "P"
   },
@@ -808,7 +808,7 @@
       },
       "previous": {
         "content": "\"I don't miss much, Mr. Holmes. Maybe I learned that from you. Yes, I saw the picture—a young woman with her head on her hands, peeping at you sideways.\"",
-        "objectID": "e48b818edc9bbf3228d2f7e20e0ebaea"
+        "objectID": "21f7d3a0fee48a21b16f3162a01bd982"
       }
     },
     "objectID": "5fbd4d7c4c3f727a8daa1ac04a5084f2",
@@ -867,7 +867,7 @@
     "context": {
       "next": {
         "content": "The inspector's eyes grew abstracted. \"Hadn't we better—\" he said.",
-        "objectID": "dc86477b29a033b3fc59e825bbd3fc03"
+        "objectID": "a0708e17a165d3570b69789cd08359cf"
       },
       "previous": {
         "content": "\"Jean Baptiste Greuze,\" Holmes continued, joining his finger tips and leaning well back in his chair, \"was a French artist who flourished between the years 1750 and 1800. I allude, of course to his working career. Modern criticism has more than indorsed the high opinion formed of him by his contemporaries.",
@@ -895,7 +895,7 @@
         "objectID": "895c264dd2cc90d1f5ddf49e674a4d9e"
       }
     },
-    "objectID": "dc86477b29a033b3fc59e825bbd3fc03",
+    "objectID": "a0708e17a165d3570b69789cd08359cf",
     "order": 43,
     "tagName": "P"
   },
@@ -913,7 +913,7 @@
       },
       "previous": {
         "content": "The inspector's eyes grew abstracted. \"Hadn't we better—\" he said.",
-        "objectID": "dc86477b29a033b3fc59e825bbd3fc03"
+        "objectID": "a0708e17a165d3570b69789cd08359cf"
       }
     },
     "objectID": "92fe199c12ed9c497058bd4da4e18c3e",
@@ -930,7 +930,7 @@
     "context": {
       "next": {
         "content": "\"All knowledge comes useful to the detective,\" remarked Holmes. \"Even the trivial fact that in the year 1865 a picture by Greuze entitled La Jeune Fille a l'Agneau fetched one million two hundred thousand francs—more than forty thousand pounds—at the Portalis sale may start a train of reflection in your mind.",
-        "objectID": "b281ecf019faf6d7f8cb3ca90b447af6"
+        "objectID": "d95499532e069bdd84385ec333daa099"
       },
       "previous": {
         "content": "\"We are doing so,\" Holmes interrupted. \"All that I am saying has a very direct and vital bearing upon what you have called the Birlstone Mystery. In fact, it may in a sense be called the very centre of it.\"",
@@ -958,7 +958,7 @@
         "objectID": "aec14640a0c307108abf2e15c2040fc2"
       }
     },
-    "objectID": "b281ecf019faf6d7f8cb3ca90b447af6",
+    "objectID": "d95499532e069bdd84385ec333daa099",
     "order": 46,
     "tagName": "P"
   },
@@ -976,7 +976,7 @@
       },
       "previous": {
         "content": "\"All knowledge comes useful to the detective,\" remarked Holmes. \"Even the trivial fact that in the year 1865 a picture by Greuze entitled La Jeune Fille a l'Agneau fetched one million two hundred thousand francs—more than forty thousand pounds—at the Portalis sale may start a train of reflection in your mind.",
-        "objectID": "b281ecf019faf6d7f8cb3ca90b447af6"
+        "objectID": "d95499532e069bdd84385ec333daa099"
       }
     },
     "objectID": "f7e6cea13f54a63f1cdb53fd7b5d2ba8",
@@ -1014,7 +1014,7 @@
     "context": {
       "next": {
         "content": "\"Then how could he buy—\"",
-        "objectID": "aa564989239b9e80edca3d739e5b8d1a"
+        "objectID": "ba484b2a8deb360649743fbb4971783e"
       },
       "previous": {
         "content": "It was clear that it did. The inspector looked honestly interested.",
@@ -1042,7 +1042,7 @@
         "objectID": "620dc0d72a59d3d88c88b31d64909a8e"
       }
     },
-    "objectID": "aa564989239b9e80edca3d739e5b8d1a",
+    "objectID": "ba484b2a8deb360649743fbb4971783e",
     "order": 50,
     "tagName": "P"
   },
@@ -1060,7 +1060,7 @@
       },
       "previous": {
         "content": "\"Then how could he buy—\"",
-        "objectID": "aa564989239b9e80edca3d739e5b8d1a"
+        "objectID": "ba484b2a8deb360649743fbb4971783e"
       }
     },
     "objectID": "8c0dcdfcac395300437af319289adcea",
@@ -1077,7 +1077,7 @@
     "context": {
       "next": {
         "content": "Holmes smiled. He was always warmed by genuine admiration—the characteristic of the real artist. \"What about Birlstone?\" he asked.",
-        "objectID": "42aa0dd30f80c8a5fead640b7e7caa9f"
+        "objectID": "bf0bcae3f1afe4e5df60947ca47a95b0"
       },
       "previous": {
         "content": "\"Quite so! How could he?\"",
@@ -1105,7 +1105,7 @@
         "objectID": "a84490e56b67f980575d2ef00d5549b8"
       }
     },
-    "objectID": "42aa0dd30f80c8a5fead640b7e7caa9f",
+    "objectID": "bf0bcae3f1afe4e5df60947ca47a95b0",
     "order": 53,
     "tagName": "P"
   },
@@ -1123,7 +1123,7 @@
       },
       "previous": {
         "content": "Holmes smiled. He was always warmed by genuine admiration—the characteristic of the real artist. \"What about Birlstone?\" he asked.",
-        "objectID": "42aa0dd30f80c8a5fead640b7e7caa9f"
+        "objectID": "bf0bcae3f1afe4e5df60947ca47a95b0"
       }
     },
     "objectID": "bad75bf532128178de84f835e15e3a1a",
@@ -1161,7 +1161,7 @@
     "context": {
       "next": {
         "content": "\"Ah, that's another matter. I have been three times in his rooms, twice waiting for him under different pretexts and leaving before he came. Once—well, I can hardly tell about the once to an official detective. It was on the last occasion that I took the liberty of running over his papers—with the most unexpected results.",
-        "objectID": "ef5ceac2ca5d83a392278ca869b608c8"
+        "objectID": "46b77674ef8a6ffaefc6c4d910103cfe"
       },
       "previous": {
         "content": "\"No, I never have.\"",
@@ -1189,7 +1189,7 @@
         "objectID": "e86ed3fe82ae3c055e9d519d78ce2234"
       }
     },
-    "objectID": "ef5ceac2ca5d83a392278ca869b608c8",
+    "objectID": "46b77674ef8a6ffaefc6c4d910103cfe",
     "order": 57,
     "tagName": "P"
   },
@@ -1207,7 +1207,7 @@
       },
       "previous": {
         "content": "\"Ah, that's another matter. I have been three times in his rooms, twice waiting for him under different pretexts and leaving before he came. Once—well, I can hardly tell about the once to an official detective. It was on the last occasion that I took the liberty of running over his papers—with the most unexpected results.",
-        "objectID": "ef5ceac2ca5d83a392278ca869b608c8"
+        "objectID": "46b77674ef8a6ffaefc6c4d910103cfe"
       }
     },
     "objectID": "eb86b68d70efb93af5423dfeeb6f1ee3",
@@ -1329,7 +1329,7 @@
     "context": {
       "next": {
         "content": "\"Exactly. Of course I have other reasons for thinking so—dozens of exiguous threads which lead vaguely up towards the centre of the web where the poisonous, motionless creature is lurking. I only mention the Greuze because it brings the matter within the range of your own observation.\"",
-        "objectID": "1fe65d9180b61dec190a00f5a283c2c3"
+        "objectID": "29ae5c1a017e9d5784d9229ef82801b5"
       },
       "previous": {
         "content": "\"Surely the inference is plain.\"",
@@ -1350,14 +1350,14 @@
     "context": {
       "next": {
         "content": "\"Well, Mr. Holmes, I admit that what you say is interesting: it's more than interesting—it's just wonderful. But let us have it a little clearer if you can. Is it forgery, coining, burglary—where does the money come from?\"",
-        "objectID": "91493414ef0b941a100dcce3c33326dd"
+        "objectID": "d45aeace6fbd89a00aa31ede0f328fba"
       },
       "previous": {
         "content": "\"You mean that he has a great income and that he must earn it in an illegal fashion?\"",
         "objectID": "217f016eb72b24da1ee19ae6a9caee88"
       }
     },
-    "objectID": "1fe65d9180b61dec190a00f5a283c2c3",
+    "objectID": "29ae5c1a017e9d5784d9229ef82801b5",
     "order": 65,
     "tagName": "P"
   },
@@ -1375,10 +1375,10 @@
       },
       "previous": {
         "content": "\"Exactly. Of course I have other reasons for thinking so—dozens of exiguous threads which lead vaguely up towards the centre of the web where the poisonous, motionless creature is lurking. I only mention the Greuze because it brings the matter within the range of your own observation.\"",
-        "objectID": "1fe65d9180b61dec190a00f5a283c2c3"
+        "objectID": "29ae5c1a017e9d5784d9229ef82801b5"
       }
     },
-    "objectID": "91493414ef0b941a100dcce3c33326dd",
+    "objectID": "d45aeace6fbd89a00aa31ede0f328fba",
     "order": 66,
     "tagName": "P"
   },
@@ -1392,11 +1392,11 @@
     "context": {
       "next": {
         "content": "\"Well, the name has a familiar sound. Someone in a novel, was he not? I don't take much stock of detectives in novels—chaps that do things and never let you see how they do them. That's just inspiration: not business.\"",
-        "objectID": "c7c9ed7d7a025495d1911751cd3e4ef0"
+        "objectID": "c3a509ce2dcc9f8456ed95d0f67db9d4"
       },
       "previous": {
         "content": "\"Well, Mr. Holmes, I admit that what you say is interesting: it's more than interesting—it's just wonderful. But let us have it a little clearer if you can. Is it forgery, coining, burglary—where does the money come from?\"",
-        "objectID": "91493414ef0b941a100dcce3c33326dd"
+        "objectID": "d45aeace6fbd89a00aa31ede0f328fba"
       }
     },
     "objectID": "c377edd34dff8fd53f228e2e8e9a26d9",
@@ -1413,14 +1413,14 @@
     "context": {
       "next": {
         "content": "\"Jonathan Wild wasn't a detective, and he wasn't in a novel. He was a master criminal, and he lived last century—1750 or thereabouts.\"",
-        "objectID": "729c72feeee676655b836f1765e14f93"
+        "objectID": "c6187deabb834c2c04465d5cb62cdb4a"
       },
       "previous": {
         "content": "\"Have you ever read of Jonathan Wild?\"",
         "objectID": "c377edd34dff8fd53f228e2e8e9a26d9"
       }
     },
-    "objectID": "c7c9ed7d7a025495d1911751cd3e4ef0",
+    "objectID": "c3a509ce2dcc9f8456ed95d0f67db9d4",
     "order": 68,
     "tagName": "P"
   },
@@ -1438,10 +1438,10 @@
       },
       "previous": {
         "content": "\"Well, the name has a familiar sound. Someone in a novel, was he not? I don't take much stock of detectives in novels—chaps that do things and never let you see how they do them. That's just inspiration: not business.\"",
-        "objectID": "c7c9ed7d7a025495d1911751cd3e4ef0"
+        "objectID": "c3a509ce2dcc9f8456ed95d0f67db9d4"
       }
     },
-    "objectID": "729c72feeee676655b836f1765e14f93",
+    "objectID": "c6187deabb834c2c04465d5cb62cdb4a",
     "order": 69,
     "tagName": "P"
   },
@@ -1455,11 +1455,11 @@
     "context": {
       "next": {
         "content": "\"Mr. Mac, the most practical thing that you ever did in your life would be to shut yourself up for three months and read twelve hours a day at the annals of crime. Everything comes in circles—even Professor Moriarty. Jonathan Wild was the hidden force of the London criminals, to whom he sold his brains and his organization on a fifteen per cent.",
-        "objectID": "87b1d797c2a2b4149e8666abcf689e2d"
+        "objectID": "1f94cbd15b6ba988369dc21b9e03d6c1"
       },
       "previous": {
         "content": "\"Jonathan Wild wasn't a detective, and he wasn't in a novel. He was a master criminal, and he lived last century—1750 or thereabouts.\"",
-        "objectID": "729c72feeee676655b836f1765e14f93"
+        "objectID": "c6187deabb834c2c04465d5cb62cdb4a"
       }
     },
     "objectID": "938e7f1a98f8aecba680a2698c66f0b0",
@@ -1483,7 +1483,7 @@
         "objectID": "938e7f1a98f8aecba680a2698c66f0b0"
       }
     },
-    "objectID": "87b1d797c2a2b4149e8666abcf689e2d",
+    "objectID": "1f94cbd15b6ba988369dc21b9e03d6c1",
     "order": 71,
     "tagName": "P"
   },
@@ -1501,7 +1501,7 @@
       },
       "previous": {
         "content": "\"Mr. Mac, the most practical thing that you ever did in your life would be to shut yourself up for three months and read twelve hours a day at the annals of crime. Everything comes in circles—even Professor Moriarty. Jonathan Wild was the hidden force of the London criminals, to whom he sold his brains and his organization on a fifteen per cent.",
-        "objectID": "87b1d797c2a2b4149e8666abcf689e2d"
+        "objectID": "1f94cbd15b6ba988369dc21b9e03d6c1"
       }
     },
     "objectID": "209927b1a5933fc926aa2b5b1386309d",
@@ -1518,7 +1518,7 @@
     "context": {
       "next": {
         "content": "\"I happen to know who is the first link in his chain—a chain with this Napoleon-gone-wrong at one end, and a hundred broken fighting men, pickpockets, blackmailers, and card sharpers at the other, with every sort of crime in between. His chief of staff is Colonel Sebastian Moran, as aloof and guarded and inaccessible to the law as himself.",
-        "objectID": "108b4407556e5275d9cbd28aabbb26ff"
+        "objectID": "64b7927dae5748bb29f7788aea452e72"
       },
       "previous": {
         "content": "commission. The old wheel turns, and the same spoke comes up. It's all been done before, and will be again. I'll tell you one or two things about Moriarty which may interest you.\"",
@@ -1546,7 +1546,7 @@
         "objectID": "14f0474507957fc5244625cc94ca1bfd"
       }
     },
-    "objectID": "108b4407556e5275d9cbd28aabbb26ff",
+    "objectID": "64b7927dae5748bb29f7788aea452e72",
     "order": 74,
     "tagName": "P"
   },
@@ -1564,7 +1564,7 @@
       },
       "previous": {
         "content": "\"I happen to know who is the first link in his chain—a chain with this Napoleon-gone-wrong at one end, and a hundred broken fighting men, pickpockets, blackmailers, and card sharpers at the other, with every sort of crime in between. His chief of staff is Colonel Sebastian Moran, as aloof and guarded and inaccessible to the law as himself.",
-        "objectID": "108b4407556e5275d9cbd28aabbb26ff"
+        "objectID": "64b7927dae5748bb29f7788aea452e72"
       }
     },
     "objectID": "769258b626c827bc23b87c0d6346b7ef",
@@ -1581,7 +1581,7 @@
     "context": {
       "next": {
         "content": "\"Six thousand a year. That's paying for brains, you see—the American business principle. I learned that detail quite by chance. It's more than the Prime Minister gets. That gives you an idea of Moriarty's gains and of the scale on which he works. Another point: I made it my business to hunt down some of Moriarty's checks lately—just common innocent checks that he pays his household bills with.",
-        "objectID": "bb3e7df3fa7bc93d9ed6732358fe69b2"
+        "objectID": "f4e49c21f637a23ac894bb786dff8b3b"
       },
       "previous": {
         "content": "What do you think he pays him?\"",
@@ -1609,7 +1609,7 @@
         "objectID": "87314a7deb775cda802b9a8ef89b722e"
       }
     },
-    "objectID": "bb3e7df3fa7bc93d9ed6732358fe69b2",
+    "objectID": "f4e49c21f637a23ac894bb786dff8b3b",
     "order": 77,
     "tagName": "P"
   },
@@ -1627,7 +1627,7 @@
       },
       "previous": {
         "content": "\"Six thousand a year. That's paying for brains, you see—the American business principle. I learned that detail quite by chance. It's more than the Prime Minister gets. That gives you an idea of Moriarty's gains and of the scale on which he works. Another point: I made it my business to hunt down some of Moriarty's checks lately—just common innocent checks that he pays his household bills with.",
-        "objectID": "bb3e7df3fa7bc93d9ed6732358fe69b2"
+        "objectID": "f4e49c21f637a23ac894bb786dff8b3b"
       }
     },
     "objectID": "2fc467fb67308e105a1004c0ad7393ea",
@@ -1770,7 +1770,7 @@
     "context": {
       "next": {
         "content": "His discipline is tremendous. There is only one punishment in his code. It is death. Now we might suppose that this murdered man—this Douglas whose approaching fate was known by one of the arch-criminal's subordinates—had in some way betrayed the chief. His punishment followed, and would be known to all—if only to put the fear of death into them.",
-        "objectID": "45f3dacf448982c6f357acc774182bf4"
+        "objectID": "f2e6631bb6191d2cfca066d730c7209c"
       },
       "previous": {
         "content": "al needs get any further than that?\"",
@@ -1798,7 +1798,7 @@
         "objectID": "11a4dc789d537a5ea8c4059fd79fbd8b"
       }
     },
-    "objectID": "45f3dacf448982c6f357acc774182bf4",
+    "objectID": "f2e6631bb6191d2cfca066d730c7209c",
     "order": 86,
     "tagName": "P"
   },
@@ -1816,7 +1816,7 @@
       },
       "previous": {
         "content": "His discipline is tremendous. There is only one punishment in his code. It is death. Now we might suppose that this murdered man—this Douglas whose approaching fate was known by one of the arch-criminal's subordinates—had in some way betrayed the chief. His punishment followed, and would be known to all—if only to put the fear of death into them.",
-        "objectID": "45f3dacf448982c6f357acc774182bf4"
+        "objectID": "f2e6631bb6191d2cfca066d730c7209c"
       }
     },
     "objectID": "39a07d83e7df3517130bedeb586a040a",
@@ -2064,7 +2064,7 @@
     "context": {
       "next": {
         "content": "\"Official requisition for your services is in separate envelope. This is for your private eye. Wire me what train in the morning you can get for Birlstone, and I will meet it—or have it met if I am too occupied. This case is a snorter. Don't waste a moment in getting started. If you can bring Mr. Holmes, please do so; for he will find something after his own heart.",
-        "objectID": "fc530d1af2e6b83b100666b8624b9b7e"
+        "objectID": "ea84ccff8bbd1345d9b11faf0ac57556"
       },
       "previous": {
         "content": "White Mason, the local officer, was a personal friend, and hence MacDonald had been notified much more promptly than is usual at Scotland Yard when provincials need their assistance. It is a very cold scent upon which the Metropolitan expert is generally asked to run.",
@@ -2092,7 +2092,7 @@
         "objectID": "796f0ed50688c39a17898aea097b845a"
       }
     },
-    "objectID": "fc530d1af2e6b83b100666b8624b9b7e",
+    "objectID": "ea84ccff8bbd1345d9b11faf0ac57556",
     "order": 100,
     "tagName": "P"
   },
@@ -2110,7 +2110,7 @@
       },
       "previous": {
         "content": "\"Official requisition for your services is in separate envelope. This is for your private eye. Wire me what train in the morning you can get for Birlstone, and I will meet it—or have it met if I am too occupied. This case is a snorter. Don't waste a moment in getting started. If you can bring Mr. Holmes, please do so; for he will find something after his own heart.",
-        "objectID": "fc530d1af2e6b83b100666b8624b9b7e"
+        "objectID": "ea84ccff8bbd1345d9b11faf0ac57556"
       }
     },
     "objectID": "1dd10b7b3a8f443bcc7397302324306e",
@@ -2253,7 +2253,7 @@
     "context": {
       "next": {
         "content": "\"Then, with your permission, we will leave it at that, Mr. Mac. The temptation to form premature theories upon insufficient data is the bane of our profession. I can see only two things for certain at present—a great brain in London, and a dead man in Sussex. It's the chain between that we are going to trace.",
-        "objectID": "1eb7ea4e8871af1b137ea491c7776f20"
+        "objectID": "3453b463a363e2d22b4125cf7c5b7200"
       },
       "previous": {
         "content": "\"That was in the inclosed official report. It didn't say 'horrible': that's not a recognized official term. It gave the name John Douglas. It mentioned that his injuries had been in the head, from the discharge of a shotgun. It also mentioned the hour of the alarm, which was close on to midnight last night.",
@@ -2281,7 +2281,7 @@
         "objectID": "357243df09fbb759c72d3e6097b37ee5"
       }
     },
-    "objectID": "1eb7ea4e8871af1b137ea491c7776f20",
+    "objectID": "3453b463a363e2d22b4125cf7c5b7200",
     "order": 109,
     "tagName": "P"
   },
@@ -2296,7 +2296,7 @@
       "next": null,
       "previous": {
         "content": "\"Then, with your permission, we will leave it at that, Mr. Mac. The temptation to form premature theories upon insufficient data is the bane of our profession. I can see only two things for certain at present—a great brain in London, and a dead man in Sussex. It's the chain between that we are going to trace.",
-        "objectID": "1eb7ea4e8871af1b137ea491c7776f20"
+        "objectID": "3453b463a363e2d22b4125cf7c5b7200"
       }
     },
     "objectID": "0c836a3f3dac093e28d76a8deaef627d",
